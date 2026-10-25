@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:15:31.000Z",
+  "updated_at": "2026-10-25T10:19:57.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -39721,7 +39721,7 @@
       "title": "No One Lives Forever (playnolf.com browser port)",
       "description": "The Operative: No One Lives Forever (Monolith, PC 2000) running in the browser: all 16 missions plus the Game of the Year extras, picked straight from a mission list, with keyboard and mouse, touch or controller. Plays instantly with nothing to install; an optional account keeps saves across computers. Built on the released Lithtech/NOLF source code.",
       "play_url": "https://playnolf.com/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://playnolf.com/making-of/",
       "author": "Brightwork Digital",
       "author_source": "https://playnolf.com/making-of/",
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry the-operative-no-one-lives-forever-playnolf-com; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
@@ -39761,14 +39761,15 @@
       "screenshot_score_notes": "Real in-engine footage from Misfortune in Morocco part 1: Cate Archer at a window over a sunlit Moroccan courtyard, a diplomat walking past palms and arches, 60s-spy styling and warm textures. Clear and recognisable, slightly soft 2000-era geometry. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.36 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 8.93x (was 1x), output 23.5 unique fps at 30 fps, 22.7 s, no audio."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.36 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 8.93x (was 1x), output 23.5 unique fps at 30 fps, 22.7 s, no audio.",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "tf2-web",
       "title": "Team Fortress 2 (web build)",
       "description": "Team Fortress 2 (Valve, PC 2007) running in a browser tab as a Source engine WebAssembly build: type a name, the game files stream in, then create a local server with bots or join one from the in-game menu. Plays instantly, nothing of your own needed.",
       "play_url": "https://tf2.riddy.workers.dev/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://tf2.riddy.workers.dev/",
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry team-fortress-2-web-build; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -39804,14 +39805,15 @@
       "screenshot_score_notes": "Real gameplay as Scout on a bot server: lantern-lit wooden mine tunnel with rails, a RED Heavy and BLU players trading fire, scattergun in hand, TF2 HUD and objective callout boxes. Authentic look, but the scene is dark and the hint pop-ups cover part of the frame. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 9.49x (was 1x), output 25.5 unique fps at 30 fps, 10.5 s, no audio."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 9.49x (was 1x), output 25.5 unique fps at 30 fps, 10.5 s, no audio.",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "portal-web",
       "title": "Portal (source-engine Emscripten port, yikes.pw)",
       "description": "Portal (Valve, PC 2007) in the browser on a modified Source engine compiled with Emscripten: the original Aperture test chambers from the relaxation vault onward, keyboard and mouse. Plays instantly; the page downloads the game data itself.",
       "play_url": "https://yikes.pw/portal/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/weliveinhell/source-engine",
       "github_url": "https://github.com/weliveinhell/source-engine",
       "github_stars": 85,
       "github_user": "weliveinhell",
@@ -39858,14 +39860,15 @@
       "published_at": "2025-06-07T07:50:23Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 4.59 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.53x (was 1x), output 23.4 unique fps at 30 fps, 27.1 s, no audio."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 4.59 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.53x (was 1x), output 23.4 unique fps at 30 fps, 27.1 s, no audio.",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "tekken-dr-recomp",
       "title": "Tekken: Dark Resurrection (PSP recomp in the browser)",
       "description": "Tekken: Dark Resurrection (Namco, PSP 2005) recompiled to run in the browser. The first visit downloads the game (about 1 GB) from the site's own server and keeps it in the browser, so later starts are instant; you can also load your own ULUS-10139 dump. Keyboard (arrows, Z/X/C/S) or controller.",
       "play_url": "https://tkdr-recomp.pages.dev/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/gasparegas",
       "author": "gasparegas",
       "author_source": "https://github.com/gasparegas",
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry tekken-5-dark-resurrection-tkdr-recomp; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
@@ -39903,14 +39906,15 @@
       "screenshot_score": 5.5,
       "screenshot_score_notes": "Real PSP gameplay in the training/tutorial stage: a fighter in a brown suit throwing punches and kicks at the wooden Mokujin dummy on the cyan grid floor, timer and tutorial prompt on screen. Crisp and authentic, but the bare tutorial stage and text box make it less striking than a real stage. Rated from 5 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "first_seen": "2026-10-21T13:56:29.000Z",
-      "last_seen": "2026-10-21T13:56:29.000Z"
+      "last_seen": "2026-10-21T13:56:29.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "super-monkey-ball-online",
       "title": "Super Monkey Ball (web port with online play)",
       "description": "Super Monkey Ball (Amusement Vision, GameCube 2001) ported to the browser from the community SMB1 decompilation: course play from Floor 1, practice, replays and 2-player online multiplayer. Plays instantly with keyboard or controller.",
       "play_url": "https://monkeyball-online.pages.dev/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://monkeyball-online.pages.dev/",
       "github_url": "https://github.com/camthesaxman/smb-decomp",
       "github_stars": 64,
       "author": "TwilightPB",
@@ -39955,14 +39959,15 @@
       "published_at": "2021-06-24T03:27:49Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.65 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.18x (was 1x), output 21.7 unique fps at 30 fps, 9.1 s, no audio."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.65 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.18x (was 1x), output 21.7 unique fps at 30 fps, 9.1 s, no audio.",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "openjkdf2",
       "title": "OpenJKDF2 (Star Wars Jedi Knight: Dark Forces II, web demo)",
       "description": "OpenJKDF2, a cross-platform C reimplementation of Star Wars Jedi Knight: Dark Forces II (LucasArts, PC 1997), compiled for the browser. The web build includes the free shareware demo levels, so you can play right away; the full game needs your own JKDF2 files.",
       "play_url": "https://maxthomas.dev/openjkdf2/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/shinyquagsire23/OpenJKDF2",
       "github_url": "https://github.com/shinyquagsire23/OpenJKDF2",
       "github_stars": 772,
       "github_user": "shinyquagsire23",
@@ -40009,14 +40014,15 @@
       "published_at": "2018-07-03T07:09:45Z",
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 9.44 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 3.18x (was 1x), output 20.3 unique fps at 30 fps, 19.5 s, no audio."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 9.44 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 3.18x (was 1x), output 20.3 unique fps at 30 fps, 19.5 s, no audio.",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "dbz-bt3-online",
       "title": "Dragon Ball Z: Budokai Tenkaichi 3 Web Online",
       "description": "Dragon Ball Z: Budokai Tenkaichi 3 (Spike/Namco Bandai, PS2 2007) playable in the browser on the PS2 Web Recomp engine, built on the Tenkaichi3Decomp project: solo or online versus with private rooms and chat, keyboard or controller, nothing to install. Needs a fast PC with a good GPU; slow machines run it far below full speed.",
       "play_url": "https://dragonballbt3.online/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner",
       "github_url": "https://github.com/stufno102/Tenkaichi3Decomp",
       "github_stars": 29,
       "author": "Slayoner",
@@ -40063,14 +40069,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2026-10-12T04:17:42Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
-      "last_seen": "2026-10-21T14:09:27.000Z"
+      "last_seen": "2026-10-21T14:09:27.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "goldenweb64",
       "title": "GoldenWeb64 (GoldenEye 007 native port in the browser)",
       "description": "GoldenWeb64: a native port of GoldenEye 007 (Rare, N64 1997) built from the n64decomp/007 decompilation via MGB64, compiled to WebAssembly with Raylib and running in the tab. The site ships only the engine: load your own US ROM; mouse look, unlock-all-missions option.",
       "play_url": "https://goldenweb64.com/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/akratch/mgb64",
       "github_url": "https://github.com/akratch/mgb64",
       "author": "akratch",
       "author_source": "https://github.com/akratch/mgb64",
@@ -40111,14 +40118,15 @@
       "screenshot_score_notes": "Creator's real MGB64 footage on Runway/Facility: Bond's KF7 Soviet in first person, grey bunker walls, snowy runway, a guard falling and the tank section with the classic ammo HUD. Faithful N64 look; capped at 2.5 because you must bring your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
       "video_note": "Creator's own MGB64 gameplay video (Runway, v0.1; linked from the akratch/mgb64 README), recorded from the native build the web port is compiled from.",
       "first_seen": "2026-10-21T14:09:27.000Z",
-      "last_seen": "2026-10-21T14:09:27.000Z"
+      "last_seen": "2026-10-21T14:09:27.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "smash-fun",
       "title": "Smash.fun (Super Smash Bros. 64 with custom fighters)",
       "description": "Smash.fun: a fan browser port of Super Smash Bros. (HAL, N64 1999) built on the OpenSmash decompilation work, with a tool to create custom fighters (celebrities, memes, anyone) and play them inside the original game. Add your own ROM under ROM Management.",
       "play_url": "https://smash.fun/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/turtlesoupy/opensmash",
       "github_url": "https://github.com/turtlesoupy/opensmash",
       "author": "turtlesoupy",
       "author_source": "https://github.com/turtlesoupy/opensmash",
@@ -40160,14 +40168,15 @@
       "screenshot_score_notes": "Creator's real gameplay: custom fighters (a Jesus model riding a Poke Ball, a top-hat gentleman, a giant gloved hand) brawling on Smash 64 stages like Saffron City and Peach's Castle, plus the Smash.fun title screen. Bright and funny; capped at 2.5 because you need your own ROM. Rated from 5 frames sampled across the creator clip plus the poster (multi-frame rating).",
       "video_note": "Creator's own smash.fun video (linked from the turtlesoupy/opensmash README).",
       "first_seen": "2026-10-21T14:09:27.000Z",
-      "last_seen": "2026-10-21T14:09:27.000Z"
+      "last_seen": "2026-10-21T14:09:27.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "dusklight-web",
       "title": "Dusklight web build (Zelda: Twilight Princess in the browser)",
       "description": "Browser build of Dusklight, the PC/mobile source port of The Legend of Zelda: Twilight Princess (Nintendo, GameCube 2006) built on the zeldaret/tp decompilation. Runs fully in the tab with WebGPU (current Chrome or Edge); drop in your own GameCube disc image (ISO/CISO, USA or EUR).",
       "play_url": "https://dusklight.pages.dev/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/caribbeanwebdev/dusklight",
       "github_url": "https://github.com/TwilitRealm/dusklight",
       "repo_url": "https://github.com/caribbeanwebdev/dusklight",
       "github_stars": 6001,
@@ -40216,14 +40225,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2025-11-30T01:27:51Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
-      "last_seen": "2026-10-21T14:09:27.000Z"
+      "last_seen": "2026-10-21T14:09:27.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "ctr-high-octane",
       "title": "Crash Team Racing: High Octane (web build)",
       "description": "Crash Team Racing: High Octane, Rinnegatamante's advanced source port of Crash Team Racing (Naughty Dog, PS1 1999) for PS Vita, PC and the web, with 60 FPS rendering, ghost replays and online leaderboards. The browser build needs your own NTSC-U disc image (ctr-u.bin).",
       "play_url": "https://rinnegatamante.github.io/Crash-Team-Racing-High-Octane/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
       "github_url": "https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane",
       "github_stars": 206,
       "github_user": "Rinnegatamante",
@@ -40271,14 +40281,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2026-06-21T18:19:46Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
-      "last_seen": "2026-10-21T14:09:27.000Z"
+      "last_seen": "2026-10-21T14:09:27.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "opensro",
       "title": "OpenSRO (Silkroad Online rebuilt for the browser)",
       "description": "OpenSRO rebuilds Silkroad Online v1.150 (Joymax, PC 2005) end to end: a WebGPU browser client, a Go game server and the asset pipeline that ties them together, playable at opensro.online. Currently a closed beta: you need a beta key from the project's Discord to log in.",
       "play_url": "https://opensro.online/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://opensro.online/",
       "github_url": "https://github.com/opensro-dev/opensro",
       "github_stars": 60,
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry opensro-dev-opensro; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
@@ -40323,14 +40334,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2026-09-27T11:39:04Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
-      "last_seen": "2026-10-21T14:11:30.000Z"
+      "last_seen": "2026-10-21T14:11:30.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "celeste-wasm",
       "title": "Webleste (celeste-wasm: Celeste + Everest in the browser)",
       "description": "Webleste / celeste-wasm: a near-complete port of Celeste (Maddy Makes Games, PC 2018) and the Everest mod loader to the browser using .NET 9 threaded WebAssembly and a MonoMod WASM port, with mods and CelesteNet support. Needs about 1 GB of memory and your own FNA version of Celeste.",
       "play_url": "https://celeste.r58playz.dev/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://celeste.r58playz.dev/",
       "github_url": "https://github.com/MercuryWorkshop/celeste-wasm",
       "github_stars": 266,
       "author": "r58Playz",
@@ -40385,14 +40397,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2024-05-18T00:02:10Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
-      "last_seen": "2026-10-21T14:11:30.000Z"
+      "last_seen": "2026-10-21T14:11:30.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "terraria-wasm",
       "title": "Terrarium (terraria-wasm: Terraria in the browser)",
       "description": "Terrarium / terraria-wasm: Terraria (Re-Logic, PC 2011) ported to the browser with WebAssembly by velzie of Mercury Workshop, with a frontend and build system based on r58Playz's Celeste port. You need to own Terraria: copy your local install or download your assets from Steam inside the page.",
       "play_url": "https://terraria.mercurywork.shop/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://terraria.mercurywork.shop/",
       "github_url": "https://github.com/MercuryWorkshop/terraria-wasm",
       "github_stars": 193,
       "author": "velzie",
@@ -40432,14 +40445,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2025-02-02T04:56:08Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
-      "last_seen": "2026-10-21T14:11:30.000Z"
+      "last_seen": "2026-10-21T14:11:30.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "gt2-web",
       "title": "Gran Turismo 2 (gt-2-pc native port, browser build)",
       "description": "gt-2-pc: Yevhen Dubrovskyi's native C++ port of Gran Turismo 2 (Polyphony Digital, PS1 1999) for web, Steam Deck, macOS, Windows, PCVR and Quest 3; this is the browser build (0.8.0) with Arcade and Simulation modes and a cockpit view. Select your own full BIN disc image (2352 bytes per sector).",
       "play_url": "https://ydubr-gt2.surge.sh/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
       "github_url": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
       "github_stars": 141,
       "github_user": "dubrovskiy-yevhen-stakelogic",
@@ -40479,14 +40493,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2026-09-20T22:51:26Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
-      "last_seen": "2026-10-21T14:11:30.000Z"
+      "last_seen": "2026-10-21T14:11:30.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "vcmi-homm3",
       "title": "Heroes of Might and Magic III (vcmi-wasm on DOS.Zone)",
       "description": "DOS.Zone's WebAssembly port of the VCMI engine for Heroes of Might and Magic III (New World Computing, PC 1999): campaigns, custom scenarios, saves, Horn of the Abyss and VCMI multiplayer in the browser. Load your own Heroes III Complete resources.",
       "play_url": "https://dos.zone/homm3/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://github.com/caiiiycuk/vcmi-wasm",
       "github_url": "https://github.com/caiiiycuk/vcmi-wasm",
       "github_stars": 15,
       "github_user": "caiiiycuk",
@@ -40528,14 +40543,15 @@
       "likes_checked": "2026-10-21",
       "published_at": "2024-11-28T12:29:01Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
-      "last_seen": "2026-10-21T14:11:30.000Z"
+      "last_seen": "2026-10-21T14:11:30.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "fifa-street-2-online",
       "title": "FIFA Street 2 Web Online",
       "description": "FIFA Street 2 (EA Sports BIG, PS2 2006) playable in the browser on snuri00's PS2 Web Recomp engine: solo or against another player online, private rooms and chat, keyboard or controller, nothing to install. Needs a fast PC with a good GPU; slow machines run it far below full speed.",
       "play_url": "https://fifastreet2.fun/",
-      "source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner",
       "x_handle": "Slayoner",
@@ -40575,7 +40591,8 @@
       "screenshot_score_notes": "Real footage from the browser port: the 3D EA Sports logo spinning on orange, the street-football intro FMV (clapperboard, graffiti brick wall, a freestyler on a hazy beach) and the graffiti FIFA Street 2 'Press START button' title. Recognisable branding but no gameplay, and sped up from a slow capture. Rated from 12 frames sampled across the self-recorded clip plus the poster (multi-frame rating).",
       "video_note": "Self-recorded on a GPU-less headless browser where the port ran at about 1-2 fps: the EA Sports BIG logo (2x) and the game's intro FMV (3x) sped up, then the real-speed title screen. Real output of the port, but no match footage.",
       "first_seen": "2026-10-21T14:20:19.000Z",
-      "last_seen": "2026-10-21T14:20:19.000Z"
+      "last_seen": "2026-10-21T14:20:19.000Z",
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
     },
     {
       "id": "battle-drones",
@@ -45267,7 +45284,7 @@
       "title": "Cyberpunk 2077 (browser port, WIP)",
       "description": "Work-in-progress port of CD Projekt Red's Cyberpunk 2077 that runs the game's engine natively in the browser over WebGPU (no game streaming), by omonkeyzz. Very early: menus, cutscenes and the character creator work, in-game play is still being built.",
       "play_url": "https://cyberpunk2077.lol/game?ioShared=1&ioSharedMB=128&ioInflight=4&ioPersist=1&ioPersistMB=6144&binkRecycle=1&psoWarm=0&skipIntro=1&ioLookahead=16&behindLoad=0.5",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/omonkeyzz/status/2113389957968785510",
       "author": "omonkeyzz",
       "author_source": "https://x.com/omonkeyzz/status/2113389957968785510",
       "x_handle": "omonkeyzz",
@@ -45315,14 +45332,15 @@
       "comment_count": 32,
       "published_at": "2026-10-22T22:00:05Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
-      "last_seen": "2026-10-25T10:14:58.000Z"
+      "last_seen": "2026-10-25T10:14:58.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "tekken-5",
       "title": "Tekken 5 Web Online",
       "description": "Namco's Tekken 5 (PS2, 2005) playable in the browser on the PS2 Web Recomp engine: Story, Arcade and VS, with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
       "play_url": "https://tekken5.online/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner/status/2113392373531320825",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner/status/2113392373531320825",
       "x_handle": "Slayoner",
@@ -45375,14 +45393,15 @@
       "comment_count": 18,
       "published_at": "2026-10-22T22:09:41Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
-      "last_seen": "2026-10-25T10:14:58.000Z"
+      "last_seen": "2026-10-25T10:14:58.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "formula-one-06",
       "title": "Formula One 06 Web Online",
       "description": "Sony's Formula One 06 (PS2, 2006) playable in the browser on the PS2 Web Recomp engine: the 2006 season with all 22 drivers, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
       "play_url": "https://f12006.online/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner/status/2113392373531320825",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner/status/2113392373531320825",
       "x_handle": "Slayoner",
@@ -45435,14 +45454,15 @@
       "comment_count": 18,
       "published_at": "2026-10-22T22:09:41Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
-      "last_seen": "2026-10-25T10:14:58.000Z"
+      "last_seen": "2026-10-25T10:14:58.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "nba-2k12",
       "title": "NBA 2K12 Web Online",
       "description": "2K Sports' NBA 2K12 (PS2, 2011) playable in the browser on the PS2 Web Recomp engine: Quick Game with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
       "play_url": "https://nba2k12.online/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner/status/2113977538330661015",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner/status/2113977538330661015",
       "x_handle": "Slayoner",
@@ -45495,14 +45515,15 @@
       "comment_count": 9,
       "published_at": "2026-10-24T12:54:55Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
-      "last_seen": "2026-10-25T10:15:31.000Z"
+      "last_seen": "2026-10-25T10:15:31.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "ssx-3",
       "title": "SSX 3 Web Online",
       "description": "EA's snowboarding game SSX 3 (PS2, 2003) playable in the browser on the PS2 Web Recomp engine: Race and Freestyle with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
       "play_url": "https://ssx3.online/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner/status/2113649335078682732",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner/status/2113649335078682732",
       "x_handle": "Slayoner",
@@ -45555,14 +45576,15 @@
       "comment_count": 26,
       "published_at": "2026-10-23T15:10:45Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
-      "last_seen": "2026-10-25T10:15:31.000Z"
+      "last_seen": "2026-10-25T10:15:31.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "wwe-smackdown-vs-raw",
       "title": "WWE SmackDown! vs. Raw Web Online",
       "description": "THQ/Yuke's WWE SmackDown! vs. Raw (PS2, 2004) playable in the browser on the PS2 Web Recomp engine: Exhibition and Season, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
       "play_url": "https://smackdownvsraw.online/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/Slayoner/status/2113745894130815145",
       "author": "Slayoner",
       "author_source": "https://x.com/Slayoner/status/2113745894130815145",
       "x_handle": "Slayoner",
@@ -45615,14 +45637,15 @@
       "comment_count": 29,
       "published_at": "2026-10-23T21:34:27Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
-      "last_seen": "2026-10-25T10:15:31.000Z"
+      "last_seen": "2026-10-25T10:15:31.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "need-for-speed-most-wanted",
       "title": "NFSMW Online (Need for Speed: Most Wanted in the browser)",
       "description": "Need for Speed: Most Wanted (2005) as an online browser port: free-roam Rockport with other players, Casual and Ranked races, a career per account, car customisation and a livery editor, with frequent updates. Play in Chrome or Edge; also has PC and Android launchers.",
       "play_url": "https://nfsmwonline.com",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://nfsmwonline.com",
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry need-for-speed-most-wanted; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
@@ -45676,14 +45699,15 @@
       "screenshot_score": 4,
       "screenshot_score_notes": "Rated from 5 real in-port screenshots posted in the site's own update notes (nfsmwonline.com/nfs-update/notes): free-roam driving through Rockport with the bounty HUD, a cockpit-view race, an online race being spectated, the Koenigsegg CCX in the car lot and the BMW M3 GTR in the customise menu. Sharp and recognisable; no video and the game sits behind an account wall, so kept low.",
       "first_seen": "2026-10-25T10:15:31.000Z",
-      "last_seen": "2026-10-25T10:15:31.000Z"
+      "last_seen": "2026-10-25T10:15:31.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     },
     {
       "id": "terraria",
       "title": "Terraria (playterraria.lol browser port)",
       "description": "Terraria 1.4.5 running in the browser: the full title screen, character and world creation and the 2D sandbox itself (explore, dig, chop and fight), no download. A side project by omonkeyzz and TAN0RR.",
       "play_url": "https://playterraria.lol/",
-      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "source_url": "https://x.com/omonkeyzz/status/2113479739423994365",
       "author": "omonkeyzz",
       "author_source": "https://x.com/omonkeyzz/status/2113479739423994365",
       "x_handle": "omonkeyzz",
@@ -45736,7 +45760,8 @@
       "comment_count": 13,
       "published_at": "2026-10-23T03:56:51Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
-      "last_seen": "2026-10-25T10:15:31.000Z"
+      "last_seen": "2026-10-25T10:15:31.000Z",
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
     }
   ],
   "totals": {
