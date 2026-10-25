@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:19:57.000Z",
+  "updated_at": "2026-10-25T13:56:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -45762,16 +45762,302 @@
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
       "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+    },
+    {
+      "id": "le-royaume-des-pepins",
+      "title": "Le Royaume des Pépins",
+      "description": "3D wave-defense shooter: Wally the Watermelon auto-fires his way through 16 waves to purify the corrupted Pineapple Kingdom, buying fruit guns and seed towers between waves, ending in a three-phase Microbe King boss fight, plus endless mode. Made on Sandscape by co-founder ElBernito.",
+      "play_url": "https://sandscape.app/play?g=pDdi6wlB&game_source=direct_or_unknown&play=1",
+      "source_url": "https://sandscape.app/play?g=pDdi6wlB",
+      "author": "ElBernito",
+      "author_url": "https://sandscape.app/profile/47730ba9-ca9a-4b42-9483-726118b84e20",
+      "author_source": "https://sandscape.app/profile/47730ba9-ca9a-4b42-9483-726118b84e20",
+      "found_via": "Sandscape catalog (sandscape.app public game list, the same Supabase 'games' query its home feed uses; real user-made games ranked by like_count, seeded placeholder cards excluded)",
+      "found_via_network": "sandscape",
+      "made_with": "unknown",
+      "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
+      "engine": "Sandscape",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "remote_likes": 5,
+      "likes_source": "sandscape",
+      "likes_source_url": "https://sandscape.app/play?g=pDdi6wlB",
+      "likes_checked": "2026-10-25",
+      "view_count": 846,
+      "comment_count": 1,
+      "video_path": "videos/sandscape-le-royaume-des-pepins.mp4",
+      "video_source": "sandscape",
+      "videos": [
+        {
+          "path": "videos/sandscape-le-royaume-des-pepins.mp4",
+          "source": "sandscape"
+        }
+      ],
+      "video_note": "Creator's own Sandscape gameplay preview (gameplay.webm from gamemedia.sandscape.app, 13.2 s), re-encoded to H.264 720p CRF 28 with +faststart; real speed, not sped up.",
+      "screenshot_path": "videos/sandscape-le-royaume-des-pepins.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sandscape-le-royaume-des-pepins.jpg",
+          "source": "sandscape",
+          "score": 7,
+          "notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a colourful low-poly fruit kingdom seen from above with a winding path, enemy swarms, purified green zones, the 'La Corruption !' wave banner and the Pineapple's gun-shack upgrade menu. Bright and readable with lots on screen; small HUD text."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a colourful low-poly fruit kingdom seen from above with a winding path, enemy swarms, purified green zones, the 'La Corruption !' wave banner and the Pineapple's gun-shack upgrade menu. Bright and readable with lots on screen; small HUD text.",
+      "comments": [
+        {
+          "author": "fadadoodle",
+          "text": "fun game! would love to see different difficulty levels",
+          "likes": 1,
+          "url": "https://sandscape.app/play?g=pDdi6wlB",
+          "created_at": "2026-08-13T04:20:40Z"
+        },
+        {
+          "author": "ElBernito",
+          "text": "That will definitely be part of the next iteration. That and other levels and bosses",
+          "likes": 0,
+          "url": "https://sandscape.app/play?g=pDdi6wlB",
+          "created_at": "2026-08-15T03:43:13Z"
+        }
+      ],
+      "published_at": "2026-08-21T13:20:17Z",
+      "first_seen": "2026-10-25T13:56:00.000Z",
+      "last_seen": "2026-10-25T13:56:00.000Z",
+      "tags": [
+        "sandscape"
+      ],
+      "avatar_path": "/avatars/ElBernito.jpg"
+    },
+    {
+      "id": "overtake",
+      "title": "Overtake",
+      "description": "Arcade circuit racer: drive a coupe against three AI rivals over three laps on golden-hour seaside, city and mountain tracks, with momentum-based physics and a third-person chase camera. Made on Sandscape by dreamon.",
+      "play_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
+      "source_url": "https://sandscape.app/play?g=bUGWGMNl",
+      "author": "dreamon",
+      "author_url": "https://sandscape.app/profile/b64010db-82ee-46ab-9e8b-440e69fcb717",
+      "author_source": "https://sandscape.app/profile/b64010db-82ee-46ab-9e8b-440e69fcb717",
+      "found_via": "Sandscape catalog (sandscape.app public game list, the same Supabase 'games' query its home feed uses; real user-made games ranked by like_count, seeded placeholder cards excluded)",
+      "found_via_network": "sandscape",
+      "made_with": "unknown",
+      "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
+      "engine": "Sandscape",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "racing",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "remote_likes": 5,
+      "likes_source": "sandscape",
+      "likes_source_url": "https://sandscape.app/play?g=bUGWGMNl",
+      "likes_checked": "2026-10-25",
+      "view_count": 120,
+      "comment_count": 3,
+      "video_path": "videos/sandscape-overtake.mp4",
+      "video_source": "sandscape",
+      "videos": [
+        {
+          "path": "videos/sandscape-overtake.mp4",
+          "source": "sandscape"
+        }
+      ],
+      "video_note": "Creator's own Sandscape gameplay preview (gameplay.webm from gamemedia.sandscape.app, 10.0 s), re-encoded to H.264 720p CRF 28 with +faststart; real speed, not sped up.",
+      "screenshot_path": "videos/sandscape-overtake.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sandscape-overtake.jpg",
+          "source": "sandscape",
+          "score": 7,
+          "notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a low-poly coupe chased by rivals along a coastal road at dusk, neon city straights, palm-lined cliffs and glowing speed trails. Strong warm palette and clear racing action; simple geometry."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a low-poly coupe chased by rivals along a coastal road at dusk, neon city straights, palm-lined cliffs and glowing speed trails. Strong warm palette and clear racing action; simple geometry.",
+      "comments": [
+        {
+          "author": "Therealroombalover9652",
+          "text": "Cool game",
+          "likes": 1,
+          "url": "https://sandscape.app/play?g=bUGWGMNl",
+          "created_at": "2026-10-02T05:37:30Z"
+        },
+        {
+          "author": "Therealroombalover9652",
+          "text": "The joystick gets stuck sometimes so fix that",
+          "likes": 0,
+          "url": "https://sandscape.app/play?g=bUGWGMNl",
+          "created_at": "2026-10-02T05:38:00Z"
+        },
+        {
+          "author": "bigfy",
+          "text": "beautiful, just need to work a little bit more on physics.",
+          "likes": 0,
+          "url": "https://sandscape.app/play?g=bUGWGMNl",
+          "created_at": "2026-10-23T02:58:19Z"
+        }
+      ],
+      "published_at": "2026-07-20T18:48:48Z",
+      "first_seen": "2026-10-25T13:56:00.000Z",
+      "last_seen": "2026-10-25T13:56:00.000Z",
+      "tags": [
+        "sandscape"
+      ]
+    },
+    {
+      "id": "extinction-window",
+      "title": "Extinction Window",
+      "description": "God-game destruction sandbox: as an ancient alien intelligence, rotate and zoom a fully rendered globe and wipe out a civilisation (campfires to megacities to ark ships) before it escapes, using escalating tools from lightning and meteors to hypercanes, gravity wells and a planet cracker. Made on Sandscape by sebnado.",
+      "play_url": "https://sandscape.app/play?g=WeVCYgco&game_source=direct_or_unknown&play=1",
+      "source_url": "https://sandscape.app/play?g=WeVCYgco",
+      "author": "sebnado",
+      "author_url": "https://sandscape.app/profile/c7919031-bbf5-4a74-9785-3e5feedc111c",
+      "author_source": "https://sandscape.app/profile/c7919031-bbf5-4a74-9785-3e5feedc111c",
+      "found_via": "Sandscape catalog (sandscape.app public game list, the same Supabase 'games' query its home feed uses; real user-made games ranked by like_count, seeded placeholder cards excluded)",
+      "found_via_network": "sandscape",
+      "made_with": "unknown",
+      "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
+      "engine": "Sandscape",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "remote_likes": 4,
+      "likes_source": "sandscape",
+      "likes_source_url": "https://sandscape.app/play?g=WeVCYgco",
+      "likes_checked": "2026-10-25",
+      "view_count": 68,
+      "comment_count": 1,
+      "video_path": "videos/sandscape-extinction-window.mp4",
+      "video_source": "sandscape",
+      "videos": [
+        {
+          "path": "videos/sandscape-extinction-window.mp4",
+          "source": "sandscape"
+        }
+      ],
+      "video_note": "Creator's own Sandscape gameplay preview (gameplay.webm from gamemedia.sandscape.app, 10.0 s), re-encoded to H.264 720p CRF 28 with +faststart; real speed, not sped up.",
+      "screenshot_path": "videos/sandscape-extinction-window.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sandscape-extinction-window.jpg",
+          "source": "sandscape",
+          "score": 6,
+          "notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a glowing night-side globe covered in city lights, meteor and lightning strikes, then the day side with a red targeting ring and a white shockwave over a continent. Striking planet render, but the globe is small in a mostly black frame with tiny UI."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a glowing night-side globe covered in city lights, meteor and lightning strikes, then the day side with a red targeting ring and a white shockwave over a continent. Striking planet render, but the globe is small in a mostly black frame with tiny UI.",
+      "comments": [
+        {
+          "author": "GeoffSykes",
+          "text": "This is really cool. Could use just a little polishing, but otherwise, really great concept! Very satisfying to use some of the destructions tools.",
+          "likes": 1,
+          "url": "https://sandscape.app/play?g=WeVCYgco",
+          "created_at": "2026-08-13T19:54:09Z"
+        },
+        {
+          "author": "sebnado",
+          "text": "Thanks! I agree it needs some more polish. i'll work on 3d assets and ui improvements, and I think the overall glow/post effects are too strong.",
+          "likes": 0,
+          "url": "https://sandscape.app/play?g=WeVCYgco",
+          "created_at": "2026-08-14T18:19:17Z"
+        }
+      ],
+      "published_at": "2026-08-12T07:25:34Z",
+      "first_seen": "2026-10-25T13:56:00.000Z",
+      "last_seen": "2026-10-25T13:56:00.000Z",
+      "tags": [
+        "sandscape"
+      ],
+      "avatar_path": "/avatars/sebnado.jpg"
+    },
+    {
+      "id": "pyro-fart",
+      "title": "Pyro Fart",
+      "description": "Third-person physics comedy: Puff the exterminator uses a combustible fart as weapon, jetpack and demolition tool, blasting walls to flush out the Wallkin while fire spreads and the building collapses, across six handcrafted locations scored on destruction. Made on Sandscape by mclicking.",
+      "play_url": "https://sandscape.app/play?g=xZC2lrqp&game_source=direct_or_unknown&play=1",
+      "source_url": "https://sandscape.app/play?g=xZC2lrqp",
+      "author": "mclicking",
+      "author_url": "https://sandscape.app/profile/5bbde3d5-061a-474e-878a-67118e68427a",
+      "author_source": "https://sandscape.app/profile/5bbde3d5-061a-474e-878a-67118e68427a",
+      "found_via": "Sandscape catalog (sandscape.app public game list, the same Supabase 'games' query its home feed uses; real user-made games ranked by like_count, seeded placeholder cards excluded)",
+      "found_via_network": "sandscape",
+      "made_with": "unknown",
+      "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
+      "engine": "Sandscape",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny",
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "remote_likes": 3,
+      "likes_source": "sandscape",
+      "likes_source_url": "https://sandscape.app/play?g=xZC2lrqp",
+      "likes_checked": "2026-10-25",
+      "view_count": 34,
+      "comment_count": 1,
+      "video_path": "videos/sandscape-pyro-fart.mp4",
+      "video_source": "sandscape",
+      "videos": [
+        {
+          "path": "videos/sandscape-pyro-fart.mp4",
+          "source": "sandscape"
+        }
+      ],
+      "video_note": "Creator's own Sandscape gameplay preview (gameplay.webm from gamemedia.sandscape.app, 12.8 s), re-encoded to H.264 720p CRF 28 with +faststart; real speed, not sped up.",
+      "screenshot_path": "videos/sandscape-pyro-fart.jpg",
+      "screenshots": [
+        {
+          "path": "videos/sandscape-pyro-fart.jpg",
+          "source": "sandscape",
+          "score": 6.5,
+          "notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: the PYRO FART title menu, a cosy wooden room with the orange exterminator, furniture flung through burning air, and a house blown open from outside. Warm, clean 3D with readable physics chaos; one frame is the menu."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: the PYRO FART title menu, a cosy wooden room with the orange exterminator, furniture flung through burning air, and a house blown open from outside. Warm, clean 3D with readable physics chaos; one frame is the menu.",
+      "comments": [
+        {
+          "author": "ElBernito",
+          "text": "Thx! I needed that! So funny",
+          "likes": 0,
+          "url": "https://sandscape.app/play?g=xZC2lrqp",
+          "created_at": "2026-08-03T18:07:19Z"
+        }
+      ],
+      "published_at": "2026-07-29T03:06:17Z",
+      "first_seen": "2026-10-25T13:56:00.000Z",
+      "last_seen": "2026-10-25T13:56:00.000Z",
+      "tags": [
+        "sandscape"
+      ]
     }
   ],
   "totals": {
-    "games": 627,
+    "games": 631,
     "by_made_with": {
       "opus-5.5": 313,
       "astra": 69,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 221,
+      "unknown": 225,
       "gemini-4-argon": 5
     }
   }
