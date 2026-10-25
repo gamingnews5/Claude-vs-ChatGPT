@@ -4992,7 +4992,7 @@
       "remote_likes": 588,
       "likes_source": "x",
       "author": "KalraIshaan11",
-      "avatar_path": "/workspace/opus-feed/public/avatars/KalraIshaan11.jpg",
+      "avatar_path": "/avatars/KalraIshaan11.jpg",
       "comments": [
         {
           "author": "thenthj",
@@ -5062,7 +5062,7 @@
       "remote_likes": 9,
       "likes_source": "x",
       "author": "mindblown_ai",
-      "avatar_path": "/workspace/opus-feed/public/avatars/mindblown_ai.jpg",
+      "avatar_path": "/avatars/mindblown_ai.jpg",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
     },
@@ -5191,7 +5191,7 @@
       "remote_likes": 88,
       "likes_source": "x",
       "author": "ahmedfahim21_",
-      "avatar_path": "/workspace/opus-feed/public/avatars/ahmedfahim21_.jpg"
+      "avatar_path": "/avatars/ahmedfahim21_.jpg"
     },
     {
       "id": "boring-forest",
@@ -5208,7 +5208,7 @@
         "desktop"
       ],
       "author": "mdaman010",
-      "avatar_path": "/workspace/opus-feed/public/avatars/mdaman010.jpg",
+      "avatar_path": "/avatars/mdaman010.jpg",
       "remote_likes": 44,
       "likes_source": "x",
       "comments": [
@@ -5411,7 +5411,7 @@
       ],
       "author": "chongdashu",
       "x_handle": "chongdashu",
-      "avatar_path": "/workspace/opus-feed/public/avatars/chongdashu.jpg",
+      "avatar_path": "/avatars/chongdashu.jpg",
       "remote_likes": 46,
       "likes_source": "x",
       "comments": [
@@ -5476,7 +5476,7 @@
       ],
       "author": "riccoasi",
       "x_handle": "riccoasi",
-      "avatar_path": "/workspace/opus-feed/public/avatars/riccoasi.jpg",
+      "avatar_path": "/avatars/riccoasi.jpg",
       "remote_likes": 3,
       "likes_source": "x",
       "comments": [],
@@ -5526,7 +5526,7 @@
       ],
       "author": "EnvolDev",
       "x_handle": "EnvolDev",
-      "avatar_path": "/workspace/opus-feed/public/avatars/EnvolDev.jpg",
+      "avatar_path": "/avatars/EnvolDev.jpg",
       "remote_likes": 10,
       "likes_source": "x",
       "comments": [
@@ -5613,7 +5613,7 @@
       ],
       "author": "anhgemus",
       "x_handle": "anhgemus",
-      "avatar_path": "/workspace/opus-feed/public/avatars/anhgemus.jpg",
+      "avatar_path": "/avatars/anhgemus.jpg",
       "remote_likes": 5,
       "likes_source": "x",
       "screenshot_path": "screenshots/238-color-quest.jpg",
@@ -5659,7 +5659,7 @@
       ],
       "author": "TusharXo",
       "x_handle": "TusharXo",
-      "avatar_path": "/workspace/opus-feed/public/avatars/TusharXo.jpg",
+      "avatar_path": "/avatars/TusharXo.jpg",
       "remote_likes": 6,
       "likes_source": "x",
       "screenshot_path": "screenshots/239-panic-at-the-disco.jpg",
@@ -5754,7 +5754,7 @@
       ],
       "author": "564kuma",
       "x_handle": "564kuma",
-      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "avatar_path": "/avatars/564kuma.jpg",
       "remote_likes": 0,
       "likes_source": "x",
       "screenshot_path": "screenshots/241-monochrome-circuit-opus.jpg",
@@ -5794,7 +5794,7 @@
       ],
       "author": "564kuma",
       "x_handle": "564kuma",
-      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "avatar_path": "/avatars/564kuma.jpg",
       "remote_likes": 0,
       "likes_source": "x",
       "screenshot_path": "screenshots/242-monochrome-circuit-sonnet.jpg",
@@ -5829,7 +5829,7 @@
       ],
       "author": "564kuma",
       "x_handle": "564kuma",
-      "avatar_path": "/workspace/opus-feed/public/avatars/564kuma.jpg",
+      "avatar_path": "/avatars/564kuma.jpg",
       "remote_likes": 0,
       "likes_source": "x",
       "screenshot_path": "screenshots/243-monochrome-circuit-astra.jpg",
@@ -5865,7 +5865,7 @@
       ],
       "author": "macomoroni",
       "x_handle": "macomoroni",
-      "avatar_path": "/workspace/opus-feed/public/avatars/macomoroni.jpg",
+      "avatar_path": "/avatars/macomoroni.jpg",
       "remote_likes": 3,
       "likes_source": "x",
       "screenshot_path": "screenshots/245-squish-club.jpg",
