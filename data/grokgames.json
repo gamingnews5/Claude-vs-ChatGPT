@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:15:11.000Z",
+  "updated_at": "2026-10-25T10:15:31.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -45436,16 +45436,317 @@
       "published_at": "2026-10-22T22:09:41Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
       "last_seen": "2026-10-25T10:14:58.000Z"
+    },
+    {
+      "id": "nba-2k12",
+      "title": "NBA 2K12 Web Online",
+      "description": "2K Sports' NBA 2K12 (PS2, 2011) playable in the browser on the PS2 Web Recomp engine: Quick Game with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
+      "play_url": "https://nba2k12.online/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner/status/2113977538330661015",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry nba-2k12; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-credentialless",
+      "video_path": "videos/nba-2k12.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://www.youtube.com/watch?v=yET0kXffk4c",
+      "videos": [
+        {
+          "path": "videos/nba-2k12.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/nba-2k12.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nba-2k12.jpg",
+          "score": 4.5,
+          "notes": "Original-game footage (PS2): full-court NBA basketball with broadcast camera, score bug and crowd. Readable, but the PS2 game rather than the browser port, and soft PS2-era resolution."
+        },
+        {
+          "path": "screenshots/nba-2k12-site.jpg",
+          "source": "site",
+          "score": 4.5,
+          "notes": "Site preview image: a real in-port frame of Celtics vs 76ers half-court play next to the NBA 2K12 Web Online title."
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "Original-game footage (PS2): full-court NBA basketball with broadcast camera, score bug and crowd. Readable, but the PS2 game rather than the browser port, and soft PS2-era resolution.",
+      "video_note": "Footage of the original PS2 game from GamePlayStation's YouTube gameplay video (emulator capture), not of the browser port: the port needs a real GPU and ran at under 1 fps on the GPU-less recording box, so it could not be self-recorded. Section 2:00-3:00 of \"NBA 2K12 -- Gameplay (PS2)\".",
+      "remote_likes": 230,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Slayoner/status/2113977538330661015",
+      "likes_checked": "2026-10-25",
+      "comment_count": 9,
+      "published_at": "2026-10-24T12:54:55Z",
+      "first_seen": "2026-10-25T10:15:31.000Z",
+      "last_seen": "2026-10-25T10:15:31.000Z"
+    },
+    {
+      "id": "ssx-3",
+      "title": "SSX 3 Web Online",
+      "description": "EA's snowboarding game SSX 3 (PS2, 2003) playable in the browser on the PS2 Web Recomp engine: Race and Freestyle with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
+      "play_url": "https://ssx3.online/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner/status/2113649335078682732",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry ssx-3; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "sports",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-credentialless",
+      "video_path": "videos/ssx-3.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://www.youtube.com/watch?v=-W6CQJi1FOs",
+      "videos": [
+        {
+          "path": "videos/ssx-3.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/ssx-3.jpg",
+      "screenshots": [
+        {
+          "path": "videos/ssx-3.jpg",
+          "score": 5.5,
+          "notes": "Original-game footage (PS2 emulator HD capture): downhill snowboard racing and tricks on bright alpine courses with the race HUD. Colourful and clear, but the PS2 game rather than the browser port."
+        },
+        {
+          "path": "screenshots/ssx-3-site.jpg",
+          "source": "site",
+          "score": 5.5,
+          "notes": "Site preview image: a real in-port race frame (5th/6, speed and boost meter) next to the SSX 3 Web Online title."
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "Original-game footage (PS2 emulator HD capture): downhill snowboard racing and tricks on bright alpine courses with the race HUD. Colourful and clear, but the PS2 game rather than the browser port.",
+      "video_note": "Footage of the original PS2 game from xTimelessGaming's YouTube gameplay video (emulator capture), not of the browser port: the port needs a real GPU and ran at under 1 fps on the GPU-less recording box, so it could not be self-recorded. Section 5:30-6:30; 2 s of dead time trimmed from the start.",
+      "remote_likes": 944,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Slayoner/status/2113649335078682732",
+      "likes_checked": "2026-10-25",
+      "comment_count": 26,
+      "published_at": "2026-10-23T15:10:45Z",
+      "first_seen": "2026-10-25T10:15:31.000Z",
+      "last_seen": "2026-10-25T10:15:31.000Z"
+    },
+    {
+      "id": "wwe-smackdown-vs-raw",
+      "title": "WWE SmackDown! vs. Raw Web Online",
+      "description": "THQ/Yuke's WWE SmackDown! vs. Raw (PS2, 2004) playable in the browser on the PS2 Web Recomp engine: Exhibition and Season, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
+      "play_url": "https://smackdownvsraw.online/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner/status/2113745894130815145",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry wwe-smackdown-vs-raw; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-credentialless",
+      "video_path": "videos/wwe-smackdown-vs-raw.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://www.youtube.com/watch?v=NF_m2G8MCG0",
+      "videos": [
+        {
+          "path": "videos/wwe-smackdown-vs-raw.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/wwe-smackdown-vs-raw.jpg",
+      "screenshots": [
+        {
+          "path": "videos/wwe-smackdown-vs-raw.jpg",
+          "score": 4.5,
+          "notes": "Original-game footage (PS2): a wrestling match in the ring with entrances camera, grapples and strikes. Readable, but the PS2 game rather than the browser port, and soft PS2-era resolution."
+        },
+        {
+          "path": "screenshots/wwe-smackdown-vs-raw-site.jpg",
+          "source": "site",
+          "score": 4.5,
+          "notes": "Site preview image: a real in-port frame of the Single match menu with a wrestler next to the WWE SmackDown! vs. Raw Web Online title."
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "Original-game footage (PS2): a wrestling match in the ring with entrances camera, grapples and strikes. Readable, but the PS2 game rather than the browser port, and soft PS2-era resolution.",
+      "video_note": "Footage of the original PS2 game from GamePlayStation's YouTube gameplay video (emulator capture), not of the browser port: the port needs a real GPU and ran at under 1 fps on the GPU-less recording box, so it could not be self-recorded. Section 10:00-11:00 of \"WWE SmackDown! vs. Raw -- Gameplay (PS2)\".",
+      "remote_likes": 1184,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Slayoner/status/2113745894130815145",
+      "likes_checked": "2026-10-25",
+      "comment_count": 29,
+      "published_at": "2026-10-23T21:34:27Z",
+      "first_seen": "2026-10-25T10:15:31.000Z",
+      "last_seen": "2026-10-25T10:15:31.000Z"
+    },
+    {
+      "id": "need-for-speed-most-wanted",
+      "title": "NFSMW Online (Need for Speed: Most Wanted in the browser)",
+      "description": "Need for Speed: Most Wanted (2005) as an online browser port: free-roam Rockport with other players, Casual and Ranked races, a career per account, car customisation and a livery editor, with frequent updates. Play in Chrome or Edge; also has PC and Android launchers.",
+      "play_url": "https://nfsmwonline.com",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry need-for-speed-most-wanted; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "unknown",
+      "tags": [
+        "decomp",
+        "recompiledgames",
+        "screenshots"
+      ],
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "access_note": "Needs a free account: the site opens on a log-in / create-account page (name + password) before the game loads.",
+      "iframe": true,
+      "screenshot_path": "screenshots/need-for-speed-most-wanted-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/need-for-speed-most-wanted-1.jpg",
+          "source": "site",
+          "score": 4,
+          "notes": "Free-roam driving through Rockport (update notes 2026-10-21)."
+        },
+        {
+          "path": "screenshots/need-for-speed-most-wanted-2.jpg",
+          "source": "site",
+          "score": 4,
+          "notes": "Cockpit-view race, lap 9 (update notes 2026-10-21)."
+        },
+        {
+          "path": "screenshots/need-for-speed-most-wanted-3.jpg",
+          "source": "site",
+          "score": 4,
+          "notes": "Spectating a live online race (update notes 2026-10-23)."
+        },
+        {
+          "path": "screenshots/need-for-speed-most-wanted-4.jpg",
+          "source": "site",
+          "score": 4,
+          "notes": "Koenigsegg CCX in the car lot (update notes 2026-10-21)."
+        },
+        {
+          "path": "screenshots/need-for-speed-most-wanted-5.jpg",
+          "source": "site",
+          "score": 4,
+          "notes": "BMW M3 GTR in the customise menu (update notes 2026-10-21)."
+        }
+      ],
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Rated from 5 real in-port screenshots posted in the site's own update notes (nfsmwonline.com/nfs-update/notes): free-roam driving through Rockport with the bounty HUD, a cockpit-view race, an online race being spectated, the Koenigsegg CCX in the car lot and the BMW M3 GTR in the customise menu. Sharp and recognisable; no video and the game sits behind an account wall, so kept low.",
+      "first_seen": "2026-10-25T10:15:31.000Z",
+      "last_seen": "2026-10-25T10:15:31.000Z"
+    },
+    {
+      "id": "terraria",
+      "title": "Terraria (playterraria.lol browser port)",
+      "description": "Terraria 1.4.5 running in the browser: the full title screen, character and world creation and the 2D sandbox itself (explore, dig, chop and fight), no download. A side project by omonkeyzz and TAN0RR.",
+      "play_url": "https://playterraria.lol/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "omonkeyzz",
+      "author_source": "https://x.com/omonkeyzz/status/2113479739423994365",
+      "x_handle": "omonkeyzz",
+      "coauthors": [
+        {
+          "handle": "TAN0RR",
+          "source": "https://x.com/omonkeyzz/status/2113479739423994365"
+        }
+      ],
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry terraria; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "Terraria.exe on a custom WebAssembly host (game Worker + OPFS)",
+      "tags": [
+        "decomp",
+        "recompiledgames",
+        "rec"
+      ],
+      "category": "sandbox",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp+corp-same-origin (game page /game/)",
+      "video_path": "videos/terraria.mp4",
+      "video_source": "recorded",
+      "videos": [
+        {
+          "path": "videos/terraria.mp4",
+          "source": "recorded"
+        }
+      ],
+      "screenshot_path": "videos/terraria.jpg",
+      "screenshots": [
+        {
+          "path": "videos/terraria.jpg",
+          "score": 6.5,
+          "notes": "Real footage of the browser port: the language and Single Player menus, naming a new character, small-world generation ('Settling liquids') and then walking, jumping and swinging tools across a sunny forest surface with the hotbar, hearts and minimap on screen. Crisp 720p pixel art; mostly surface walking, no combat or building."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "Real footage of the browser port: the language and Single Player menus, naming a new character, small-world generation ('Settling liquids') and then walking, jumping and swinging tools across a sunny forest surface with the hotbar, hearts and minimap on screen. Crisp 720p pixel art; mostly surface walking, no combat or building.",
+      "video_note": "Self-recorded on 2026-10-25 in headless Chrome at real speed (about 15-20 fps): menu flow through character and world creation, then about 60 s in the world. Idle waits cut out; re-encoded.",
+      "remote_likes": 47,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/omonkeyzz/status/2113479739423994365",
+      "likes_checked": "2026-10-25",
+      "comment_count": 13,
+      "published_at": "2026-10-23T03:56:51Z",
+      "first_seen": "2026-10-25T10:15:31.000Z",
+      "last_seen": "2026-10-25T10:15:31.000Z"
     }
   ],
   "totals": {
-    "games": 622,
+    "games": 627,
     "by_made_with": {
       "opus-5.5": 313,
       "astra": 69,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 216,
+      "unknown": 221,
       "gemini-4-argon": 5
     }
   }
