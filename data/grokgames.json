@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:00:00.000Z",
+  "updated_at": "2026-10-25T10:15:11.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -13501,13 +13501,14 @@
       "id": "call-of-duty-black-ops-zombies",
       "title": "Call of Duty: Black Ops Zombies",
       "description": "Call of Duty: Black Ops Zombies running in the browser (PC decomp/port).",
-      "play_url": "https://vel.gg/bo1z",
+      "play_url": "https://vel.gg/bsz",
       "source_url": "https://x.com/MrTLexify/status/2107937584051875909",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "recompiledgames"
       ],
       "iframe": false,
       "iframe_block_reason": "corp-same-origin",
@@ -13515,7 +13516,7 @@
         "desktop"
       ],
       "first_seen": "2026-10-11T00:30:00.000Z",
-      "last_seen": "2026-10-11T00:30:00.000Z",
+      "last_seen": "2026-10-25T10:15:11.000Z",
       "screenshot_path": "videos/call-of-duty-black-ops-zombies.jpg",
       "screenshots": [
         {
@@ -13560,7 +13561,12 @@
           "created_at": "2026-10-09T22:13:37Z"
         }
       ],
-      "requires_own_files": false
+      "requires_own_files": false,
+      "previous_play_urls": [
+        "https://vel.gg/bo1z"
+      ],
+      "play_url_note": "Moved 2026-10-25: the old vel.gg/bo1z link now returns HTTP 451; the current link https://vel.gg/bsz comes from MisaDev4's post (2026-10-18, 13 likes) announcing Counter-Strike guns and multiplayer for the browser port, and is listed in gamingnews5/awesome-decomp-games @ 624a8a1 (entry bo1-zombies).",
+      "play_url_source": "https://x.com/MisaDev4/status/2111656592014037126"
     },
     {
       "id": "call-of-duty-modern-warfare-2",
@@ -16394,23 +16400,29 @@
       "id": "nacht-der-untoten",
       "title": "Nacht der Untoten",
       "description": "Nacht der Untoten playable in the browser (PC fan port/remake).",
-      "play_url": "https://zombies.bitcoinsapi.com/",
+      "play_url": "https://zombies.concentric.live/",
       "source_url": "https://recompiledgames.com/nacht-der-untoten-recompiled/",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp"
+        "decomp",
+        "recompiledgames"
       ],
       "iframe": false,
-      "iframe_block_reason": "x-frame-options-sameorigin",
+      "iframe_block_reason": "xfo-sameorigin+csp-frame-ancestors-self",
       "platforms": [
         "desktop"
       ],
       "first_seen": "2026-10-11T03:30:00.000Z",
-      "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/nacht-der-untoten-v2.jpg",
+      "last_seen": "2026-10-25T10:15:11.000Z",
+      "screenshot_path": "videos/nacht-der-untoten-v3.jpg",
       "screenshots": [
+        {
+          "path": "videos/nacht-der-untoten-v3.jpg",
+          "score": 6.5,
+          "notes": "Real browser-port footage from the site's official gameplay trailer: first-person zombies combat in the Nacht der Untoten bunker with the HUD. Short (20 s) and silent."
+        },
         {
           "path": "videos/nacht-der-untoten-v2.jpg",
           "score": 10,
@@ -16422,18 +16434,29 @@
           "notes": "Landing hero with title text over a dark zombie scene; moody, partly a menu."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Landing hero with title text over a dark zombie scene; moody, partly a menu.",
-      "video_path": "videos/nacht-der-untoten-v2.mp4",
-      "video_source": "youtube",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "Real browser-port footage from the site's official gameplay trailer: first-person zombies combat in the Nacht der Untoten bunker with the HUD. Short (20 s) and silent.",
+      "video_path": "videos/nacht-der-untoten-v3.mp4",
+      "video_source": "official",
       "videos": [
+        {
+          "path": "videos/nacht-der-untoten-v3.mp4",
+          "source": "official",
+          "source_url": "https://zombies.concentric.live/nacht/trailer/gameplay-20261015.mp4"
+        },
         {
           "path": "videos/nacht-der-untoten-v2.mp4",
           "source": "youtube"
         }
       ],
       "requires_own_files": false,
-      "likes_check": "no original post found 2026-10-12"
+      "likes_check": "no original post found 2026-10-12",
+      "previous_play_urls": [
+        "https://zombies.bitcoinsapi.com/"
+      ],
+      "play_url_note": "Moved 2026-10-25: the old zombies.bitcoinsapi.com page says the game has moved to zombies.concentric.live (also the link in gamingnews5/awesome-decomp-games @ 624a8a1, entry nacht-der-untoten-2).",
+      "video_source_url": "https://zombies.concentric.live/nacht/trailer/gameplay-20261015.mp4",
+      "video_note": "Primary clip is the port's own gameplay trailer from zombies.concentric.live (real footage of the browser version, 20 s, no audio). The older YouTube clip of the original game is kept as a second video."
     },
     {
       "id": "runescape-classic",
@@ -45238,16 +45261,191 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T10:41:44.000Z"
+    },
+    {
+      "id": "cyberpunk-2077",
+      "title": "Cyberpunk 2077 (browser port, WIP)",
+      "description": "Work-in-progress port of CD Projekt Red's Cyberpunk 2077 that runs the game's engine natively in the browser over WebGPU (no game streaming), by omonkeyzz. Very early: menus, cutscenes and the character creator work, in-game play is still being built.",
+      "play_url": "https://cyberpunk2077.lol/game?ioShared=1&ioSharedMB=128&ioInflight=4&ioPersist=1&ioPersistMB=6144&binkRecycle=1&psoWarm=0&skipIntro=1&ioLookahead=16&behindLoad=0.5",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "omonkeyzz",
+      "author_source": "https://x.com/omonkeyzz/status/2113389957968785510",
+      "x_handle": "omonkeyzz",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry cyberpunk-2077; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "REDengine 4 (native WebGPU build)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "access_note": "Needs a recent desktop Chrome/Edge with WebGPU texture-formats-tier1 and a strong GPU. In our test (2026-10-25) the page reported 'Native engine build is missing: build/game/cp2077.js has not linked successfully' and that the browser can't run it, so it may be down or mid-update.",
+      "iframe": false,
+      "iframe_block_reason": "coep-require-corp+corp-same-origin",
+      "video_path": "videos/cyberpunk-2077.mp4",
+      "video_source": "creator",
+      "video_source_url": "https://x.com/omonkeyzz/status/2110764686144585780",
+      "videos": [
+        {
+          "path": "videos/cyberpunk-2077.mp4",
+          "source": "creator"
+        }
+      ],
+      "screenshot_path": "videos/cyberpunk-2077.jpg",
+      "screenshots": [
+        {
+          "path": "videos/cyberpunk-2077.jpg",
+          "score": 2.5,
+          "notes": "Creator's own capture of the browser build: Cyberpunk 2077 intro cutscenes, main menu and the character creator rendered in the browser. Sharp 1080p source, but no in-game play yet and the build failed to start in our test, so scored low as a broken WIP."
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "Creator's own capture of the browser build: Cyberpunk 2077 intro cutscenes, main menu and the character creator rendered in the browser. Sharp 1080p source, but no in-game play yet and the build failed to start in our test, so scored low as a broken WIP.",
+      "video_note": "Trimmed (from 0:32, re-encoded) from omonkeyzz's 'Everything in browser / No Game stream' X video (545 likes). Dev-build footage, mostly menus, cutscenes and character creation.",
+      "remote_likes": 114,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/omonkeyzz/status/2113389957968785510",
+      "likes_checked": "2026-10-25",
+      "comment_count": 32,
+      "published_at": "2026-10-22T22:00:05Z",
+      "first_seen": "2026-10-25T10:14:58.000Z",
+      "last_seen": "2026-10-25T10:14:58.000Z"
+    },
+    {
+      "id": "tekken-5",
+      "title": "Tekken 5 Web Online",
+      "description": "Namco's Tekken 5 (PS2, 2005) playable in the browser on the PS2 Web Recomp engine: Story, Arcade and VS, with online play, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
+      "play_url": "https://tekken5.online/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner/status/2113392373531320825",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry tekken-5; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "fighting",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-credentialless",
+      "video_path": "videos/tekken-5.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://www.youtube.com/watch?v=n4kAAJ3ZDEQ",
+      "videos": [
+        {
+          "path": "videos/tekken-5.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/tekken-5.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tekken-5.jpg",
+          "score": 5,
+          "notes": "Original-game footage (PS2, PCSX2 HD capture): 3D one-on-one fights with health bars, round timer and stage backdrops. Clean and readable, but it shows the PS2 game rather than the browser port."
+        },
+        {
+          "path": "screenshots/tekken-5-site.jpg",
+          "source": "site",
+          "score": 5,
+          "notes": "Site preview image: a real in-port Story Battle frame (Raven vs Law, K.O.) next to the Tekken 5 Web Online title."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Original-game footage (PS2, PCSX2 HD capture): 3D one-on-one fights with health bars, round timer and stage backdrops. Clean and readable, but it shows the PS2 game rather than the browser port.",
+      "video_note": "Footage of the original PS2 game from xTimelessGaming's YouTube gameplay video (emulator capture), not of the browser port: the port needs a real GPU and ran at under 1 fps on the GPU-less recording box, so it could not be self-recorded. Section 6:40-7:40 of \"Tekken 5 PS2 Gameplay HD (PCSX2)\".",
+      "remote_likes": 125,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Slayoner/status/2113392373531320825",
+      "likes_checked": "2026-10-25",
+      "comment_count": 18,
+      "published_at": "2026-10-22T22:09:41Z",
+      "first_seen": "2026-10-25T10:14:58.000Z",
+      "last_seen": "2026-10-25T10:14:58.000Z"
+    },
+    {
+      "id": "formula-one-06",
+      "title": "Formula One 06 Web Online",
+      "description": "Sony's Formula One 06 (PS2, 2006) playable in the browser on the PS2 Web Recomp engine: the 2006 season with all 22 drivers, keyboard or controller, nothing to install. Needs a fast PC with a good WebGPU-capable GPU (Chrome or Edge); slow machines run it far below full speed.",
+      "play_url": "https://f12006.online/",
+      "source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "author": "Slayoner",
+      "author_source": "https://x.com/Slayoner/status/2113392373531320825",
+      "x_handle": "Slayoner",
+      "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry formula-one-06; listed via recompiledgames.com)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "engine": "PS2 Web Recomp (WebGPU)",
+      "tags": [
+        "decomp",
+        "recompiledgames"
+      ],
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "requires_own_files": false,
+      "iframe": false,
+      "iframe_block_reason": "xfo-sameorigin+coep-credentialless",
+      "video_path": "videos/formula-one-06.mp4",
+      "video_source": "youtube",
+      "video_source_url": "https://www.youtube.com/watch?v=RfdllomxDxc",
+      "videos": [
+        {
+          "path": "videos/formula-one-06.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/formula-one-06.jpg",
+      "screenshots": [
+        {
+          "path": "videos/formula-one-06.jpg",
+          "score": 5,
+          "notes": "Original-game footage (PS2 emulator HD capture): cockpit and chase-cam F1 racing with lap and position HUD. Clear, but the PS2 game rather than the browser port."
+        },
+        {
+          "path": "screenshots/formula-one-06-site.jpg",
+          "source": "site",
+          "score": 5,
+          "notes": "Site preview image: a real in-port cockpit frame (lap 6/6, timing tower) next to the Formula One 06 Web Online title."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Original-game footage (PS2 emulator HD capture): cockpit and chase-cam F1 racing with lap and position HUD. Clear, but the PS2 game rather than the browser port.",
+      "video_note": "Footage of the original PS2 game from xTimelessGaming's YouTube gameplay video (emulator capture), not of the browser port: the port needs a real GPU and ran at under 1 fps on the GPU-less recording box, so it could not be self-recorded. Section 5:00-6:00.",
+      "remote_likes": 125,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/Slayoner/status/2113392373531320825",
+      "likes_checked": "2026-10-25",
+      "comment_count": 18,
+      "published_at": "2026-10-22T22:09:41Z",
+      "first_seen": "2026-10-25T10:14:58.000Z",
+      "last_seen": "2026-10-25T10:14:58.000Z"
     }
   ],
   "totals": {
-    "games": 619,
+    "games": 622,
     "by_made_with": {
       "opus-5.5": 313,
       "astra": 69,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 213,
+      "unknown": 216,
       "gemini-4-argon": 5
     }
   }
