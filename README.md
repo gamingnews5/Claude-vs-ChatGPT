@@ -2,7 +2,7 @@
 
 A live **[SubmitGame](https://github.com/SubmitGame)** catalog of **vibecoded browser games** made with Claude, ChatGPT, and other AI tools. Compare the games, not the launch threads: every entry aims to bring **screenshots, gameplay video, a playable link, source/evidence, and a score**. **Receipts, not vibes.**
 
-**Live gallery:** [https://submitgame.github.io/Claude-vs-ChatGPT](https://submitgame.github.io/Claude-vs-ChatGPT/)
+**Live gallery:** [https://gamingnews5.github.io/Claude-vs-ChatGPT](https://gamingnews5.github.io/Claude-vs-ChatGPT/)
 
 > 285 games (201 opus · 12 sonnet · 69 astra · 3 uncertain) · last updated 2026-10-01 (Asia/Saigon)
 >
