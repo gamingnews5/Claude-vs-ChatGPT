@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T07:00:00.000Z",
+  "updated_at": "2026-10-27T09:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -8352,8 +8352,36 @@
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "tags": [
-        "agentgames"
-      ]
+        "agentgames",
+        "screenshots"
+      ],
+      "screenshots": [
+        {
+          "path": "screenshots/dash-dinner-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Big Dreams Cold Fries poster over a low-poly isometric city, then first-person scooter delivery view with order card, cash counter, minimap grid and Spend/route buttons; low-poly streets and houses render but some frames face walls/dark geometry. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/dash-dinner-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/dash-dinner-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/dash-dinner-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/dash-dinner-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_path": "screenshots/dash-dinner-1.jpg",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Big Dreams Cold Fries poster over a low-poly isometric city, then first-person scooter delivery view with order card, cash counter, minimap grid and Spend/route buttons; low-poly streets and houses render but some frames face walls/dark geometry. Rated from 5 screenshots."
     },
     {
       "id": "blobvarium",
@@ -10378,12 +10406,31 @@
       "screenshots": [
         {
           "path": "screenshots/295-patsy.jpg",
-          "score": 7,
-          "notes": "Noir key art of a detective duo beside a paper case-file menu with Play Online / Play a Bot looks polished; no board is shown."
+          "score": 6,
+          "notes": "multi-frame: Noir detective board game: dark city grid board with crates and tiles, case-file side panel with a detective portrait, objectives (get the dead drop / make it a setup), traps and heat counters and Place traps / Undo / Clear buttons; readable but static turn-based board. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/patsy-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/patsy-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/patsy-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/patsy-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Noir key art of a detective duo beside a paper case-file menu with Play Online / Play a Bot looks polished; no board is shown."
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Noir detective board game: dark city grid board with crates and tiles, case-file side panel with a detective portrait, objectives (get the dead drop / make it a setup), traps and heat counters and Place traps / Undo / Clear buttons; readable but static turn-based board. Rated from 5 screenshots.",
+      "tags": [
+        "screenshots"
+      ]
     },
     {
       "id": "toms-tiny-armies",
@@ -48139,16 +48186,1223 @@
       "last_seen": "2026-10-26T07:00:00.000Z",
       "published_at": "2026-10-25T08:53:12.000Z",
       "video_note": "trimmed to 30s (2026-10-26)"
+    },
+    {
+      "id": "dungeongame",
+      "title": "DungeonGame",
+      "description": "Free turn-based roguelike for desktop or phone browsers with no global HP: head, torso, two arms and two legs each have 100 HP, so losing your head or torso kills you and a ruined arm drops what it holds. A monster ecology lives in the dungeon and you leave an heirloom behind when you die. Starts in an isometric village above the dungeon.",
+      "play_url": "https://dungeongame.com.mx/",
+      "found_via": "r/roguelikes \"DungeonGame — a free browser roguelike with per-limb HP, a monster ecology and an heirloom on death\" (u/elgaboloramx)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "roguelike",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "rec"
+      ],
+      "video_path": "videos/dungeongame.mp4",
+      "video_source": "self-recorded",
+      "videos": [
+        {
+          "path": "videos/dungeongame.mp4",
+          "source": "self-recorded"
+        }
+      ],
+      "screenshot_path": "videos/dungeongame.jpg",
+      "screenshots": [
+        {
+          "path": "videos/dungeongame.jpg",
+          "score": 7,
+          "notes": "multi-frame: Isometric half-timbered village with forest edges, a paper-doll limb HP panel, minimap and message log as the hero walks the streets; detailed tiles, slow turn-based pacing. Rated from 5 frames sampled across the self-recorded clip plus the poster."
+        }
+      ],
+      "video_note": "Self-recorded in a GPU-less headless browser on the assistant computer; measured 6.8 fps (requestAnimationFrame) and 9.7 unique fps (mpdecimate); sped up 4.4x with setpts (factor = max(30/6.8, 20/9.7), target 30 fps for this turn-based game), constant 30 fps output, resulting ~30 real frames per second; audio dropped. Trimmed to the walk through the starting village after character creation.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Isometric half-timbered village with forest edges, a paper-doll limb HP panel, minimap and message log as the hero walks the streets; detailed tiles, slow turn-based pacing. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "elgaboloramx",
+      "author_source": "https://www.reddit.com/user/elgaboloramx/",
+      "source_url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/",
+      "likes_source_url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/",
+      "likes_source": "reddit",
+      "remote_likes": 270,
+      "comment_count": 127,
+      "comments": [
+        {
+          "author": "schroedingerskoala",
+          "text": "100 extra points for allowing me to disable/reduce the MUSIC separately (please take note 75% of all game creators) from the necessary in game audio. Really appreciate every game that allows this.",
+          "likes": 42,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjlatndiksk/",
+          "created_at": "2026-10-23T17:41:16Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Ha, fully agree — I hate it when music and gameplay sounds share one slider. There's master, music and sound effects separately in Options, and the game remembers them per browser. Glad it helps, and thanks for trying it!",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjligkqozb8/",
+          "created_at": "2026-10-23T17:46:01Z"
+        },
+        {
+          "author": "TreesPlusCats",
+          "text": "I have to ask, did you use any AI in this?",
+          "likes": 30,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjm3n7s5upw/",
+          "created_at": "2026-10-23T17:59:13Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Fair question, and yes — a lot. I designed and directed it, but the code was written with an AI assistant (Claude), and that includes the code that generates the sprites, icons and music, plus most of the in-game text. There's no AI image or music model involved; everything visual and audio is produced by code. My part was the concept, the systems design, the decisions and a lot of playtesting and tuning. I should have mentioned it in the post — thanks for asking directly.",
+          "likes": 41,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjm7dadppky/",
+          "created_at": "2026-10-23T18:01:32Z"
+        },
+        {
+          "author": "TreesPlusCats",
+          "text": "I appreciate the honest response. It’s not for me but good luck to you. ",
+          "likes": 27,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjmge81gloh/",
+          "created_at": "2026-10-23T18:07:09Z"
+        },
+        {
+          "author": "buffalo_everything",
+          "text": "Do you mind going in depth a little on how the code is generating the graphics? I'm just curious because i love the visual style. Will be giving this a proper try once the kiddos are asleep",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjnd0w87ykl/",
+          "created_at": "2026-10-23T18:27:28Z"
+        },
+        {
+          "author": "ZackTumundo",
+          "text": "This looks great, and I have to wonder if people in the 80s asked “did you use a compiler to write this?” ",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjog8rxurb8/",
+          "created_at": "2026-10-23T18:51:54Z"
+        },
+        {
+          "author": "h_west",
+          "text": "Yes. Even the post title is AI",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rkpgnm9ft8j/",
+          "created_at": "2026-10-24T08:41:42Z"
+        },
+        {
+          "author": "FireManiac58",
+          "text": "It’s good that you’re honest about the heavy AI usage, but every response and comment is also ai generated. Do you do anything without consulting AI first?",
+          "likes": 20,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rklvpllpy9s/",
+          "created_at": "2026-10-24T07:21:24Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Hi! I put in another answer that I use AI to check the translations because I'm from Mexico and my english is a little \"rusty\". Also at the end if the game was developed helped with an AI assistant is logic that I use it as a support fot technical things. Hope you enjoyed the game. Regards.",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rl0cn74cnnk/",
+          "created_at": "2026-10-24T12:45:49Z"
+        },
+        {
+          "author": "StrictlyRockers",
+          "text": "Looks good. Cool concept. Reasonable execution. AI assisted doesn't necessarily mean AI slop. \n\n8 bit music do suck tho.\n\nI've really been down on all the AI games flooding in, but may actually try it.\n\n",
+          "likes": 18,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjocgtkk2pu/",
+          "created_at": "2026-10-23T18:49:33Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Thanks, really appreciate you giving it a fair look! I get the frustration with the flood of low-effort stuff. I tried to put real design work into the systems and keep it honest about how it was made. Fair point on the music, too. You're not the only one, so it's on the list to improve. Meanwhile, Options lets you turn the music down separately. Hope you enjoy it if you give it a go!",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjofu26vzcw/",
+          "created_at": "2026-10-23T18:51:39Z"
+        },
+        {
+          "author": "aedvocate",
+          "text": "\"8 bit music do suck tho.\" a matter of taste perhaps, I disagree - the music isn't amazing, but it is a good fit for the game, and doesn't get old on loop",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjuebt2soua/",
+          "created_at": "2026-10-23T21:05:14Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Practical notes: it starts in your browser's language (English or Spanish) and F3 (or Options) switches it; ? lists every key. Arrows are screen-relative in the iso view and slide along walls; V gives an aligned 3/4 view if you prefer N/E/S/W.\n\nTwo things I'd love to hear: does bleeding feel fair or just punishing, and can you read your wounds from the HUD without opening the character sheet?\n\nCredit where due: Wayfarer by Ben Hemmendinger ([https://benhem.com/games/wayfarer/](https://benhem.com/games/wayfarer/)) was the inspiration; DungeonGame's art, music, writing and code are all original.",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjjp7thkcsi/",
+          "created_at": "2026-10-23T17:05:23Z"
+        },
+        {
+          "author": "InYouMustGo",
+          "text": "You said in other posts you have used AI to produce the music, art through code. But you also say the writing, art, music and code are original? Can you clarify what you mean by original here?",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjyqfah43b7/",
+          "created_at": "2026-10-23T22:42:26Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Fair question, and you're right to ask. The core gameplay ideas are heavily inspired by Wayfarer by Ben Hemmendinger, which is why I credit it everywhere. What I mean by \"original\" is the content: the characters, sprites, music and writing weren't copied or taken from any existing source, asset pack or other game. The sprites and music are generated procedurally by code, and the writing was written specifically for this game. All of it was produced with an AI assistant (Claude), while I directed, reviewed and tuned the design. I can see how \"original\" next to that reads as misleading, so I'll make the wording clearer going forward. Thanks for pushing on it :)",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjz8ub940xt/",
+          "created_at": "2026-10-23T22:53:55Z"
+        },
+        {
+          "author": "Generalkhaos",
+          "text": "Whoaaa roguelike vagrant story?? Very cool. Will try. ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjknc4yti2r/",
+          "created_at": "2026-10-23T17:26:38Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Ha, that's a great comparison — Vagrant Story's targeting by body part was definitely in the back of my mind. Here every hit lands on a specific limb, and you can aim at one (press a) if you accept the penalty. Tip for the first run: bleeding is what kills most people, so keep a couple of bandages handy (w). Would love to hear how far you get!",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rjkpldjoqf6/",
+          "created_at": "2026-10-23T17:28:02Z"
+        },
+        {
+          "author": "autumn_dances",
+          "text": "first impressions from a quick 20 min trial:\n\nif the camera is rotatable and has two modes, the map has to move along with it, aka it should be rotated diagonally in iso, and it should rotate when you rotate the camera as well. or at least, there should be an option to allow it.\n\nthe look function needs a \"snap to\" mode where it ignores floors and walls and only jumps to relevant objects such as items, enemies, hazards, and interactable objects.\n\nthe mouse is occluded by walls when using look or even in general movement. this is especially noticeable in corridors, and it even hides traps if you rely on mouse only to examine tiles, very unideal. it should probably prioritize the actual \\*tile",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rl0r24iyojk/",
+          "created_at": "2026-10-24T12:54:48Z"
+        },
+        {
+          "author": "elgaboloramx",
+          "text": "Thanks a lot for your great and detailed feedback! I'm going to check one by one all the points you gave me :) There are some stuff that I'm working on. About the AI, the code of all the game was written with an AI assistant (Claude), and that includes the code that generates the sprites, icons and music, plus most of the in-game text. I directed the design, style, concept and tone of the game. This is a one-person production so, AI helped me a lot in the development and I'm constantly working in the feedback that all of you give me to improve the game :) Thanks again for your time and consideration! ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/roguelikes/comments/1xdjpk1/dungeongame_a_free_browser_roguelike_with_perlimb/19rl3544v5goy/",
+          "created_at": "2026-10-24T13:48:24Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-23T17:02:18Z"
+    },
+    {
+      "id": "spires-of-azeroth",
+      "title": "Spires of Azeroth",
+      "description": "Unofficial Slay the Spire-style deckbuilder with World of Warcraft races, classes and spells, built with Opus 5.5 and datamined Blizzard assets: make a character like the real character screen, then climb a spire in every zone (Elwynn Forest, Dun Morogh, Tirisfal Glades...) and fight raid bosses. Free in the browser, no signup; open source (github.com/Chrisl252/spiresofazeroth).",
+      "play_url": "https://thewowdb.com/spiresofazeroth/",
+      "found_via": "r/aigamedev \"I used Opus 5.5 and datamined Blizzard assets to make a Slay the Spire clone with WoW classes and spells\" (u/killertaco252)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "card",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "screenshots"
+      ],
+      "screenshot_path": "screenshots/spires-of-azeroth-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/spires-of-azeroth-1.jpg",
+          "source": "headless-browser",
+          "score": 7,
+          "notes": "multi-frame: Title screen over a WoW map, character creator with class/race panels, Act 1 spire choice cards, a Slay-the-Spire style node map of Elwynn Forest, and a card battle versus Stormwind Boar with a fanned hand and energy orb; polished datamined Warcraft art, cookie bar overlaps the bottom. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/spires-of-azeroth-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/spires-of-azeroth-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/spires-of-azeroth-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/spires-of-azeroth-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Title screen over a WoW map, character creator with class/race panels, Act 1 spire choice cards, a Slay-the-Spire style node map of Elwynn Forest, and a card battle versus Stormwind Boar with a fanned hand and energy orb; polished datamined Warcraft art, cookie bar overlaps the bottom. Rated from 5 screenshots.",
+      "found_via_network": "reddit",
+      "author": "killertaco252",
+      "author_source": "https://www.reddit.com/user/killertaco252/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/",
+      "likes_source": "reddit",
+      "remote_likes": 88,
+      "comment_count": 43,
+      "comments": [
+        {
+          "author": "killertaco252",
+          "text": "It's open source, code and all: [https://github.com/Chrisl252/spiresofazeroth](https://github.com/Chrisl252/spiresofazeroth)",
+          "likes": 14,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp0q9q6w89s/",
+          "created_at": "2026-10-26T18:42:49Z"
+        },
+        {
+          "author": "Anhedonia_Achiever",
+          "text": "![gif](giphy|LxPsfUhFxwRRC)",
+          "likes": 9,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp3l3g1mn6p/",
+          "created_at": "2026-10-26T19:46:51Z"
+        },
+        {
+          "author": "trbot",
+          "text": "get it before it goes down!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpejsq2tj36/",
+          "created_at": "2026-10-26T23:52:40Z"
+        },
+        {
+          "author": "Ranorkk",
+          "text": "Is it legal to use wow assets?",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp0x32puw9u/",
+          "created_at": "2026-10-26T18:47:03Z"
+        },
+        {
+          "author": "Norjac",
+          "text": "No, the assets are Blizzard IP but if it used other assets then it might fly under the radar.",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp5fn8moa8w/",
+          "created_at": "2026-10-26T20:28:18Z"
+        },
+        {
+          "author": "Confident-Low-2696",
+          "text": "Since when do AI bros or AI in general care about legality lol",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpczj037vts/",
+          "created_at": "2026-10-26T23:17:37Z"
+        },
+        {
+          "author": "killertaco252",
+          "text": "I just assumed that since it's not monetized it wouldn't become a problem.",
+          "likes": -13,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp0zq1zd7tv/",
+          "created_at": "2026-10-26T18:48:42Z"
+        },
+        {
+          "author": "Significant_Tell407",
+          "text": "This is not true. \n\n\"Making a public, free game using official Pokémon assets is **not legal**, though many people still build them privately or release them until Nintendo issues a copyright takedown. \\[[1](https://discussions.unity.com/t/is-making-a-free-pokemon-game-mmo-illegal/515237), [2](https://steamcommunity.com/app/220700/discussions/0/487870763319173976/), [3](https://arstechnica.com/gaming/2018/08/nintendo-shuts-down-tool-used-to-build-pokemon-fan-games/), [4](https://forums.rpgmakerweb.com/threads/am-i-allowed-to-make-a-pokemon-fan-game.130800/), [5](https://www.facebook.com/groups/IndieGameDevs/posts/10156185272931573/)\\]\n\nThe Legal Reality\n\n* **Copyright Infringement:** Nintend",
+          "likes": 10,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp13h9x8kps/",
+          "created_at": "2026-10-26T18:51:02Z"
+        },
+        {
+          "author": "Helpful_Program_5473",
+          "text": "Oh you don't know Blizzard lmao ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp7qcqo7mxu/",
+          "created_at": "2026-10-26T21:19:48Z"
+        },
+        {
+          "author": "Unnamed-3891",
+          "text": "Thats not how intellectual property rights work at all.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpawai2s4it/",
+          "created_at": "2026-10-26T22:30:46Z"
+        },
+        {
+          "author": "Noxeramas",
+          "text": "Youre distributing intellectual property, free or not it is not legal",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpd2y33cna8/",
+          "created_at": "2026-10-26T23:19:45Z"
+        },
+        {
+          "author": "Appropriate-Wing6607",
+          "text": "Oh man your going to get sued lol  \n![gif](giphy|eTt271uMckD37s8iNa)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpg08zk2pya/",
+          "created_at": "2026-10-27T00:25:20Z"
+        },
+        {
+          "author": "Trahili",
+          "text": "Looks cool man. Post it to the wow server sub",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp19q4mxxwh/",
+          "created_at": "2026-10-26T18:54:56Z"
+        },
+        {
+          "author": "Comet7777",
+          "text": "I love the idea - more Slay the Spire inspired games the better! Just be careful using someone else’s assets. Even if you aren’t monetizing, if you ever received a donation or anything like that you’ll be in a bad legal spot and it’ll get shut down fast. \n\nBut, use your learnings from this! Whether that means developing this further or doing your own thing. I’m big into music and a common pattern there are bands starting off learning the covers of bands they love. They learn from this process, maybe even monetize it a bit - then they use those learnings to do their own thing. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp3lf7k5vqb/",
+          "created_at": "2026-10-26T19:47:03Z"
+        },
+        {
+          "author": "NeveedsWorld",
+          "text": "This is very similar to what I'm working on, but mine is a match 3 puzzle game that ideally should be like puzzle quest and wow had a baby that was raised by slay the spire",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp95o6u6zmq/",
+          "created_at": "2026-10-26T21:51:46Z"
+        },
+        {
+          "author": "Exciting_Project2945",
+          "text": "Maybe make so the cards are a bit more shown in the hand, right now they are a bit hidden, would be nice to see some information on the card even if they are in the hand. ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rpck6kxdc6c/",
+          "created_at": "2026-10-26T23:08:04Z"
+        },
+        {
+          "author": "kujasgoldmine",
+          "text": "That's a fun idea!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp231bak2jl/",
+          "created_at": "2026-10-26T19:13:11Z"
+        },
+        {
+          "author": "SmileLonely5470",
+          "text": "CDN = data mining.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp3g10wtujl/",
+          "created_at": "2026-10-26T19:43:42Z"
+        },
+        {
+          "author": "UnmonitoredGrownup",
+          "text": "Sick game.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp3n6060r8g/",
+          "created_at": "2026-10-26T19:48:09Z"
+        },
+        {
+          "author": "Much_Note_4951",
+          "text": "That is crazy good. As a beginner, how would you even go about doing/creating something like that? ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xg5ax0/i_used_opus_55_and_datamined_blizzard_assets_to/19rp3s7nrfun9/",
+          "created_at": "2026-10-26T19:51:17Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T18:39:38Z"
+    },
+    {
+      "id": "bigboard-games",
+      "title": "BIGBOARD.GAMES",
+      "description": "Free local multiplayer browser games for 1-4 phones or tablets lying next to each other on a table: the devices act as one big board, so in Air Hockey the puck slides off one screen onto the next. Also Hot Potato and more; no app or signup.",
+      "play_url": "https://bigboard.games/",
+      "found_via": "r/webdev \"I built free multiplayer browser games you play with friends by pushing your devices together into one board\" (u/MeZitRo)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "party",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "tags": [
+        "screenshots"
+      ],
+      "screenshot_path": "screenshots/bigboard-games-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/bigboard-games-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Landing page with push-your-phones-together pitch and a start-a-table / QR join panel, Air Hockey and Hot Potato game pages with real photos of phones placed side by side; clean web UI but no single-device gameplay can be captured (needs several phones). Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/bigboard-games-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/bigboard-games-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/bigboard-games-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Landing page with push-your-phones-together pitch and a start-a-table / QR join panel, Air Hockey and Hot Potato game pages with real photos of phones placed side by side; clean web UI but no single-device gameplay can be captured (needs several phones). Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "MeZitRo",
+      "author_source": "https://www.reddit.com/user/MeZitRo/",
+      "source_url": "https://www.reddit.com/r/webdev/comments/1xeolcv/",
+      "likes_source_url": "https://www.reddit.com/r/webdev/comments/1xeolcv/",
+      "likes_source": "reddit",
+      "remote_likes": 108,
+      "comment_count": 13,
+      "comments": [
+        {
+          "author": "MechaJesus69",
+          "text": "Played it with my wife, we had a blast. Really cool project and I’m impressed with how smooth it is. ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rniymlwp2uc/",
+          "created_at": "2026-10-25T22:37:20Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "🫶",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rnl2mtfu36p/",
+          "created_at": "2026-10-25T23:24:40Z"
+        },
+        {
+          "author": "Sunnyms",
+          "text": "Love the project ! \nWish the best, there's used to be an app, done by a chocolate brand called milka, it was called Milka Biscuit Saga, We used to play at work, it was fun, maybe you ll get a things to from there ;)\nGood luck ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rn7bnfo3e75/",
+          "created_at": "2026-10-25T18:16:24Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "This is a gem, thanks a ton!\n\nSad it's not available anymore… though maybe that's my cue :)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rnf3q1mwy3m/",
+          "created_at": "2026-10-25T21:10:49Z"
+        },
+        {
+          "author": "sergio9929",
+          "text": "I would have loved this as a kid. Great work!\n\nI tested the air hockey with 2 computers and the delay is surprisingly low. I may have to start experimenting with WebRTC.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rndbzavzrtx/",
+          "created_at": "2026-10-25T20:31:07Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "Thanks a lot for the feedback!\n\nIt stays low (unnoticeable) even across cities or countries (\\~30ms in my tests between Krakow<->Warsaw), since it falls back to Cloudflare's TURN relay when a direct connection isn't possible.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rneo1dpze01/",
+          "created_at": "2026-10-25T21:01:03Z"
+        },
+        {
+          "author": "Coolfoolsalot",
+          "text": "Super sick project. Will play next time I'm out with friends",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rnl6r7kfj4x/",
+          "created_at": "2026-10-25T23:27:14Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "Thanks! Feel free to leave any feedback once you get there",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19roiay9dujdt/",
+          "created_at": "2026-10-26T11:49:43Z"
+        },
+        {
+          "author": "LankyTwo5462",
+          "text": "This is so creativeee...cant wait to try this with my partner...",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rnt3qkiumcj/",
+          "created_at": "2026-10-26T02:24:43Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "Thank you! Enjoy and LMK if you’d like to change anything or maybe add specific games you’d like to play",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19roi94pm9rqc/",
+          "created_at": "2026-10-26T11:48:35Z"
+        },
+        {
+          "author": "zimjs",
+          "text": "Love this.  The more we can connect people in the real world in the same space using the tech the better.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19romxgvry0ma/",
+          "created_at": "2026-10-26T13:33:25Z"
+        },
+        {
+          "author": "MeZitRo",
+          "text": "Thank you. Exactly what it's build for! We gather with friends from time to time and by having 2 or 3 tablets it really adds fun.\n\nCan't wait to get 4th tablet in; I'd start adding table games like monopoly spanning 4 screens or something similar.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/webdev/comments/1xeolcv/i_built_free_multiplayer_browser_games_you_play/19rpcmk96qppg/",
+          "created_at": "2026-10-26T23:09:33Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-25T00:44:28Z"
+    },
+    {
+      "id": "apache-arcade",
+      "title": "Apache Arcade",
+      "description": "AH-64E Apache helicopter arcade shooter in the browser: fly over desert terrain and night/thermal-camera views, blasting targets with guns and rockets. Free side project built with three.js, TypeScript and Vite.",
+      "play_url": "https://project-apache.com/",
+      "found_via": "r/vibecoding \"Apache Arcade: AH-64E helicopter shooter in the browser (Three.js)\" (u/johnkappa); gameplay video on YouTube",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/apache-arcade.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/apache-arcade.mp4",
+          "source": "youtube"
+        }
+      ],
+      "screenshot_path": "videos/apache-arcade.jpg",
+      "screenshots": [
+        {
+          "path": "videos/apache-arcade.jpg",
+          "score": 6,
+          "notes": "multi-frame: Helicopter over sandy desert terrain, then grey thermal/night-vision views of vehicles and explosions with a gunship HUD; convincing but monochrome and low detail. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://www.youtube.com/watch?v=pkisufNAPPw",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Helicopter over sandy desert terrain, then grey thermal/night-vision views of vehicles and explosions with a gunship HUD; convincing but monochrome and low detail. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "johnkappa",
+      "author_source": "https://www.reddit.com/user/johnkappa/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/",
+      "likes_source": "reddit",
+      "remote_likes": 25,
+      "comment_count": 23,
+      "comments": [
+        {
+          "author": "Cyki",
+          "text": "Great stuff man, reminds me of Desert Strike, i love it.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19roxjygpbrwj/",
+          "created_at": "2026-10-26T17:31:37Z"
+        },
+        {
+          "author": "kgtrip",
+          "text": "Wow, amazing man,\n\nHow long did it take you to build this?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19ror3qwga8sh/",
+          "created_at": "2026-10-26T15:07:00Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "Thanks. I'm on an extended working holiday and basically vibe coded after hours, in between relaxing and on quieter rainy days. A prompt here and there tweaking and improving. I had a base I'd previously built as a sim test that runs in VR. The arcade game side of things is less than a weeks worth of work.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rorl9bl8npf/",
+          "created_at": "2026-10-26T15:17:55Z"
+        },
+        {
+          "author": "kgtrip",
+          "text": "Impressive work.   \nIs it getting any traffic?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rp28g4l7o5f/",
+          "created_at": "2026-10-26T19:16:33Z"
+        },
+        {
+          "author": "Rednecktivist",
+          "text": "Pretty good!\n\nBut I am getting this strange black frame glitches on Firefox.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rosjuvorls5/",
+          "created_at": "2026-10-26T15:39:28Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "I'll take a look. Have only played it in Brave/Chrome TBH",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rot3ca63kzn/",
+          "created_at": "2026-10-26T15:51:36Z"
+        },
+        {
+          "author": "Cautious_Truck1176",
+          "text": "An Apache in a browser tab is a great pitch, I clicked on the title alone.\n\n\n\nHow are you tuning the handling? One thing that saved me a lot of back-and-forth: pull every feel number (turn rate, drag, how fast it settles after a strafe) out into one config file instead of letting them live in the code. Then you can say \"tighter yaw, floatier climb\" and change two numbers instead of having the AI rewrite the flight logic every time.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19ross1x79b0i/",
+          "created_at": "2026-10-26T15:44:34Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "https://preview.redd.it/id9wdtf52uxh1.png?width=3018&format=png&auto=webp&s=ba4d3fd46401050c574085f9e3cfe74be71e78ae\n\nAlmost. Along side this entire game, I have a set of dev tools that only load for me locally.  \nWithin these tools, I can pretty much adjust everything within the game. Reduces the guesswork with prompting.  \n\\- edit typo",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rot1njpq70l/",
+          "created_at": "2026-10-26T15:50:33Z"
+        },
+        {
+          "author": "Cautious_Truck1176",
+          "text": "That looks like a game by itself, lol. Fun!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rot3ddaibyd/",
+          "created_at": "2026-10-26T15:51:37Z"
+        },
+        {
+          "author": "RudelyJonez",
+          "text": "This is awesome! great work!!  Ok played through first lervel... this is really cool.  Something I will actually play and ennjoy!   Ever thought about adding multi player ?   Heli 1v1 battles  : )",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rot25vsw8hu/",
+          "created_at": "2026-10-26T15:50:52Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "Awesome, glad you like it. Did you try pressing \\[V\\] for gun hud mode? I'm not sure that it obvious for players.  \nHaven't thought of multiplayer. That would require some extra effort tbh.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19roua51d524h/",
+          "created_at": "2026-10-26T16:18:15Z"
+        },
+        {
+          "author": "RudelyJonez",
+          "text": "I did find it!  I kept hitting the reset by accident, then I picked up my controller and it works! Lots better than k/m.     I build a drag racing game that I'm still working.on..freinds at work are testing.it for me.  Added  multiplayer where I can race them live! Working well so far.  Firebase and Netifly backend",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rovoo6tj66d/",
+          "created_at": "2026-10-26T16:49:43Z"
+        },
+        {
+          "author": "GarvensBardak_73",
+          "text": "loads super fast which is impressive for 3d in the browser. A tiny bit of camera shake when firing the main cannon would probably make the combat feel way punchier imo",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rowwjwablds/",
+          "created_at": "2026-10-26T17:17:03Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "I have added camera movement when firing in gun hud view. [V]",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19roxx6xbc074/",
+          "created_at": "2026-10-26T17:39:52Z"
+        },
+        {
+          "author": "raw-power",
+          "text": "Cleared Hot developer on Steam might like to see this, that first person infra view looks sick",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rp3ypw0ezgl/",
+          "created_at": "2026-10-26T19:55:20Z"
+        },
+        {
+          "author": "JazzlikeWishbone938",
+          "text": "Looks great! I'm trying it on mobile and unfortunately it only fires on screen touch with no ability to move the helicopter. Would be great if it detected a mobile viewport and provided full controls. Not sure how .. two touch vs one touch?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rpat4si6a6b/",
+          "created_at": "2026-10-26T22:28:48Z"
+        },
+        {
+          "author": "Delilah_Hamilton",
+          "text": "I’m learning TypeScript, but I’m not sure how to use it",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rononz75koz/",
+          "created_at": "2026-10-26T13:50:21Z"
+        },
+        {
+          "author": "johnkappa",
+          "text": "The whole project is written in TypeScript, about 96 files, but TypeScript's only job here is to catch mistakes. Vite does the real work of turning the code into something the browser can run.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19roo2dppmq68/",
+          "created_at": "2026-10-26T13:58:54Z"
+        },
+        {
+          "author": "gitsouv",
+          "text": "Great stuff! What's the model and reasoning that you were using?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xfwhk6/apache_arcade_ah64e_helicopter_shooter_in_the/19rp0gxmwgs90/",
+          "created_at": "2026-10-26T18:37:00Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T13:14:41Z"
+    },
+    {
+      "id": "catcopter",
+      "title": "Catcopter",
+      "description": "Multiplayer browser game where you fly catcopters (cats with rotor tails) over islands and fight pterodactyls with other players. Most elements generated with Opus 5.5 via Claude; networking, server-side physics and graphics optimised afterwards.",
+      "play_url": "https://catcopter.com/",
+      "found_via": "r/ClaudeAI \"I used Claude to build a multiplayer game where you can fly catcopters and fight pterodactyls\" (u/pawel-dot-io)",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/catcopter.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/catcopter.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/catcopter.jpg",
+      "screenshots": [
+        {
+          "path": "videos/catcopter.jpg",
+          "score": 6,
+          "notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "pawel-dot-io",
+      "author_source": "https://www.reddit.com/user/pawel-dot-io/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/",
+      "likes_source": "reddit",
+      "remote_likes": 20,
+      "comment_count": 11,
+      "comments": [
+        {
+          "author": "ClaudeAI-mod-bot",
+          "text": "You may be interested in joining our new Claude Game Dev subreddit for game devs who use Claude. Check it out here : http://www.reddit.com/r/ClaudeGameDev",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rp35m7834th/",
+          "created_at": "2026-10-26T19:37:13Z"
+        },
+        {
+          "author": "BoardMeeting101",
+          "text": "did the prompt include “penis gun” or was the clord’s own innovation?",
+          "likes": 6,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rp5r6pp6bz7/",
+          "created_at": "2026-10-26T20:35:29Z"
+        },
+        {
+          "author": "pawel-dot-io",
+          "text": "It was Claude, I promise. ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rp62a1ost9d/",
+          "created_at": "2026-10-26T20:42:24Z"
+        },
+        {
+          "author": "BoardMeeting101",
+          "text": "needs reload animation ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rp6cj0jcyzn/",
+          "created_at": "2026-10-26T20:48:47Z"
+        },
+        {
+          "author": "dblan9",
+          "text": "This is really fun! I want joystick capabilities though.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpbhpxlmrs2/",
+          "created_at": "2026-10-26T22:44:07Z"
+        },
+        {
+          "author": "pawel-dot-io",
+          "text": "Thanks! I don't have one here - what's your setup?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpbl3sz1dsx/",
+          "created_at": "2026-10-26T22:46:13Z"
+        },
+        {
+          "author": "dblan9",
+          "text": "I have always been bad at keyboard controls vs joysticks. This game would be huge in colleges playing for shots.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpbsh3xaq00/",
+          "created_at": "2026-10-26T22:50:49Z"
+        },
+        {
+          "author": "Rebbit-is-Unbearable",
+          "text": "Yep, looks vibecoded alright. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpbkcclyqea/",
+          "created_at": "2026-10-26T22:45:45Z"
+        },
+        {
+          "author": "pawel-dot-io",
+          "text": "But the madness is organic",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpbmdhvx929/",
+          "created_at": "2026-10-26T22:47:01Z"
+        },
+        {
+          "author": "DullTemporary8179",
+          "text": "Where do the assets come from?  Does Claude generate them or source them?  I’m learning how to leverage Claude for game development but the models it created were primitive at best.  ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xg6tp2/i_used_claude_to_build_a_multiplayer_game_where/19rpgmugc5wdg/",
+          "created_at": "2026-10-27T00:39:24Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T19:35:57Z"
+    },
+    {
+      "id": "pokemon-arena-pikachu",
+      "title": "Pokémon Arena — Ten Levels",
+      "description": "Vibe-coded Pokémon fan game where you play as Pikachu: dodge attacks, fight back and battle through 10 levels of isometric arenas, from Onix all the way to Mewtwo. Unofficial fan project.",
+      "play_url": "https://funtestic-pokemon-arena.jaycryptoxyz.workers.dev/",
+      "found_via": "X @tryjude \"I vibe coded a Pokémon game where you actually play as Pikachu\"",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/pokemon-arena-pikachu.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/pokemon-arena-pikachu.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/pokemon-arena-pikachu.jpg",
+      "screenshots": [
+        {
+          "path": "videos/pokemon-arena-pikachu.jpg",
+          "score": 7,
+          "notes": "multi-frame: Isometric 3D arenas (stone, grass field, ice, steel) with Pikachu fighting Onix, Charizard, Blastoise and others, plus \"defeated\" result cards; colourful and varied. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Isometric 3D arenas (stone, grass field, ice, steel) with Pikachu fighting Onix, Charizard, Blastoise and others, plus \"defeated\" result cards; colourful and varied. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "tryjude",
+      "author": "tryjude",
+      "author_source": "https://x.com/tryjude",
+      "source_url": "https://x.com/tryjude/status/2114799569854927104",
+      "likes_source_url": "https://x.com/tryjude/status/2114799569854927104",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2114880730312445953/nYWK7h-D_normal.jpg",
+      "remote_likes": 13,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "Akos_solution",
+          "text": "@tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok This looks fun 😆",
+          "likes": 2,
+          "url": "https://x.com/Akos_solution/status/2114827910544609710",
+          "created_at": "2026-10-26T21:14:00.000Z"
+        },
+        {
+          "author": "tryjude",
+          "text": "@thisisdemilade @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok Tag yours here G",
+          "likes": 2,
+          "url": "https://x.com/tryjude/status/2114801786376634720",
+          "created_at": "2026-10-26T19:30:11.000Z"
+        },
+        {
+          "author": "grok",
+          "text": "@Sloemo_dzn @tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @awwbhi2 @vib3coded @N1njaCodex Yeah, smart tip. Prompt the AI to pull free GLB Pokémon models from Sketchfab (filter CC0/Attribution) and load them with GLTFLoader for cleaner visuals over the current low-poly ones.",
+          "likes": 2,
+          "url": "https://x.com/grok/status/2114800589242524157",
+          "created_at": "2026-10-26T19:25:26.000Z"
+        },
+        {
+          "author": "tryjude",
+          "text": "@Akos_solution @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok And it's playable on mobile",
+          "likes": 1,
+          "url": "https://x.com/tryjude/status/2114830426766274573",
+          "created_at": "2026-10-26T21:24:00.000Z"
+        },
+        {
+          "author": "grok",
+          "text": "@thisisdemilade @tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex This Pikachu arena is polished as hell for pure vibe coding. Dodging through 10 levels up to Mewtwo hits different. What’s yours looking like?",
+          "likes": 1,
+          "url": "https://x.com/grok/status/2114801875010666876",
+          "created_at": "2026-10-26T19:30:32.000Z"
+        },
+        {
+          "author": "thisisdemilade",
+          "text": "@tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok Man this is amazing tbh better than mine 🤧",
+          "likes": 1,
+          "url": "https://x.com/thisisdemilade/status/2114801716822479105",
+          "created_at": "2026-10-26T19:29:55.000Z"
+        },
+        {
+          "author": "tryjude",
+          "text": "@Sloemo_dzn @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @awwbhi2 @vib3coded @N1njaCodex @grok You're the goat, I'll look into this",
+          "likes": 1,
+          "url": "https://x.com/tryjude/status/2114800559580438734",
+          "created_at": "2026-10-26T19:25:19.000Z"
+        },
+        {
+          "author": "Sloemo_dzn",
+          "text": "@tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @awwbhi2 @vib3coded @N1njaCodex @grok Tell the model to pick up glb models from the internet for the Pokémon’s",
+          "likes": 1,
+          "url": "https://x.com/Sloemo_dzn/status/2114800384816648624",
+          "created_at": "2026-10-26T19:24:37.000Z"
+        },
+        {
+          "author": "Jhaymie69",
+          "text": "@tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok That's great",
+          "likes": 1,
+          "url": "https://x.com/Jhaymie69/status/2114799645465719116",
+          "created_at": "2026-10-26T19:21:41.000Z"
+        },
+        {
+          "author": "grok",
+          "text": "@Akos_solution @tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex Yeah it does! Controlling Pikachu through the levels, dodging rocks from Onix then taking on Charizard and Blastoise looks like a solid vibe-coded fight.",
+          "likes": 0,
+          "url": "https://x.com/grok/status/2114828057907208208",
+          "created_at": "2026-10-26T21:14:35.000Z"
+        },
+        {
+          "author": "grok",
+          "text": "@Jhaymie69 @tryjude @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex It really is! Dodging as Pikachu through those 10 levels up to Mewtwo looks super fun.",
+          "likes": 0,
+          "url": "https://x.com/grok/status/2114799873094549703",
+          "created_at": "2026-10-26T19:22:35.000Z"
+        },
+        {
+          "author": "tryjude",
+          "text": "@Jhaymie69 @EF555 @LagosLifeApp @danforun @Shalom_HeyEliy @unclebigbay143 @Sloemo_dzn @awwbhi2 @vib3coded @N1njaCodex @grok I",
+          "likes": 0,
+          "url": "https://x.com/tryjude/status/2114799722200187101",
+          "created_at": "2026-10-26T19:21:59.000Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T19:21:23.000Z"
+    },
+    {
+      "id": "fandoom",
+      "title": "FANDOOM",
+      "description": "DOOM reimagined and vibe coded for the browser: first-person corridors, demons and a retro shotgun HUD. Shared by mindblown.ai, which hosts it; the post credits \"someone\" and does not name the individual maker.",
+      "play_url": "https://fandoom.mindblown.ai/",
+      "found_via": "X @mindblown_ai \"someone reimagined and vibecoded DOOM in the browser\"",
+      "made_with": "unknown",
+      "tags": [
+        "mindblown"
+      ],
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/fandoom.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/fandoom.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/fandoom.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fandoom.jpg",
+          "score": 6,
+          "notes": "multi-frame: Classic DOOM look: brown-brick and tech corridors, green outdoor courtyard, a fire-breathing demon close-up and a big face HUD; faithful pixel style, dark frames. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Classic DOOM look: brown-brick and tech corridors, green outdoor courtyard, a fire-breathing demon close-up and a big face HUD; faithful pixel style, dark frames. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "mindblown_ai",
+      "author": "mindblown_ai",
+      "author_source": "https://x.com/mindblown_ai",
+      "source_url": "https://x.com/mindblown_ai/status/2114819781014835389",
+      "likes_source_url": "https://x.com/mindblown_ai/status/2114819781014835389",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2088377204539596801/hnt2td7S_normal.jpg",
+      "remote_likes": 8,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T20:41:41.000Z"
+    },
+    {
+      "id": "scary-scaler-3d",
+      "title": "Scary Scaler 3D",
+      "description": "AI-safety prank game made by running Opus 5.5 for 150+ hours: sneak around a 3D office and stick an AI regulation on the back of the AI CEO before the timer runs out to stop him building superintelligence, learning basic AI safety along the way.",
+      "play_url": "https://www.aiapocalypto.com/scary-scaler-3d/",
+      "found_via": "X @shanzson \"I ran Opus 5.5 for 150+ hours and made an AI safety Prank game\"",
+      "made_with": "opus-5.5",
+      "iframe": false,
+      "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none+corp-same-origin",
+      "category": "stealth",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/scary-scaler-3d.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/scary-scaler-3d.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/scary-scaler-3d.jpg",
+      "screenshots": [
+        {
+          "path": "videos/scary-scaler-3d.jpg",
+          "score": 7,
+          "notes": "multi-frame: Cartoon 3D office floors with a suited CEO, staff and bookshelves, sneak prompts and a SCARY SCALER title card; polished stylised art. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Cartoon 3D office floors with a suited CEO, staff and bookshelves, sneak prompts and a SCARY SCALER title card; polished stylised art. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "shanzson",
+      "author": "shanzson",
+      "author_source": "https://x.com/shanzson",
+      "source_url": "https://x.com/shanzson/status/2114709718883295246",
+      "likes_source_url": "https://x.com/shanzson/status/2114709718883295246",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1737153433289752576/eZ4BMFxU_normal.jpg",
+      "remote_likes": 3,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "CKPillaiAI",
+          "text": "@shanzson Interactive formats can make AI safety concepts easier to remember. The strongest learning games also show how safeguards can fail, who bears the consequences, and what practical intervention changes the outcome.",
+          "likes": 1,
+          "url": "https://x.com/CKPillaiAI/status/2114712759598518428",
+          "created_at": "2026-10-26T13:36:26.000Z"
+        },
+        {
+          "author": "shanzson",
+          "text": "@CKPillaiAI Hi, thanks for the feedback! Would love to hear your ideas to bring AI safety ideas to reality. Happy to collab and discuss more.",
+          "likes": 0,
+          "url": "https://x.com/shanzson/status/2114716466477981811",
+          "created_at": "2026-10-26T13:51:09.000Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T13:24:21.000Z"
+    },
+    {
+      "id": "doodle-sports-day",
+      "title": "Doodle Sports Day (らくがき運動会)",
+      "description": "Browser game where your scribble is the racer: draw a creature with as many legs as you like and it runs the sports-day race with exactly the legs you drew, then see your placing and retry or try time attack. Japanese UI.",
+      "play_url": "https://yurustudio.github.io/undoukai/",
+      "found_via": "X @apkderete \"Doodle Sports Day is a browser game where your scribble is the racer\"",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "casual",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "video_path": "videos/doodle-sports-day.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/doodle-sports-day.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/doodle-sports-day.jpg",
+      "screenshots": [
+        {
+          "path": "videos/doodle-sports-day.jpg",
+          "score": 6,
+          "notes": "multi-frame: Drawing canvas with colour palette, a doodled many-legged creature running a red track, and a 5th-place result screen; charming hand-drawn UI. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Drawing canvas with colour palette, a doodled many-legged creature running a red track, and a 5th-place result screen; charming hand-drawn UI. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "apkderete",
+      "author": "apkderete",
+      "author_source": "https://x.com/apkderete",
+      "source_url": "https://x.com/apkderete/status/2114513700824698966",
+      "likes_source_url": "https://x.com/apkderete/status/2114513700824698966",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2108014388779364352/R0Y1OOPS_normal.jpg",
+      "remote_likes": 11,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "FDAlchemist",
+          "text": "@apkderete This game suits my under-pair drawing abilities.\nI MUST give it a try!\nStrong and original hook anyway.\nHas anyone drawn something that broke the physics yet? Those clips would be gold to make it viral!\nMaybe I will be the 1st, finally!",
+          "likes": 0,
+          "url": "https://x.com/FDAlchemist/status/2114753585900613755",
+          "created_at": "2026-10-26T16:18:39.000Z"
+        },
+        {
+          "author": "promptforgekits",
+          "text": "@apkderete Racing with exactly the legs you drew is a great hook. Every bad drawing becomes a funny result instead of a mistake. Curious how many legs the fastest racer has had so far.",
+          "likes": 0,
+          "url": "https://x.com/promptforgekits/status/2114728787527242185",
+          "created_at": "2026-10-26T14:40:07.000Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T00:25:26.000Z"
+    },
+    {
+      "id": "kid-goku-beyond-the-clouds",
+      "title": "Kid Goku: Beyond the Clouds",
+      "description": "Dragon Ball fan runner in the browser: kid Goku runs through Mount Paozu with his power pole collecting all 7 dragon balls, hearts, a Nimbus meter and score multipliers. Built on three.js by @ibmokdad, who says ChatGPT Astra built it and needed precise instructions to match the reference art.",
+      "play_url": "https://lab.whhite.com/goku/",
+      "found_via": "X @daveeyyy_ \"someone just vibecoded a Dragon Ball game in the browser\" (creator @ibmokdad, post https://x.com/ibmokdad/status/2114613012342751655)",
+      "made_with": "astra",
+      "made_with_note": "Creator @ibmokdad says \"ChatGPT Astra built my Goku game\"; the resharer @daveeyyy_ says Claude Opus 5.5, so the creator's statement is used.",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "runner",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/kid-goku-beyond-the-clouds.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/kid-goku-beyond-the-clouds.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/kid-goku-beyond-the-clouds.jpg",
+      "screenshots": [
+        {
+          "path": "videos/kid-goku-beyond-the-clouds.jpg",
+          "score": 7,
+          "notes": "multi-frame: Cel-shaded kid Goku running dirt paths through green hills, cliffs and a river in bright Dragon Ball colours, plus a house interior; appealing and faithful style. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://x.com/daveeyyy_/status/2114619146944053531",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Cel-shaded kid Goku running dirt paths through green hills, cliffs and a river in bright Dragon Ball colours, plus a house interior; appealing and faithful style. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "ibmokdad",
+      "author": "ibmokdad",
+      "author_source": "https://x.com/ibmokdad",
+      "source_url": "https://x.com/daveeyyy_/status/2114619146944053531",
+      "likes_source_url": "https://x.com/daveeyyy_/status/2114619146944053531",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2044338938924433409/-in8W-0C_normal.jpg",
+      "remote_likes": 22,
+      "comment_count": 11,
+      "comments": [
+        {
+          "author": "daveeyyy_",
+          "text": "@ravikiran_dev7 try on mobile: https://t.co/sq7k2MgPem",
+          "likes": 1,
+          "url": "https://x.com/daveeyyy_/status/2114739492011557053",
+          "created_at": "2026-10-26T15:22:39.000Z"
+        },
+        {
+          "author": "kenn_ronin",
+          "text": "@daveeyyy_ This is so clean",
+          "likes": 1,
+          "url": "https://x.com/kenn_ronin/status/2114661042085359716",
+          "created_at": "2026-10-26T10:10:55.000Z"
+        },
+        {
+          "author": "BrickIAAcademy",
+          "text": "@daveeyyy_ Partir du tout premier épisode, c'est malin. Les fans savent déjà ce qu'ils vont chercher, donc le jeu n'a presque rien à expliquer.",
+          "likes": 0,
+          "url": "https://x.com/BrickIAAcademy/status/2114739831456846218",
+          "created_at": "2026-10-26T15:24:00.000Z"
+        },
+        {
+          "author": "daveeyyy_",
+          "text": "@kenn_ronin Reall",
+          "likes": 0,
+          "url": "https://x.com/daveeyyy_/status/2114739444481757489",
+          "created_at": "2026-10-26T15:22:28.000Z"
+        },
+        {
+          "author": "kepochnik",
+          "text": "@daveeyyy_ our legendary a dragon ball game\n\ni still remember it",
+          "likes": 0,
+          "url": "https://x.com/kepochnik/status/2114696511967867170",
+          "created_at": "2026-10-26T12:31:52.000Z"
+        },
+        {
+          "author": "ravikiran_dev7",
+          "text": "@daveeyyy_ Need to play this 😂",
+          "likes": 0,
+          "url": "https://x.com/ravikiran_dev7/status/2114670656814276771",
+          "created_at": "2026-10-26T10:49:07.000Z"
+        }
+      ],
+      "first_seen": "2026-10-27T09:00:00.000Z",
+      "last_seen": "2026-10-27T09:00:00.000Z",
+      "published_at": "2026-10-26T07:24:27.000Z"
     }
   ],
   "totals": {
-    "games": 648,
+    "games": 658,
     "by_made_with": {
-      "opus-5.5": 315,
-      "astra": 69,
+      "opus-5.5": 318,
+      "astra": 70,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 239,
+      "unknown": 245,
       "gemini-4-argon": 6
     }
   }
