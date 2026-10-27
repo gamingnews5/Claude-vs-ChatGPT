@@ -1356,7 +1356,12 @@
       "video_source": "awesome-local",
       "remote_likes": 659,
       "likes_source": "x",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "platforms": [
+        "desktop",
+        "mobile",
+        "touch"
+      ]
     },
     {
       "id": "fang-the-fox",
