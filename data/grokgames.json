@@ -6285,7 +6285,7 @@
     {
       "id": "lost-cathedral",
       "title": "Lost Cathedral",
-      "description": "Souls-like third-person gothic boss fight: Thorn Exile vs Armored Death in a candlelit nave with god rays, cloth, and touch controls. Three.js + Genex CLI assets; gameplay credited to Astra/Fable.",
+      "description": "Souls-like third-person gothic boss fight: Thorn Exile vs Armored Death in a candlelit nave with god rays, cloth. Three.js + Genex CLI assets; gameplay credited to Astra/Fable.",
       "play_url": "https://genex.games/lost-cathedral",
       "source_url": "https://x.com/genex_games/status/2100586874754539672",
       "github_url": "https://github.com/Rabneba/lost-cathedral",
@@ -6306,8 +6306,7 @@
       "engine": "Three.js",
       "category": "action",
       "platforms": [
-        "desktop",
-        "mobile"
+        "desktop"
       ],
       "x_handle": "genex_games",
       "remote_likes": 138,
