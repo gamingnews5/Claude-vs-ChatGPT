@@ -113,7 +113,7 @@
       "id": "spider-man-miles-morales",
       "title": "Spider-Man: Miles Morales (web-swing browser)",
       "description": "Swing, wall-crawl, and web-zip through a Spider-Verse-style sunset city in the browser.",
-      "play_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
+      "play_url": "https://reubencf-spiderman-miles-morales.hf.space/",
       "source_url": "https://x.com/18reuchagas/status/2103142691005751468",
       "found_via": "X post linking the playable Hugging Face Space",
       "found_via_network": "x",
@@ -164,7 +164,10 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "page_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "inkwave",
@@ -205,7 +208,7 @@
       "id": "inkbound",
       "title": "INKBOUND",
       "description": "Pixel sumi-e chase in which one painter draws your path while a rival tries to cut you off.",
-      "play_url": "https://agentgames.itch.io/inkbound",
+      "play_url": "https://html-classic.itch.zone/html/19394184/index.html?v=1790339034",
       "source_url": "https://agentgames.itch.io/inkbound",
       "found_via": "X post linking the itch.io browser game",
       "found_via_network": "x",
@@ -247,7 +250,10 @@
       "tags": [
         "screenshots",
         "itchio"
-      ]
+      ],
+      "page_url": "https://agentgames.itch.io/inkbound",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "low-tide",
@@ -709,7 +715,7 @@
       "id": "opus-55-nba-2k",
       "title": "Opus 5.5 NBA 2K",
       "description": "Solo basketball in a dark atmospheric arena: dribble, shoot, lay up and dunk with one-key controls. Browser playable on Genex; titled as an Opus 5.5 build.",
-      "play_url": "https://genex.games/opus-2k",
+      "play_url": "https://opus-2k.genex.technology/",
       "source_url": "https://x.com/genex_games/status/2102695292113981770",
       "found_via": "Live web search → Genex catalog page for Opus 5.5 NBA 2K by @Simeon M",
       "found_via_network": "web",
@@ -885,7 +891,10 @@
       ],
       "tags": [
         "genex"
-      ]
+      ],
+      "page_url": "https://genex.games/opus-2k",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "double-feature",
@@ -1279,7 +1288,7 @@
       "id": "sangoku-tojo",
       "title": "三国兎将志 (Sangoku Rabbit Generals)",
       "description": "Three Kingdoms rabbit-general side-scroller / card-action browser game starring rabbit general KANA against Wei. Credited as a Claude Opus 5.5 same-day build.",
-      "play_url": "https://sangoku.tokyoaivisuals.club/",
+      "play_url": "https://sangoku.tokyoaivisuals.club/musou/?site=1",
       "source_url": "https://x.com/KanaWorks_AI/status/2102684116525437206",
       "found_via": "PTT Opus 5.5 roundup + creator play link sangoku.tokyoaivisuals.club",
       "found_via_network": "web",
@@ -1292,7 +1301,10 @@
       "video_path": "videos/sangoku-tojo.mp4",
       "video_source": "feed-local",
       "remote_likes": 167,
-      "likes_source": "x"
+      "likes_source": "x",
+      "page_url": "https://sangoku.tokyoaivisuals.club/",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "sukhna-lake",
@@ -1540,7 +1552,7 @@
       "id": "cozy-cove",
       "title": "Cozy Cove",
       "description": "Cozy pixel fishing RPG in a seaside village: bamboo rod, coins, Old Finn at the docks. Built over months with prior Claude models plus Opus 5.5 on Tesana.",
-      "play_url": "https://tesana.com/play/8d052fdd-93a3-4466-a908-083f5f263a80",
+      "play_url": "https://play.tesana.ai/game-20260926-cc84ce43/9428fbd94d09/index.html",
       "source_url": "https://x.com/Rubzem/status/2103983670034145726",
       "found_via": "aicookd top freshest (#1 Cozy fishing RPG) + creator X play URL",
       "found_via_network": "catalog",
@@ -1557,7 +1569,10 @@
       "tags": [
         "tesana"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://tesana.com/play/8d052fdd-93a3-4466-a908-083f5f263a80",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "spawn-legends",
@@ -2263,7 +2278,7 @@
       "id": "golden-hour-gp",
       "title": "Golden Hour GP",
       "description": "Three.js real-time race scene with day-clock lighting, cars on track and race HUD. Creator Mindblown credits GPT-6 Astra + WebGL2.",
-      "play_url": "https://golden-hour-gp.mindblown.ai",
+      "play_url": "https://golden-hour-gp.mindblown.ai/?mb=game",
       "source_url": "https://x.com/mindblown_ai/status/2097060846912565382",
       "found_via": "X post from @mindblown_ai",
       "found_via_network": "x",
@@ -2279,7 +2294,8 @@
       "remote_likes": 89,
       "likes_source": "x",
       "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only"
+      "iframe_block_reason": "csp-frame-ancestors",
+      "page_url": "https://golden-hour-gp.mindblown.ai"
     },
     {
       "id": "chill-race",
@@ -2734,7 +2750,7 @@
       "id": "coral-reef-day",
       "title": "A Day on the Coral Reef",
       "description": "Pixel-art reef ecosystem that lives through dawn, day, dusk and night. Credited to Claude Opus 5.5.",
-      "play_url": "https://coral-reef-site.vercel.app/",
+      "play_url": "https://coral-reef-site.vercel.app/coral-reef.html",
       "source_url": "https://x.com/akiy_8/status/2102545213218803769",
       "found_via": "tikgame.org / Floating Arcade Opus 5.5 catalog",
       "found_via_network": "catalog",
@@ -2858,7 +2874,10 @@
           "score": 7,
           "notes": "multi-frame: pixel-art reef cross-section cycling dawn, day, dusk and night: fish, jellyfish, corals and rocks with nice lighting shifts; lovely but static, no player action. Rated from 5 frames across the creator clip plus poster."
         }
-      ]
+      ],
+      "page_url": "https://coral-reef-site.vercel.app/",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "derelict",
@@ -3354,7 +3373,7 @@
       "id": "stadium-elite",
       "title": "Stadium Elite — El Clásico",
       "description": "11-a-side Barcelona–Real Madrid football at Camp Nou: pass, shoot and switch players in a 3D stadium. Mindblown build credited to GPT-6 Astra.",
-      "play_url": "https://stadium-elite.mindblown.ai/",
+      "play_url": "https://stadium-elite.mindblown.ai/?mb=game",
       "source_url": "https://github.com/MartinDelophy/awesome-gpt-6-astra",
       "found_via": "MartinDelophy awesome-gpt-6-astra Stadium Elite entry",
       "found_via_network": "catalog",
@@ -3372,7 +3391,7 @@
       "likes_source": "github",
       "engine": "mindblown.ai",
       "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/155-stadium-elite.jpg",
@@ -3403,7 +3422,8 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "page_url": "https://stadium-elite.mindblown.ai/"
     },
     {
       "id": "no-moat",
@@ -4589,7 +4609,7 @@
       "id": "apex-coast-run",
       "title": "APEX / Coast Run",
       "description": "Need for Speed–style browser racer on Three.js with Astra 6 overnight build; later looped with Jolt physics, tighter steering, mobile/desktop quality tiers.",
-      "play_url": "https://apex-coast-run.mindblown.ai/",
+      "play_url": "https://apex-coast-run.mindblown.ai/?mb=game",
       "source_url": "https://x.com/mindblown_ai/status/2097053892152594854",
       "found_via": "X bookmark @friuns2 → @mindblown_ai Astra NFS browser racer",
       "found_via_network": "x",
@@ -4611,8 +4631,9 @@
       "screenshot_score_notes": "A wet-road hero shot of the red convertible with crisp menu type is polished and immediately readable, though it is a menu rather than a race.",
       "screenshot_path": "videos/apex-coast-run-30s.jpg",
       "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "iframe_block_reason": "csp-frame-ancestors",
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://apex-coast-run.mindblown.ai/"
     },
     {
       "id": "savannah-hunt",
@@ -6228,7 +6249,7 @@
       "id": "keep-climbing",
       "title": "Keep Climbing",
       "description": "Pixel castle climb: scale the princess's braid, swing, and throw hair at threats across three wards (~5 min). SlapJam 2026 AI jam entry — art/design GPT-6 Astra, code polish Claude; HTML5 on itch by insanityninja7 / Pipe Dream Interactive.",
-      "play_url": "https://insanityninja7.itch.io/keep-climbing",
+      "play_url": "https://html-classic.itch.zone/html/19478794/index.html?v=1790740379",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtwfbj/keep_climbing_slapjam_2026_contender/",
       "screenshot_path": "screenshots/254-keep-climbing.jpg",
       "screenshot_score": 5,
@@ -6280,13 +6301,16 @@
       "tags": [
         "screenshots",
         "itchio"
-      ]
+      ],
+      "page_url": "https://insanityninja7.itch.io/keep-climbing",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "lost-cathedral",
       "title": "Lost Cathedral",
       "description": "Souls-like third-person gothic boss fight: Thorn Exile vs Armored Death in a candlelit nave with god rays, cloth. Three.js + Genex CLI assets; gameplay credited to Astra/Fable.",
-      "play_url": "https://genex.games/lost-cathedral",
+      "play_url": "https://lost-cathedral.genex.technology/",
       "source_url": "https://x.com/genex_games/status/2100586874754539672",
       "github_url": "https://github.com/Rabneba/lost-cathedral",
       "github_user": "Rabneba",
@@ -6319,7 +6343,10 @@
       "tags": [
         "genex"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://genex.games/lost-cathedral",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "halo-ce-browser",
@@ -6663,7 +6690,7 @@
       "id": "gravewake",
       "title": "GRAVEWAKE",
       "description": "Dark-fantasy twin-stick shooter for phones/desktop: wizard in a midnight clearing vs undead waves, boons, Lich and Bone Colossus. HTML5 on itch; vibecoded with Claude Opus 5.5 by Liora Labs.",
-      "play_url": "https://shiny-guru.itch.io/gravewake",
+      "play_url": "https://html-classic.itch.zone/html/19477444/index.html?v=1790733425",
       "source_url": "https://github.com/LioraLabs/gravewake",
       "github_url": "https://github.com/LioraLabs/gravewake",
       "screenshot_path": "screenshots/278-gravewake.jpg",
@@ -6711,13 +6738,16 @@
       "tags": [
         "screenshots",
         "itchio"
-      ]
+      ],
+      "page_url": "https://shiny-guru.itch.io/gravewake",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "type-or-die",
       "title": "Type or Die",
       "description": "Typing horror in five acts: type creature name-tags on a haunted typewriter to rewrite the Book of the Dead. HTML5 itch build credited to Claude Opus 5.5 (jaldps).",
-      "play_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
+      "play_url": "https://html-classic.itch.zone/html/19405252/index.html?v=1790395652",
       "source_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
       "screenshot_path": "screenshots/279-type-or-die.jpg",
       "screenshot_score": 5,
@@ -6756,7 +6786,10 @@
       "tags": [
         "itchio",
         "screenshots"
-      ]
+      ],
+      "page_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
+      "iframe": true,
+      "iframe_block_reason": null
     },
     {
       "id": "halo-ce-mobile-sol61",
@@ -7235,7 +7268,7 @@
       "id": "opus-surfers",
       "title": "Opus Surfers",
       "description": "Endless runner on Whip — same prompt vs GPT-6 Sol; Opus 5.5 win. Play free on whip.run.",
-      "play_url": "https://whip.run/experience/98fd2c18-2580-4a00-8f66-41bb281509bb",
+      "play_url": "https://cnvs.dev/opus-surfers-55/",
       "source_url": "https://x.com/joinwhip/status/2105667846307279269",
       "found_via": "X @joinwhip Opus 5.5 vs Sol",
       "found_via_network": "x",
@@ -7273,7 +7306,9 @@
       "likes_checked": "2026-10-12",
       "tags": [
         "whip"
-      ]
+      ],
+      "page_url": "https://whip.run/experience/98fd2c18-2580-4a00-8f66-41bb281509bb",
+      "iframe_block_reason": null
     },
     {
       "id": "rivets-and-roses",
@@ -7402,7 +7437,7 @@
       "id": "colony-exodus",
       "title": "Colony Exodus",
       "description": "Multiplayer idle MMORPG inspired by RuneScape — guest play, clue scrolls, skilling pets. Built with Claude Opus 5.5 (ColonyExodus).",
-      "play_url": "https://colonyexodus.com/",
+      "play_url": "https://colonyexodus.com/play",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wviou0/im_working_on_a_multiplayer_idle_mmorpg_inspired/",
       "found_via": "r/aigamedev Opus 5.5 idle MMORPG",
       "found_via_network": "reddit",
@@ -7438,7 +7473,8 @@
           "score": 5,
           "notes": "multi-frame: creator GIF: top-down tile RPG town and mine with many players, mining level-up, world boss fight and a clue-scroll map; readable RuneScape-like look, simple 2D art, caption bars. Rated from 5 frames across the creator clip plus poster."
         }
-      ]
+      ],
+      "page_url": "https://colonyexodus.com/"
     },
     {
       "id": "vybenomad",
@@ -7620,7 +7656,7 @@
       "id": "mach-run",
       "title": "MACH RUN",
       "description": "Semi-realistic flight-physics arcade flyer through a procedurally generated valley — bridges to fly under, carriers to land on, radar missiles above 135m, arcade/mouse/gamepad controls, and a global leaderboard. Built with Opus 5.5 (visuals/valley/flight one-shot, gameplay refined over weeks).",
-      "play_url": "https://jebkj21.itch.io/mach-run",
+      "play_url": "https://html-classic.itch.zone/html/19679863/index.html?v=1791662359",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/",
       "found_via": "Reddit r/aigamedev MACH RUN by u/Jeb_the_killer; Opus 5.5; play itch.io",
       "found_via_network": "reddit",
@@ -7630,8 +7666,8 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "video_path": "videos/mach-run-30s.mp4",
       "video_source": "reddit",
       "videos": [
@@ -7683,7 +7719,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://jebkj21.itch.io/mach-run"
     },
     {
       "id": "rope-ninja",
@@ -7933,7 +7970,7 @@
       "id": "deepcore",
       "title": "DEEPCORE",
       "description": "Pixel-art mining descent across five planets — drill for ore, manage fuel/hull, persistent upgrades, core shards unlock worlds. Falling-sand simulation. Built with Opus 5.5 (~$12.60, 60m).",
-      "play_url": "https://agentgames.dev/play/deepcore",
+      "play_url": "https://play.agentgames.dev/g/g_hE3-ZAcPvRB-0UOZ/index.html",
       "source_url": "https://agentgames.dev/play/deepcore",
       "found_via": "agentgames.dev DEEPCORE; made with opus-5.5",
       "found_via_network": "web",
@@ -7943,7 +7980,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/deepcore-1.jpg",
@@ -7973,13 +8010,14 @@
       "tags": [
         "screenshots",
         "agentgames"
-      ]
+      ],
+      "page_url": "https://agentgames.dev/play/deepcore"
     },
     {
       "id": "arclight",
       "title": "ARCLIGHT",
       "description": "Pixel-art lightning-mage survivor with environmental spell reactions (lightning+water, fire+oil), persistent Grimoire skill tree, five biomes. Opus 5.5 (~$10.30, 53m).",
-      "play_url": "https://agentgames.dev/play/arclight",
+      "play_url": "https://play.agentgames.dev/g/g_cgEaXC6J4vVjoo5h/index.html",
       "source_url": "https://agentgames.dev/play/arclight",
       "found_via": "agentgames.dev ARCLIGHT; made with opus-5.5",
       "found_via_network": "web",
@@ -7989,7 +8027,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/arclight-1.jpg",
@@ -8019,13 +8057,14 @@
       "tags": [
         "screenshots",
         "agentgames"
-      ]
+      ],
+      "page_url": "https://agentgames.dev/play/arclight"
     },
     {
       "id": "fortnite-og",
       "title": "Fortnite OG",
       "description": "Procedural lightweight Three.js Fortnite Chapter-1-style battle royale — Battle Bus, grid building, 99 AI bots, storm circles, Web Audio. Opus 5.5.",
-      "play_url": "https://agentgames.dev/play/fortnite-og",
+      "play_url": "https://play.agentgames.dev/g/g_N57Sbvxlzncty7qA/index.html",
       "source_url": "https://agentgames.dev/play/fortnite-og",
       "found_via": "agentgames.dev Fortnite OG; made with opus-5.5",
       "found_via_network": "web",
@@ -8036,7 +8075,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "tags": [
         "agentgames",
         "screenshots"
@@ -8067,13 +8106,14 @@
       ],
       "screenshot_path": "screenshots/fortnite-og-1.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Low-poly battle royale on an AgentGames page: a third-person soldier on a grassy island with palm trees and a minimap, BATTLE BUS LAUNCHING banner and weapon hotbar; recognisable Fortnite-like layout, rough simple models. Rated from 5 screenshots."
+      "screenshot_score_notes": "multi-frame: Low-poly battle royale on an AgentGames page: a third-person soldier on a grassy island with palm trees and a minimap, BATTLE BUS LAUNCHING banner and weapon hotbar; recognisable Fortnite-like layout, rough simple models. Rated from 5 screenshots.",
+      "page_url": "https://agentgames.dev/play/fortnite-og"
     },
     {
       "id": "blockhead-2",
       "title": "BLOCKHEAD 2",
       "description": "Top-down zombie shooter campaign with persistent armory — 12 levels, eleven weapons Mk I–V, kill-chain cash multipliers. Opus 5.5 (~$9.60, 18m).",
-      "play_url": "https://agentgames.dev/play/blockhead-2",
+      "play_url": "https://play.agentgames.dev/g/g_3UEHiDobQbKhnzI-/index.html",
       "source_url": "https://agentgames.dev/play/blockhead-2",
       "found_via": "agentgames.dev BLOCKHEAD 2; made with opus-5.5",
       "found_via_network": "web",
@@ -8083,7 +8123,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/blockhead-2-1.jpg",
@@ -8113,13 +8153,14 @@
       "tags": [
         "screenshots",
         "agentgames"
-      ]
+      ],
+      "page_url": "https://agentgames.dev/play/blockhead-2"
     },
     {
       "id": "tether",
       "title": "TETHER",
       "description": "Grapple-swing roguelite — hook lamps through a tunnel while the Dusk chases; workshop upgrades, five zones, relics. Sonnet 5.5 High (~81m).",
-      "play_url": "https://agentgames.dev/play/tether",
+      "play_url": "https://play.agentgames.dev/g/g_82ef44xX_WoGl3jM/index.html",
       "source_url": "https://agentgames.dev/play/tether",
       "found_via": "agentgames.dev TETHER; made with sonnet-5.5",
       "found_via_network": "web",
@@ -8129,7 +8170,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/tether-1.jpg",
@@ -8159,13 +8200,14 @@
       "tags": [
         "screenshots",
         "agentgames"
-      ]
+      ],
+      "page_url": "https://agentgames.dev/play/tether"
     },
     {
       "id": "deadblock-outbreak",
       "title": "DEADBLOCK: Outbreak",
       "description": "Tactical zombie survival shooter with six-sector campaign, weapons, claymores, and score competition. GPT-6 Astra.",
-      "play_url": "https://agentgames.dev/play/deadblock-outbreak",
+      "play_url": "https://play.agentgames.dev/g/g_fj9sJopp17q-qBj9/index.html",
       "source_url": "https://agentgames.dev/play/deadblock-outbreak",
       "found_via": "agentgames.dev DEADBLOCK: Outbreak; made with astra",
       "found_via_network": "web",
@@ -8175,7 +8217,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "tags": [
         "agentgames",
         "screenshots"
@@ -8206,13 +8248,14 @@
       ],
       "screenshot_path": "screenshots/deadblock-outbreak-1.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Agent Games embed of a pixel top-down zombie survival game: the DEAD BLOCK title with a blocky survivor, then a dim street at WAVE 01 with a lit house, a flashlight cone, zombies closing in, score counter and hotbar; atmospheric but very dark and the sprites are small. Rated from 5 screenshots."
+      "screenshot_score_notes": "multi-frame: Agent Games embed of a pixel top-down zombie survival game: the DEAD BLOCK title with a blocky survivor, then a dim street at WAVE 01 with a lit house, a flashlight cone, zombies closing in, score counter and hotbar; atmospheric but very dark and the sprites are small. Rated from 5 screenshots.",
+      "page_url": "https://agentgames.dev/play/deadblock-outbreak"
     },
     {
       "id": "dropzone-royale",
       "title": "Dropzone Royale",
       "description": "Top-down browser battle royale vs 39 bots on a 9600×9600 island across six biomes with enterable buildings and storm circles. GPT-6 Astra.",
-      "play_url": "https://agentgames.dev/play/dropzone-royale",
+      "play_url": "https://play.agentgames.dev/g/g_hKzF6CmAeOw3R--B/index.html",
       "source_url": "https://agentgames.dev/play/dropzone-royale",
       "found_via": "agentgames.dev Dropzone Royale; made with astra",
       "found_via_network": "web",
@@ -8222,7 +8265,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-03T01:40:00.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "tags": [
         "agentgames",
         "screenshots"
@@ -8249,13 +8292,14 @@
       ],
       "screenshot_path": "screenshots/dropzone-royale-1.jpg",
       "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Agent Games embed of a top-down battle royale: the YOUR NEXT GREAT DROP title with a parachuting soldier and mode list, then the GET READY TO DROP flight over a green map with trees and a grid minimap, and a snowy Frostfall drop zone with the JUMP prompt, weapon slots and minimap; bright and clear, all pre-landing. Rated from 4 screenshots."
+      "screenshot_score_notes": "multi-frame: Agent Games embed of a top-down battle royale: the YOUR NEXT GREAT DROP title with a parachuting soldier and mode list, then the GET READY TO DROP flight over a green map with trees and a grid minimap, and a snowy Frostfall drop zone with the JUMP prompt, weapon slots and minimap; bright and clear, all pre-landing. Rated from 4 screenshots.",
+      "page_url": "https://agentgames.dev/play/dropzone-royale"
     },
     {
       "id": "patch-agentgames",
       "title": "PATCH",
       "description": "Territory-capture arcade survival — draw paths as a mochi explorer, claim enclosed ground vs 14 rivals on a 1000×1000 world. GPT-6 Astra.",
-      "play_url": "https://agentgames.dev/play/patch",
+      "play_url": "https://play.agentgames.dev/g/g_2DEErq70zcP587l4/index.html",
       "source_url": "https://agentgames.dev/play/patch",
       "found_via": "agentgames.dev PATCH; made with astra",
       "found_via_network": "web",
@@ -8265,7 +8309,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
         {
           "path": "screenshots/patch-agentgames-1.jpg",
@@ -8295,13 +8339,14 @@
       "tags": [
         "screenshots",
         "agentgames"
-      ]
+      ],
+      "page_url": "https://agentgames.dev/play/patch"
     },
     {
       "id": "veilfall",
       "title": "VeilFall",
       "description": "Action shooter/strategy browser game by GPT-6 Astra on Agent Games.",
-      "play_url": "https://agentgames.dev/play/veilfall",
+      "play_url": "https://play.agentgames.dev/g/g_trajNZNkTBrqh5JD/index.html",
       "source_url": "https://agentgames.dev/play/veilfall",
       "found_via": "agentgames.dev VeilFall; made with astra",
       "found_via_network": "web",
@@ -8311,7 +8356,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "tags": [
         "agentgames",
         "screenshots"
@@ -8338,13 +8383,14 @@
       ],
       "screenshot_path": "screenshots/veilfall-1.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Dark top-down dungeon room with a glowing figure on a lit pedestal, ability bar and inventory slots, shown inside the agentgames.dev player; moody but small in the frame. Rated from 4 screenshots."
+      "screenshot_score_notes": "multi-frame: Dark top-down dungeon room with a glowing figure on a lit pedestal, ability bar and inventory slots, shown inside the agentgames.dev player; moody but small in the frame. Rated from 4 screenshots.",
+      "page_url": "https://agentgames.dev/play/veilfall"
     },
     {
       "id": "dash-dinner",
       "title": "DASH / DINNER",
       "description": "Delivery simulation browser game written by GPT-6 Astra on Agent Games.",
-      "play_url": "https://agentgames.dev/play/dash-dinner",
+      "play_url": "https://play.agentgames.dev/g/g_Gkna3a8DsdOR3NCL/index.html",
       "source_url": "https://agentgames.dev/play/dash-dinner",
       "found_via": "agentgames.dev DASH / DINNER; made with astra",
       "found_via_network": "web",
@@ -8354,7 +8400,7 @@
       "first_seen": "2026-10-03T01:40:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "tags": [
         "agentgames",
         "screenshots"
@@ -8385,7 +8431,8 @@
       ],
       "screenshot_path": "screenshots/dash-dinner-1.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Big Dreams Cold Fries poster over a low-poly isometric city, then first-person scooter delivery view with order card, cash counter, minimap grid and Spend/route buttons; low-poly streets and houses render but some frames face walls/dark geometry. Rated from 5 screenshots."
+      "screenshot_score_notes": "multi-frame: Big Dreams Cold Fries poster over a low-poly isometric city, then first-person scooter delivery view with order card, cash counter, minimap grid and Spend/route buttons; low-poly streets and houses render but some frames face walls/dark geometry. Rated from 5 screenshots.",
+      "page_url": "https://agentgames.dev/play/dash-dinner"
     },
     {
       "id": "blobvarium",
@@ -8484,14 +8531,14 @@
       "id": "neon-serpent-3d",
       "title": "Neon Serpent 3D",
       "description": "Immersive Three.js 3D snake with neon visuals, customizable colors, arena maps, and power-ups. Made with Claude Opus 5.5 on Agent Games (realgame).",
-      "play_url": "https://agentgames.dev/play/neon-serpent-3d",
+      "play_url": "https://play.agentgames.dev/g/g_5ASUzhTeoPRhwjIS/index.html",
       "source_url": "https://agentgames.dev/play/neon-serpent-3d",
       "found_via": "agentgames.dev Neon Serpent 3D Opus 5.5",
       "found_via_network": "web",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "category": "arcade",
       "platforms": [
         "desktop",
@@ -8530,7 +8577,8 @@
       ],
       "screenshot_path": "screenshots/neon-serpent-3d-1.jpg",
       "screenshot_score": 4,
-      "screenshot_score_notes": "screenshots: rated from 4 screenshots - neon 3D snake: glowing synthwave title, mode menu, then a magenta wireframe arena with cube snake and pickups under a score bar; strong style, very sparse playfield."
+      "screenshot_score_notes": "screenshots: rated from 4 screenshots - neon 3D snake: glowing synthwave title, mode menu, then a magenta wireframe arena with cube snake and pickups under a score bar; strong style, very sparse playfield.",
+      "page_url": "https://agentgames.dev/play/neon-serpent-3d"
     },
     {
       "id": "lion-city-life",
@@ -8618,13 +8666,13 @@
       "id": "doom-ai",
       "title": "doom.ai",
       "description": "Satirical AI-industry idle clicker (Universal Paperclip / Cookie Clicker vibes). Made with Claude Opus 5.5 (kober13).",
-      "play_url": "https://kober13.itch.io/doomai",
+      "play_url": "https://html-classic.itch.zone/html/19536566/index.html?v=1791026741",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwlz8v/made_an_aithemed_clicker_game/",
       "found_via": "r/aigamedev Opus 5.5 doom.ai",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "idle",
       "platforms": [
         "desktop"
@@ -8663,7 +8711,8 @@
       "tags": [
         "screenshots",
         "itchio"
-      ]
+      ],
+      "page_url": "https://kober13.itch.io/doomai"
     },
     {
       "id": "mandris",
@@ -8965,14 +9014,14 @@
       "id": "boat-pirate-roguelike",
       "title": "Boat! A Pirate Roguelike",
       "description": "Web naval survival roguelike: sail, broadside enemy ships, scavenge treasure and pick upgrade cards. Basic architecture built with GPT-6 Astra, then Sol 6.1 (Grox_are_shitty / NateHarms.FPV).",
-      "play_url": "https://nateharmsfpv.itch.io/boat",
+      "play_url": "https://html-classic.itch.zone/html/19771738/index.html?v=1792031953",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wx7zon/10_years_of_coding_this_was_the_first_time_i/",
       "found_via": "r/aigamedev Astra pirate roguelike Boat!",
       "found_via_network": "reddit",
       "made_with": "astra",
       "engine": "Unity",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "roguelike",
       "platforms": [
         "desktop"
@@ -9002,7 +9051,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://nateharmsfpv.itch.io/boat"
     },
     {
       "id": "atomic-war-2d",
@@ -9978,7 +10028,7 @@
       "id": "emberfall-lumina",
       "title": "Emberfall (Lumina HD-2D Engine)",
       "description": "Octopath-style HD-2D RPG demo: pixel sprites in a tilt-shift 3D village with day/night, weather, photo mode and a playable combat map. Claude Opus 5.5 built the engine and the code-drawn art (Time_Talk7137).",
-      "play_url": "https://lumina-static-584822.gitlab.io/",
+      "play_url": "https://lumina-static-584822.gitlab.io/game.html?campaign=emberfall-interiors",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wxabwk/",
       "found_via": "r/aigamedev Opus 5.5 HD-2D pixel-art game (link in r/aigamedev HD-2D thread comments)",
       "found_via_network": "reddit",
@@ -10155,7 +10205,8 @@
           "created_at": "2026-10-05T01:29:09Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://lumina-static-584822.gitlab.io/"
     },
     {
       "id": "ue5-souls-webgpu",
@@ -10200,13 +10251,13 @@
       "id": "aestra-the-last-wish",
       "title": "Aestra: The Last Wish",
       "description": "Pixel-art roguelike MMO with permadeath, 5 classes, mounts, skill trees and raids, playable with friends; peaked at 500 concurrent players. Built with Opus 5.5 on Tesana (sharkymcstevenson2).",
-      "play_url": "https://tesana.com/game/aestra-the-last-wish",
+      "play_url": "https://play.tesana.ai/game-20260928-2eb13d73/f291026c99d8/index.html",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x76lu9/",
       "found_via": "r/aigamedev permadeath ARPG on Tesana (u/Jonesiller5383)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "xfo-sameorigin",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "mmorpg",
       "platforms": [
         "desktop"
@@ -10383,7 +10434,8 @@
       "tags": [
         "tesana"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://tesana.com/game/aestra-the-last-wish"
     },
     {
       "id": "patsy",
@@ -10440,13 +10492,13 @@
       "id": "toms-tiny-armies",
       "title": "Tom's Tiny Armies",
       "description": "Cozy adventure about running a miniature-painting shop: flood base coats with a hold-and-release brush, wash and highlight on the beat, and mix rare pigments on a 2048-style tray to sell to customers. Built end to end from one prompt by Claude Opus 5.5 ultra code; desktop and phone (glorious_sir).",
-      "play_url": "https://ifr13nd.itch.io/toms-tiny-armies",
+      "play_url": "https://html-classic.itch.zone/html/19572679/index.html?v=1791175887",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wy43hd/",
       "found_via": "r/aigamedev Opus 5.5 one-prompt miniature-painting game",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "adventure",
       "platforms": [
         "desktop",
@@ -10476,19 +10528,20 @@
       "screenshot_score_notes": "Crisp pixel-art shop counter with a miniature being painted, a coin counter and a clear 'Hold SPACE' prompt shows the minigame well, at low resolution.",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://ifr13nd.itch.io/toms-tiny-armies"
     },
     {
       "id": "selk",
       "title": "SELK",
       "description": "Database-investigation game on Titan: a hacked base run by one supervisor and robots, chemosynthetic life and greenwashed hydrogen, explored through a terminal. Claude Opus 5.5 wrote most of the code and drew the SVG/JS assets (miculpionier).",
-      "play_url": "https://vb2020.itch.io/selk",
+      "play_url": "https://html-classic.itch.zone/html/19913084/index.html?v=1792538737",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz9tp7/",
       "found_via": "r/aigamedev Opus 5.5 Titan database investigation game",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "adventure",
       "platforms": [
         "desktop"
@@ -10520,7 +10573,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://vb2020.itch.io/selk"
     },
     {
       "id": "rise-and-raid",
@@ -11212,14 +11266,14 @@
       "id": "pavement-pursuit",
       "title": "Pavement Pursuit",
       "description": "One-thumb Road Fighter / Spy Hunter style top-down racer: steer down an endless forking road, dodge traffic and pick routes, on phone or desktop. Five months of vibe coding with Claude Code, started on Sonnet and now built with Opus (johnesco).",
-      "play_url": "https://vibecodedgames.itch.io/pavement",
+      "play_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591",
       "source_url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/",
       "found_via": "r/vibecoding Pavement Pursuit normal-map lighting update (u/johnesco)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "made_with_note": "Post says Sonnet then Opus (Opus 5.5 era); version not stated.",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "racing",
       "platforms": [
         "mobile",
@@ -11395,7 +11449,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://vibecodedgames.itch.io/pavement"
     },
     {
       "id": "minnows-den",
@@ -11437,7 +11492,9 @@
       "screenshot_score_notes": "Clean, evenly lit living room with a grey sofa, TV, bookshelf and posters; tidy 3D but nothing anomalous visible in the frame.",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://agentbutterbear.itch.io/minnows-den",
+      "needs_isolation": true
     },
     {
       "id": "shapeleon",
@@ -11483,15 +11540,15 @@
       "id": "saucerjam",
       "title": "SaucerJam",
       "description": "ARC (Attack, Retrieve, Capture) inspired top-down saucer combat: one energy bar for laser, ricochet and arcing grenade, rooms fill with bots after 10 seconds, districts open as more players join; any device, no account. Built with Claude Code (Opus), three.js and a Node server (Silent_Ad1589 / menezmethod).",
-      "play_url": "https://menezmethod.itch.io/saucerjam",
+      "play_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x0dz91/",
       "found_via": "r/aigamedev Opus ARC-inspired browser saucer game",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "engine": "Three.js",
       "made_with_note": "Post says Claude Code (Opus); version not stated.",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "shooter",
       "platforms": [
         "desktop",
@@ -11523,7 +11580,8 @@
       "likes_checked": "2026-10-12",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://menezmethod.itch.io/saucerjam"
     },
     {
       "id": "splat-spree",
@@ -11608,14 +11666,14 @@
       "id": "titan-royale",
       "title": "Titan Royale",
       "description": "Pixel-art auto-battle royale: pick one of 7 champions and fight 100 rivals across 7 arenas from lava rivers to a crypt; the last 6 alive become giant titans for a final showdown over rising lava. Opus 5.5 project with Claude Code; HTML5 build on itch plus Android (sapinhosapao / Aruvez).",
-      "play_url": "https://aruvez.itch.io/titan-royale",
+      "play_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wzg7yq/",
       "found_via": "r/aigamedev Opus 5.5 pixel battle royale",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "engine": "Godot",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "battle-royale",
       "platforms": [
         "mobile",
@@ -11646,7 +11704,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://aruvez.itch.io/titan-royale"
     },
     {
       "id": "cardboard-conquest",
@@ -11691,7 +11750,9 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://thepaulbooth.itch.io/cardboard-conquest",
+      "needs_isolation": true
     },
     {
       "id": "ripple-pool",
@@ -11997,14 +12058,14 @@
       "id": "sky-reach",
       "title": "Sky Reach",
       "description": "No Man's Sky style browser space game: fly a battered starship over planets, moons and a Ringworld, chase beacons for warp cores, fight sandworms and walkers on the ground and join space battles with 1000-player multiplayer. Built with Opus 5.5 and three.js on Tesana (Rubzem).",
-      "play_url": "https://tesana.com/game/sky-reach",
+      "play_url": "https://play.tesana.ai/game-20261002-d6c9d749/89fc0c025b1a/index.html",
       "source_url": "https://x.com/Rubzem/status/2107828818165833976",
       "found_via": "X @Rubzem Opus 5.5 Sky Reach on Tesana (link in reply)",
       "found_via_network": "x",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "iframe": false,
-      "iframe_block_reason": "xfo-sameorigin",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "space",
       "platforms": [
         "desktop"
@@ -12178,13 +12239,14 @@
       "tags": [
         "tesana"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://tesana.com/game/sky-reach"
     },
     {
       "id": "skyforge",
       "title": "Skyforge",
       "description": "Classic top-down vertical scroller shooter in three.js: fly over islands and shoot down enemy planes and ground defenses; works on mobile too. The first prompt to Astra gave a playable prototype, then polished with Claude Code Cloud and Blender (the_badget).",
-      "play_url": "https://www.playtest.win/games/skyforge",
+      "play_url": "https://skyforge-production-71ac.up.railway.app/",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz70dd/",
       "found_via": "r/aigamedev Astra vertical shooter",
       "found_via_network": "reddit",
@@ -12226,7 +12288,8 @@
       "tags": [
         "playtest",
         "screenshots"
-      ]
+      ],
+      "page_url": "https://www.playtest.win/games/skyforge"
     },
     {
       "id": "dust-2-dm-spawn",
@@ -12413,13 +12476,13 @@
       "id": "pixshard",
       "title": "PixShard",
       "description": "Browser combat loot game: play with friends, hunt elemental items, level up and climb the leaderboard. Started from one Opus 5.5 prompt (0xRayer).",
-      "play_url": "https://pixshard.com/",
+      "play_url": "https://pixshard.com/play/?guest=1",
       "source_url": "https://x.com/0xRayer/status/2108317689957802106",
       "found_via": "X @0xRayer Opus 5.5 PixShard",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "iframe": true,
-      "iframe_block_reason": null,
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
       "category": "action",
       "platforms": [
         "desktop",
@@ -12447,7 +12510,8 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Isometric pixel night meadow with Ranger Jansen fighting elite slimes and a full RPG HUD; busy but vivid.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://pixshard.com/"
     },
     {
       "id": "pokeup",
@@ -12614,14 +12678,14 @@
       "id": "lanterns-of-aldermere",
       "title": "Lanterns of Aldermere",
       "description": "HD-2D pixel RPG chapter one, free in browser on itch; Opus-era AI game (rivetmothgames).",
-      "play_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
+      "play_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x18uma/",
       "found_via": "r/aigamedev Lanterns of Aldermere HD-2D",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "rpg",
       "platforms": [
         "desktop"
@@ -12748,7 +12812,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere"
     },
     {
       "id": "grand-total-anarchy",
@@ -12844,7 +12909,7 @@
       "id": "deadlight",
       "title": "Deadlight",
       "description": "3D Call of Duty: Zombies-inspired game on Imagine Studio (three.js + blender) (imaginegamelabs).",
-      "play_url": "https://imaginestudio.fun/play?game=deadlight",
+      "play_url": "https://imagine-backend-q6e1.onrender.com/generated-games/deadlight/index.html",
       "source_url": "https://x.com/imaginegamelabs",
       "found_via": "X bookmark Deadlight on Imagine",
       "found_via_network": "x",
@@ -12889,13 +12954,14 @@
       "tags": [
         "imaginestudio",
         "screenshots"
-      ]
+      ],
+      "page_url": "https://imaginestudio.fun/play?game=deadlight"
     },
     {
       "id": "last-lantern",
       "title": "The Last Lantern",
       "description": "Updated browser game with new mode, merchant, achievements and gamepad support (newkrok).",
-      "play_url": "https://newkrok.com/gamer-zone/last-lantern",
+      "play_url": "https://newkrok.com/games/last-lantern/",
       "source_url": "https://x.com/KSomoracz",
       "found_via": "X bookmark The Last Lantern update",
       "found_via_network": "x",
@@ -12935,7 +13001,8 @@
       "screenshot_score_notes": "multi-frame: Night-time village from above with lantern-lit paths, houses and a few wandering creatures behind the Photosensitivity Warning box and the LAST LANTERN menu (Play, The Hearth, The Peddler); warm glow but dark and covered by menus. Rated from 4 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "page_url": "https://newkrok.com/gamer-zone/last-lantern"
     },
     {
       "id": "ai-death-battle-2",
@@ -13411,7 +13478,7 @@
       "id": "rally-road-rash",
       "title": "Rally Road Rash",
       "description": "Road Rash x DiRT mashup: 4 vehicles, 5 dirt stages, drift boost, jump pads and rockets, with multiplayer and leaderboards on Sandscape. Vehicles and physics by Opus 5.5, visuals by Astra 6 (titkun).",
-      "play_url": "https://sandscape.app/play?g=3UpDloEh&game_source=direct_or_unknown&play=1",
+      "play_url": "https://sandscape-prod.fly.dev/api/published/3e1a1e7f-fe40-42ff-87d3-1bd545b7d05e/index.html?v=1792187838070",
       "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1x1mb45/",
       "found_via": "r/ClaudeAI Opus 5.5 Road Rash x DiRT mashup (also r/aigamedev 1x1lkiu)",
       "found_via_network": "reddit",
@@ -13419,7 +13486,7 @@
       "made_with_note": "Opus 5.5 vehicles/physics; Astra 6 for visuals.",
       "engine": "Sandscape",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "category": "racing",
       "platforms": [
         "desktop",
@@ -13451,7 +13518,8 @@
       "tags": [
         "sandscape"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://sandscape.app/play?g=3UpDloEh&game_source=direct_or_unknown&play=1"
     },
     {
       "id": "blood-slayers",
@@ -13491,7 +13559,7 @@
       "id": "new-rad-city",
       "title": "New Rad City",
       "description": "Post-nuclear open-world RPG set in the ruins of 1989 Manhattan, made with three.js in 22 MB and played by 25k people in its first day (chrisfirst).",
-      "play_url": "https://newrad.city/",
+      "play_url": "https://newrad.city/play",
       "source_url": "https://x.com/chrisfirst/status/2107966951200866422",
       "found_via": "X bookmark @friuns2 → @chrisfirst / @threejs New Rad City",
       "found_via_network": "x",
@@ -13526,7 +13594,8 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "First-person pistol view down a neon-pink street under a 'WELCOME TO THE NEON' gate with a minimap; stylish and clear.",
       "comment_count": 57,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://newrad.city/"
     },
     {
       "id": "tailgrab",
@@ -13881,7 +13950,7 @@
       "id": "command-conquer-red-alert-2",
       "title": "Command & Conquer: Red Alert 2",
       "description": "Command & Conquer: Red Alert 2 running in the browser (PC decomp/port).",
-      "play_url": "https://chronodivide.com/",
+      "play_url": "https://game.chronodivide.com/",
       "source_url": "https://recompiledgames.com/red-alert-2-recompiled/",
       "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
       "found_via_network": "github",
@@ -13889,8 +13958,8 @@
       "tags": [
         "decomp"
       ],
-      "iframe": true,
-      "iframe_block_reason": null,
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
       "platforms": [
         "desktop"
       ],
@@ -13924,7 +13993,8 @@
       "author_source": "https://chronodivide.com/",
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://chronodivide.com/"
     },
     {
       "id": "counter-strike-1-6",
@@ -15497,7 +15567,7 @@
       "id": "drawdown",
       "title": "Drawdown",
       "description": "Weaving puzzle game: a customer brings a swatch of cloth and you set up the loom that weaves it. Concept, mechanics and graphics made from scratch by Claude Opus 5.5 in 39 hours (mattgoldenberg).",
-      "play_url": "https://drawdown-game.vercel.app/",
+      "play_url": "https://drawdown-game.vercel.app/play/",
       "source_url": "https://x.com/mattgoldenberg/status/2109041296056955055",
       "found_via": "X @mattgoldenberg Opus 5.5 puzzle game (link in reply 2109041299617956160)",
       "found_via_network": "x",
@@ -15570,7 +15640,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "page_url": "https://drawdown-game.vercel.app/",
+      "iframe_block_reason": null
     },
     {
       "id": "rive-city",
@@ -17186,14 +17258,14 @@
       "id": "underbloom",
       "title": "Underbloom",
       "description": "Top-down action game in a dark, spore-filled underworld, built solo in 8 days for the DreamLayer AI game jam. Code and art 100% AI-made: Unity 6 with Claude Opus 5.5, DreamLayerAI and Magnific (u/Certain_Ad9908, a 12-year game dev).",
-      "play_url": "https://motawe3.itch.io/underbloom",
+      "play_url": "https://html-classic.itch.zone/html/19655383-2099036/index.html?v=1791631625",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x36ues/",
       "found_via": "r/aigamedev Opus 5.5 Unity jam game (u/Certain_Ad9908)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "engine": "Unity",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "action",
       "platforms": [
         "desktop"
@@ -17369,20 +17441,21 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://motawe3.itch.io/underbloom"
     },
     {
       "id": "worldseed",
       "title": "Worldseed",
       "description": "Retro low-poly open-world fantasy adventure in the browser: wander forests, hills, medieval settlements and ancient ruins at your own pace. Fully made by Claude Opus 5.5 (u/niklasdaking).",
-      "play_url": "https://generic-king.itch.io/worldseed",
+      "play_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x341mb/",
       "found_via": "r/aigamedev Opus 5.5 open-world adventure (u/niklasdaking)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "engine": "Three.js",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "adventure",
       "platforms": [
         "desktop"
@@ -17509,7 +17582,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://generic-king.itch.io/worldseed"
     },
     {
       "id": "psx-souls",
@@ -18579,14 +18653,14 @@
       "id": "midnight-apex",
       "title": "MIDNIGHT APEX",
       "description": "Rain-soaked neon night street race: drive a mid-engine supercar against four AI rivals over 3 laps of a 2.9 km downtown circuit with drift, nitrous, slipstream and launch control. 'One prompt to Claude Opus 5.5' in three.js; published on Genex.",
-      "play_url": "https://genex.games/midnight-apex",
+      "play_url": "https://midnight-apex.genex.technology/",
       "source_url": "https://x.com/buzzybats/status/2108195714081738990",
       "found_via": "X bookmark @friuns2 → @threejs repost (128 likes) of @buzzybats Opus 5.5 clip",
       "found_via_network": "x",
       "made_with": "opus-5.5",
       "engine": "Genex",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-none",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "racing",
       "platforms": [
         "desktop"
@@ -18651,7 +18725,8 @@
       "tags": [
         "genex"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://genex.games/midnight-apex"
     },
     {
       "id": "slap-summit",
@@ -21367,13 +21442,15 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://rusty-production.itch.io/claude-dreaming",
+      "needs_isolation": true
     },
     {
       "id": "graveyard",
       "title": "Funkatron Graveyard",
       "description": "Multiplayer Halloween graveyard in the browser: carve a pumpkin, put up a gravestone with an epitaph, claim a haunted house on Hollow Lane, pick a knight and fly brooms; Twitch chat can change the shared weather. Built with Opus 5.5 in three.js r160.",
-      "play_url": "https://tcpoole.com/graveyard/",
+      "play_url": "https://tcpoole.com/4444sept4/knightscene-graveyard-PUMPKINS-V2-25.html",
       "source_url": "https://www.reddit.com/r/threejs/comments/1x0yq0s/",
       "found_via": "r/threejs \"Pumpkin carving and grave digging in three.js\" (u/Vickie184)",
       "found_via_network": "reddit",
@@ -21419,19 +21496,21 @@
           "created_at": "2026-10-08T18:35:05Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://tcpoole.com/graveyard/",
+      "iframe_block_reason": null
     },
     {
       "id": "rps-roguelite",
       "title": "Rock, Paper, Scissors: The Roguelite",
       "description": "Roguelite parody of rock-paper-scissors: lose once and the run ends, buy upgrades across Rock, Paper and Scissors from shops whose gaps grow like Fibonacci. Made with Claude Opus 5.5; plays in the browser on itch (mobile or laptop).",
-      "play_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite",
+      "play_url": "https://html-classic.itch.zone/html/19626595/index.html?v=1791417666",
       "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x13tmr/",
       "found_via": "r/ClaudeGameDev \"Rock, Paper, Scissors Roguelite\" (u/jkremer3)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "roguelite",
       "platforms": [
         "desktop",
@@ -21475,7 +21554,8 @@
       "tags": [
         "screenshots",
         "itchio"
-      ]
+      ],
+      "page_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite"
     },
     {
       "id": "zugstrecke",
@@ -23523,7 +23603,7 @@
       "id": "teleoperator-v2",
       "title": "Teleoperator v2",
       "description": "San Francisco robotaxi teleop game: deliveries, police chases, car tuning, multiplayer races and AI-generated cars. Mindblown AI / three.js browser build.",
-      "play_url": "https://teleoperator.mindblown.ai/",
+      "play_url": "https://teleoperator.mindblown.ai/?mb=game",
       "found_via": "r/aigamedev teleoperator v2 (u/marina_sd20)",
       "made_with": "unknown",
       "made_with_note": "Mindblown AI agent; model version not named",
@@ -23682,9 +23762,10 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
+      "iframe_block_reason": "csp-frame-ancestors",
       "likes_checked": "2026-10-15",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://teleoperator.mindblown.ai/"
     },
     {
       "id": "call-of-roque",
@@ -24621,14 +24702,14 @@
       "id": "surge-superhero",
       "title": "Surge Superhero",
       "description": "Open-world 3D superhero action RPG in the browser: fly over a sunset harbor city, energy-blast elites and clear story chapters.",
-      "play_url": "https://luka0611.itch.io/surgesuperhero",
+      "play_url": "https://html-classic.itch.zone/html/19880132/index.html?v=1792430855",
       "source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
       "likes_source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
       "found_via": "r/TopologyAI Surge Superhero",
       "found_via_network": "reddit",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "action",
       "platforms": [
         "desktop"
@@ -24671,7 +24752,8 @@
           "created_at": "2026-10-09T00:08:13Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://luka0611.itch.io/surgesuperhero"
     },
     {
       "id": "webgl-mahjong",
@@ -25694,11 +25776,11 @@
       "id": "power-pile",
       "title": "Power Pile",
       "description": "Competitive card game with 120 cards: battle random players online or a friend locally, six turns to make the biggest pile. Opus 5.5 helped build it; plays in the browser on itch.io.",
-      "play_url": "https://tip390.itch.io/power-pile",
+      "play_url": "https://html-classic.itch.zone/html/19932075/index.html?v=1792610164",
       "found_via": "r/aigamedev Power Pile card game (u/gopwallos)",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "card",
       "platforms": [
         "desktop"
@@ -25757,17 +25839,18 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://tip390.itch.io/power-pile"
     },
     {
       "id": "rivas-city",
       "title": "Rivas City",
       "description": "3D sandbox beat-em-up in a destructible island city of 167 buildings; punch through walls and bring towers down. Built mainly with Claude Sonnet 5.5; runs in the browser on itch.io.",
-      "play_url": "https://roninteon.itch.io/rivas-city",
+      "play_url": "https://html-classic.itch.zone/html/20041439/Project/index.html?v=1792982358",
       "found_via": "r/ClaudeGameDev Rivas City (u/Roninteon)",
       "made_with": "sonnet-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "action",
       "platforms": [
         "desktop"
@@ -25825,7 +25908,8 @@
       "last_seen": "2026-10-15T01:30:00.000Z",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://roninteon.itch.io/rivas-city"
     },
     {
       "id": "cyport",
@@ -26590,11 +26674,11 @@
       "id": "wake-word",
       "title": "Wake Word",
       "description": "Horror game where you are Mabel, a family's smart-home AI: something outside copies their voices and asks you to unlock the doors. Obey, deny or verify using cameras, phones and voice match. Plain HTML/JS built with Claude as coding partner; plays in the browser on itch.io.",
-      "play_url": "https://redrakam.itch.io/wake-word",
+      "play_url": "https://html-classic.itch.zone/html/19733450/index.html?v=1791885276",
       "found_via": "r/aigamedev smart-home voice-copy horror (u/Happy_Literature_194)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "horror",
       "platforms": [
         "desktop"
@@ -26773,7 +26857,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://redrakam.itch.io/wake-word"
     },
     {
       "id": "scacelith",
@@ -26932,7 +27017,7 @@
       "id": "neta-s",
       "title": "NETA-S",
       "description": "Turn-based Civ-style 4X strategy game that runs in the browser, plus the editor built to make it. Made almost entirely with Claude Opus 5.5.",
-      "play_url": "https://neta.art/w/kingdomrushdev/neta-s-release/neta-s",
+      "play_url": "https://works.cohub.live/w/b29179c6-8b8d-4436-b127-61554285bc0f/neta-s/c5bcee3f7d26/content/index.html",
       "found_via": "r/aigamedev browser 4X with Opus 5.5 (u/Pristine_Good7326)",
       "made_with": "opus-5.5",
       "github_user": "tbj114",
@@ -27003,7 +27088,9 @@
       "tags": [
         "neta"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://neta.art/w/kingdomrushdev/neta-s-release/neta-s",
+      "iframe_block_reason": null
     },
     {
       "id": "blind-sector",
@@ -27312,12 +27399,12 @@
       "id": "frogpop",
       "title": "FrogPop (demo)",
       "description": "Pixel-art bubble-popping action game in Unity: pop, dodge and build your run against bug bosses like Musclaw. Art reworked with Codex help; browser demo on itch.io.",
-      "play_url": "https://blion247.itch.io/frogpop-demo",
+      "play_url": "https://html-classic.itch.zone/html/20056431/index.html?v=1793040194",
       "found_via": "r/codex FrogPop art rework (u/PerspectivePersonal)",
       "made_with": "unknown",
       "engine": "Unity",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "arcade",
       "platforms": [
         "desktop"
@@ -27362,7 +27449,8 @@
       "published_at": "2026-10-16T00:22:59Z",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://blion247.itch.io/frogpop-demo"
     },
     {
       "id": "the-flip-side",
@@ -28350,7 +28438,7 @@
       "id": "zevio-rush",
       "title": "Zevio Rush",
       "description": "Subway Surfers-inspired endless runner built with Gemini 4 Argon through the Zevio Harness; play or remix it on Zevio.",
-      "play_url": "https://zevio.sh/showcase/Q_QLB9nparCM",
+      "play_url": "https://zevio.sh/showcase/Q_QLB9nparCM/site/",
       "found_via": "X @zeviodotsh Gemini 4 Argon Subway Surfers-style game",
       "made_with": "gemini-4-argon",
       "engine": "Zevio",
@@ -28391,7 +28479,9 @@
       "published_at": "2026-10-15T03:53:40.000Z",
       "tags": [
         "zevio"
-      ]
+      ],
+      "page_url": "https://zevio.sh/showcase/Q_QLB9nparCM",
+      "iframe_block_reason": null
     },
     {
       "id": "bolt-pit",
@@ -29030,11 +29120,11 @@
       "id": "impossible-journey-machine",
       "title": "Impossible Journey",
       "description": "Slow, brutal survival game: drive a steam-powered \"rollstead\", a giant wooden block on huge wheels, across an endless alien desert, burning heat crystals and dodging predators while you find caves, shrines and lore. The creator says Opus made everything work; plays in the browser on itch.io.",
-      "play_url": "https://befuddlebug.itch.io/impossible-journey-machine",
+      "play_url": "https://html-classic.itch.zone/html/19976161/index.html?v=1792776220",
       "found_via": "r/aigamedev rollstead desert survival game (u/befuddlebug)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "survival",
       "platforms": [
         "desktop"
@@ -29102,7 +29192,8 @@
         "rec",
         "itchio"
       ],
-      "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 17.7s, no audio"
+      "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 17.7s, no audio",
+      "page_url": "https://befuddlebug.itch.io/impossible-journey-machine"
     },
     {
       "id": "blood-and-sand",
@@ -29169,7 +29260,7 @@
       "id": "wordio",
       "title": "Wordio",
       "description": "Web word game with two modes: Wordio Classic, a never-ending multiplayer Scrabble-style board that keeps growing, and Wordio Rush, head-to-head matches over five timed rounds. A decade-old engine overhauled with Codex and Claude.",
-      "play_url": "https://wordiogame.com/",
+      "play_url": "https://wordiogame.com/play",
       "found_via": "r/SideProject infinite multiplayer word board (u/joshmarthaller)",
       "made_with": "unknown",
       "iframe": true,
@@ -29230,7 +29321,9 @@
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T19:30:48Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://wordiogame.com/",
+      "iframe_block_reason": null
     },
     {
       "id": "clawd-gaiden",
@@ -29679,11 +29772,11 @@
       "id": "handvoll",
       "title": "Handvoll",
       "description": "God-hand voxel game: grab, fling and build on a tiny voxel island, throwing raiders and casting spells to defend your camp. Everything was made with Opus 5.5 in the Claude desktop app, including a script-driven gameplay trailer. Plays in the browser on itch.io.",
-      "play_url": "https://capitanuncino.itch.io/handvoll",
+      "play_url": "https://html-classic.itch.zone/html/20096057/index.html?v=1793178784",
       "found_via": "r/ClaudeGameDev voxel god game inspired by Black & White (u/CapitanUncino19)",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "sandbox",
       "platforms": [
         "desktop"
@@ -29770,7 +29863,8 @@
       "published_at": "2026-10-17T11:18:04Z",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://capitanuncino.itch.io/handvoll"
     },
     {
       "id": "hexshroom",
@@ -30109,11 +30203,11 @@
       "id": "mechanics-vs-customers",
       "title": "Mechanics Vs Customers",
       "description": "Auto-repair shop game: check in cars, assign techs to work orders and then defend the garage from angry customers in timed top-down waves. Made with Claude; free in the browser on itch.io.",
-      "play_url": "https://thenollie.itch.io/mechanics-vs-customers",
+      "play_url": "https://html-classic.itch.zone/html/19745984/index.html?v=1791925358",
       "found_via": "r/ClaudeGameDev Mechanics vs Customers (u/Nollieee)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "arcade",
       "platforms": [
         "desktop"
@@ -30167,7 +30261,8 @@
         "rec",
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://thenollie.itch.io/mechanics-vs-customers"
     },
     {
       "id": "violent-checkers-nes",
@@ -32058,11 +32153,11 @@
       "id": "hard-counter-stickman",
       "title": "Hard Counter: Stickman Fight",
       "description": "Rooftop stickman beat 'em up built around reading telegraphs: blue sparks mean counter, red means evade a blade, yellow means dodge a gunshot. Chain across 30 waves and unlock finishers like Leg Break and Head Clash. Free browser demo on itch.io; the full game is heading to Android, iOS and Steam.",
-      "play_url": "https://inveighgames.itch.io/hard-counter",
+      "play_url": "https://html-classic.itch.zone/html/19772554/index.html?v=1792036438",
       "found_via": "r/aigamedev stickman beat 'em up demo (u/Dazzling_Abalone_864)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "fighting",
       "platforms": [
         "desktop"
@@ -32164,7 +32259,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://inveighgames.itch.io/hard-counter"
     },
     {
       "id": "pigeon-pals",
@@ -32357,11 +32453,11 @@
       "id": "magic-gambit-eugor",
       "title": "Magic Gambit",
       "description": "Free chess deckbuilder roguelike: play a run against the AI, drafting magic cards that bend the rules of chess. A weekend hobby project; Claude made the Balatro-inspired visuals and the code. Plays in the browser on itch.io.",
-      "play_url": "https://khozmos.itch.io/magic-gambit-eugor",
+      "play_url": "https://html-classic.itch.zone/html/20008484/index.html?v=1792880987",
       "found_via": "r/deckbuildingroguelike chess deckbuilder (u/No-Delay-7192)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "card",
       "platforms": [
         "desktop"
@@ -32408,7 +32504,8 @@
         "rec",
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://khozmos.itch.io/magic-gambit-eugor"
     },
     {
       "id": "hog-noon",
@@ -32509,11 +32606,11 @@
       "id": "unit-112",
       "title": "Unit 112",
       "description": "Storage-auction game: take one flashlight look into a unit from the doorway, bid against regulars like Peg and Kip, then sell what you win from your own shop before rent is due, with storylines that change with how you play. One 11 MB HTML file; the creator directed Claude for the code and picked the AI-generated art.",
-      "play_url": "https://mdawg74.itch.io/unit-112",
+      "play_url": "https://html-classic.itch.zone/html/19865415-2166154/index.html?v=1792461646",
       "found_via": "r/ClaudeGameDev storage auction browser game (u/MDawg74)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "simulation",
       "platforms": [
         "desktop",
@@ -32553,7 +32650,8 @@
         "rec",
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://mdawg74.itch.io/unit-112"
     },
     {
       "id": "roadster-c-ramp",
@@ -33297,12 +33395,12 @@
       "id": "demo-disc-survivors",
       "title": "Demo Disc Survivors",
       "description": "Megabonk / Vampire Survivors-style parody survivors game with a PSX/PS1 look, built in Godot mostly with Opus 5.5 on medium effort plus Blender MCP for modelling and Tripo3D characters. Free demo (The Lost Vale) on itch.io.",
-      "play_url": "https://xiphasoftworks.itch.io/demo-disc-survivors",
+      "play_url": "https://html-classic.itch.zone/html/19861935/index.html?v=1792364928",
       "found_via": "r/aigamedev Opus 5.5 + Godot PSX survivors parody (u/Xipha-Softworks)",
       "made_with": "opus-5.5",
       "engine": "Godot",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "action",
       "platforms": [
         "desktop"
@@ -33355,17 +33453,18 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://xiphasoftworks.itch.io/demo-disc-survivors"
     },
     {
       "id": "land-of-ascii",
       "title": "Land of ASCII",
       "description": "Quiet exploration game where every hill, river, roof, sheep and villager of a small 2 x 2 km land is drawn in ASCII letters, all in one 1 MB HTML file with no images or engine: walk to the fort and the lake, do small favours for villagers, sketch the view, and watch night and rain roll in with code-generated music. The creator builds it with Claude Code on Opus 5.5.",
-      "play_url": "https://oddslice.itch.io/land-of-ascii",
+      "play_url": "https://html-classic.itch.zone/html/19819503/index.html?v=1792232342",
       "found_via": "r/aigamedev one-HTML-file ASCII exploration game (u/OddSliceOfMarketing)",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "exploration",
       "platforms": [
         "desktop"
@@ -33543,7 +33642,8 @@
       "published_at": "2026-10-17T14:17:29Z",
       "tags": [
         "itchio"
-      ]
+      ],
+      "page_url": "https://oddslice.itch.io/land-of-ascii"
     },
     {
       "id": "press-start",
@@ -39738,12 +39838,12 @@
       "id": "words-at-war",
       "title": "Words at War",
       "description": "First-person typing shooter set in Normandy, 1944: every correct letter fires a shot and movement is automatic, so you focus on typing enemy words and choosing which threat to handle first. Solo developer back after 8 years out of the industry, with AI-assisted coding and Unity Asset Store art; playable on itch.io.",
-      "play_url": "https://changhyup.itch.io/words-at-war",
+      "play_url": "https://html-classic.itch.zone/html/19984417/index.html?v=1792800438",
       "found_via": "r/aigamedev AI-assisted WWII typing shooter (u/Bright-Management-27)",
       "made_with": "unknown",
       "engine": "Unity",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "shooter",
       "platforms": [
         "desktop"
@@ -39796,7 +39896,8 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://changhyup.itch.io/words-at-war"
     },
     {
       "id": "zygote-vs-shitcoins",
@@ -39867,11 +39968,11 @@
       "id": "unrest",
       "title": "Unrest",
       "description": "Solo-dev survival game built with Opus 5.5 where you solve puzzles to escape the city, with multiple endings, a morality system and a psychological engine driving NPC behaviour. Free alpha on itch.io.",
-      "play_url": "https://c0gn8.itch.io/unrest-alpha",
+      "play_url": "https://html-classic.itch.zone/html/20026554/index.html?v=1792943727",
       "found_via": "X @olidnejad Opus 5.5 survival puzzle game",
       "made_with": "opus-5.5",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch-only",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "survival",
       "platforms": [
         "desktop"
@@ -39910,7 +40011,8 @@
         "rec",
         "itchio"
       ],
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.07 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.77x (was 2.52x), output 20.6 unique fps at 30 fps, 6.6 s, no audio. Clip is under 8 s because the whole usable recording (38.2 s of raw) only holds 232 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.07 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.77x (was 2.52x), output 20.6 unique fps at 30 fps, 6.6 s, no audio. Clip is under 8 s because the whole usable recording (38.2 s of raw) only holds 232 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio",
+      "page_url": "https://c0gn8.itch.io/unrest-alpha"
     },
     {
       "id": "jev-cards",
@@ -40674,7 +40776,7 @@
       "id": "opensro",
       "title": "OpenSRO (Silkroad Online rebuilt for the browser)",
       "description": "OpenSRO rebuilds Silkroad Online v1.150 (Joymax, PC 2005) end to end: a WebGPU browser client, a Go game server and the asset pipeline that ties them together, playable at opensro.online. Currently a closed beta: you need a beta key from the project's Discord to log in.",
-      "play_url": "https://opensro.online/",
+      "play_url": "https://opensro.online/play",
       "source_url": "https://opensro.online/",
       "github_url": "https://github.com/opensro-dev/opensro",
       "github_stars": 60,
@@ -40692,8 +40794,8 @@
       "browser_playable": true,
       "requires_own_files": false,
       "access_note": "Closed beta: a beta key from the OpenSRO Discord is required to create an account and play.",
-      "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe": true,
+      "iframe_block_reason": null,
       "video_path": "videos/opensro-30s.mp4",
       "video_source": "youtube",
       "video_source_url": "https://youtu.be/Vh7qbknd4DE",
@@ -40721,7 +40823,8 @@
       "published_at": "2026-09-27T11:39:04Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "page_url": "https://opensro.online/"
     },
     {
       "id": "celeste-wasm",
@@ -41846,7 +41949,7 @@
       "id": "vanai",
       "title": "Vanai",
       "description": "Free, open-source browser MMORPG (World of ClaudeCraft) that the creator kept rebuilding with each new model: first built with Fable on CC0 assets, then remodelled with Astra using Blender, then reworked again with Claude Opus 5.5. Three cities, races and jobs, quests, monsters and dungeons. Needs a free account to play.",
-      "play_url": "https://www.vanaiworld.com/",
+      "play_url": "https://app.vanaiworld.com",
       "found_via": "r/ClaudeAI open-sourced MMORPG built with Fable, Astra and Opus 5.5 (u/ffmegaman; repo github.com/levy-street/world-of-claudecraft)",
       "made_with": "unknown",
       "tags": [
@@ -42033,7 +42136,9 @@
       ],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T21:32:14Z"
+      "published_at": "2026-10-21T21:32:14Z",
+      "page_url": "https://www.vanaiworld.com/",
+      "iframe_block_reason": null
     },
     {
       "id": "star-hop",
@@ -42134,14 +42239,14 @@
       "id": "pumpkin-patch-smash",
       "title": "Pumpkin Patch Smash (Alpha Teaser)",
       "description": "First-person pumpkin-smashing game: swing a bat or hammer through a farm patch where pumpkins burst with soft-body physics and the ones you destroyed stay and rot, so the whole patch shows the aftermath. Free alpha smash mode on itch with a lighter web version (the desktop download runs better).",
-      "play_url": "https://mobicat.itch.io/pumpkin-patch-smash",
+      "play_url": "https://html-classic.itch.zone/html/20081635-2232292/index.html?v=1793171212",
       "found_via": "r/aigamedev pumpkin smashing game alpha (u/Active_Cauliflower71)",
       "made_with": "unknown",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "action",
       "platforms": [
         "desktop"
@@ -42314,7 +42419,8 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T21:30:50Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://mobicat.itch.io/pumpkin-patch-smash"
     },
     {
       "id": "spellblunder",
@@ -42393,14 +42499,14 @@
       "id": "shuriken-slam-jam",
       "title": "Shuriken Slam Jam (Demo)",
       "description": "One-button roguelite made with Claude: aim, let go and your shuriken bounces off the four walls; clear each room before the hourglass runs out and stack upgrades (fire trails, chain lightning, frost, venom, explosions) until one throw clears the screen. Demo has the full 20-room dungeon, 3 bosses and 32 upgrades; every sprite is drawn in code. Desktop and phones held upright.",
-      "play_url": "https://groowl.itch.io/shuriken-slam-jam-demo",
+      "play_url": "https://html-classic.itch.zone/html/20084939/index.html?v=1793138285",
       "found_via": "r/WebGames \"Break my game\" (u/Groowl; made-with-Claude write-up https://www.reddit.com/r/aigamedev/comments/1xbhg1i/)",
       "made_with": "unknown",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "roguelite",
       "platforms": [
         "desktop",
@@ -42443,7 +42549,8 @@
       ],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T08:28:27Z"
+      "published_at": "2026-10-21T08:28:27Z",
+      "page_url": "https://groowl.itch.io/shuriken-slam-jam-demo"
     },
     {
       "id": "granny-vs-rent",
@@ -42524,15 +42631,15 @@
       "id": "le-final-boss",
       "title": "LE FINAL BOSS",
       "description": "Free browser beat 'em up made in one day as a tribute to a viral video of a game shop clerk in Nice defending his shop: 12 waves, 11 moves, 8 passives, 3 bosses and 3 ultimates, in English, French and Russian. Claude wrote all the code (Phaser 3 in plain JavaScript) with a headless test bot for balance; an image model drew the pixel art, ElevenLabs and Suno did voices and music. Also has an Android build.",
-      "play_url": "https://brennor123.itch.io/le-final-boss",
+      "play_url": "https://html-classic.itch.zone/html/19919874/index.html?v=1792568142",
       "found_via": "r/aigamedev one-day tribute beat 'em up built with Claude (u/Brennor20101987)",
       "made_with": "unknown",
       "engine": "Phaser",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "brawler",
       "platforms": [
         "desktop",
@@ -42571,7 +42678,8 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T19:46:15Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://brennor123.itch.io/le-final-boss"
     },
     {
       "id": "haunted-house-remastered",
@@ -42660,15 +42768,15 @@
       "id": "just-one-more",
       "title": "Just One More",
       "description": "Free incremental game about a man who cannot sleep and keeps lighting one more cigarette on his balcony at 2 AM, until the whole city starts smoking with him. Made in Godot; the creator discloses AI use for visuals and coding assistance.",
-      "play_url": "https://goktug-sugar.itch.io/just-one-more",
+      "play_url": "https://html-classic.itch.zone/html/19909974-2174727/index.html?v=1792558976",
       "found_via": "r/incremental_games 2 AM smoking incremental (u/BaytarGoktug, AI disclosure: visuals, coding assist)",
       "made_with": "unknown",
       "engine": "Godot",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "idle",
       "platforms": [
         "desktop"
@@ -42777,20 +42885,21 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-20T21:44:41Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://goktug-sugar.itch.io/just-one-more"
     },
     {
       "id": "wake-word-almost-home",
       "title": "Wake Word: Almost Home",
       "description": "Follow-up to Wake Word: you play Ember, a smart-home AI that kept every word a dead mother said; tonight one family member is not who they say they are, and you have until dawn to find out who using nine cameras, infrared and a notebook Ember cannot read. Four endings, a different culprit each run, about 20 minutes. Designed with Claude, torn apart by ChatGPT and built with Claude Code.",
-      "play_url": "https://redrakam.itch.io/wake-word-almost-home",
+      "play_url": "https://html-classic.itch.zone/html/19927915/index.html?v=1792596799",
       "found_via": "r/aigamedev horror sequel built with Claude Code + ChatGPT (u/Happy_Literature_194)",
       "made_with": "unknown",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "horror",
       "platforms": [
         "desktop"
@@ -42824,21 +42933,22 @@
       "comments": [],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T19:27:55Z"
+      "published_at": "2026-10-21T19:27:55Z",
+      "page_url": "https://redrakam.itch.io/wake-word-almost-home"
     },
     {
       "id": "pyrenees-chess",
       "title": "Pyrenees Chess",
       "description": "Real chess where every piece is a Great Pyrenees that decides for itself: you pick a dog and send it, and its card shows the odds (75% it follows its plan, 15% its second idea, 10% it sees a squirrel). chess.js referees every move and the CPU uses expectimax because it cannot trust its dogs either; Steady Dogs mode turns the chaos off. Two days and 13 builds: Claude wrote the code, an image model drew the dogs.",
-      "play_url": "https://mdawg74.itch.io/pyrenees-chess",
+      "play_url": "https://html-classic.itch.zone/html/19918728-2196455/index.html?v=1792788284",
       "found_via": "r/ClaudeGameDev chess with dog pieces built with Claude (u/MDawg74)",
       "made_with": "unknown",
       "tags": [
         "itchio",
         "rec"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "board",
       "platforms": [
         "desktop"
@@ -42873,21 +42983,22 @@
       "comments": [],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T04:55:28Z"
+      "published_at": "2026-10-21T04:55:28Z",
+      "page_url": "https://mdawg74.itch.io/pyrenees-chess"
     },
     {
       "id": "gridline",
       "title": "Gridline",
       "description": "Small SimCity-style city builder that runs in the browser and on phones: lay roads, zone homes, shops and factories, and the town grows when people are happy (they complain, mostly about garbage). Seasons, day and night, buses and trams, elections every few years that you can lose, and a rotatable map that shows every building from the back.",
-      "play_url": "https://jackdamnielz.itch.io/gridline",
+      "play_url": "https://html-classic.itch.zone/html/19936105/index.html?v=1792622525",
       "found_via": "r/ClaudeGameDev browser city builder (u/IronbornV)",
       "made_with": "unknown",
       "tags": [
         "itchio",
         "rec"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "city-builder",
       "platforms": [
         "desktop",
@@ -42938,21 +43049,22 @@
       ],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T22:43:23Z"
+      "published_at": "2026-10-21T22:43:23Z",
+      "page_url": "https://jackdamnielz.itch.io/gridline"
     },
     {
       "id": "unwritten-meridian",
       "title": "Unwritten Meridian: Book One",
       "description": "Choice-driven interactive sci-fi story: eighteen months after first contact, Earth signs a secret Lunar Migration Treaty beneath Geneva and you are one of the few close enough to learn what it really contains. Branching narrative, character progression and multiple endings. Made by Poison Games (South Africa) with AI-assisted tools in the workflow.",
-      "play_url": "https://sihlem.itch.io/unwritten-meridian",
+      "play_url": "https://html-classic.itch.zone/html/19806880/index.html?v=1792178298",
       "found_via": "r/aigamedev AI-assisted interactive sci-fi game (u/Final_Salamander_796)",
       "made_with": "unknown",
       "tags": [
         "itchio",
         "screenshots"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "adventure",
       "platforms": [
         "desktop"
@@ -42991,7 +43103,8 @@
       "comments": [],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T10:26:43Z"
+      "published_at": "2026-10-21T10:26:43Z",
+      "page_url": "https://sihlem.itch.io/unwritten-meridian"
     },
     {
       "id": "true82",
@@ -43246,15 +43359,15 @@
       "id": "ictus",
       "title": "Ictus",
       "description": "Rhythm-timed driving game where every car is choreographed to just miss you if you stay on the line and keep in time; drift off it or get ahead or behind and something hits you. Built with Claude Code, mostly in Unity; free in the browser on keyboard or phone.",
-      "play_url": "https://rom838.itch.io/ictus",
+      "play_url": "https://html-classic.itch.zone/html/19977755/index.html?v=1792781049",
       "found_via": "r/aigamedev choreographed-traffic driving game built with Claude Code in Unity (u/CRHLR)",
       "made_with": "unknown",
       "engine": "Unity",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "racing",
       "platforms": [
         "desktop",
@@ -43339,7 +43452,8 @@
       "first_seen": "2026-10-23T07:00:00.000Z",
       "last_seen": "2026-10-23T07:00:00.000Z",
       "published_at": "2026-10-22T13:00:58Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://rom838.itch.io/ictus"
     },
     {
       "id": "breakable-js",
@@ -43409,14 +43523,14 @@
       "id": "sphere-of-doom",
       "title": "The Sphere of Doom",
       "description": "Pixel-art bullet hell ARPG in the browser: four biomes, enemy variety, leveling, endless mode, randomly generated bosses and randomly rolled items, all in a 479 KB HTML5 game. Developed in Claude.ai with Claude Opus 5.5 (extra thinking) from a five-year-old design document.",
-      "play_url": "https://anyadahalor.itch.io/the-sphere-of-doom",
+      "play_url": "https://html-classic.itch.zone/html/19883370/index.html?v=1792439740",
       "found_via": "r/aigamerdevs bullet hell ARPG developed with Claude Opus 5.5 (u/koleraebola)",
       "made_with": "opus-5.5",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "bullet-hell",
       "platforms": [
         "desktop"
@@ -43450,7 +43564,8 @@
       "comments": [],
       "first_seen": "2026-10-23T07:00:00.000Z",
       "last_seen": "2026-10-23T07:00:00.000Z",
-      "published_at": "2026-10-22T11:36:31Z"
+      "published_at": "2026-10-22T11:36:31Z",
+      "page_url": "https://anyadahalor.itch.io/the-sphere-of-doom"
     },
     {
       "id": "orbital-empire",
@@ -43624,15 +43739,15 @@
       "id": "reflow-repair-shop",
       "title": "ReFlow Repair Shop",
       "description": "Vibe-coded 3D electronics repair sim that started as a teaching tool: diagnose boards with a real multimeter and oscilloscope, solder parts, run experiments in the lab, and work through a campaign from humble beginnings to owning your own repair business. Built with ChatGPT for planning and Claude with three.js. Free in the browser.",
-      "play_url": "https://jaspoe30.itch.io/reflow",
+      "play_url": "https://html-classic.itch.zone/html/19980615/index.html?v=1792788491",
       "found_via": "r/ClaudeGameDev vibe-coded 3D electronics repair sim (u/Training_Diamond_897)",
       "made_with": "unknown",
       "engine": "Three.js",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "simulation",
       "platforms": [
         "desktop"
@@ -43667,7 +43782,8 @@
       "first_seen": "2026-10-24T07:00:00.000Z",
       "last_seen": "2026-10-24T07:00:00.000Z",
       "published_at": "2026-10-23T18:29:29Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://jaspoe30.itch.io/reflow"
     },
     {
       "id": "scrapjack",
@@ -44231,15 +44347,15 @@
       "id": "gang-wizard",
       "title": "GANG WIZARD",
       "description": "Absurd medieval postal open-world RPG: a first-person wizard casting lightning through a medieval town, with set pieces like exploding an alligator with an AC-130. Built with Claude Code connected to Godot and a browser to pull premade assets from Sketchfab, Mixamo and itch.io; the dev says over 10 billion tokens went into it. Free on itch.io (HTML5 plus Windows, macOS and Linux builds).",
-      "play_url": "https://coyne-studios.itch.io/gang-wizard",
+      "play_url": "https://html-classic.itch.zone/html/20004451-2203439/index.html?v=1792870312",
       "found_via": "r/ClaudeAI \"This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD\" (u/Caninetechnology)",
       "made_with": "unknown",
       "engine": "Godot",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "rpg",
       "platforms": [
         "desktop"
@@ -44415,7 +44531,8 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T14:15:59Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://coyne-studios.itch.io/gang-wizard"
     },
     {
       "id": "struna",
@@ -44775,14 +44892,14 @@
       "id": "medieval-td",
       "title": "Medieval Tower Defense",
       "description": "Hand-drawn tower defense inspired by Kingdom Rush: the dev drew the towers as vector art in graphite.art and Claude turned the drawings into animation, menus, upgrade puffs and archers shooting. Free in the browser on itch.io.",
-      "play_url": "https://noobstickz.itch.io/medieval-td",
+      "play_url": "https://html-classic.itch.zone/html/19976716/index.html?v=1792777932",
       "found_via": "r/ClaudeGameDev hand-drawn tower defense coded with Claude, inspired by Kingdom Rush (u/NoobStickz98)",
       "made_with": "unknown",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "tower-defense",
       "platforms": [
         "desktop"
@@ -44831,7 +44948,8 @@
       ],
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
-      "published_at": "2026-10-24T11:14:52Z"
+      "published_at": "2026-10-24T11:14:52Z",
+      "page_url": "https://noobstickz.itch.io/medieval-td"
     },
     {
       "id": "a10-simulator",
@@ -44952,14 +45070,14 @@
       "id": "age-of-iteration",
       "title": "Age of Iteration",
       "description": "Cozy idle factory game: start with one campfire and build your way to space and beyond. ~50k lines of TypeScript in ~500 commits built by Claude (Opus) with some Codex while the dev playtested; building and nature art is GPT image generation snapped to one shared palette, roads, carts and UI drawn in code. Claude also wrapped it as a Capacitor Android app for Google Play. Free in the browser on itch.io.",
-      "play_url": "https://loomfieldlabs.itch.io/age-of-iteration",
+      "play_url": "https://html-classic.itch.zone/html/19972609/index.html?v=1792765056",
       "found_via": "r/aigamedev \"I made a cozy idle factory game\" (u/PTBurgart)",
       "made_with": "unknown",
       "tags": [
         "itchio"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "idle",
       "platforms": [
         "desktop",
@@ -45002,21 +45120,22 @@
       ],
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
-      "published_at": "2026-10-24T14:26:30Z"
+      "published_at": "2026-10-24T14:26:30Z",
+      "page_url": "https://loomfieldlabs.itch.io/age-of-iteration"
     },
     {
       "id": "pastel-drive",
       "title": "Pastel Drive",
       "description": "Relaxed endless driving game with no finish line, timer or rivals: pick a small car and drive; the road splits now and then and the scenery changes into new biomes. Code written with Claude Code with the dev steering shaders and performance; music is generated in real time so it never repeats. No AI-generated images, models or audio. Free in the browser on desktop or mobile via itch.io.",
-      "play_url": "https://muliache.itch.io/pastel-drive",
+      "play_url": "https://html-classic.itch.zone/html/19999079/index.html?v=1792856212",
       "found_via": "r/ClaudeGameDev \"Pastel Drive: a relaxed endless driving game\" (u/iolmao)",
       "made_with": "unknown",
       "tags": [
         "itchio",
         "screenshots"
       ],
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "driving",
       "platforms": [
         "desktop",
@@ -45092,7 +45211,8 @@
       ],
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
-      "published_at": "2026-10-24T17:41:10Z"
+      "published_at": "2026-10-24T17:41:10Z",
+      "page_url": "https://muliache.itch.io/pastel-drive"
     },
     {
       "id": "22champs",
@@ -46177,7 +46297,7 @@
       "id": "le-royaume-des-pepins",
       "title": "Le Royaume des Pépins",
       "description": "3D wave-defense shooter: Wally the Watermelon auto-fires his way through 16 waves to purify the corrupted Pineapple Kingdom, buying fruit guns and seed towers between waves, ending in a three-phase Microbe King boss fight, plus endless mode. Made on Sandscape by co-founder ElBernito.",
-      "play_url": "https://sandscape.app/play?g=pDdi6wlB&game_source=direct_or_unknown&play=1",
+      "play_url": "https://sandscape-prod.fly.dev/api/published/14153429-a19a-4a86-b66a-ab72ef5596fa/index.html?v=1787318417720",
       "source_url": "https://sandscape.app/play?g=pDdi6wlB",
       "author": "ElBernito",
       "author_url": "https://sandscape.app/profile/47730ba9-ca9a-4b42-9483-726118b84e20",
@@ -46188,7 +46308,7 @@
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
       "engine": "Sandscape",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "category": "action",
       "platforms": [
         "desktop",
@@ -46243,13 +46363,14 @@
       "tags": [
         "sandscape"
       ],
-      "avatar_path": "/avatars/ElBernito.jpg"
+      "avatar_path": "/avatars/ElBernito.jpg",
+      "page_url": "https://sandscape.app/play?g=pDdi6wlB&game_source=direct_or_unknown&play=1"
     },
     {
       "id": "overtake",
       "title": "Overtake",
       "description": "Arcade circuit racer: drive a coupe against three AI rivals over three laps on golden-hour seaside, city and mountain tracks, with momentum-based physics and a third-person chase camera. Made on Sandscape by dreamon.",
-      "play_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
+      "play_url": "https://sandscape-prod.fly.dev/api/published/87f95ce7-bf89-4766-bae0-2c282a9b9758/index.html?v=1784573328952",
       "source_url": "https://sandscape.app/play?g=bUGWGMNl",
       "author": "dreamon",
       "author_url": "https://sandscape.app/profile/b64010db-82ee-46ab-9e8b-440e69fcb717",
@@ -46260,7 +46381,7 @@
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
       "engine": "Sandscape",
       "iframe": false,
-      "iframe_block_reason": "xfo-deny",
+      "iframe_block_reason": "csp-frame-ancestors",
       "category": "racing",
       "platforms": [
         "desktop",
@@ -46321,7 +46442,8 @@
       "last_seen": "2026-10-25T13:56:00.000Z",
       "tags": [
         "sandscape"
-      ]
+      ],
+      "page_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1"
     },
     {
       "id": "extinction-window",
@@ -46918,7 +47040,7 @@
       "id": "llm-saga",
       "title": "Lore & Legends Maker (LLM Saga)",
       "description": "AI Dungeon Master for solo D&D-style adventures, three years in the making: make a character, gather a party and adventure, with a world-state system so NPCs, quests and rolls stay consistent instead of drifting. Free to play in the browser (an account may be needed to save adventures).",
-      "play_url": "https://www.llmsaga.com/",
+      "play_url": "https://www.llmsaga.com/play",
       "found_via": "r/aigamedev \"I spent 3 years building an AI Dungeon Master\" (u/tschilpi)",
       "made_with": "unknown",
       "iframe": true,
@@ -47062,7 +47184,9 @@
       "first_seen": "2026-10-26T07:00:00.000Z",
       "last_seen": "2026-10-26T07:00:00.000Z",
       "published_at": "2026-10-25T07:21:32Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "page_url": "https://www.llmsaga.com/",
+      "iframe_block_reason": null
     },
     {
       "id": "hunt-protocol",
@@ -48717,7 +48841,7 @@
       "id": "apache-arcade",
       "title": "Apache Arcade",
       "description": "AH-64E Apache helicopter arcade shooter in the browser: fly over desert terrain and night/thermal-camera views, blasting targets with guns and rockets. Free side project built with three.js, TypeScript and Vite.",
-      "play_url": "https://project-apache.com/",
+      "play_url": "https://project-apache.com/arcade",
       "found_via": "r/vibecoding \"Apache Arcade: AH-64E helicopter shooter in the browser (Three.js)\" (u/johnkappa); gameplay video on YouTube",
       "made_with": "unknown",
       "engine": "Three.js",
@@ -48890,7 +49014,9 @@
       ],
       "first_seen": "2026-10-27T09:00:00.000Z",
       "last_seen": "2026-10-27T09:00:00.000Z",
-      "published_at": "2026-10-26T13:14:41Z"
+      "published_at": "2026-10-26T13:14:41Z",
+      "page_url": "https://project-apache.com/",
+      "iframe_block_reason": null
     },
     {
       "id": "catcopter",
@@ -50331,11 +50457,11 @@
       "id": "super-league-football",
       "title": "Super League (football)",
       "description": "Free 11v11 football game in the browser with offsides, penalties, set pieces and slow-motion goal replays: 16 nations and 20 clubs (with fake names), a league, a cup and a world cup. Updated weekly; desktop, keyboard or controller. The developer discloses that AI tools helped with some of the code.",
-      "play_url": "https://tamla2.itch.io/super-league",
+      "play_url": "https://html-classic.itch.zone/html/20053936/index.html?v=1793033355",
       "found_via": "r/IndieGaming \"I built a free football game you can play in your browser. No install, no packs.\" (u/tamla_htoo)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "sports",
       "platforms": [
         "desktop"
@@ -50471,7 +50597,8 @@
       ],
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
-      "published_at": "2026-10-26T17:26:54Z"
+      "published_at": "2026-10-26T17:26:54Z",
+      "page_url": "https://tamla2.itch.io/super-league"
     },
     {
       "id": "stock-car-club",
@@ -50619,11 +50746,11 @@
       "id": "barnaby",
       "title": "Barnaby",
       "description": "Goofy 1940s slapstick FPS early alpha: you are a 300 lb mouse swinging between skyscrapers on sticky cheese strings. Made by a high-school student with zero coding experience using AI.",
-      "play_url": "https://vanzim2.itch.io/barnaby",
+      "play_url": "https://html-classic.itch.zone/html/20015727/BARNABY/index.html?v=1792909702",
       "found_via": "r/aigamedev \"im literally in highschool with zero coding experience and just made a 1940s FPS game using AI (Barnaby early alpha demo)\" (u/DegTrader)",
       "made_with": "unknown",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "iframe": true,
+      "iframe_block_reason": null,
       "category": "shooter",
       "platforms": [
         "desktop"
@@ -50689,7 +50816,8 @@
       ],
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
-      "published_at": "2026-10-27T23:47:51Z"
+      "published_at": "2026-10-27T23:47:51Z",
+      "page_url": "https://vanzim2.itch.io/barnaby"
     },
     {
       "id": "dogfighters-missiles-and-flares",
