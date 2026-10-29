@@ -5221,8 +5221,8 @@
       "found_via": "X post by @ahmedfahim21_",
       "found_via_network": "x",
       "screenshot_path": "screenshots/216-sadak.jpg",
-      "screenshot_score": 8.3,
-      "screenshot_score_notes": "Sunny low-poly Indian alley with auto-rickshaw, NPCs, and bilingual dialogue box — cohesive and readable; login gate not shown in this still.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "multi-frame: login required before play (Igor, 2026-10-29), so scored down from 8.3 to 4.0; visuals are a sunny low-poly Indian alley with auto-rickshaw, NPCs and a bilingual dialogue box.",
       "screenshots": [
         {
           "path": "screenshots/216-sadak.jpg",
@@ -5256,7 +5256,8 @@
       "likes_source": "x",
       "author": "ahmedfahim21_",
       "avatar_path": "/avatars/ahmedfahim21_.jpg",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "requires_login": true
     },
     {
       "id": "boring-forest",
