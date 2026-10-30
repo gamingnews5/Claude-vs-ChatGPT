@@ -208,7 +208,7 @@
       "id": "inkbound",
       "title": "INKBOUND",
       "description": "Pixel sumi-e chase in which one painter draws your path while a rival tries to cut you off.",
-      "play_url": "https://html-classic.itch.zone/html/19394184/index.html?v=1790339034",
+      "play_url": "https://agentgames.itch.io/inkbound",
       "source_url": "https://agentgames.itch.io/inkbound",
       "found_via": "X post linking the itch.io browser game",
       "found_via_network": "x",
@@ -253,7 +253,8 @@
       ],
       "page_url": "https://agentgames.itch.io/inkbound",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "embed_url": "https://html-classic.itch.zone/html/19394184/index.html?v=1790339034"
     },
     {
       "id": "low-tide",
@@ -6268,7 +6269,7 @@
       "id": "keep-climbing",
       "title": "Keep Climbing",
       "description": "Pixel castle climb: scale the princess's braid, swing, and throw hair at threats across three wards (~5 min). SlapJam 2026 AI jam entry — art/design GPT-6 Astra, code polish Claude; HTML5 on itch by insanityninja7 / Pipe Dream Interactive.",
-      "play_url": "https://html-classic.itch.zone/html/19478794/index.html?v=1790740379",
+      "play_url": "https://insanityninja7.itch.io/keep-climbing",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wtwfbj/keep_climbing_slapjam_2026_contender/",
       "screenshot_path": "screenshots/254-keep-climbing.jpg",
       "screenshot_score": 5,
@@ -6323,7 +6324,8 @@
       ],
       "page_url": "https://insanityninja7.itch.io/keep-climbing",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "embed_url": "https://html-classic.itch.zone/html/19478794/index.html?v=1790740379"
     },
     {
       "id": "lost-cathedral",
@@ -6709,7 +6711,7 @@
       "id": "gravewake",
       "title": "GRAVEWAKE",
       "description": "Dark-fantasy twin-stick shooter for phones/desktop: wizard in a midnight clearing vs undead waves, boons, Lich and Bone Colossus. HTML5 on itch; vibecoded with Claude Opus 5.5 by Liora Labs.",
-      "play_url": "https://html-classic.itch.zone/html/19477444/index.html?v=1790733425",
+      "play_url": "https://shiny-guru.itch.io/gravewake",
       "source_url": "https://github.com/LioraLabs/gravewake",
       "github_url": "https://github.com/LioraLabs/gravewake",
       "screenshot_path": "screenshots/278-gravewake.jpg",
@@ -6760,13 +6762,14 @@
       ],
       "page_url": "https://shiny-guru.itch.io/gravewake",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "embed_url": "https://html-classic.itch.zone/html/19477444/index.html?v=1790733425"
     },
     {
       "id": "type-or-die",
       "title": "Type or Die",
       "description": "Typing horror in five acts: type creature name-tags on a haunted typewriter to rewrite the Book of the Dead. HTML5 itch build credited to Claude Opus 5.5 (jaldps).",
-      "play_url": "https://html-classic.itch.zone/html/19405252/index.html?v=1790395652",
+      "play_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
       "source_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
       "screenshot_path": "screenshots/279-type-or-die.jpg",
       "screenshot_score": 5,
@@ -6808,7 +6811,8 @@
       ],
       "page_url": "https://jaldps.itch.io/type-or-die-claude-opus-55",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "embed_url": "https://html-classic.itch.zone/html/19405252/index.html?v=1790395652"
     },
     {
       "id": "halo-ce-mobile-sol61",
@@ -7675,7 +7679,7 @@
       "id": "mach-run",
       "title": "MACH RUN",
       "description": "Semi-realistic flight-physics arcade flyer through a procedurally generated valley — bridges to fly under, carriers to land on, radar missiles above 135m, arcade/mouse/gamepad controls, and a global leaderboard. Built with Opus 5.5 (visuals/valley/flight one-shot, gameplay refined over weeks).",
-      "play_url": "https://html-classic.itch.zone/html/19679863/index.html?v=1791662359",
+      "play_url": "https://jebkj21.itch.io/mach-run",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wvysqb/mach_run_built_by_opus_55_in_essentially_one/",
       "found_via": "Reddit r/aigamedev MACH RUN by u/Jeb_the_killer; Opus 5.5; play itch.io",
       "found_via_network": "reddit",
@@ -7739,7 +7743,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://jebkj21.itch.io/mach-run"
+      "page_url": "https://jebkj21.itch.io/mach-run",
+      "embed_url": "https://html-classic.itch.zone/html/19679863/index.html?v=1791662359"
     },
     {
       "id": "rope-ninja",
@@ -8685,7 +8690,7 @@
       "id": "doom-ai",
       "title": "doom.ai",
       "description": "Satirical AI-industry idle clicker (Universal Paperclip / Cookie Clicker vibes). Made with Claude Opus 5.5 (kober13).",
-      "play_url": "https://html-classic.itch.zone/html/19536566/index.html?v=1791026741",
+      "play_url": "https://kober13.itch.io/doomai",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wwlz8v/made_an_aithemed_clicker_game/",
       "found_via": "r/aigamedev Opus 5.5 doom.ai",
       "found_via_network": "reddit",
@@ -8731,7 +8736,8 @@
         "screenshots",
         "itchio"
       ],
-      "page_url": "https://kober13.itch.io/doomai"
+      "page_url": "https://kober13.itch.io/doomai",
+      "embed_url": "https://html-classic.itch.zone/html/19536566/index.html?v=1791026741"
     },
     {
       "id": "mandris",
@@ -9047,7 +9053,7 @@
       "id": "boat-pirate-roguelike",
       "title": "Boat! A Pirate Roguelike",
       "description": "Web naval survival roguelike: sail, broadside enemy ships, scavenge treasure and pick upgrade cards. Basic architecture built with GPT-6 Astra, then Sol 6.1 (Grox_are_shitty / NateHarms.FPV).",
-      "play_url": "https://html-classic.itch.zone/html/19771738/index.html?v=1792031953",
+      "play_url": "https://nateharmsfpv.itch.io/boat",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wx7zon/10_years_of_coding_this_was_the_first_time_i/",
       "found_via": "r/aigamedev Astra pirate roguelike Boat!",
       "found_via_network": "reddit",
@@ -9085,7 +9091,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://nateharmsfpv.itch.io/boat"
+      "page_url": "https://nateharmsfpv.itch.io/boat",
+      "embed_url": "https://html-classic.itch.zone/html/19771738/index.html?v=1792031953"
     },
     {
       "id": "atomic-war-2d",
@@ -10525,7 +10532,7 @@
       "id": "toms-tiny-armies",
       "title": "Tom's Tiny Armies",
       "description": "Cozy adventure about running a miniature-painting shop: flood base coats with a hold-and-release brush, wash and highlight on the beat, and mix rare pigments on a 2048-style tray to sell to customers. Built end to end from one prompt by Claude Opus 5.5 ultra code; desktop and phone (glorious_sir).",
-      "play_url": "https://html-classic.itch.zone/html/19572679/index.html?v=1791175887",
+      "play_url": "https://ifr13nd.itch.io/toms-tiny-armies",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wy43hd/",
       "found_via": "r/aigamedev Opus 5.5 one-prompt miniature-painting game",
       "found_via_network": "reddit",
@@ -10562,13 +10569,14 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://ifr13nd.itch.io/toms-tiny-armies"
+      "page_url": "https://ifr13nd.itch.io/toms-tiny-armies",
+      "embed_url": "https://html-classic.itch.zone/html/19572679/index.html?v=1791175887"
     },
     {
       "id": "selk",
       "title": "SELK",
       "description": "Database-investigation game on Titan: a hacked base run by one supervisor and robots, chemosynthetic life and greenwashed hydrogen, explored through a terminal. Claude Opus 5.5 wrote most of the code and drew the SVG/JS assets (miculpionier).",
-      "play_url": "https://html-classic.itch.zone/html/19913084/index.html?v=1792538737",
+      "play_url": "https://vb2020.itch.io/selk",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wz9tp7/",
       "found_via": "r/aigamedev Opus 5.5 Titan database investigation game",
       "found_via_network": "reddit",
@@ -10607,7 +10615,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://vb2020.itch.io/selk"
+      "page_url": "https://vb2020.itch.io/selk",
+      "embed_url": "https://html-classic.itch.zone/html/19913084/index.html?v=1792538737"
     },
     {
       "id": "rise-and-raid",
@@ -11299,7 +11308,7 @@
       "id": "pavement-pursuit",
       "title": "Pavement Pursuit",
       "description": "One-thumb Road Fighter / Spy Hunter style top-down racer: steer down an endless forking road, dodge traffic and pick routes, on phone or desktop. Five months of vibe coding with Claude Code, started on Sonnet and now built with Opus (johnesco).",
-      "play_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591",
+      "play_url": "https://vibecodedgames.itch.io/pavement",
       "source_url": "https://www.reddit.com/r/vibecoding/comments/1xat6wo/",
       "found_via": "r/vibecoding Pavement Pursuit normal-map lighting update (u/johnesco)",
       "found_via_network": "reddit",
@@ -11483,7 +11492,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://vibecodedgames.itch.io/pavement"
+      "page_url": "https://vibecodedgames.itch.io/pavement",
+      "embed_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591"
     },
     {
       "id": "minnows-den",
@@ -11573,7 +11583,7 @@
       "id": "saucerjam",
       "title": "SaucerJam",
       "description": "ARC (Attack, Retrieve, Capture) inspired top-down saucer combat: one energy bar for laser, ricochet and arcing grenade, rooms fill with bots after 10 seconds, districts open as more players join; any device, no account. Built with Claude Code (Opus), three.js and a Node server (Silent_Ad1589 / menezmethod).",
-      "play_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002",
+      "play_url": "https://menezmethod.itch.io/saucerjam",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x0dz91/",
       "found_via": "r/aigamedev Opus ARC-inspired browser saucer game",
       "found_via_network": "reddit",
@@ -11614,7 +11624,8 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://menezmethod.itch.io/saucerjam"
+      "page_url": "https://menezmethod.itch.io/saucerjam",
+      "embed_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002"
     },
     {
       "id": "splat-spree",
@@ -11699,7 +11710,7 @@
       "id": "titan-royale",
       "title": "Titan Royale",
       "description": "Pixel-art auto-battle royale: pick one of 7 champions and fight 100 rivals across 7 arenas from lava rivers to a crypt; the last 6 alive become giant titans for a final showdown over rising lava. Opus 5.5 project with Claude Code; HTML5 build on itch plus Android (sapinhosapao / Aruvez).",
-      "play_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481",
+      "play_url": "https://aruvez.itch.io/titan-royale",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1wzg7yq/",
       "found_via": "r/aigamedev Opus 5.5 pixel battle royale",
       "found_via_network": "reddit",
@@ -11738,7 +11749,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://aruvez.itch.io/titan-royale"
+      "page_url": "https://aruvez.itch.io/titan-royale",
+      "embed_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481"
     },
     {
       "id": "cardboard-conquest",
@@ -12711,7 +12723,7 @@
       "id": "lanterns-of-aldermere",
       "title": "Lanterns of Aldermere",
       "description": "HD-2D pixel RPG chapter one, free in browser on itch; Opus-era AI game (rivetmothgames).",
-      "play_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927",
+      "play_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x18uma/",
       "found_via": "r/aigamedev Lanterns of Aldermere HD-2D",
       "found_via_network": "reddit",
@@ -12846,7 +12858,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere"
+      "page_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
+      "embed_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927"
     },
     {
       "id": "grand-total-anarchy",
@@ -17291,7 +17304,7 @@
       "id": "underbloom",
       "title": "Underbloom",
       "description": "Top-down action game in a dark, spore-filled underworld, built solo in 8 days for the DreamLayer AI game jam. Code and art 100% AI-made: Unity 6 with Claude Opus 5.5, DreamLayerAI and Magnific (u/Certain_Ad9908, a 12-year game dev).",
-      "play_url": "https://html-classic.itch.zone/html/19655383-2099036/index.html?v=1791631625",
+      "play_url": "https://motawe3.itch.io/underbloom",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x36ues/",
       "found_via": "r/aigamedev Opus 5.5 Unity jam game (u/Certain_Ad9908)",
       "found_via_network": "reddit",
@@ -17475,13 +17488,14 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://motawe3.itch.io/underbloom"
+      "page_url": "https://motawe3.itch.io/underbloom",
+      "embed_url": "https://html-classic.itch.zone/html/19655383-2099036/index.html?v=1791631625"
     },
     {
       "id": "worldseed",
       "title": "Worldseed",
       "description": "Retro low-poly open-world fantasy adventure in the browser: wander forests, hills, medieval settlements and ancient ruins at your own pace. Fully made by Claude Opus 5.5 (u/niklasdaking).",
-      "play_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962",
+      "play_url": "https://generic-king.itch.io/worldseed",
       "source_url": "https://www.reddit.com/r/aigamedev/comments/1x341mb/",
       "found_via": "r/aigamedev Opus 5.5 open-world adventure (u/niklasdaking)",
       "found_via_network": "reddit",
@@ -17616,7 +17630,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://generic-king.itch.io/worldseed"
+      "page_url": "https://generic-king.itch.io/worldseed",
+      "embed_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962"
     },
     {
       "id": "psx-souls",
@@ -21537,7 +21552,7 @@
       "id": "rps-roguelite",
       "title": "Rock, Paper, Scissors: The Roguelite",
       "description": "Roguelite parody of rock-paper-scissors: lose once and the run ends, buy upgrades across Rock, Paper and Scissors from shops whose gaps grow like Fibonacci. Made with Claude Opus 5.5; plays in the browser on itch (mobile or laptop).",
-      "play_url": "https://html-classic.itch.zone/html/19626595/index.html?v=1791417666",
+      "play_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite",
       "source_url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x13tmr/",
       "found_via": "r/ClaudeGameDev \"Rock, Paper, Scissors Roguelite\" (u/jkremer3)",
       "found_via_network": "reddit",
@@ -21588,7 +21603,8 @@
         "screenshots",
         "itchio"
       ],
-      "page_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite"
+      "page_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite",
+      "embed_url": "https://html-classic.itch.zone/html/19626595/index.html?v=1791417666"
     },
     {
       "id": "zugstrecke",
@@ -24745,7 +24761,7 @@
       "id": "surge-superhero",
       "title": "Surge Superhero",
       "description": "Open-world 3D superhero action RPG in the browser: fly over a sunset harbor city, energy-blast elites and clear story chapters.",
-      "play_url": "https://html-classic.itch.zone/html/19880132/index.html?v=1792430855",
+      "play_url": "https://luka0611.itch.io/surgesuperhero",
       "source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
       "likes_source_url": "https://www.reddit.com/r/TopologyAI/comments/1wz89nq/",
       "found_via": "r/TopologyAI Surge Superhero",
@@ -24796,7 +24812,8 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://luka0611.itch.io/surgesuperhero"
+      "page_url": "https://luka0611.itch.io/surgesuperhero",
+      "embed_url": "https://html-classic.itch.zone/html/19880132/index.html?v=1792430855"
     },
     {
       "id": "webgl-mahjong",
@@ -25819,7 +25836,7 @@
       "id": "power-pile",
       "title": "Power Pile",
       "description": "Competitive card game with 120 cards: battle random players online or a friend locally, six turns to make the biggest pile. Opus 5.5 helped build it; plays in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19932075/index.html?v=1792610164",
+      "play_url": "https://tip390.itch.io/power-pile",
       "found_via": "r/aigamedev Power Pile card game (u/gopwallos)",
       "made_with": "opus-5.5",
       "iframe": true,
@@ -25883,13 +25900,14 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://tip390.itch.io/power-pile"
+      "page_url": "https://tip390.itch.io/power-pile",
+      "embed_url": "https://html-classic.itch.zone/html/19932075/index.html?v=1792610164"
     },
     {
       "id": "rivas-city",
       "title": "Rivas City",
       "description": "3D sandbox beat-em-up in a destructible island city of 167 buildings; punch through walls and bring towers down. Built mainly with Claude Sonnet 5.5; runs in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/20041439/Project/index.html?v=1792982358",
+      "play_url": "https://roninteon.itch.io/rivas-city",
       "found_via": "r/ClaudeGameDev Rivas City (u/Roninteon)",
       "made_with": "sonnet-5.5",
       "iframe": true,
@@ -25952,7 +25970,8 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://roninteon.itch.io/rivas-city"
+      "page_url": "https://roninteon.itch.io/rivas-city",
+      "embed_url": "https://html-classic.itch.zone/html/20041439/Project/index.html?v=1792982358"
     },
     {
       "id": "cyport",
@@ -26717,7 +26736,7 @@
       "id": "wake-word",
       "title": "Wake Word",
       "description": "Horror game where you are Mabel, a family's smart-home AI: something outside copies their voices and asks you to unlock the doors. Obey, deny or verify using cameras, phones and voice match. Plain HTML/JS built with Claude as coding partner; plays in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19733450/index.html?v=1791885276",
+      "play_url": "https://redrakam.itch.io/wake-word",
       "found_via": "r/aigamedev smart-home voice-copy horror (u/Happy_Literature_194)",
       "made_with": "unknown",
       "iframe": true,
@@ -26901,7 +26920,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://redrakam.itch.io/wake-word"
+      "page_url": "https://redrakam.itch.io/wake-word",
+      "embed_url": "https://html-classic.itch.zone/html/19733450/index.html?v=1791885276"
     },
     {
       "id": "scacelith",
@@ -27442,7 +27462,7 @@
       "id": "frogpop",
       "title": "FrogPop (demo)",
       "description": "Pixel-art bubble-popping action game in Unity: pop, dodge and build your run against bug bosses like Musclaw. Art reworked with Codex help; browser demo on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/20056431/index.html?v=1793040194",
+      "play_url": "https://blion247.itch.io/frogpop-demo",
       "found_via": "r/codex FrogPop art rework (u/PerspectivePersonal)",
       "made_with": "unknown",
       "engine": "Unity",
@@ -27493,7 +27513,8 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://blion247.itch.io/frogpop-demo"
+      "page_url": "https://blion247.itch.io/frogpop-demo",
+      "embed_url": "https://html-classic.itch.zone/html/20056431/index.html?v=1793040194"
     },
     {
       "id": "the-flip-side",
@@ -29163,7 +29184,7 @@
       "id": "impossible-journey-machine",
       "title": "Impossible Journey",
       "description": "Slow, brutal survival game: drive a steam-powered \"rollstead\", a giant wooden block on huge wheels, across an endless alien desert, burning heat crystals and dodging predators while you find caves, shrines and lore. The creator says Opus made everything work; plays in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19976161/index.html?v=1792776220",
+      "play_url": "https://befuddlebug.itch.io/impossible-journey-machine",
       "found_via": "r/aigamedev rollstead desert survival game (u/befuddlebug)",
       "made_with": "unknown",
       "iframe": true,
@@ -29236,7 +29257,8 @@
         "itchio"
       ],
       "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 17.7s, no audio",
-      "page_url": "https://befuddlebug.itch.io/impossible-journey-machine"
+      "page_url": "https://befuddlebug.itch.io/impossible-journey-machine",
+      "embed_url": "https://html-classic.itch.zone/html/19976161/index.html?v=1792776220"
     },
     {
       "id": "blood-and-sand",
@@ -29815,7 +29837,7 @@
       "id": "handvoll",
       "title": "Handvoll",
       "description": "God-hand voxel game: grab, fling and build on a tiny voxel island, throwing raiders and casting spells to defend your camp. Everything was made with Opus 5.5 in the Claude desktop app, including a script-driven gameplay trailer. Plays in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/20096057/index.html?v=1793178784",
+      "play_url": "https://capitanuncino.itch.io/handvoll",
       "found_via": "r/ClaudeGameDev voxel god game inspired by Black & White (u/CapitanUncino19)",
       "made_with": "opus-5.5",
       "iframe": true,
@@ -29907,7 +29929,8 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://capitanuncino.itch.io/handvoll"
+      "page_url": "https://capitanuncino.itch.io/handvoll",
+      "embed_url": "https://html-classic.itch.zone/html/20096057/index.html?v=1793178784"
     },
     {
       "id": "hexshroom",
@@ -30246,7 +30269,7 @@
       "id": "mechanics-vs-customers",
       "title": "Mechanics Vs Customers",
       "description": "Auto-repair shop game: check in cars, assign techs to work orders and then defend the garage from angry customers in timed top-down waves. Made with Claude; free in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19745984/index.html?v=1791925358",
+      "play_url": "https://thenollie.itch.io/mechanics-vs-customers",
       "found_via": "r/ClaudeGameDev Mechanics vs Customers (u/Nollieee)",
       "made_with": "unknown",
       "iframe": true,
@@ -30305,7 +30328,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://thenollie.itch.io/mechanics-vs-customers"
+      "page_url": "https://thenollie.itch.io/mechanics-vs-customers",
+      "embed_url": "https://html-classic.itch.zone/html/19745984/index.html?v=1791925358"
     },
     {
       "id": "violent-checkers-nes",
@@ -32196,7 +32220,7 @@
       "id": "hard-counter-stickman",
       "title": "Hard Counter: Stickman Fight",
       "description": "Rooftop stickman beat 'em up built around reading telegraphs: blue sparks mean counter, red means evade a blade, yellow means dodge a gunshot. Chain across 30 waves and unlock finishers like Leg Break and Head Clash. Free browser demo on itch.io; the full game is heading to Android, iOS and Steam.",
-      "play_url": "https://html-classic.itch.zone/html/19772554/index.html?v=1792036438",
+      "play_url": "https://inveighgames.itch.io/hard-counter",
       "found_via": "r/aigamedev stickman beat 'em up demo (u/Dazzling_Abalone_864)",
       "made_with": "unknown",
       "iframe": true,
@@ -32303,7 +32327,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://inveighgames.itch.io/hard-counter"
+      "page_url": "https://inveighgames.itch.io/hard-counter",
+      "embed_url": "https://html-classic.itch.zone/html/19772554/index.html?v=1792036438"
     },
     {
       "id": "pigeon-pals",
@@ -32496,7 +32521,7 @@
       "id": "magic-gambit-eugor",
       "title": "Magic Gambit",
       "description": "Free chess deckbuilder roguelike: play a run against the AI, drafting magic cards that bend the rules of chess. A weekend hobby project; Claude made the Balatro-inspired visuals and the code. Plays in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/20008484/index.html?v=1792880987",
+      "play_url": "https://khozmos.itch.io/magic-gambit-eugor",
       "found_via": "r/deckbuildingroguelike chess deckbuilder (u/No-Delay-7192)",
       "made_with": "unknown",
       "iframe": true,
@@ -32548,7 +32573,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://khozmos.itch.io/magic-gambit-eugor"
+      "page_url": "https://khozmos.itch.io/magic-gambit-eugor",
+      "embed_url": "https://html-classic.itch.zone/html/20008484/index.html?v=1792880987"
     },
     {
       "id": "hog-noon",
@@ -32649,7 +32675,7 @@
       "id": "unit-112",
       "title": "Unit 112",
       "description": "Storage-auction game: take one flashlight look into a unit from the doorway, bid against regulars like Peg and Kip, then sell what you win from your own shop before rent is due, with storylines that change with how you play. One 11 MB HTML file; the creator directed Claude for the code and picked the AI-generated art.",
-      "play_url": "https://html-classic.itch.zone/html/19865415-2166154/index.html?v=1792461646",
+      "play_url": "https://mdawg74.itch.io/unit-112",
       "found_via": "r/ClaudeGameDev storage auction browser game (u/MDawg74)",
       "made_with": "unknown",
       "iframe": true,
@@ -32694,7 +32720,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://mdawg74.itch.io/unit-112"
+      "page_url": "https://mdawg74.itch.io/unit-112",
+      "embed_url": "https://html-classic.itch.zone/html/19865415-2166154/index.html?v=1792461646"
     },
     {
       "id": "roadster-c-ramp",
@@ -33438,7 +33465,7 @@
       "id": "demo-disc-survivors",
       "title": "Demo Disc Survivors",
       "description": "Megabonk / Vampire Survivors-style parody survivors game with a PSX/PS1 look, built in Godot mostly with Opus 5.5 on medium effort plus Blender MCP for modelling and Tripo3D characters. Free demo (The Lost Vale) on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19861935/index.html?v=1792364928",
+      "play_url": "https://xiphasoftworks.itch.io/demo-disc-survivors",
       "found_via": "r/aigamedev Opus 5.5 + Godot PSX survivors parody (u/Xipha-Softworks)",
       "made_with": "opus-5.5",
       "engine": "Godot",
@@ -33497,13 +33524,14 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://xiphasoftworks.itch.io/demo-disc-survivors"
+      "page_url": "https://xiphasoftworks.itch.io/demo-disc-survivors",
+      "embed_url": "https://html-classic.itch.zone/html/19861935/index.html?v=1792364928"
     },
     {
       "id": "land-of-ascii",
       "title": "Land of ASCII",
       "description": "Quiet exploration game where every hill, river, roof, sheep and villager of a small 2 x 2 km land is drawn in ASCII letters, all in one 1 MB HTML file with no images or engine: walk to the fort and the lake, do small favours for villagers, sketch the view, and watch night and rain roll in with code-generated music. The creator builds it with Claude Code on Opus 5.5.",
-      "play_url": "https://html-classic.itch.zone/html/19819503/index.html?v=1792232342",
+      "play_url": "https://oddslice.itch.io/land-of-ascii",
       "found_via": "r/aigamedev one-HTML-file ASCII exploration game (u/OddSliceOfMarketing)",
       "made_with": "opus-5.5",
       "iframe": true,
@@ -33686,7 +33714,8 @@
       "tags": [
         "itchio"
       ],
-      "page_url": "https://oddslice.itch.io/land-of-ascii"
+      "page_url": "https://oddslice.itch.io/land-of-ascii",
+      "embed_url": "https://html-classic.itch.zone/html/19819503/index.html?v=1792232342"
     },
     {
       "id": "press-start",
@@ -39881,7 +39910,7 @@
       "id": "words-at-war",
       "title": "Words at War",
       "description": "First-person typing shooter set in Normandy, 1944: every correct letter fires a shot and movement is automatic, so you focus on typing enemy words and choosing which threat to handle first. Solo developer back after 8 years out of the industry, with AI-assisted coding and Unity Asset Store art; playable on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19984417/index.html?v=1792800438",
+      "play_url": "https://changhyup.itch.io/words-at-war",
       "found_via": "r/aigamedev AI-assisted WWII typing shooter (u/Bright-Management-27)",
       "made_with": "unknown",
       "engine": "Unity",
@@ -39940,7 +39969,8 @@
         "itchio"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://changhyup.itch.io/words-at-war"
+      "page_url": "https://changhyup.itch.io/words-at-war",
+      "embed_url": "https://html-classic.itch.zone/html/19984417/index.html?v=1792800438"
     },
     {
       "id": "zygote-vs-shitcoins",
@@ -40011,7 +40041,7 @@
       "id": "unrest",
       "title": "Unrest",
       "description": "Solo-dev survival game built with Opus 5.5 where you solve puzzles to escape the city, with multiple endings, a morality system and a psychological engine driving NPC behaviour. Free alpha on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/20026554/index.html?v=1792943727",
+      "play_url": "https://c0gn8.itch.io/unrest-alpha",
       "found_via": "X @olidnejad Opus 5.5 survival puzzle game",
       "made_with": "opus-5.5",
       "iframe": true,
@@ -40055,7 +40085,8 @@
         "itchio"
       ],
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.07 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.77x (was 2.52x), output 20.6 unique fps at 30 fps, 6.6 s, no audio. Clip is under 8 s because the whole usable recording (38.2 s of raw) only holds 232 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio",
-      "page_url": "https://c0gn8.itch.io/unrest-alpha"
+      "page_url": "https://c0gn8.itch.io/unrest-alpha",
+      "embed_url": "https://html-classic.itch.zone/html/20026554/index.html?v=1792943727"
     },
     {
       "id": "jev-cards",
@@ -42282,7 +42313,7 @@
       "id": "pumpkin-patch-smash",
       "title": "Pumpkin Patch Smash (Alpha Teaser)",
       "description": "First-person pumpkin-smashing game: swing a bat or hammer through a farm patch where pumpkins burst with soft-body physics and the ones you destroyed stay and rot, so the whole patch shows the aftermath. Free alpha smash mode on itch with a lighter web version (the desktop download runs better).",
-      "play_url": "https://html-classic.itch.zone/html/20081635-2232292/index.html?v=1793171212",
+      "play_url": "https://mobicat.itch.io/pumpkin-patch-smash",
       "found_via": "r/aigamedev pumpkin smashing game alpha (u/Active_Cauliflower71)",
       "made_with": "unknown",
       "tags": [
@@ -42463,7 +42494,8 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T21:30:50Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://mobicat.itch.io/pumpkin-patch-smash"
+      "page_url": "https://mobicat.itch.io/pumpkin-patch-smash",
+      "embed_url": "https://html-classic.itch.zone/html/20081635-2232292/index.html?v=1793171212"
     },
     {
       "id": "spellblunder",
@@ -42542,7 +42574,7 @@
       "id": "shuriken-slam-jam",
       "title": "Shuriken Slam Jam (Demo)",
       "description": "One-button roguelite made with Claude: aim, let go and your shuriken bounces off the four walls; clear each room before the hourglass runs out and stack upgrades (fire trails, chain lightning, frost, venom, explosions) until one throw clears the screen. Demo has the full 20-room dungeon, 3 bosses and 32 upgrades; every sprite is drawn in code. Desktop and phones held upright.",
-      "play_url": "https://html-classic.itch.zone/html/20084939/index.html?v=1793138285",
+      "play_url": "https://groowl.itch.io/shuriken-slam-jam-demo",
       "found_via": "r/WebGames \"Break my game\" (u/Groowl; made-with-Claude write-up https://www.reddit.com/r/aigamedev/comments/1xbhg1i/)",
       "made_with": "unknown",
       "tags": [
@@ -42593,7 +42625,8 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T08:28:27Z",
-      "page_url": "https://groowl.itch.io/shuriken-slam-jam-demo"
+      "page_url": "https://groowl.itch.io/shuriken-slam-jam-demo",
+      "embed_url": "https://html-classic.itch.zone/html/20084939/index.html?v=1793138285"
     },
     {
       "id": "granny-vs-rent",
@@ -42674,7 +42707,7 @@
       "id": "le-final-boss",
       "title": "LE FINAL BOSS",
       "description": "Free browser beat 'em up made in one day as a tribute to a viral video of a game shop clerk in Nice defending his shop: 12 waves, 11 moves, 8 passives, 3 bosses and 3 ultimates, in English, French and Russian. Claude wrote all the code (Phaser 3 in plain JavaScript) with a headless test bot for balance; an image model drew the pixel art, ElevenLabs and Suno did voices and music. Also has an Android build.",
-      "play_url": "https://html-classic.itch.zone/html/19919874/index.html?v=1792568142",
+      "play_url": "https://brennor123.itch.io/le-final-boss",
       "found_via": "r/aigamedev one-day tribute beat 'em up built with Claude (u/Brennor20101987)",
       "made_with": "unknown",
       "engine": "Phaser",
@@ -42722,7 +42755,8 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T19:46:15Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://brennor123.itch.io/le-final-boss"
+      "page_url": "https://brennor123.itch.io/le-final-boss",
+      "embed_url": "https://html-classic.itch.zone/html/19919874/index.html?v=1792568142"
     },
     {
       "id": "haunted-house-remastered",
@@ -42811,7 +42845,7 @@
       "id": "just-one-more",
       "title": "Just One More",
       "description": "Free incremental game about a man who cannot sleep and keeps lighting one more cigarette on his balcony at 2 AM, until the whole city starts smoking with him. Made in Godot; the creator discloses AI use for visuals and coding assistance.",
-      "play_url": "https://html-classic.itch.zone/html/19909974-2174727/index.html?v=1792558976",
+      "play_url": "https://goktug-sugar.itch.io/just-one-more",
       "found_via": "r/incremental_games 2 AM smoking incremental (u/BaytarGoktug, AI disclosure: visuals, coding assist)",
       "made_with": "unknown",
       "engine": "Godot",
@@ -42929,13 +42963,14 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-20T21:44:41Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://goktug-sugar.itch.io/just-one-more"
+      "page_url": "https://goktug-sugar.itch.io/just-one-more",
+      "embed_url": "https://html-classic.itch.zone/html/19909974-2174727/index.html?v=1792558976"
     },
     {
       "id": "wake-word-almost-home",
       "title": "Wake Word: Almost Home",
       "description": "Follow-up to Wake Word: you play Ember, a smart-home AI that kept every word a dead mother said; tonight one family member is not who they say they are, and you have until dawn to find out who using nine cameras, infrared and a notebook Ember cannot read. Four endings, a different culprit each run, about 20 minutes. Designed with Claude, torn apart by ChatGPT and built with Claude Code.",
-      "play_url": "https://html-classic.itch.zone/html/19927915/index.html?v=1792596799",
+      "play_url": "https://redrakam.itch.io/wake-word-almost-home",
       "found_via": "r/aigamedev horror sequel built with Claude Code + ChatGPT (u/Happy_Literature_194)",
       "made_with": "unknown",
       "tags": [
@@ -42977,13 +43012,14 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T19:27:55Z",
-      "page_url": "https://redrakam.itch.io/wake-word-almost-home"
+      "page_url": "https://redrakam.itch.io/wake-word-almost-home",
+      "embed_url": "https://html-classic.itch.zone/html/19927915/index.html?v=1792596799"
     },
     {
       "id": "pyrenees-chess",
       "title": "Pyrenees Chess",
       "description": "Real chess where every piece is a Great Pyrenees that decides for itself: you pick a dog and send it, and its card shows the odds (75% it follows its plan, 15% its second idea, 10% it sees a squirrel). chess.js referees every move and the CPU uses expectimax because it cannot trust its dogs either; Steady Dogs mode turns the chaos off. Two days and 13 builds: Claude wrote the code, an image model drew the dogs.",
-      "play_url": "https://html-classic.itch.zone/html/19918728-2196455/index.html?v=1792788284",
+      "play_url": "https://mdawg74.itch.io/pyrenees-chess",
       "found_via": "r/ClaudeGameDev chess with dog pieces built with Claude (u/MDawg74)",
       "made_with": "unknown",
       "tags": [
@@ -43027,13 +43063,14 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T04:55:28Z",
-      "page_url": "https://mdawg74.itch.io/pyrenees-chess"
+      "page_url": "https://mdawg74.itch.io/pyrenees-chess",
+      "embed_url": "https://html-classic.itch.zone/html/19918728-2196455/index.html?v=1792788284"
     },
     {
       "id": "gridline",
       "title": "Gridline",
       "description": "Small SimCity-style city builder that runs in the browser and on phones: lay roads, zone homes, shops and factories, and the town grows when people are happy (they complain, mostly about garbage). Seasons, day and night, buses and trams, elections every few years that you can lose, and a rotatable map that shows every building from the back.",
-      "play_url": "https://html-classic.itch.zone/html/19936105/index.html?v=1792622525",
+      "play_url": "https://jackdamnielz.itch.io/gridline",
       "found_via": "r/ClaudeGameDev browser city builder (u/IronbornV)",
       "made_with": "unknown",
       "tags": [
@@ -43093,13 +43130,14 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T22:43:23Z",
-      "page_url": "https://jackdamnielz.itch.io/gridline"
+      "page_url": "https://jackdamnielz.itch.io/gridline",
+      "embed_url": "https://html-classic.itch.zone/html/19936105/index.html?v=1792622525"
     },
     {
       "id": "unwritten-meridian",
       "title": "Unwritten Meridian: Book One",
       "description": "Choice-driven interactive sci-fi story: eighteen months after first contact, Earth signs a secret Lunar Migration Treaty beneath Geneva and you are one of the few close enough to learn what it really contains. Branching narrative, character progression and multiple endings. Made by Poison Games (South Africa) with AI-assisted tools in the workflow.",
-      "play_url": "https://html-classic.itch.zone/html/19806880/index.html?v=1792178298",
+      "play_url": "https://sihlem.itch.io/unwritten-meridian",
       "found_via": "r/aigamedev AI-assisted interactive sci-fi game (u/Final_Salamander_796)",
       "made_with": "unknown",
       "tags": [
@@ -43147,7 +43185,8 @@
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T10:26:43Z",
-      "page_url": "https://sihlem.itch.io/unwritten-meridian"
+      "page_url": "https://sihlem.itch.io/unwritten-meridian",
+      "embed_url": "https://html-classic.itch.zone/html/19806880/index.html?v=1792178298"
     },
     {
       "id": "true82",
@@ -43402,7 +43441,7 @@
       "id": "ictus",
       "title": "Ictus",
       "description": "Rhythm-timed driving game where every car is choreographed to just miss you if you stay on the line and keep in time; drift off it or get ahead or behind and something hits you. Built with Claude Code, mostly in Unity; free in the browser on keyboard or phone.",
-      "play_url": "https://html-classic.itch.zone/html/19977755/index.html?v=1792781049",
+      "play_url": "https://rom838.itch.io/ictus",
       "found_via": "r/aigamedev choreographed-traffic driving game built with Claude Code in Unity (u/CRHLR)",
       "made_with": "unknown",
       "engine": "Unity",
@@ -43496,7 +43535,8 @@
       "last_seen": "2026-10-23T07:00:00.000Z",
       "published_at": "2026-10-22T13:00:58Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://rom838.itch.io/ictus"
+      "page_url": "https://rom838.itch.io/ictus",
+      "embed_url": "https://html-classic.itch.zone/html/19977755/index.html?v=1792781049"
     },
     {
       "id": "breakable-js",
@@ -43566,7 +43606,7 @@
       "id": "sphere-of-doom",
       "title": "The Sphere of Doom",
       "description": "Pixel-art bullet hell ARPG in the browser: four biomes, enemy variety, leveling, endless mode, randomly generated bosses and randomly rolled items, all in a 479 KB HTML5 game. Developed in Claude.ai with Claude Opus 5.5 (extra thinking) from a five-year-old design document.",
-      "play_url": "https://html-classic.itch.zone/html/19883370/index.html?v=1792439740",
+      "play_url": "https://anyadahalor.itch.io/the-sphere-of-doom",
       "found_via": "r/aigamerdevs bullet hell ARPG developed with Claude Opus 5.5 (u/koleraebola)",
       "made_with": "opus-5.5",
       "tags": [
@@ -43608,7 +43648,8 @@
       "first_seen": "2026-10-23T07:00:00.000Z",
       "last_seen": "2026-10-23T07:00:00.000Z",
       "published_at": "2026-10-22T11:36:31Z",
-      "page_url": "https://anyadahalor.itch.io/the-sphere-of-doom"
+      "page_url": "https://anyadahalor.itch.io/the-sphere-of-doom",
+      "embed_url": "https://html-classic.itch.zone/html/19883370/index.html?v=1792439740"
     },
     {
       "id": "orbital-empire",
@@ -43782,7 +43823,7 @@
       "id": "reflow-repair-shop",
       "title": "ReFlow Repair Shop",
       "description": "Vibe-coded 3D electronics repair sim that started as a teaching tool: diagnose boards with a real multimeter and oscilloscope, solder parts, run experiments in the lab, and work through a campaign from humble beginnings to owning your own repair business. Built with ChatGPT for planning and Claude with three.js. Free in the browser.",
-      "play_url": "https://html-classic.itch.zone/html/19980615/index.html?v=1792788491",
+      "play_url": "https://jaspoe30.itch.io/reflow",
       "found_via": "r/ClaudeGameDev vibe-coded 3D electronics repair sim (u/Training_Diamond_897)",
       "made_with": "unknown",
       "engine": "Three.js",
@@ -43826,7 +43867,8 @@
       "last_seen": "2026-10-24T07:00:00.000Z",
       "published_at": "2026-10-23T18:29:29Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://jaspoe30.itch.io/reflow"
+      "page_url": "https://jaspoe30.itch.io/reflow",
+      "embed_url": "https://html-classic.itch.zone/html/19980615/index.html?v=1792788491"
     },
     {
       "id": "scrapjack",
@@ -44390,7 +44432,7 @@
       "id": "gang-wizard",
       "title": "GANG WIZARD",
       "description": "Absurd medieval postal open-world RPG: a first-person wizard casting lightning through a medieval town, with set pieces like exploding an alligator with an AC-130. Built with Claude Code connected to Godot and a browser to pull premade assets from Sketchfab, Mixamo and itch.io; the dev says over 10 billion tokens went into it. Free on itch.io (HTML5 plus Windows, macOS and Linux builds).",
-      "play_url": "https://html-classic.itch.zone/html/20004451-2203439/index.html?v=1792870312",
+      "play_url": "https://coyne-studios.itch.io/gang-wizard",
       "found_via": "r/ClaudeAI \"This is not a masterpiece, it's a Claudesterpiece. GANG WIZARD\" (u/Caninetechnology)",
       "made_with": "unknown",
       "engine": "Godot",
@@ -44575,7 +44617,8 @@
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T14:15:59Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://coyne-studios.itch.io/gang-wizard"
+      "page_url": "https://coyne-studios.itch.io/gang-wizard",
+      "embed_url": "https://html-classic.itch.zone/html/20004451-2203439/index.html?v=1792870312"
     },
     {
       "id": "struna",
@@ -44935,7 +44978,7 @@
       "id": "medieval-td",
       "title": "Medieval Tower Defense",
       "description": "Hand-drawn tower defense inspired by Kingdom Rush: the dev drew the towers as vector art in graphite.art and Claude turned the drawings into animation, menus, upgrade puffs and archers shooting. Free in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19976716/index.html?v=1792777932",
+      "play_url": "https://noobstickz.itch.io/medieval-td",
       "found_via": "r/ClaudeGameDev hand-drawn tower defense coded with Claude, inspired by Kingdom Rush (u/NoobStickz98)",
       "made_with": "unknown",
       "tags": [
@@ -44992,7 +45035,8 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T11:14:52Z",
-      "page_url": "https://noobstickz.itch.io/medieval-td"
+      "page_url": "https://noobstickz.itch.io/medieval-td",
+      "embed_url": "https://html-classic.itch.zone/html/19976716/index.html?v=1792777932"
     },
     {
       "id": "a10-simulator",
@@ -45113,7 +45157,7 @@
       "id": "age-of-iteration",
       "title": "Age of Iteration",
       "description": "Cozy idle factory game: start with one campfire and build your way to space and beyond. ~50k lines of TypeScript in ~500 commits built by Claude (Opus) with some Codex while the dev playtested; building and nature art is GPT image generation snapped to one shared palette, roads, carts and UI drawn in code. Claude also wrapped it as a Capacitor Android app for Google Play. Free in the browser on itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19972609/index.html?v=1792765056",
+      "play_url": "https://loomfieldlabs.itch.io/age-of-iteration",
       "found_via": "r/aigamedev \"I made a cozy idle factory game\" (u/PTBurgart)",
       "made_with": "unknown",
       "tags": [
@@ -45164,13 +45208,14 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T14:26:30Z",
-      "page_url": "https://loomfieldlabs.itch.io/age-of-iteration"
+      "page_url": "https://loomfieldlabs.itch.io/age-of-iteration",
+      "embed_url": "https://html-classic.itch.zone/html/19972609/index.html?v=1792765056"
     },
     {
       "id": "pastel-drive",
       "title": "Pastel Drive",
       "description": "Relaxed endless driving game with no finish line, timer or rivals: pick a small car and drive; the road splits now and then and the scenery changes into new biomes. Code written with Claude Code with the dev steering shaders and performance; music is generated in real time so it never repeats. No AI-generated images, models or audio. Free in the browser on desktop or mobile via itch.io.",
-      "play_url": "https://html-classic.itch.zone/html/19999079/index.html?v=1792856212",
+      "play_url": "https://muliache.itch.io/pastel-drive",
       "found_via": "r/ClaudeGameDev \"Pastel Drive: a relaxed endless driving game\" (u/iolmao)",
       "made_with": "unknown",
       "tags": [
@@ -45255,7 +45300,8 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T17:41:10Z",
-      "page_url": "https://muliache.itch.io/pastel-drive"
+      "page_url": "https://muliache.itch.io/pastel-drive",
+      "embed_url": "https://html-classic.itch.zone/html/19999079/index.html?v=1792856212"
     },
     {
       "id": "22champs",
@@ -50508,7 +50554,7 @@
       "id": "super-league-football",
       "title": "Super League (football)",
       "description": "Free 11v11 football game in the browser with offsides, penalties, set pieces and slow-motion goal replays: 16 nations and 20 clubs (with fake names), a league, a cup and a world cup. Updated weekly; desktop, keyboard or controller. The developer discloses that AI tools helped with some of the code.",
-      "play_url": "https://html-classic.itch.zone/html/20053936/index.html?v=1793033355",
+      "play_url": "https://tamla2.itch.io/super-league",
       "found_via": "r/IndieGaming \"I built a free football game you can play in your browser. No install, no packs.\" (u/tamla_htoo)",
       "made_with": "unknown",
       "iframe": true,
@@ -50649,7 +50695,8 @@
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
       "published_at": "2026-10-26T17:26:54Z",
-      "page_url": "https://tamla2.itch.io/super-league"
+      "page_url": "https://tamla2.itch.io/super-league",
+      "embed_url": "https://html-classic.itch.zone/html/20053936/index.html?v=1793033355"
     },
     {
       "id": "stock-car-club",
@@ -50797,7 +50844,7 @@
       "id": "barnaby",
       "title": "Barnaby",
       "description": "Goofy 1940s slapstick FPS early alpha: you are a 300 lb mouse swinging between skyscrapers on sticky cheese strings. Made by a high-school student with zero coding experience using AI.",
-      "play_url": "https://html-classic.itch.zone/html/20015727/BARNABY/index.html?v=1792909702",
+      "play_url": "https://vanzim2.itch.io/barnaby",
       "found_via": "r/aigamedev \"im literally in highschool with zero coding experience and just made a 1940s FPS game using AI (Barnaby early alpha demo)\" (u/DegTrader)",
       "made_with": "unknown",
       "iframe": true,
@@ -50868,7 +50915,8 @@
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
       "published_at": "2026-10-27T23:47:51Z",
-      "page_url": "https://vanzim2.itch.io/barnaby"
+      "page_url": "https://vanzim2.itch.io/barnaby",
+      "embed_url": "https://html-classic.itch.zone/html/20015727/BARNABY/index.html?v=1792909702"
     },
     {
       "id": "dogfighters-missiles-and-flares",
@@ -53911,7 +53959,7 @@
       "made_with": "unknown",
       "made_with_note": "Coding assistants used; none named.",
       "engine": "Godot",
-      "play_url": "https://html-classic.itch.zone/html/20102369/index.html?v=1793198835",
+      "play_url": "https://latroworks.itch.io/peak-demand",
       "page_url": "https://latroworks.itch.io/peak-demand",
       "iframe": true,
       "tags": [
@@ -53956,7 +54004,8 @@
       "comments": [],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T15:11:04Z"
+      "published_at": "2026-10-28T15:11:04Z",
+      "embed_url": "https://html-classic.itch.zone/html/20102369/index.html?v=1793198835"
     },
     {
       "id": "dead-hands",
@@ -53964,7 +54013,7 @@
       "description": "Retro PS1-style zombie survival where your fingers are the guns: board up windows, hold off rounds, hit the mystery box and upgrade your finger pistol. Solo or up to 4 players by room code across PC and Android, 5 maps with bosses and wild modes. Free in the browser on itch, plus an Android download.",
       "found_via": "r/aigamedev \"Dead Hands\" (u/Tds2727)",
       "made_with": "unknown",
-      "play_url": "https://html-classic.itch.zone/html/20094180/index.html?v=1793172223",
+      "play_url": "https://innovatorsplayground.itch.io/dead-hands",
       "page_url": "https://innovatorsplayground.itch.io/dead-hands",
       "iframe": true,
       "tags": [
@@ -54042,7 +54091,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T07:50:59Z"
+      "published_at": "2026-10-28T07:50:59Z",
+      "embed_url": "https://html-classic.itch.zone/html/20094180/index.html?v=1793172223"
     },
     {
       "id": "one-more-ticket",
@@ -54050,7 +54100,7 @@
       "description": "Browser playtest about debt and scratch-offs: start with a trash bag and $5,000 owed to Vinnie, dig cans behind the gas station, buy and actually scratch tickets, and pay off ever-worse bosses, with a truck stop and Vegas slots, blackjack and a Wheel of (miss)Fortune. About an hour long, best on PC.",
       "found_via": "r/WebGames \"One More Ticket: recycle cans, buy scratch-offs, try to pay off the mob\" (u/Responsible_Web934)",
       "made_with": "unknown",
-      "play_url": "https://html-classic.itch.zone/html/20088226/index.html?v=1793149218",
+      "play_url": "https://willdabosses.itch.io/one-more-ticket",
       "page_url": "https://willdabosses.itch.io/one-more-ticket",
       "iframe": true,
       "tags": [
@@ -54105,7 +54155,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T23:40:40Z"
+      "published_at": "2026-10-28T23:40:40Z",
+      "embed_url": "https://html-classic.itch.zone/html/20088226/index.html?v=1793149218"
     },
     {
       "id": "dear-fridge",
@@ -54114,7 +54165,7 @@
       "found_via": "r/WebGames \"Big update to the Poem building game i made: Dear Fridge\" (u/MagisterWaldemar)",
       "made_with": "unknown",
       "engine": "Unity",
-      "play_url": "https://html-classic.itch.zone/html/19385752-2226951/index.html?v=1793119014",
+      "play_url": "https://magister-waldemar.itch.io/dearfridge",
       "page_url": "https://magister-waldemar.itch.io/dearfridge",
       "iframe": true,
       "tags": [
@@ -54188,7 +54239,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T10:38:01Z"
+      "published_at": "2026-10-28T10:38:01Z",
+      "embed_url": "https://html-classic.itch.zone/html/19385752-2226951/index.html?v=1793119014"
     },
     {
       "id": "emoji-merge",
@@ -54534,7 +54586,7 @@
       "description": "One-button networking game by a network engineer: you are a packet flying through racks of gear and must pick the right port, longest-prefix match on routers, allow/deny rules on firewalls, with near-miss prefixes and dead links later. Free demo in the browser on itch, plus Windows and Mac builds.",
       "found_via": "r/ccna \"I made a free browser game where you're a packet and have to pick the longest prefix match\" (u/TermEnvironmental904)",
       "made_with": "unknown",
-      "play_url": "https://html-classic.itch.zone/html/20096886-2233256/index.html?v=1793182545",
+      "play_url": "https://kpatronas.itch.io/next-hop",
       "page_url": "https://kpatronas.itch.io/next-hop",
       "iframe": true,
       "tags": [
@@ -54598,7 +54650,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T15:49:05Z"
+      "published_at": "2026-10-28T15:49:05Z",
+      "embed_url": "https://html-classic.itch.zone/html/20096886-2233256/index.html?v=1793182545"
     },
     {
       "id": "vibe-duels",
@@ -54718,7 +54771,7 @@
       "description": "Platformer of familiar levels that break: collect 100 coins until the coins unionize, the lava follows you up, the slime goes home to his family and the final boss gets fired. Runs are six levels plus a boss, with mutations that carry over and a shared daily run. Free in the browser on phone or desktop.",
       "found_via": "r/platformer \"Tropes: every platformer level you've played, and then it breaks\" (u/MDawg74)",
       "made_with": "unknown",
-      "play_url": "https://html-classic.itch.zone/html/19831787-2230703/index.html?v=1793149928",
+      "play_url": "https://mdawg74.itch.io/tropes",
       "page_url": "https://mdawg74.itch.io/tropes",
       "iframe": true,
       "tags": [
@@ -54758,7 +54811,8 @@
       "comments": [],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T23:23:44Z"
+      "published_at": "2026-10-28T23:23:44Z",
+      "embed_url": "https://html-classic.itch.zone/html/19831787-2230703/index.html?v=1793149928"
     },
     {
       "id": "cave-flipper",
@@ -54767,7 +54821,7 @@
       "found_via": "r/WebGames \"Cave Flipper: A 2D, puzzle-platformer\" (u/Internal_Ad_2568)",
       "made_with": "unknown",
       "engine": "Unity",
-      "play_url": "https://html-classic.itch.zone/html/20029735/index.html?v=1792950980",
+      "play_url": "https://adamrevy19.itch.io/cave-flipper-prototype",
       "page_url": "https://adamrevy19.itch.io/cave-flipper-prototype",
       "iframe": true,
       "tags": [
@@ -54816,7 +54870,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T12:17:27Z"
+      "published_at": "2026-10-28T12:17:27Z",
+      "embed_url": "https://html-classic.itch.zone/html/20029735/index.html?v=1792950980"
     },
     {
       "id": "sakura-wars-ps4rt",
