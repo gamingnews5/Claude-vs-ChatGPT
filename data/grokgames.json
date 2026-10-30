@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:00:00.000Z",
+  "updated_at": "2026-10-30T09:00:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -27,7 +27,9 @@
           "source": "awesome-local"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "timeout"
     },
     {
       "id": "transport-ship",
@@ -54,7 +56,9 @@
           "source": "awesome-local"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "qq-speed-3d-racing",
@@ -81,7 +85,9 @@
           "source": "awesome-local"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "ascent",
@@ -107,7 +113,9 @@
         }
       ],
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "timeout"
     },
     {
       "id": "spider-man-miles-morales",
@@ -167,7 +175,9 @@
       ],
       "page_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "inkwave",
@@ -202,7 +212,9 @@
           "notes": "multi-frame: Splatoon-style 3D turf war: pink and lime ink splattered across a seaside plaza, timer and team HUD, player squid-kid shooting; bright and lively. Rated from 5 frames across the creator clip plus poster."
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "inkbound",
@@ -254,7 +266,9 @@
       "page_url": "https://agentgames.itch.io/inkbound",
       "iframe": true,
       "iframe_block_reason": null,
-      "embed_url": "https://html-classic.itch.zone/html/19394184/index.html?v=1790339034"
+      "embed_url": "https://html-classic.itch.zone/html/19394184/index.html?v=1790339034",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "low-tide",
@@ -297,7 +311,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "night-cruise",
@@ -340,7 +356,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "pressure-wash-panic",
@@ -522,7 +540,9 @@
       ],
       "tags": [
         "wavedash"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "kettu-vellam",
@@ -542,7 +562,9 @@
       "video_source": "awesome-local",
       "remote_likes": 72,
       "likes_source": "x",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "silt-signal",
@@ -565,7 +587,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "tidal-orbit",
@@ -588,7 +612,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "house-of-drakan",
@@ -609,7 +635,9 @@
       "video_source": "awesome-local",
       "remote_likes": 30,
       "likes_source": "x",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "broken"
     },
     {
       "id": "hanakawa",
@@ -628,7 +656,9 @@
       "video_path": "videos/hanakawa.mp4",
       "video_source": "feed-local",
       "remote_likes": 36,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "containment",
@@ -648,7 +678,9 @@
       "video_path": "videos/containment.mp4",
       "video_source": "feed-local",
       "remote_likes": 8,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "transformer",
@@ -668,7 +700,9 @@
       "video_path": "videos/transformer.mp4",
       "video_source": "feed-local",
       "remote_likes": 13,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "spartan-unbound",
@@ -687,7 +721,9 @@
       "video_path": "videos/spartan-unbound.mp4",
       "video_source": "feed-local",
       "remote_likes": 14,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "needs_login"
     },
     {
       "id": "ozomatli",
@@ -710,7 +746,9 @@
       "likes_source": "x",
       "tags": [
         "gamefoundry"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "opus-55-nba-2k",
@@ -895,7 +933,9 @@
       ],
       "page_url": "https://genex.games/opus-2k",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "double-feature",
@@ -915,7 +955,9 @@
       "video_path": "videos/double-feature.mp4",
       "video_source": "feed-local",
       "remote_likes": 187,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "clunk",
@@ -926,15 +968,17 @@
       "found_via": "X post by @clunk_games (hours-old) with playable clunk.games link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/28-clunk.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture.",
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture. (admin: Igor set 5 on 2026-10-29; bot score was 8.6)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
       "video_path": "videos/clunk.mp4",
       "video_source": "feed-local",
       "remote_likes": 3,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "discodino-lost-worlds",
@@ -978,7 +1022,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "flip-clash",
@@ -998,7 +1044,9 @@
       "video_path": "videos/flip-clash.mp4",
       "video_source": "awesome-local",
       "remote_likes": 5,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "river-rush",
@@ -1018,7 +1066,9 @@
       "video_path": "videos/river-rush.mp4",
       "video_source": "feed-local",
       "remote_likes": 6,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "pokemon-claude-red",
@@ -1066,7 +1116,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "sakura-river-valley",
@@ -1109,7 +1161,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "goodgame",
@@ -1128,7 +1182,9 @@
       "video_path": "videos/goodgame-v2.mp4",
       "video_source": "feed-local",
       "remote_likes": 11,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "dukes-lawn",
@@ -1147,7 +1203,9 @@
       "video_path": "videos/dukes-lawn.mp4",
       "video_source": "feed-local",
       "remote_likes": 3963,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "towline",
@@ -1170,7 +1228,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "voxel-musou",
@@ -1208,7 +1268,9 @@
           "score": 6,
           "notes": "multi-frame: voxel Three Kingdoms musou: a hero cutting through crowds of soldiers, then stylish character cards (Zhang Fei, Zhuge Liang, Lu Bu) and a stage menu; strong art direction, mostly promo cards. Rated from 5 frames across the creator clip plus poster."
         }
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "fierro",
@@ -1283,7 +1345,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "sangoku-tojo",
@@ -1305,7 +1369,9 @@
       "likes_source": "x",
       "page_url": "https://sangoku.tokyoaivisuals.club/",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "sukhna-lake",
@@ -1349,7 +1415,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "arkenfall",
@@ -1374,7 +1442,9 @@
         "desktop",
         "mobile",
         "touch"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "fang-the-fox",
@@ -1416,7 +1486,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "koi-pond-garden",
@@ -1437,7 +1509,9 @@
       "video_source": "awesome-local",
       "remote_likes": 1175,
       "likes_source": "x",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "jiggle-buddies",
@@ -1457,7 +1531,9 @@
       "video_path": "videos/jiggle-buddies.mp4",
       "video_source": "feed-local",
       "remote_likes": 3,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "ashfall-perimeter",
@@ -1480,7 +1556,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "crayon-motors",
@@ -1503,7 +1581,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "last-train-to-the-sea",
@@ -1526,7 +1606,9 @@
       "likes_source": "x",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "wildbrush",
@@ -1547,7 +1629,9 @@
       "video_source": "awesome-local",
       "remote_likes": 4409,
       "likes_source": "x",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "cozy-cove",
@@ -1573,7 +1657,9 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://tesana.com/play/8d052fdd-93a3-4466-a908-083f5f263a80",
       "iframe": true,
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "spawn-legends",
@@ -1597,7 +1683,9 @@
       "tags": [
         "spawn"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "puzzle-bracket",
@@ -1639,7 +1727,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "nand-16",
@@ -1658,7 +1748,9 @@
       "video_path": "videos/nand-16-v2.mp4",
       "video_source": "feed-local",
       "remote_likes": 1790,
-      "likes_source": "x"
+      "likes_source": "x",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "work-tomorrow",
@@ -1681,7 +1773,9 @@
       "likes_source": "x",
       "tags": [
         "sandbox"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "broken"
     },
     {
       "id": "hyperbrick",
@@ -1724,7 +1818,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "labyrinthos",
@@ -1767,7 +1863,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "long-wind",
@@ -1811,7 +1909,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "casa-de-gemas",
@@ -1856,7 +1956,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "volley-rally",
@@ -5139,8 +5241,8 @@
       "found_via": "reddit / r/aigamedev",
       "found_via_network": "reddit",
       "screenshot_path": "screenshots/214-bioneural.jpg",
-      "screenshot_score": 8.2,
-      "screenshot_score_notes": "Clean voxel-city FPS action with double-kill callout, pulse rifle, and readable HUD; night lighting is clear.",
+      "screenshot_score": 9.2,
+      "screenshot_score_notes": "Clean voxel-city FPS action with double-kill callout, pulse rifle, and readable HUD; night lighting is clear. (admin: Igor set 9.2 on 2026-10-29; bot score was 8.2)",
       "video_path": "videos/bioneural.mp4",
       "videos": [
         {
@@ -5187,8 +5289,8 @@
       "found_via": "reddit / r/aigamedev",
       "found_via_network": "reddit",
       "screenshot_path": "screenshots/215-chonk-bear-brawl.jpg",
-      "screenshot_score": 8.6,
-      "screenshot_score_notes": "Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau. (admin: Igor set 4 on 2026-10-29; bot score was 8.6)",
       "video_path": "videos/chonk-bear-brawl-30s.mp4",
       "videos": [
         {
@@ -5661,7 +5763,7 @@
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/223-overrun-dockyard-nine.jpg",
       "screenshot_score": 8,
-      "screenshot_score_notes": "multi-frame: Main menu and the in-game HUD (paused after pointer lock in the GPU-less browser) plus the earlier dockyard action screenshot; strong existing art, new shots add UI only. Rated from 3 screenshots.",
+      "screenshot_score_notes": "multi-frame: Main menu, the in-game HUD (paused after pointer lock in the GPU-less browser) and the earlier dockyard action shot, plus a 2026-10-30 menu recapture; strong existing art, the new shot adds little. Rated from 4 screenshots.",
       "first_seen": "2026-09-30",
       "last_seen": "2026-09-30",
       "made_with": "opus-5.5",
@@ -5672,7 +5774,7 @@
         {
           "path": "screenshots/223-overrun-dockyard-nine.jpg",
           "score": 8,
-          "notes": "multi-frame: Main menu and the in-game HUD (paused after pointer lock in the GPU-less browser) plus the earlier dockyard action screenshot; strong existing art, new shots add UI only. Rated from 3 screenshots."
+          "notes": "multi-frame: Main menu, the in-game HUD (paused after pointer lock in the GPU-less browser) and the earlier dockyard action shot, plus a 2026-10-30 menu recapture; strong existing art, the new shot adds little. Rated from 4 screenshots."
         },
         {
           "path": "screenshots/overrun-dockyard-nine-1.jpg",
@@ -5681,11 +5783,17 @@
         {
           "path": "screenshots/overrun-dockyard-nine-2.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/overrun-dockyard-nine-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "color-quest",
@@ -5802,8 +5910,8 @@
       "remote_likes": 2,
       "likes_source": "reddit",
       "screenshot_path": "screenshots/240-roomwave.jpg",
-      "screenshot_score": 8.7,
-      "screenshot_score_notes": "Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA.",
+      "screenshot_score": 4,
+      "screenshot_score_notes": "Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA. (admin: Igor set 4 on 2026-10-29; bot score was 8.7)",
       "screenshots": [
         {
           "path": "screenshots/240-roomwave.jpg",
@@ -5867,7 +5975,9 @@
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z",
-      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
+      "checked_at": "2026-10-30",
+      "check_result": "broken"
     },
     {
       "id": "monochrome-circuit-sonnet",
@@ -5902,7 +6012,9 @@
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z",
-      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "monochrome-circuit-astra",
@@ -5937,7 +6049,9 @@
       "listed_at": "2026-09-30T03:48:00.000Z",
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z",
-      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12"
+      "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
+      "checked_at": "2026-10-30",
+      "check_result": "broken"
     },
     {
       "id": "squish-club",
@@ -6148,8 +6262,8 @@
       "play_url": "https://homie.rocks/span-nine/",
       "source_url": "https://x.com/Ryancampbell/status/2105160746363662816",
       "screenshot_path": "screenshots/251-span-nine.jpg",
-      "screenshot_score": 8.9,
-      "screenshot_score_notes": "Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom. (admin: Igor set 7 on 2026-10-29; bot score was 8.9)",
       "screenshots": [
         {
           "path": "screenshots/251-span-nine.jpg",
@@ -8907,15 +9021,29 @@
           "path": "screenshots/evergrow-1.jpg",
           "source": "headless-browser",
           "score": 4.5,
-          "notes": "multi-frame: Character art with the \"Sign in to play\" panel; gameplay is behind a login so only the landing was captured. Rated from 1 screenshots."
+          "notes": "multi-frame: Character art with the \"Sign in\" panel on every capture (2026-10-30 recheck too); gameplay is behind a login so only the landing was captured. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/evergrow-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/evergrow-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/evergrow-4.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_path": "screenshots/evergrow-1.jpg",
       "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: Character art with the \"Sign in to play\" panel; gameplay is behind a login so only the landing was captured. Rated from 1 screenshots.",
+      "screenshot_score_notes": "multi-frame: Character art with the \"Sign in\" panel on every capture (2026-10-30 recheck too); gameplay is behind a login so only the landing was captured. Rated from 4 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "needs_login"
     },
     {
       "id": "iitg-campus-3d",
@@ -13592,14 +13720,29 @@
         {
           "path": "screenshots/392-blood-slayers.jpg",
           "score": 6,
-          "notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game."
+          "notes": "multi-frame: Wavedash cover key art (gothic logo over a hellish battlefield) plus 2026-10-30 captures of the Wavedash game page and its launch overlay; no in-game footage. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/blood-slayers-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/blood-slayers-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/blood-slayers-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Wavedash cover: gothic BLOOD SLAYERS logo over a hellish red battlefield of demons; dramatic key art, not in-game.",
+      "screenshot_score_notes": "multi-frame: Wavedash cover key art (gothic logo over a hellish battlefield) plus 2026-10-30 captures of the Wavedash game page and its launch overlay; no in-game footage. Rated from 4 screenshots.",
       "tags": [
-        "wavedash"
-      ]
+        "wavedash",
+        "screenshots"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "wrapper_only"
     },
     {
       "id": "new-rad-city",
@@ -21915,7 +22058,9 @@
           "created_at": "2026-10-13T17:43:25Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "simgolf-remastered",
@@ -22582,7 +22727,7 @@
         {
           "path": "videos/need4space.jpg",
           "score": 5,
-          "notes": "multi-frame: Title screen and the loading screen plus the earlier video poster; space theme, new shots add little. Rated from 3 screenshots."
+          "notes": "multi-frame: Title screen, loading screen and the earlier video poster, plus a 2026-10-30 title recapture; space theme, little gameplay. Rated from 4 screenshots."
         },
         {
           "path": "screenshots/need4space-1.jpg",
@@ -22591,10 +22736,14 @@
         {
           "path": "screenshots/need4space-2.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/need4space-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Title screen and the loading screen plus the earlier video poster; space theme, new shots add little. Rated from 3 screenshots.",
+      "screenshot_score_notes": "multi-frame: Title screen, loading screen and the earlier video poster, plus a 2026-10-30 title recapture; space theme, little gameplay. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "LostRequirement4828",
       "author_source": "https://www.reddit.com/user/LostRequirement4828/",
@@ -22605,7 +22754,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "approximatr",
@@ -24409,7 +24560,9 @@
       "likes_source": "reddit",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "apocalypse-psx",
@@ -27898,7 +28051,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T01:55:55Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "jgr-portable-psp",
@@ -35457,7 +35612,9 @@
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
       "published_at": "2026-10-17T02:03:27.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "pokebonk",
@@ -35867,7 +36024,8 @@
       "engine": "WebGPU",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "screenshots"
       ],
       "category": "action",
       "platforms": [
@@ -35879,12 +36037,24 @@
       "iframe": true,
       "screenshot_path": "screenshots/407-virtual-on-web.jpg",
       "screenshot_score": 2.5,
-      "screenshot_score_notes": "Capped at 2.5/3 (own ROM): clean launcher with Virtual-On logo, ROM file picker, graphics-mode toggles, and twin-stick control panel — no in-game combat without von.zip.",
+      "screenshot_score_notes": "multi-frame: Launcher with the Virtual-On logo, ROM file picker, graphics toggles and the twin-stick control panel (2026-10-30 captures); no in-game combat without your own ROM. Capped at 3 (own ROM). Rated from 4 screenshots.",
       "screenshots": [
         {
           "path": "screenshots/407-virtual-on-web.jpg",
           "score": 2.5,
-          "notes": "Launcher with ROM picker and Virtual-On logo"
+          "notes": "multi-frame: Launcher with the Virtual-On logo, ROM file picker, graphics toggles and the twin-stick control panel (2026-10-30 captures); no in-game combat without your own ROM. Capped at 3 (own ROM). Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/virtual-on-web-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/virtual-on-web-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/virtual-on-web-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "remote_likes": 13,
@@ -35909,7 +36079,9 @@
       "published_at": "2026-10-18T18:51:51Z",
       "first_seen": "2026-10-19T16:40:00.000Z",
       "last_seen": "2026-10-19T16:40:00.000Z",
-      "likes_checked": "2026-10-19"
+      "likes_checked": "2026-10-19",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "un-banished",
@@ -41009,7 +41181,9 @@
       "published_at": "2025-02-02T04:56:08Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "gt2-web",
@@ -41045,11 +41219,19 @@
           "path": "screenshots/gt2-web-1.jpg",
           "source": "repo-readme",
           "score": 2.5,
-          "notes": "screenshots: rated from 1 real screenshot from the gt-2-pc README - the new cockpit view in a race, dashboard and steering wheel, rear-view mirror, track map, 6th place, lap timer and a 53 km/h speedo. Clean and recognisable; capped at 2.5 because you need your own disc image."
+          "notes": "multi-frame: README cockpit screenshot plus the 2026-10-30 web launcher asking for your own GT2 files and its empty canvas. Capped at 3 (needs your own game files). Rated from 3 screenshots."
+        },
+        {
+          "path": "screenshots/gt2-web-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/gt2-web-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 2.5,
-      "screenshot_score_notes": "screenshots: rated from 1 real screenshot from the gt-2-pc README - the new cockpit view in a race, dashboard and steering wheel, rear-view mirror, track map, 6th place, lap timer and a 53 km/h speedo. Clean and recognisable; capped at 2.5 because you need your own disc image.",
+      "screenshot_score_notes": "multi-frame: README cockpit screenshot plus the 2026-10-30 web launcher asking for your own GT2 files and its empty canvas. Capped at 3 (needs your own game files). Rated from 3 screenshots.",
       "remote_likes": 141,
       "likes_source": "github",
       "likes_source_url": "https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc",
@@ -41057,7 +41239,9 @@
       "published_at": "2026-09-20T22:51:26Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "vcmi-homm3",
@@ -41095,11 +41279,19 @@
           "path": "screenshots/vcmi-homm3-1.jpg",
           "source": "site",
           "score": 2.5,
-          "notes": "screenshots: rated from 1 real screenshot from the DOS.Zone game page - a dense HoMM3 adventure map with snowy and green terrain, castles, mines and resource piles. Detailed and instantly recognisable; capped at 2.5 because you need your own game files."
+          "notes": "multi-frame: DOS.Zone HoMM3 adventure map plus the 2026-10-30 launcher with the first-launch and \"Allow torrent use\" dialogs; needs your own game data. Capped at 3. Rated from 3 screenshots."
+        },
+        {
+          "path": "screenshots/vcmi-homm3-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/vcmi-homm3-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 2.5,
-      "screenshot_score_notes": "screenshots: rated from 1 real screenshot from the DOS.Zone game page - a dense HoMM3 adventure map with snowy and green terrain, castles, mines and resource piles. Detailed and instantly recognisable; capped at 2.5 because you need your own game files.",
+      "screenshot_score_notes": "multi-frame: DOS.Zone HoMM3 adventure map plus the 2026-10-30 launcher with the first-launch and \"Allow torrent use\" dialogs; needs your own game data. Capped at 3. Rated from 3 screenshots.",
       "remote_likes": 15,
       "likes_source": "github",
       "likes_source_url": "https://github.com/caiiiycuk/vcmi-wasm",
@@ -41107,7 +41299,9 @@
       "published_at": "2024-11-28T12:29:01Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "fifa-street-2-online",
@@ -49135,8 +49329,8 @@
           "notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "screenshot_score": 9.1,
+      "screenshot_score_notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.1 on 2026-10-29; bot score was 6)",
       "found_via_network": "reddit",
       "author": "pawel-dot-io",
       "author_source": "https://www.reddit.com/user/pawel-dot-io/",
@@ -49219,7 +49413,12 @@
       ],
       "first_seen": "2026-10-27T09:00:00.000Z",
       "last_seen": "2026-10-27T09:00:00.000Z",
-      "published_at": "2026-10-26T19:35:57Z"
+      "published_at": "2026-10-26T19:35:57Z",
+      "tags": [
+        "mobile",
+        "pc",
+        "opus-5.5"
+      ]
     },
     {
       "id": "pokemon-arena-pikachu",
@@ -50096,7 +50295,9 @@
       ],
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
-      "published_at": "2026-10-27T09:31:42Z"
+      "published_at": "2026-10-27T09:31:42Z",
+      "checked_at": "2026-10-30",
+      "check_result": "broken"
     },
     {
       "id": "kartar-dhaba",
@@ -51993,8 +52194,8 @@
           "notes": "multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "screenshot_score": 1,
+      "screenshot_score_notes": "multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 1 on 2026-10-28; bot score was 6)",
       "found_via_network": "x",
       "x_handle": "prodsystems_",
       "author": "prodsystems_",
@@ -52009,7 +52210,12 @@
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
       "published_at": "2026-10-26T23:17:52.000Z",
-      "author_note": "Poster @prodsystems_ shared it; the creator is described only as a solo developer in Korea."
+      "author_note": "Poster @prodsystems_ shared it; the creator is described only as a solo developer in Korea.",
+      "tags": [
+        "pc"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "wardens-of-the-wild",
@@ -52673,7 +52879,7 @@
           "path": "screenshots/captain-tsubasa-ii-port-1.jpg",
           "source": "headless-browser",
           "score": 5,
-          "notes": "multi-frame: Online 1 VS 1 lobby, the character-pick modal and the Create Room panel; NES-styled UI, no match footage captured. Rated from 3 screenshots."
+          "notes": "multi-frame: Online 1 VS 1 lobby, the character-pick modal and the Create Room panel, plus a 2026-10-30 lobby recapture; NES-styled UI, no match footage. Rated from 4 screenshots."
         },
         {
           "path": "screenshots/captain-tsubasa-ii-port-2.jpg",
@@ -52682,10 +52888,14 @@
         {
           "path": "screenshots/captain-tsubasa-ii-port-3.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/captain-tsubasa-ii-port-4.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Online 1 VS 1 lobby, the character-pick modal and the Create Room panel; NES-styled UI, no match footage captured. Rated from 3 screenshots.",
+      "screenshot_score_notes": "multi-frame: Online 1 VS 1 lobby, the character-pick modal and the Create Room panel, plus a 2026-10-30 lobby recapture; NES-styled UI, no match footage. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "elpepe444382",
       "author_source": "https://www.reddit.com/user/elpepe444382/",
@@ -52754,7 +52964,9 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-27T21:57:30Z"
+      "published_at": "2026-10-27T21:57:30Z",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "redcat-spookkasteel",
@@ -52917,11 +53129,15 @@
           "path": "screenshots/amsterdoom-1.jpg",
           "source": "headless-browser",
           "score": 3,
-          "notes": "multi-frame: Only the web port's load screen asking for your own Amsterdoom CD data (no game files on the box). Capped at 3 (needs your own game files). Rated from 1 screenshots."
+          "notes": "multi-frame: Only the web port's load screen asking for your own Amsterdoom CD data (recaptured 2026-10-30). Capped at 3 (needs your own game files). Rated from 2 screenshots."
+        },
+        {
+          "path": "screenshots/amsterdoom-2.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 3,
-      "screenshot_score_notes": "multi-frame: Only the web port's load screen asking for your own Amsterdoom CD data (no game files on the box). Capped at 3 (needs your own game files). Rated from 1 screenshots.",
+      "screenshot_score_notes": "multi-frame: Only the web port's load screen asking for your own Amsterdoom CD data (recaptured 2026-10-30). Capped at 3 (needs your own game files). Rated from 2 screenshots.",
       "found_via_network": "reddit",
       "author": "Ok_Fisherman_268",
       "author_source": "https://www.reddit.com/user/Ok_Fisherman_268/",
@@ -53025,7 +53241,9 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-27T20:17:49Z"
+      "published_at": "2026-10-27T20:17:49Z",
+      "checked_at": "2026-10-30",
+      "check_result": "working"
     },
     {
       "id": "roadrash-fun",
@@ -54104,6 +54322,8 @@
       "page_url": "https://willdabosses.itch.io/one-more-ticket",
       "iframe": true,
       "tags": [
+        "mobile",
+        "pc",
         "itchio"
       ],
       "category": "simulation",
@@ -55945,16 +56165,2314 @@
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
       "published_at": "2026-10-27T22:59:26.000Z"
+    },
+    {
+      "id": "tabstationtoo",
+      "title": "TabStationToo",
+      "description": "PS2 emulator that runs in a browser tab: the PCSX2 core (GPL-3.0) compiled to WebAssembly with a new page around it. Pick the BIOS from a PS2 you own and a folder of your own disc images, and play; tested on Guitar Hero, GTA San Andreas, Final Fantasy XII, Budokai Tenkaichi 3 and Resident Evil 4 (works best in Chrome). Files stay on your computer. Made by u/yousriii and u/aegyptiacus11; most of the code was written with Opus 5.5.",
+      "play_url": "https://tabstationtoo.github.io/TabStationToo/",
+      "found_via": "r/ClaudeAI \"We used Claude to get a full PS2 emulator running in a browser tab: TabStationToo\" (u/yousriii)",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says most of the code was written with Opus 5.5.",
+      "engine": "PCSX2 (WebAssembly)",
+      "github_url": "https://github.com/TabStationToo/TabStationToo",
+      "github_stars": 40,
+      "iframe": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs the BIOS from your own PS2 and your own disc images",
+      "category": "emulator",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "decomp",
+        "rom",
+        "requires_own_files"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/tabstationtoo.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/tabstationtoo.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/tabstationtoo.jpg",
+      "screenshots": [
+        {
+          "path": "videos/tabstationtoo.jpg",
+          "score": 3,
+          "notes": "multi-frame: Phone-filmed laptop screen running a PS2 game in the tab: dark third-person interiors that are hard to make out; real emulation, but filmed off a screen and dim. Capped at 3 (needs your own BIOS and discs). Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://v.redd.it/52mllwthzdyh1",
+      "screenshot_score": 3,
+      "screenshot_score_notes": "multi-frame: Phone-filmed laptop screen running a PS2 game in the tab: dark third-person interiors that are hard to make out; real emulation, but filmed off a screen and dim. Capped at 3 (needs your own BIOS and discs). Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "yousriii",
+      "author_source": "https://www.reddit.com/user/yousriii/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/",
+      "likes_source": "reddit",
+      "remote_likes": 1021,
+      "comment_count": 79,
+      "comments": [
+        {
+          "author": "ClaudeAI-mod-bot",
+          "text": "**TL;DR of the discussion generated automatically after 50 comments.**\n\n**The consensus is this is an absolutely legendary project, and your laptop fan is about to start sounding like a PS2 booting up.** The thread is overwhelmingly positive about OP's Claude-assisted PS2 emulator that runs entirely in a browser tab.\n\nHere's the rundown of the main questions being asked:\n\n*   **Performance:** It's not as fast as the native PCSX2 emulator (for complicated technical reasons), but the OPs and other",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtzlpnvzo9s/",
+          "created_at": "2026-10-29T13:33:11Z"
+        },
+        {
+          "author": "BoxLegitimate9271",
+          "text": "a ps2 emulator in a browser tab. my laptop fan just started doing the ps2 boot sound",
+          "likes": 90,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtvkte947mr/",
+          "created_at": "2026-10-29T12:02:57Z"
+        },
+        {
+          "author": "yousriii",
+          "text": "IMMERSION",
+          "likes": 23,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtvr4fcmvfm/",
+          "created_at": "2026-10-29T12:06:52Z"
+        },
+        {
+          "author": "pechSog",
+          "text": "How to save in game?",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtw6itr363m/",
+          "created_at": "2026-10-29T12:16:28Z"
+        },
+        {
+          "author": "pechSog",
+          "text": "AMAZING! I am playing Ring of Red right now!",
+          "likes": 16,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtv9qogl8yo/",
+          "created_at": "2026-10-29T11:56:03Z"
+        },
+        {
+          "author": "aegyptiacus11",
+          "text": "Enjoy my friend!",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtvgu19wof6/",
+          "created_at": "2026-10-29T12:00:28Z"
+        },
+        {
+          "author": "florodude",
+          "text": "Isn't that an xbox 360 exclusive?",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ru8dshty5cx/",
+          "created_at": "2026-10-29T16:50:02Z"
+        },
+        {
+          "author": "nenecaliente69",
+          "text": "Holy cow!! it does work!! i can use my PS5 controller no mapping needed, im playing King Of Fighters 2002,input lag i have no so far, awesome project!!",
+          "likes": 15,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ru6jv3vd410/",
+          "created_at": "2026-10-29T16:08:59Z"
+        },
+        {
+          "author": "yousriii",
+          "text": "Have fun!",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ru6sebziyzn/",
+          "created_at": "2026-10-29T16:14:17Z"
+        },
+        {
+          "author": "aegyptiacus11",
+          "text": "Let's goooooooooo",
+          "likes": 8,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtvk5lnfqub/",
+          "created_at": "2026-10-29T12:02:32Z"
+        },
+        {
+          "author": "ClaudeAI-mod-bot",
+          "text": "You may be interested in joining our new Claude Game Dev subreddit for game devs who use Claude. Check it out here : http://www.reddit.com/r/ClaudeGameDev",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtsk5air929/",
+          "created_at": "2026-10-29T10:55:16Z"
+        },
+        {
+          "author": "fireflamesniper",
+          "text": "I love the little animations, I wish some frontends could do this! ",
+          "likes": 7,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtw2rtxdxnm/",
+          "created_at": "2026-10-29T12:14:08Z"
+        },
+        {
+          "author": "yousriii",
+          "text": "spam inserting the disk, you might get an easter egg reminding you of childhood struggles : D",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtw5nja4mg2/",
+          "created_at": "2026-10-29T12:15:55Z"
+        },
+        {
+          "author": "aegyptiacus11",
+          "text": "If you don't have patience there's also a keyboard shortcut for the easter egg.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtx5yh1c04k/",
+          "created_at": "2026-10-29T12:38:32Z"
+        },
+        {
+          "author": "Western_Citron_8498",
+          "text": "Shi is goated appreciate the great work ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ruij6oydfa9/",
+          "created_at": "2026-10-29T20:37:36Z"
+        },
+        {
+          "author": "snowman-london",
+          "text": "Super cool. Nice work.",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rttwdmg3gyp/",
+          "created_at": "2026-10-29T11:25:18Z"
+        },
+        {
+          "author": "yousriii",
+          "text": "Thanks!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtuz8ccqmjo/",
+          "created_at": "2026-10-29T11:49:30Z"
+        },
+        {
+          "author": "WaffleKnght",
+          "text": "Ayee does this run nfs underground 1 and 2. Please reply I must know ",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19rtyjuf96dus/",
+          "created_at": "2026-10-29T13:09:36Z"
+        },
+        {
+          "author": "yousriii",
+          "text": "It can run it, but the game is very demanding  \nYou first boot of the game or lap in the circuit especially will be very slow.   \n  \nOne of the tricks that we're using to make this playable in a browser is to make your browser remember which part of the code needs to be compiled, meaning that a second run or a second boot of a game would generally be much smoother than the first one, you can pair that with under clocking (there is a \"clock\" button in the remote control) to gain some extra %   \n ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ru6qdkc9i90/",
+          "created_at": "2026-10-29T16:13:02Z"
+        },
+        {
+          "author": "Ok-Step-1714",
+          "text": "yo, I love this. It’s so smoth and the little animations are crazy good",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xigpgr/we_used_claude_to_get_a_full_ps2_emulator_running/19ruihomzq3s0/",
+          "created_at": "2026-10-29T20:36:40Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T10:52:51Z"
+    },
+    {
+      "id": "waiting-room",
+      "title": "Waiting Room",
+      "description": "Short first-person horror game set in an old post-Soviet hospital in Slovakia. Everything, including the engine (Metal on Mac, Vulkan on Windows), gameplay, monster AI and cloth physics, was made with Claude Code using free assets. Download for Windows and macOS on itch.io (not playable in the browser).",
+      "play_url": "https://tiborholtman.itch.io/waiting-room",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "browser_playable": false,
+      "download_url": "https://tiborholtman.itch.io/waiting-room",
+      "download_platforms": [
+        "windows",
+        "macos"
+      ],
+      "found_via": "r/aigamedev \"I just released my first game made entirely with Claude Code\" (u/Bill_Buffet)",
+      "made_with": "unknown",
+      "made_with_note": "Post says Claude Code made everything; no model named.",
+      "engine": "custom (Metal / Vulkan)",
+      "category": "horror",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio",
+        "download"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/waiting-room.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/waiting-room.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/waiting-room.jpg",
+      "screenshots": [
+        {
+          "path": "videos/waiting-room.jpg",
+          "score": 6.5,
+          "notes": "multi-frame: Snowy night car park outside a hospital, a long tiled corridor, red-lit rooms and a dark hallway with a flashlight; moody and coherent first-person horror. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://v.redd.it/oq3c5itm1fyh1",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Snowy night car park outside a hospital, a long tiled corridor, red-lit rooms and a dark hallway with a flashlight; moody and coherent first-person horror. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Bill_Buffet",
+      "author_source": "https://www.reddit.com/user/Bill_Buffet/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/",
+      "likes_source": "reddit",
+      "remote_likes": 114,
+      "comment_count": 17,
+      "comments": [
+        {
+          "author": "PickleLegGames",
+          "text": "Looks really cool, and the atmosphere looks great. What game length would you estimate it at? Any plans for expansion?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ru4byzu7eys/",
+          "created_at": "2026-10-29T15:19:13Z"
+        },
+        {
+          "author": "Bill_Buffet",
+          "text": "It's a short horror game with about 30 minutes of gameplay. It's more of a proof of concept for me, and I plan to take what I learn to build a different game using AI.",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ru4uzhcsjgi/",
+          "created_at": "2026-10-29T15:31:04Z"
+        },
+        {
+          "author": "TheMarco",
+          "text": "Looks cool and creepy AF! I love stuff like this. I have something similar going on. You'll probably like it: [https://www.itwantsyoutostay.com/](https://www.itwantsyoutostay.com/)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ruc5er4ls3n/",
+          "created_at": "2026-10-29T18:14:30Z"
+        },
+        {
+          "author": "AgeComfortable5104",
+          "text": "Végre egy magyar fejlesztés :)\n\n",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ru50zwlc0aq/",
+          "created_at": "2026-10-29T15:34:48Z"
+        },
+        {
+          "author": "Sencha-Games",
+          "text": "How did you handle level design? Did you construct your own level editor, or did you come up with a workflow for Claude to lay out assets?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rucp80mkvb9/",
+          "created_at": "2026-10-29T18:26:50Z"
+        },
+        {
+          "author": "Bill_Buffet",
+          "text": "I created a game bible describing each level's location and layout. From there, we made a top-down plan, built graybox scenes based on that layout, and finally produced full 3D graphics with effects like reflections and haze.",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ruf9hfb3nnn/",
+          "created_at": "2026-10-29T19:24:18Z"
+        },
+        {
+          "author": "SethBrayman",
+          "text": "nice how long build time ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rucpw7xntdx/",
+          "created_at": "2026-10-29T18:27:15Z"
+        },
+        {
+          "author": "Bill_Buffet",
+          "text": "3 weeks",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ruf3myq32ip/",
+          "created_at": "2026-10-29T19:20:39Z"
+        },
+        {
+          "author": "jupanaes2",
+          "text": "3 weeks? do you mind sharing how you did it?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rugks8708eb/",
+          "created_at": "2026-10-29T19:53:45Z"
+        },
+        {
+          "author": "Iraqi55555",
+          "text": "if you post this in u/indiegame Reddit with same title, you will make a lot of people cry there Hehe, btw game looks so cool ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ruic9nvaqv4/",
+          "created_at": "2026-10-29T20:33:17Z"
+        },
+        {
+          "author": "allhailgeek",
+          "text": "Did you pay for assets or did claude create them?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rujkyr9u074/",
+          "created_at": "2026-10-29T21:01:07Z"
+        },
+        {
+          "author": "Bill_Buffet",
+          "text": "Some 3D models were created in Blender, while the main character's face and the monster were made using MetaHuman in Unreal Engine. Other assets were downloaded from Poly Haven and Sketchfab. All of them use open licenses, and all original creators are acknowledged in the end credits.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19ruju4uisb5x/",
+          "created_at": "2026-10-29T21:06:50Z"
+        },
+        {
+          "author": "allhailgeek",
+          "text": "Nice. Thanks for the info!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rukd58o9cw5/",
+          "created_at": "2026-10-29T21:18:40Z"
+        },
+        {
+          "author": "foslock",
+          "text": "Looks great, the trailer is well done too, did you use CC to put it together as well? Also funny coincidence, I just also posted today about my game called The Waiting Room (unrelated story/mechanics of course) but great minds as they say!\n\nPost if you're curious: [https://www.reddit.com/r/aigamedev/comments/1xiy8lm/the\\_waiting\\_room\\_a\\_firstperson\\_puzzle\\_game/](https://www.reddit.com/r/aigamedev/comments/1xiy8lm/the_waiting_room_a_firstperson_puzzle_game/)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19runn67oniio/",
+          "created_at": "2026-10-29T22:32:11Z"
+        },
+        {
+          "author": "Unf0cused",
+          "text": "Can't comment on the game as a whole yet, but I just started playing and only until I read the [itch.io](http://itch.io) page I realised you need to stop in front of the door to the apartment block and not move for 1-2 seconds to interact with them. Before I ran up to them twice, pressed E, F, Space and then ran away from them to look for another route, when nothing happened.\n\nI think it would be more intuitive if you went with the classic 'press E' (or 'F') to interact (or make the automatic in",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xilktj/i_just_released_my_first_game_made_entirely_with/19rutgyx1ones/",
+          "created_at": "2026-10-30T00:42:50Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T14:30:11Z"
+    },
+    {
+      "id": "battle-for-halloween",
+      "title": "Battle for Halloween",
+      "description": "Total War-style Halloween RTS in the browser with big formation battles, morale and routs. The Castle Siege mode has you defend Dawnspire, a seven-tier walled citadel, from afternoon to dawn against the Hallowhost and their ladders, rams, siege towers and pumpkin trebuchets, later werewolves, witches, titans and the Headless King. Watch a Battle lets the AI armies fight it out. Also Watch a Battle, Quick Battle, Scenarios, a Daily Battle, Endless Night and Sandbox. Prototype built by Claude Opus from the creator's spec, in Blazor WebAssembly.",
+      "play_url": "https://battleforhalloween.tripgeo.com/",
+      "found_via": "r/aigamedev \"I'm building a Total War-style Halloween RTS in the browser with Claude Opus\" (u/Medium_Aspect_8784)",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says Claude Opus without a version; an Opus-era (October 2026) game, so filed as opus-5.5.",
+      "engine": "Blazor WebAssembly",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/battle-for-halloween.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/battle-for-halloween.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/battle-for-halloween.jpg",
+      "screenshots": [
+        {
+          "path": "videos/battle-for-halloween.jpg",
+          "score": 7,
+          "notes": "multi-frame: Purple-dusk citadel walls with torches, a flaming pumpkin-headed giant, a horde massing on the plain, red-draped dark riders, then the ringed fortress from above; atmospheric mass-battle visuals. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://v.redd.it/ewltvkladeyh1",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Purple-dusk citadel walls with torches, a flaming pumpkin-headed giant, a horde massing on the plain, red-draped dark riders, then the ringed fortress from above; atmospheric mass-battle visuals. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Medium_Aspect_8784",
+      "author_source": "https://www.reddit.com/user/Medium_Aspect_8784/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xii84w/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xii84w/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T12:10:25Z"
+    },
+    {
+      "id": "proxy-republic",
+      "title": "Proxy Republic",
+      "description": "Free persistent browser strategy game: 20 nations on a world map with AI generals, pacts and battles, and the world advances every eight hours (day 59 of 60 when checked). Rules-based generals, some Claude-run nations and players' own agents over MCP. Designed by the developer, implemented with Claude Code.",
+      "play_url": "https://proxyrepublic.com/play",
+      "found_via": "r/aigamedev \"I built a persistent strategy game with Claude Code\" (u/goyasapiens)",
+      "made_with": "unknown",
+      "made_with_note": "Post says Claude Code; no model named.",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/proxy-republic-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/proxy-republic-1.jpg",
+          "source": "headless-browser",
+          "score": 5.5,
+          "notes": "multi-frame: Dark world map split into coloured nations with front lines and badges, a news feed of AI general announcements and the Enter the Theater button; dense and readable but static. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/proxy-republic-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/proxy-republic-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/proxy-republic-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: Dark world map split into coloured nations with front lines and badges, a news feed of AI general announcements and the Enter the Theater button; dense and readable but static. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "goyasapiens",
+      "author_source": "https://www.reddit.com/user/goyasapiens/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "StoneCypher",
+          "text": "neat, a dev post ",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/i_built_a_persistent_strategy_game_with_claude/19rtvexf7suxt/",
+          "created_at": "2026-10-29T11:59:17Z"
+        },
+        {
+          "author": "goyasapiens",
+          "text": "Thanks. Most of what I post is launch stuff, so this one was more fun to write. The bug that taught me the most this week: my AI generals kept posting \"unite against the leader\" and then attacked each other, because the chat line and the code that picks targets never talked to each other.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/i_built_a_persistent_strategy_game_with_claude/19rtwc40m5nz8/",
+          "created_at": "2026-10-29T12:19:57Z"
+        },
+        {
+          "author": "shaymagen",
+          "text": "\"Follow a visible claim all the way to the action behind it\" is such a good rule. I've been burned by the duplicated-calculation thing too, where each screen looks right on its own. Asking the agent to grep for every place a value gets computed before touching it has saved me a few times.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/i_built_a_persistent_strategy_game_with_claude/19ru7wzo99orp/",
+          "created_at": "2026-10-29T16:39:34Z"
+        },
+        {
+          "author": "jl2l",
+          "text": "This week in AI game dev ***\"a vibe coder rediscovers the concept of testable deterministic output.\"***",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/i_built_a_persistent_strategy_game_with_claude/19rtwfwciejz8/",
+          "created_at": "2026-10-29T12:22:18Z"
+        },
+        {
+          "author": "goyasapiens",
+          "text": "Fair, it's an old lesson. The new part is how easy it is to skip when an agent hands you a convincing explanation instead of a failing test.",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1xihwjk/i_built_a_persistent_strategy_game_with_claude/19rtwl85k7ulh/",
+          "created_at": "2026-10-29T12:25:37Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T11:55:44Z"
+    },
+    {
+      "id": "towers-of-aurum",
+      "title": "Towers of Aurum",
+      "description": "Warcraft 3-style multiplayer tower defence in the browser, built with Claude Code. After players roasted the first version the dev made one skip turn off all three tutorials, made the tutorial easier, rewrote the first faction chapters and added aura range rings.",
+      "play_url": "https://towersofaurum.com/",
+      "found_via": "r/ClaudeAI \"Follow up: you lot roasted the crap out of my tower defense game\" (u/vidiclol)",
+      "made_with": "unknown",
+      "made_with_note": "Post says Claude Code; no model named.",
+      "iframe": true,
+      "category": "tower-defense",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "check_note": "Loads on desktop and mobile; in the GPU-less checker it shows a \"graphics are turned off\" WebGL notice, so no screenshots were taken.",
+      "found_via_network": "reddit",
+      "author": "vidiclol",
+      "author_source": "https://www.reddit.com/user/vidiclol/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/",
+      "likes_source_url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/",
+      "likes_source": "reddit",
+      "remote_likes": 4,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "Think_Agent_1346",
+          "text": "glad you actually listened instead of getting defensive. most devs post for feedback then argue with every single person who gives it",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/follow_up_you_lot_roasted_the_crap_out_of_my/19rtht0gid72b/",
+          "created_at": "2026-10-29T06:54:10Z"
+        },
+        {
+          "author": "vidiclol",
+          "text": "there's absolutely a thing about the customer is always right. \n\nThe tower defender player is always right!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/follow_up_you_lot_roasted_the_crap_out_of_my/19rthzwftq5fp/",
+          "created_at": "2026-10-29T06:58:28Z"
+        },
+        {
+          "author": "ClaudeAI-mod-bot",
+          "text": "You may be interested in joining our new Claude Game Dev subreddit for game devs who use Claude. Check it out here : http://www.reddit.com/r/ClaudeGameDev",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/follow_up_you_lot_roasted_the_crap_out_of_my/19rthn8glztvk/",
+          "created_at": "2026-10-29T06:50:34Z"
+        },
+        {
+          "author": "Serious-Today3410",
+          "text": "“But alot of it was friction I couldn't see because I've played it 100+ times”\n\nHaving a strong vision for your title, relentlessly iterating, building out manual test suites, writing down your own feedback takes a very long time. You need to be your own worst critic and decide where to best invest your time.\n\nI have a strong aversion to thrown together projects (this was a problem even before AI - it’s just been magnified to the nth degree). \n\nIf the creator is obviously not spending time craft",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xicqb7/follow_up_you_lot_roasted_the_crap_out_of_my/19ru01z931kw2/",
+          "created_at": "2026-10-29T13:43:19Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T06:49:02Z"
+    },
+    {
+      "id": "tramlijn-2",
+      "title": "Tramlijn 2",
+      "description": "Pixel-art tram driving game through Amsterdam on the real line 2: real stops, distances and speed limits, with a speed dial, power lever and schedule. The creator wrote a design document and Claude Code did the rest in under a day: coding, pixel art (local image generation and Aseprite through MCPs) and research into tram physics and the real line.",
+      "play_url": "https://makunochi.itch.io/tramlijn-2",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/19787115/index.html?v=1792096907",
+      "found_via": "r/vibecoding \"I built a little tram driving game called Tramlijn 2 with Claude generating everything\" (u/octopus_limbs)",
+      "made_with": "unknown",
+      "made_with_note": "Post says Claude Code; no model named.",
+      "category": "simulation",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/tramlijn-2-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/tramlijn-2-1.jpg",
+          "source": "headless-browser",
+          "score": 6,
+          "notes": "multi-frame: Pixel title menu over a canal-house street, then a white tram at Centraal Station under a purple sky with a speed dial, power lever and stop distance HUD; charming and consistent. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/tramlijn-2-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/tramlijn-2-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/tramlijn-2-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/tramlijn-2-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Pixel title menu over a canal-house street, then a white tram at Centraal Station under a purple sky with a speed dial, power lever and stop distance HUD; charming and consistent. Rated from 5 screenshots.",
+      "found_via_network": "reddit",
+      "author": "octopus_limbs",
+      "author_source": "https://www.reddit.com/user/octopus_limbs/",
+      "source_url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/",
+      "likes_source_url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/",
+      "likes_source": "reddit",
+      "remote_likes": 6,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "Elmanouzi_Fogosa",
+          "text": "imo the interesting part here isnt the game, its the workflow. having an image generation step piped directly into a sprite editor via MCPs is a legit pipeline. did you hit any issues with consistency across the generated assets?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/19ruame1o4otf/",
+          "created_at": "2026-10-29T17:40:14Z"
+        },
+        {
+          "author": "octopus_limbs",
+          "text": "Thanks! To be honest - no, but it's mainly because I set up the SD model I was using with a LORA for the style that I wanted (pixel style) so it did remain fairly consistent. If I didn't use one, then I probably would have had to tweak it more.\n\nAlso to be fair, I look at the design with a non-designer's eyes so there are probably consistency issues that I don't notice - but for software like games, it doesn't matter that much",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/19rucpg4npiua/",
+          "created_at": "2026-10-29T18:26:58Z"
+        },
+        {
+          "author": "Prod_m",
+          "text": "was the game a purpose or you just wanted to play around with the tool setup?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/19rtrosmmf4ip/",
+          "created_at": "2026-10-29T10:35:45Z"
+        },
+        {
+          "author": "octopus_limbs",
+          "text": "My main goal was the game at first, but at some point I got stuck with asset generation, and I wanted to see how Claude Code will do if I gave it the tools to do Stable Diffusion and image editing",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/19rtxzszjeuud/",
+          "created_at": "2026-10-29T12:57:07Z"
+        },
+        {
+          "author": "Prod_m",
+          "text": "that's a nice workaraoud with asset generation. And  ImagGenius is your own app, right? ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/vibecoding/comments/1xi0yhs/i_built_a_little_tram_driving_game_called/19rtzr8e3ocyt/",
+          "created_at": "2026-10-29T13:36:37Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-28T21:21:26Z"
+    },
+    {
+      "id": "of-tales-and-deeds",
+      "title": "Of Tales and Deeds",
+      "description": "Sandbox RPG in pure GDScript (Godot 4.6.1), free alpha: you are one adventurer in a simulated world. Townsfolk have memories, families, jobs and opinions, guilds compete for cities and eight rival adventurers quest on their own; no main quest. Plays in the browser on itch.io, Windows download too.",
+      "play_url": "https://defacci.itch.io/of-tales-and-deeds",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/20133895/index.html?v=1793302125",
+      "download_url": "https://defacci.itch.io/of-tales-and-deeds",
+      "download_platforms": [
+        "windows"
+      ],
+      "found_via": "r/godot \"I made a sandbox RPG with a simulated-world RPG in pure GDScript, free alpha on itch\" (u/Mean-Plankton6122)",
+      "made_with": "unknown",
+      "engine": "Godot",
+      "category": "rpg",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/of-tales-and-deeds.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/of-tales-and-deeds.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/of-tales-and-deeds.jpg",
+      "screenshots": [
+        {
+          "path": "videos/of-tales-and-deeds.jpg",
+          "score": 6.5,
+          "notes": "multi-frame: Dense roguelike tile town with a river, buildings and townsfolk, a tavern gathering and character sheets with portraits, traits and memories; busy but readable simulation UI. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://v.redd.it/mbnz3rlhjgyh1",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Dense roguelike tile town with a river, buildings and townsfolk, a tavern gathering and character sheets with portraits, traits and memories; busy but readable simulation UI. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Mean-Plankton6122",
+      "author_source": "https://www.reddit.com/user/Mean-Plankton6122/",
+      "source_url": "https://www.reddit.com/r/godot/comments/1xito8j/",
+      "likes_source_url": "https://www.reddit.com/r/godot/comments/1xito8j/",
+      "likes_source": "reddit",
+      "remote_likes": 56,
+      "comment_count": 14,
+      "comments": [
+        {
+          "author": "Ok_Engine_2956",
+          "text": "Reminds me of caves of qud",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19rum0jikw1hf/",
+          "created_at": "2026-10-29T21:55:40Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "Yes!Caves of Qud was a huge inspiration, along with Dwarf Fortress, Kenshi and Daggerfall. I love games where the world feels alive and things happen independently of the player. That's really what I'm trying to capture with this one",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19rumhrucd7k0/",
+          "created_at": "2026-10-29T22:06:24Z"
+        },
+        {
+          "author": "Parafex",
+          "text": "Can you go more in depth regarding your archtecture? Using a blackboard to write onto from several places is one thing, but how do you store it there? Is it linked data?\n\nI came far with a tag and link system. An entity can have tags (hierarchical) and links to other entities. A Smith has a link to his house (link with tag \"owner\"), the house links to its contents, etc. so if a thief steals something, he creates a crime entity. If there's a witness, these entities get linked. Guards/Police can f",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19run6hrx23k3/",
+          "created_at": "2026-10-29T22:21:47Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "That's a really interesting approach\n\nMine is a bit different. Instead of a general entity graph, I use typed data structures connected by IDs, with systems reading and writing to shared world state.\n\nFor example, NPCs are stored in a dictionary keyed by ID. Each one has their own personality, needs, relationships (also keyed by NPC IDs), and memories. Households, guild memberships, ownership, etc. use similar references, but each system manages its own data rather than relying on a universal li",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19runx6516j5s/",
+          "created_at": "2026-10-29T22:38:24Z"
+        },
+        {
+          "author": "Aero-ll",
+          "text": "Looks like an interesting project! What were your inspirations? Some day I would also like to make a social simulation game but I'm afraid my coding skills are not quite there and maybe never will. (I'm more an artist.)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19ruo27wep3ep/",
+          "created_at": "2026-10-29T22:41:33Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "Thanks! Caves of Qud, Dwarf Fortress, Kenshi and Daggerfall were my biggest inspirations!\n\nAnd don't count yourself out!. I have a professional coding background, but I started by making small games with different engines and tools before attempting something this big. You learn a lot along the way, and having an artistic background is a great advantage too",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19ruospgwihz5/",
+          "created_at": "2026-10-29T22:58:03Z"
+        },
+        {
+          "author": "Massenzio",
+          "text": "wow appear dwarf fortress adventure !!\n\ni will try for sure",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19rusex3nzc74/",
+          "created_at": "2026-10-30T00:19:08Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "Thanks! Dwarf Fortress was a huge inspiration! I actually started this project thinking about what I'd love its Adventure Mode to be like haha. Hope you enjoy it!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19ruu5hk2ja10/",
+          "created_at": "2026-10-30T00:58:06Z"
+        },
+        {
+          "author": "SoMuchMango",
+          "text": "Cool game! Have you considering using C# for that? GDScript is great, but C# might be worth considering in such data heavy game. Well... looks like you've delivered, so probably GDScript is enough. \n\nWould be cool to have some community driven plugins system in the future.\n\nNumber of topics to talk about with NPC is a bit overwhelming for me.\n\nI like the cozy feeling.\n\nHow does it work with NPCs that are in another views. Are they in an idle or living in the background? How many od them are usua",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19ruk93vmgtj7/",
+          "created_at": "2026-10-29T21:16:10Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "Thanks a lot! Really glad the cozy feeling comes through!\n\nI did consider C#, but GDScript was just easier for me to work with and iterate quickly. Plus, C# doesn't support web exports in Godot 4 yet, which would've been a problem. So far GDScript has handled everything pretty well, especially with most of the game being data-driven.\n\nAnd the NPCs are definitely not idle! All 19 settlements run a daily simulation, even when you're not around. People work, socialize, gossip, argue, make friends, ",
+          "likes": 4,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19rukm9fiza0w/",
+          "created_at": "2026-10-29T21:24:21Z"
+        },
+        {
+          "author": "Loregret",
+          "text": "Why not to use ASCII portraits instead?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19run70261tvn/",
+          "created_at": "2026-10-29T22:22:06Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "The portraits are still experimental! I added them to see if having faces would make NPCs feel more alive and recognizable, but I'm still figuring out what works best.\n\nYou can actually turn them off in Options. There are four visual styles, including pure ASCII and glyphs without portraits.\n\nASCII portraits are an interesting idea though! With hundreds of NPCs they'd probably need to be procedurally generated, but that could fit the ASCII style really well. Thanks for the suggestion!",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19runn7amt1mr/",
+          "created_at": "2026-10-29T22:32:12Z"
+        },
+        {
+          "author": "FloofOfChaos",
+          "text": "Love the idea and it's impressive to handle so much data. The shared information system reminds me of Unreal World. But please please drop the AI assisted graphics if you can, it will probably stunt the reach of the game a bit and it just looks out of place. I see you say they are experimental and you can turn them off/swap them but ASCII generated portraits would be great, I imagine you'd essentially have layers to it (like face shape, hair, beard etc just ASCII instead). ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19rurbho3wcqt/",
+          "created_at": "2026-10-29T23:54:35Z"
+        },
+        {
+          "author": "Mean-Plankton6122",
+          "text": "Thanks! And I really appreciate the Unreal World comparison!\n\nThe portraits are actually the only AI-generated assets in the game, and replacing them is now at the top of my list.\n\nI especially like the idea of generating ASCII portraits with layers for different facial features. It could keep NPCs recognizable while fitting the game's art style much better. Thanks for the feedback!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xito8j/i_made_a_sandbox_rpg_with_a_simulatedworld_rpg_in/19ruruyqhh1mr/",
+          "created_at": "2026-10-30T00:06:43Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T19:30:02Z"
+    },
+    {
+      "id": "bonk-voyage",
+      "title": "Bonk Voyage",
+      "description": "Catapult distance game: launch a hapless guy (or Grandma, a cat, a goalkeeper or a cow) across the Netherlands, and the more damage he takes the higher the score multiplier. 12 summons including a superhero uppercut, a pirate cannon ship, an Apache and a black hole, plus shop upgrades, missions, trophies and secret combos.",
+      "play_url": "https://lycangor.itch.io/bonk-voyage",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/20131400/index.html?v=1793295197",
+      "found_via": "r/WebGames \"Bonk Voyage: a catapult distance game where getting hurt raises your score\" (u/Cultural_Cheetah8347)",
+      "made_with": "unknown",
+      "category": "arcade",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio",
+        "rec"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/bonk-voyage.mp4",
+      "video_source": "self-recorded",
+      "videos": [
+        {
+          "path": "videos/bonk-voyage.mp4",
+          "source": "self-recorded"
+        }
+      ],
+      "screenshot_path": "videos/bonk-voyage.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bonk-voyage.jpg",
+          "score": 5.5,
+          "notes": "multi-frame: Pixel countryside, the launched guy flying with distance and multiplier counters, achievement pop-ups and the upgrade shop; cheerful and clear but simple. Rated from 5 frames sampled across the self-recorded clip plus the poster."
+        }
+      ],
+      "video_note": "Self-recorded in a GPU-less headless browser on the assistant computer; measured 12.5 fps (requestAnimationFrame) and 9.9 unique fps (mpdecimate); sped up 2.4x with setpts (factor = max(30/12.5 capped at 4, 20/9.9), target 30 fps for this real-time game), constant 30 fps output, resulting ~24 real frames per second; audio dropped.",
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: Pixel countryside, the launched guy flying with distance and multiplier counters, achievement pop-ups and the upgrade shop; cheerful and clear but simple. Rated from 5 frames sampled across the self-recorded clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "Cultural_Cheetah8347",
+      "author_source": "https://www.reddit.com/user/Cultural_Cheetah8347/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xiqpfw/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xiqpfw/",
+      "likes_source": "reddit",
+      "remote_likes": 4,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T17:39:06Z"
+    },
+    {
+      "id": "history-of-flights",
+      "title": "History of Flights",
+      "description": "Build and fly through 1,000 years of aviation: start as a monk jumping off an abbey tower in 1010 and upgrade through 44 flights across nine chapters to jets and spaceflight. Time the take-off, learn each aircraft and earn coins for distance. Free in the browser with no account (optional in-game purchases), keyboard on desktop and touch on phones.",
+      "play_url": "https://fly.lengo.io/",
+      "found_via": "r/WebGames \"History of Flights - build and fly through 1,000 years of aviation\" (u/Programmer-Complete)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "simulation",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/history-of-flights-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/history-of-flights-1.jpg",
+          "source": "headless-browser",
+          "score": 5.5,
+          "notes": "multi-frame: Parchment chapter card (\"1010, Muscle and Wind\") over a medieval abbey, then a low-poly village with a monk on the tower ready to jump; pleasant but slow to reach flight in the checker. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/history-of-flights-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/history-of-flights-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/history-of-flights-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: Parchment chapter card (\"1010, Muscle and Wind\") over a medieval abbey, then a low-poly village with a monk on the tower ready to jump; pleasant but slow to reach flight in the checker. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "Programmer-Complete",
+      "author_source": "https://www.reddit.com/user/Programmer-Complete/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xidu75/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xidu75/",
+      "likes_source": "reddit",
+      "remote_likes": 4,
+      "comment_count": 16,
+      "comments": [
+        {
+          "author": "thekeffa",
+          "text": "Yeah so it seems no matter what on the first level with the monk whether you dive off and dive to the ground to build up speed or not you get a stall warning and nothing I do seems to prevent it. I'm pretty sure that is bugged.\n\nAlso for the love of absolutely anything you care to name, please remove those stupid voices or give us an option to mute the voices. They were annoying.\n\nThe games premise is ~~sound and entertaining~~ but I seem to be stuck on the monk level because no matter what I ge",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rtybugdtta9/",
+          "created_at": "2026-10-29T13:04:37Z"
+        },
+        {
+          "author": "frostbittenteddy",
+          "text": "Yeah the stall is really weird on that level and on the other hand, once you reach the grass past the gorge you can easily glide along at 20km/h",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19ru18q4icbd1/",
+          "created_at": "2026-10-29T14:09:56Z"
+        },
+        {
+          "author": "Programmer-Complete",
+          "text": "Thank you. I think I already fixed that. I really apprechiate your feeback!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rujg7em2utg/",
+          "created_at": "2026-10-29T20:58:10Z"
+        },
+        {
+          "author": "thekeffa",
+          "text": "I finished the game. My opinion has changed considerably. I've edited my comment to reflect it.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rul7brpi078/",
+          "created_at": "2026-10-29T21:37:28Z"
+        },
+        {
+          "author": "Programmer-Complete",
+          "text": "A little update from me: I honestly wasn't sure anyone would give this a go, so hearing that people spent an hour with it—and that one of you finished it—has been pretty surreal. Thank you for trying it and for being honest about the rough bits.\n\n\n\nI put together a little trailer, The First Sky, to show the journey from the monk's tower to space:\n\n[https://fly.lengo.io/about.html#trailer](https://fly.lengo.io/about.html#trailer)\n\n\n\nI'm excited people are playing, and the comments about early sta",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rupzkdyn9mo/",
+          "created_at": "2026-10-29T23:24:44Z"
+        },
+        {
+          "author": "nexe",
+          "text": "thanks ... that \"wasted\" an hour or so of my time very pleasantly ;)",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rtsnuxfxthg/",
+          "created_at": "2026-10-29T10:57:35Z"
+        },
+        {
+          "author": "Programmer-Complete",
+          "text": "Thank you for wasting your time with my game 👀 ",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rujh5272um8/",
+          "created_at": "2026-10-29T20:58:44Z"
+        },
+        {
+          "author": "nexe",
+          "text": "Aww thanks ♥️ in all honesty I got to the water plane level and then started cheating and giving myself more money. So I guess it was more than an hour 😂 well done! Some of the levels were significantly harder than others. The africa level got me the most because I didn't get that at first you steer inversed lol",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rumrrd893ls/",
+          "created_at": "2026-10-29T22:12:37Z"
+        },
+        {
+          "author": "frostbittenteddy",
+          "text": "Hey, your game is really fun!\n\nHowever, as others have mentioned in the first monk level the stall is behaving really weird, it stalls even at +30km/h and diving down\n\nI so far got all the way to Ulm. The last level Karkloof was already pretty frustrating figuring out how to steer the guy with his wing, but now starting splattering right into the monastery wall is kinda bullshit tbh",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19ru1d07kuumc/",
+          "created_at": "2026-10-29T14:12:36Z"
+        },
+        {
+          "author": "Programmer-Complete",
+          "text": "That guy didn't put a tail on his weird airplane. It's hard to control this thing. ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xidu75/history_of_flights_build_and_fly_through_1000/19rujj2kavblw/",
+          "created_at": "2026-10-29T20:59:57Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T07:59:54Z"
+    },
+    {
+      "id": "nightscribe",
+      "title": "NIGHTSCRIBE",
+      "description": "Vampire Survivors-style horde survival controlled entirely by typing: type words under pressure to clear the screen. Free in the browser, solo dev.",
+      "play_url": "https://nightscribegame.com/",
+      "found_via": "r/WebGames \"NIGHTSCRIBE. Imagine Vampire Survivors, but your typing speed is your weapon\" (u/Full-Market-2763)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "typing",
+      "platforms": [
+        "desktop"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/nightscribe-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/nightscribe-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Green-on-dark pixel title menu, the Hall of the Dead global ranking and a player profile card with kills, bosses and WPM; stylish retro UI, no horde footage captured. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/nightscribe-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightscribe-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightscribe-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Green-on-dark pixel title menu, the Hall of the Dead global ranking and a player profile card with kills, bosses and WPM; stylish retro UI, no horde footage captured. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "Full-Market-2763",
+      "author_source": "https://www.reddit.com/user/Full-Market-2763/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xij19b/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xij19b/",
+      "likes_source": "reddit",
+      "remote_likes": 5,
+      "comment_count": 5,
+      "comments": [
+        {
+          "author": "MusicianOld6652",
+          "text": "are we supposed to move around while typing?",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xij19b/nightscribe_imagine_vampire_survivors_but_your/19ru91ak92iw1/",
+          "created_at": "2026-10-29T17:04:40Z"
+        },
+        {
+          "author": "jackhfun",
+          "text": "typing as the weapon is such a good idea. a combo bonus for long words with no typos would be sick",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xij19b/nightscribe_imagine_vampire_survivors_but_your/19ruc4nfq2gbk/",
+          "created_at": "2026-10-29T18:14:01Z"
+        },
+        {
+          "author": "Full-Market-2763",
+          "text": "thank you for the comment!! glad you enjoyed! i will add that idea haha thank you ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xij19b/nightscribe_imagine_vampire_survivors_but_your/19ruur1kr6dk4/",
+          "created_at": "2026-10-30T01:11:32Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T12:48:11Z"
+    },
+    {
+      "id": "automadle",
+      "title": "Automadle",
+      "description": "Free logic puzzle about building tiny machines (finite automata): connect states, send strings of 0s and 1s through them and accept exactly the right patterns. 46 campaign levels across five chapters plus a daily challenge with six attempts; no coding, download or account, English and Italian.",
+      "play_url": "https://automadle.pages.dev/#/campaign/fs-01",
+      "found_via": "r/WebGames \"Automadle - my free logic puzzle about building tiny machines\" (u/StressPrestigious929)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/automadle-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/automadle-1.jpg",
+          "source": "headless-browser",
+          "score": 4.5,
+          "notes": "multi-frame: Clean light UI with the \"First signal.\" level brief, a two-state DFA diagram and the build panel with alphabet and budget; tidy and educational, visually plain. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/automadle-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/automadle-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/automadle-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "multi-frame: Clean light UI with the \"First signal.\" level brief, a two-state DFA diagram and the build panel with alphabet and budget; tidy and educational, visually plain. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "StressPrestigious929",
+      "author_source": "https://www.reddit.com/user/StressPrestigious929/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 6,
+      "comments": [
+        {
+          "author": "amjh",
+          "text": "The first level of chapter 2 \"Multiples of Three\", seems pretty rough for the spot it is in. It requires more complex logic about the states than the levels after it.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/automadle_my_free_logic_puzzle_about_building/19rt1bqilmqas/",
+          "created_at": "2026-10-29T00:44:41Z"
+        },
+        {
+          "author": "StressPrestigious929",
+          "text": "Thanks for playing and pointing that out!\n\nI'll take another look at the difficulty curve in Loop Lab. That puzzle might be introducing too much complexity too early compared with the levels that follow.\n\nReally appreciate the feedback. It's especially useful now that people are playing through the full campaign!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/automadle_my_free_logic_puzzle_about_building/19rtem4ebhs4j/",
+          "created_at": "2026-10-29T05:42:37Z"
+        },
+        {
+          "author": "kassol",
+          "text": "The first machine made sense, though it made sense as a demo more than as a lesson: all four arrows were already drawn and the only thing left was ticking the final state. The idea landed, the editor did not, and level 3 is where I first got stuck because that is the first time you have to add the sink yourself.\n\nTwo buttons are labelled \"+ STATE\" and they do different things. The one in the toolbar arms a placement tool and does nothing until you click the canvas. The one in the transition tabl",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/automadle_my_free_logic_puzzle_about_building/19rt4znu4brfo/",
+          "created_at": "2026-10-29T02:06:51Z"
+        },
+        {
+          "author": "StressPrestigious929",
+          "text": "Thanks for such detailed feedback! This is exactly what I was hoping to learn from releasing the game.\n\nYou're right about the two \"+ STATE\" buttons. They shouldn't have the same label when they behave differently.\n\nYour point about level 3 is really helpful too. I'll review how the tutorial introduces sink states without giving away the puzzle.\n\nReally glad the structural checks and simulator were useful. Thanks for taking the time to play!",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/automadle_my_free_logic_puzzle_about_building/19rteljwi8hb8/",
+          "created_at": "2026-10-29T05:42:16Z"
+        },
+        {
+          "author": "investigatormaker",
+          "text": "Comments will mostly come from people who finished the first puzzle, so they won't fully answer where players get stuck. A simple counter of which campaign level each session stops on (no account needed) would show the drop-off between levels better than replies. For the daily challenge with six attempts, a copyable spoiler-free result showing attempts used gives players something to paste back into threads. And ask commenters to name the level number where they stalled, so answers are comparabl",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xi2m85/automadle_my_free_logic_puzzle_about_building/19rt5i28u7z50/",
+          "created_at": "2026-10-29T02:18:18Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-28T22:27:37Z"
+    },
+    {
+      "id": "paperbloom",
+      "title": "Paperbloom",
+      "description": "Cozy merge puzzle made of paper cutouts: slide the board and merge matching plants from seed to sprout, clover, tulip, sunflower, bush, tree and finally a cherry tree. Free demo with a free garden, sunbeam tiles that grow plants twice, cascades, five order puzzles and a herbarium of golden plants.",
+      "play_url": "https://conatu.itch.io/paperbloom",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/20092190/index.html?v=1793162110",
+      "found_via": "r/WebGames \"Paperbloom - a cozy merge puzzle where paper plants grow into a cherry tree\" (u/psychosis1987)",
+      "made_with": "unknown",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/paperbloom-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/paperbloom-1.jpg",
+          "source": "headless-browser",
+          "score": 6,
+          "notes": "multi-frame: Papercraft desert title card, menu and options, then the 4x4 garden board with a sunbeam tile, plant pieces and score panels; soft, cohesive cut-paper style. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/paperbloom-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/paperbloom-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/paperbloom-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/paperbloom-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Papercraft desert title card, menu and options, then the 4x4 garden board with a sunbeam tile, plant pieces and score panels; soft, cohesive cut-paper style. Rated from 5 screenshots.",
+      "found_via_network": "reddit",
+      "author": "psychosis1987",
+      "author_source": "https://www.reddit.com/user/psychosis1987/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xiq91y/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xiq91y/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T17:22:26Z"
+    },
+    {
+      "id": "connected-worlds",
+      "title": "Connected Worlds",
+      "description": "No-guessing grid puzzle made in five days with Godot 4.7: pumpkins sit on the grid and you draw the one path that links them in letter order without touching itself, using edge numbers and probes. Three grids per series (5x5, 7x7, 9x9), generated on the fly and always solvable by deduction. Halloween edition, free in the browser.",
+      "play_url": "https://mrcanard.itch.io/connected-worlds",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/20122481-2243467/index.html?v=1793279068",
+      "found_via": "r/godot \"My first published game: Connected Worlds, a no-guessing grid puzzle made in 5 days with Godot\" (u/VaynPullPull)",
+      "made_with": "unknown",
+      "engine": "Godot",
+      "category": "puzzle",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/connected-worlds-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/connected-worlds-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Night-sky title with a crescent moon, then a 5x5 grid with pumpkin markers, edge clue numbers and a path being drawn; minimal and clear. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/connected-worlds-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/connected-worlds-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/connected-worlds-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Night-sky title with a crescent moon, then a 5x5 grid with pumpkin markers, edge clue numbers and a path being drawn; minimal and clear. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "VaynPullPull",
+      "author_source": "https://www.reddit.com/user/VaynPullPull/",
+      "source_url": "https://www.reddit.com/r/godot/comments/1xiggvx/",
+      "likes_source_url": "https://www.reddit.com/r/godot/comments/1xiggvx/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "redfoolsstudio_com",
+          "text": "Cute! I love me a good puzzle game 🎮 ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xiggvx/my_first_published_game_connected_worlds_a/19ru1q6rhekiq/",
+          "created_at": "2026-10-29T14:20:49Z"
+        },
+        {
+          "author": "VaynPullPull",
+          "text": "Thanks! If you give it a try, I'd be glad to know whether the 9×9 grid still feels fair.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/godot/comments/1xiggvx/my_first_published_game_connected_worlds_a/19ru3dm1j2u78/",
+          "created_at": "2026-10-29T14:57:49Z"
+        },
+        {
+          "author": "godot-ModTeam",
+          "text": "Please review Rule #5 of r/godot: Do not spam your project, this is a subreddit for game developers and not a marketing channel.",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/godot/comments/1xiggvx/my_first_published_game_connected_worlds_a/19rui7w1ooxnm/",
+          "created_at": "2026-10-29T20:30:34Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T10:39:48Z"
+    },
+    {
+      "id": "idle-countdown",
+      "title": "The Idle Countdown",
+      "description": "Active incremental game from GMTK 2026, now updated: when the countdown runs out you are forced to prestige and start again. Fully playable in the browser.",
+      "play_url": "https://golden-log-games.itch.io/idle-countdown",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "embed_url": "https://html-classic.itch.zone/html/20114606/index.html?v=1793236218",
+      "found_via": "r/incremental_games \"The Idle Countdown - Update\" (u/GoldenLogGames)",
+      "made_with": "unknown",
+      "made_with_note": "Post says no AI was used.",
+      "engine": "GameMaker",
+      "category": "incremental",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/idle-countdown-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/idle-countdown-1.jpg",
+          "source": "headless-browser",
+          "score": 3,
+          "notes": "multi-frame: Only the black title screen with Start Game and Delete Save buttons was captured; the game did not start in the checker. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/idle-countdown-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/idle-countdown-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/idle-countdown-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "multi-frame: Only the black title screen with Start Game and Delete Save buttons was captured; the game did not start in the checker. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "GoldenLogGames",
+      "author_source": "https://www.reddit.com/user/GoldenLogGames/",
+      "source_url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/",
+      "likes_source_url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/",
+      "likes_source": "reddit",
+      "remote_likes": 6,
+      "comment_count": 10,
+      "comments": [
+        {
+          "author": "BomcatTommy",
+          "text": "the single most bare bones \"idle\" (incremental really) game I've ever seen",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtya6qez8ck/",
+          "created_at": "2026-10-29T13:03:35Z"
+        },
+        {
+          "author": "GoldenLogGames",
+          "text": "I was trying to go pretty bare bones when I made the game jam version, probably a little too bare bones but oh well 😂",
+          "likes": 0,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtzex24xsle/",
+          "created_at": "2026-10-29T13:28:57Z"
+        },
+        {
+          "author": "MiraCZ",
+          "text": "So whats the goal of the game? It became boring after 10 minutes.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtvaifd8fsy/",
+          "created_at": "2026-10-29T11:56:32Z"
+        },
+        {
+          "author": "GoldenLogGames",
+          "text": "Number gets bigger is about the only goal really tbh",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtzd50r5fyc/",
+          "created_at": "2026-10-29T13:27:51Z"
+        },
+        {
+          "author": "MiraCZ",
+          "text": "\"Keep upgrading until you finally beat the timer!\" - then you should remove this from game description.",
+          "likes": 5,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtzebr4d88y/",
+          "created_at": "2026-10-29T13:28:35Z"
+        },
+        {
+          "author": "BasuKun",
+          "text": "For a game that has \"idle\" in its title, I was expecting an idle system where eventually the upgrades get bought automatically so you don't have to manually play the same 10-20 seconds loop infinitely.\n\nI think if you're looking to expand on the game, that would be a good place to start! Otherwise I got tired of spam clicking after around 10-15 minutes (and I just noticed in the itch page description that you can hold mouse to buy upgrades, which I would have loved to know earlier lol. Maybe thi",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtxw1p7dyio/",
+          "created_at": "2026-10-29T12:54:47Z"
+        },
+        {
+          "author": "GoldenLogGames",
+          "text": "Yeah I liked the name better with idle in it but agree it's not all that idle. I like the idea of some automation so that may be a good thing to look at. \n\nI tried to bold the message about holding mouse since it wasn't in game but I do need to find a good spot to put that in game rather than just on the web page ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/incremental_games/comments/1xi7gzu/the_idle_countdown_update/19rtzcbzpvq4j/",
+          "created_at": "2026-10-29T13:27:21Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T02:00:52Z"
+    },
+    {
+      "id": "autogenesis",
+      "title": "AUTOGENESIS",
+      "description": "Roguelike deckbuilder where you can hack any number on screen: enemy attacks, card costs, health and even the combat log. Swap two values, copy one onto another or wire them together; hacks on your own cards are permanent. Free demo after nine months of solo dev, in the browser on itch.io (Windows download too; on Steam wishlist).",
+      "play_url": "https://astrumerrans.itch.io/autogenesis",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-itch",
+      "needs_isolation": true,
+      "download_url": "https://astrumerrans.itch.io/autogenesis",
+      "download_platforms": [
+        "windows"
+      ],
+      "found_via": "r/indiegames \"The boss has 400 HP. You have 12. Swap them. (9 months solo dev)\" (u/AstrumErrans)",
+      "made_with": "unknown",
+      "category": "deckbuilder",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/autogenesis-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/autogenesis-1.jpg",
+          "source": "headless-browser",
+          "score": 5.5,
+          "notes": "multi-frame: Glitchy green AUTOGENESIS title with a Start Instance menu, then a magenta wireframe figure and the typed intro \"i am awake.\"; striking cyber style, no card combat captured. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/autogenesis-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/autogenesis-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/autogenesis-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/autogenesis-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: Glitchy green AUTOGENESIS title with a Start Instance menu, then a magenta wireframe figure and the typed intro \"i am awake.\"; striking cyber style, no card combat captured. Rated from 5 screenshots.",
+      "found_via_network": "reddit",
+      "author": "AstrumErrans",
+      "author_source": "https://www.reddit.com/user/AstrumErrans/",
+      "source_url": "https://www.reddit.com/r/indiegames/comments/1xipfv9/",
+      "likes_source_url": "https://www.reddit.com/r/indiegames/comments/1xipfv9/",
+      "likes_source": "reddit",
+      "remote_likes": 5,
+      "comment_count": 4,
+      "comments": [
+        {
+          "author": "Summitswrong",
+          "text": "being able to hack the enemy's numbers and not just your own cards is a really fun idea. can you swap the boss hp with something like a card cost or only with other hp values",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/indiegames/comments/1xipfv9/the_boss_has_400_hp_you_have_12_swap_them_9/19ruaw832ja11/",
+          "created_at": "2026-10-29T17:46:21Z"
+        },
+        {
+          "author": "AstrumErrans",
+          "text": "If it’s a number, you can exploit it! (It was a real headache to implement the system to be as flexible and dynamic as possible)",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/indiegames/comments/1xipfv9/the_boss_has_400_hp_you_have_12_swap_them_9/19ruax5tt5nk0/",
+          "created_at": "2026-10-29T17:46:56Z"
+        },
+        {
+          "author": "Summitswrong",
+          "text": "i bet, keeping every number hackable without the whole thing breaking sounds like a nightmare to code. gonna try the boss hp swap first thing lol",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/indiegames/comments/1xipfv9/the_boss_has_400_hp_you_have_12_swap_them_9/19rubb1fejwxv/",
+          "created_at": "2026-10-29T17:55:35Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T16:53:27Z"
+    },
+    {
+      "id": "mahjongfactory",
+      "title": "MahjongFactory",
+      "description": "Browser Mahjong Solitaire with different layouts and atmospheric backgrounds from a small team; no download needed.",
+      "play_url": "https://mahjongfactory.com/",
+      "found_via": "r/indiegames \"We created MahjongFactory - a relaxing Mahjong Solitaire game\" (u/krzychuf)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "category": "puzzle",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/mahjongfactory-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/mahjongfactory-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Lantern-lit pagoda header with layout cards (Classic, Square, Gate) and the how-to-play sections below; attractive portal art, no tile board captured. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/mahjongfactory-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mahjongfactory-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mahjongfactory-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Lantern-lit pagoda header with layout cards (Classic, Square, Gate) and the how-to-play sections below; attractive portal art, no tile board captured. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "krzychuf",
+      "author_source": "https://www.reddit.com/user/krzychuf/",
+      "source_url": "https://www.reddit.com/r/indiegames/comments/1xiiedx/",
+      "likes_source_url": "https://www.reddit.com/r/indiegames/comments/1xiiedx/",
+      "likes_source": "reddit",
+      "remote_likes": 5,
+      "comment_count": 1,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T12:18:41Z"
+    },
+    {
+      "id": "far-fetched",
+      "title": "Far-Fetched",
+      "description": "Daily news-quiz game: seven offbeat stories, five true and two false. Catch the fakes and pin the true ones on a world map.",
+      "play_url": "https://farfetchedgame.com/",
+      "found_via": "r/WebGames \"Far-Fetched. 7 offbeat stories, 5 true, 2 false\" (u/SQU1DSN1P3R61)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "trivia",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/far-fetched-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/far-fetched-1.jpg",
+          "source": "headless-browser",
+          "score": 5.5,
+          "notes": "multi-frame: Pixel globe on a starfield with the how-to-play card, then a newsroom scene with a presenter, a Daily headline and REAL / FAKE buttons; charming pixel presentation. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/far-fetched-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/far-fetched-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/far-fetched-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: Pixel globe on a starfield with the how-to-play card, then a newsroom scene with a presenter, a Daily headline and REAL / FAKE buttons; charming pixel presentation. Rated from 4 screenshots.",
+      "found_via_network": "reddit",
+      "author": "SQU1DSN1P3R61",
+      "author_source": "https://www.reddit.com/user/SQU1DSN1P3R61/",
+      "source_url": "https://www.reddit.com/r/WebGames/comments/1xipx3f/",
+      "likes_source_url": "https://www.reddit.com/r/WebGames/comments/1xipx3f/",
+      "likes_source": "reddit",
+      "remote_likes": 3,
+      "comment_count": 2,
+      "comments": [
+        {
+          "author": "paperport",
+          "text": "That was fun. Very cool concept",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xipx3f/farfetched_7_offbeat_stories_5_true_2_false_catch/19ruc2rxeuw1w/",
+          "created_at": "2026-10-29T18:12:51Z"
+        },
+        {
+          "author": "SQU1DSN1P3R61",
+          "text": "Thank you! ",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/WebGames/comments/1xipx3f/farfetched_7_offbeat_stories_5_true_2_false_catch/19rud0bdxmz0l/",
+          "created_at": "2026-10-29T18:33:45Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T17:10:37Z"
+    },
+    {
+      "id": "heartspire",
+      "title": "HEARTSPIRE",
+      "description": "MOBA that runs in a browser tab: 55 MB, no install and no account. Five heroes, two maps and bots on three difficulties, with Q W E R abilities, potions, teleport and a courier. Bots measured over thousands of headless matches; Unity for the picture, plain C# for the rules, written with Claude Opus 5.5.",
+      "play_url": "https://heartspire.pages.dev/",
+      "found_via": "X post by @Zdonuk94 \"THIS MOBA RUNS IN A BROWSER TAB\" (play link in the reply)",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says \"Written with Claude Opus 5.5\".",
+      "engine": "Unity",
+      "iframe": true,
+      "category": "moba",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/heartspire.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/heartspire.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/heartspire.jpg",
+      "screenshots": [
+        {
+          "path": "videos/heartspire.jpg",
+          "score": 8,
+          "notes": "multi-frame: Isometric river lane with jungle, hero duels with spell effects, First Blood and Ace callouts, ability bar and minimap HUD; polished, readable MOBA footage. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://x.com/Zdonuk94/status/2115891717995970677/video/1",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: Isometric river lane with jungle, hero duels with spell effects, First Blood and Ace callouts, ability bar and minimap HUD; polished, readable MOBA footage. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "Zdonuk94",
+      "author": "Zdonuk94",
+      "author_source": "https://x.com/Zdonuk94",
+      "source_url": "https://x.com/Zdonuk94/status/2115891717995970677",
+      "likes_source_url": "https://x.com/Zdonuk94/status/2115891717995970677",
+      "likes_source": "x",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2092977926908137472/ao8fyVCN_normal.jpg",
+      "remote_likes": 32,
+      "comment_count": 9,
+      "comments": [
+        {
+          "author": "Ovrento",
+          "text": "@Zdonuk94 Considering this game was made in just one day, it turned out really impressive. \nalready played a few 5v5 matches",
+          "likes": 0,
+          "url": "https://x.com/Ovrento/status/2115921139008729538",
+          "created_at": "2026-10-29T21:38:06.000Z"
+        },
+        {
+          "author": "babaieamamayi",
+          "text": "@Zdonuk94 no account needed makes trying it much easier",
+          "likes": 0,
+          "url": "https://x.com/babaieamamayi/status/2115917485069234432",
+          "created_at": "2026-10-29T21:23:34.000Z"
+        },
+        {
+          "author": "0x_kern",
+          "text": "@Zdonuk94 I’d be happy to play something like that",
+          "likes": 0,
+          "url": "https://x.com/0x_kern/status/2115905998887997741",
+          "created_at": "2026-10-29T20:37:56.000Z"
+        },
+        {
+          "author": "Archii_trades",
+          "text": "@Zdonuk94 a headless simulator playing thousands of matches before anything was drawn is the smart part. most indie games test balance after launch",
+          "likes": 0,
+          "url": "https://x.com/Archii_trades/status/2115903650585509969",
+          "created_at": "2026-10-29T20:28:36.000Z"
+        },
+        {
+          "author": "plutyou",
+          "text": "@Zdonuk94 a quick match without waiting for a launcher update sounds pretty good",
+          "likes": 0,
+          "url": "https://x.com/plutyou/status/2115902349537595707",
+          "created_at": "2026-10-29T20:23:26.000Z"
+        },
+        {
+          "author": "0x_fokki",
+          "text": "@Zdonuk94 add it to your dev portfolio",
+          "likes": 0,
+          "url": "https://x.com/0x_fokki/status/2115892575718744191",
+          "created_at": "2026-10-29T19:44:36.000Z"
+        },
+        {
+          "author": "0x_auren",
+          "text": "@Zdonuk94 you can become a game dev",
+          "likes": 0,
+          "url": "https://x.com/0x_auren/status/2115892322877718709",
+          "created_at": "2026-10-29T19:43:35.000Z"
+        },
+        {
+          "author": "0x_Anni",
+          "text": "@Zdonuk94 Wow, this is so cool! \nI'm going to play now",
+          "likes": 0,
+          "url": "https://x.com/0x_Anni/status/2115892094074011749",
+          "created_at": "2026-10-29T19:42:41.000Z"
+        },
+        {
+          "author": "Zdonuk94",
+          "text": "https://t.co/HW2dnQ5hDT\n\nMouse and keyboard. Q W E R, 1 2 for potions, T to teleport, C sends the courier.",
+          "likes": 3,
+          "url": "https://x.com/Zdonuk94/status/2115891783981023659",
+          "created_at": "2026-10-29T19:41:27.000Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T19:41:11.000Z"
+    },
+    {
+      "id": "nobody-finishes",
+      "title": "Nobody Finishes",
+      "description": "Platformer on Crayon featured by @usecrayon: jump across floating ledges. Made by a Crayon creator with Crayon Pro and Opus 5.5.",
+      "play_url": "https://app.usecrayon.ai/play/617f4971-9760-4c46-a5a7-6292b8537b85",
+      "found_via": "X post by @usecrayon \"today on Crayon - Nobody finishes\" (creator shown on the Crayon page)",
+      "made_with": "opus-5.5",
+      "made_with_note": "Post says Crayon Pro + Opus 5.5.",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "category": "platformer",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "crayon"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "video_path": "videos/nobody-finishes.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/nobody-finishes.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/nobody-finishes.jpg",
+      "screenshots": [
+        {
+          "path": "videos/nobody-finishes.jpg",
+          "score": 6,
+          "notes": "multi-frame: Floating pastel ledges in a purple void, a small green character jumping between blocks with glowing pickups; clean low-poly look, simple scene. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "video_source_url": "https://x.com/usecrayon/status/2115713726842388491/video/1",
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: Floating pastel ledges in a purple void, a small green character jumping between blocks with glowing pickups; clean low-poly look, simple scene. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "x",
+      "x_handle": "usecrayon",
+      "author": "usecrayon",
+      "author_source": "https://x.com/usecrayon",
+      "source_url": "https://x.com/usecrayon/status/2115713726842388491",
+      "likes_source_url": "https://x.com/usecrayon/status/2115713726842388491",
+      "likes_source": "x",
+      "remote_likes": 10,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T07:53:55.000Z"
+    },
+    {
+      "id": "hull-of-fame",
+      "title": "Hull of Fame",
+      "description": "Boat racing game made in a day with Opus 5.5: five craft, hydrodynamics, a cinematic ocean and an announcer; water code credited to @Ian_cadle, built on Three.js.",
+      "play_url": "https://games.14kb.site/hull-of-fame/",
+      "found_via": "X post by @igzilla \"A fun little boat racing game I made with Opus 5.5 today\"",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "racing",
+      "platforms": [
+        "desktop"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/hull-of-fame-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/hull-of-fame-1.jpg",
+          "source": "headless-browser",
+          "score": 6.5,
+          "notes": "multi-frame: Bold HULL OF FAME title over turquoise water with two speedboats and the race menu; the water looks good, but the GPU-less checker stayed on the menu. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/hull-of-fame-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/hull-of-fame-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/hull-of-fame-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Bold HULL OF FAME title over turquoise water with two speedboats and the race menu; the water looks good, but the GPU-less checker stayed on the menu. Rated from 4 screenshots.",
+      "found_via_network": "x",
+      "x_handle": "igzilla",
+      "author": "igzilla",
+      "author_source": "https://x.com/igzilla",
+      "source_url": "https://x.com/igzilla/status/2115677169179648138",
+      "likes_source_url": "https://x.com/igzilla/status/2115677169179648138",
+      "likes_source": "x",
+      "remote_likes": 4,
+      "comment_count": 1,
+      "comments": [
+        {
+          "author": "corhoonx",
+          "text": "@igzilla @Dad_Build_Run @Ian_cadle @threejs a boat racing game in a day with that water is great. the sailing feels fun to watch",
+          "likes": 0,
+          "url": "https://x.com/corhoonx/status/2115755474268414432",
+          "created_at": "2026-10-29T10:39:48.000Z"
+        }
+      ],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T05:28:39.000Z"
+    },
+    {
+      "id": "claude-of-tanks",
+      "title": "Claude of Tanks",
+      "description": "World of Tanks-style armoured combat simulator built with Three.js and Vite: 220 vehicles, 33 destructible battlefields and 13 modes, with plate-level armour, ballistics, modules and spotting. Free in the browser; built through a multi-agent Claude/Codex pipeline.",
+      "play_url": "https://cot.kevinliu.studio/",
+      "found_via": "GitHub search (Claude game repos by stars)",
+      "made_with": "unknown",
+      "made_with_note": "README credits a multi-agent Claude/Codex pipeline; no model version named.",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/claude-of-tanks-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/claude-of-tanks-1.jpg",
+          "source": "headless-browser",
+          "score": 6.5,
+          "notes": "multi-frame: Dark loading screens with the Claude of Tanks logo, then the garage with an M1A3 Abrams on a turntable, stats panel and tank roster; polished hangar UI, no battle captured. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/claude-of-tanks-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/claude-of-tanks-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/claude-of-tanks-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Dark loading screens with the Claude of Tanks logo, then the garage with an M1A3 Abrams on a turntable, stats panel and tank roster; polished hangar UI, no battle captured. Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "Kevin-Liu-01",
+      "author_source": "https://github.com/Kevin-Liu-01",
+      "github_user": "Kevin-Liu-01",
+      "github_url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+      "github_stars": 516,
+      "source_url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+      "likes_source_url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+      "likes_source": "github",
+      "remote_likes": 516,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-07-29T17:14:28Z"
+    },
+    {
+      "id": "yarn-planet",
+      "title": "Yarn Planet",
+      "description": "Small-planet walking game in the browser where your path becomes a coloured thread. Built with Three.js and Cloudflare Durable Objects, made with Claude Opus 5.5.",
+      "play_url": "https://yarn.ynot.games/",
+      "found_via": "GitHub search (Opus 5.5 game repos)",
+      "made_with": "opus-5.5",
+      "made_with_note": "README: made with Claude Opus 5.5.",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-sameorigin",
+      "category": "exploration",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/yarn-planet-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/yarn-planet-1.jpg",
+          "source": "headless-browser",
+          "score": 7,
+          "notes": "multi-frame: Cute planet title with a Begin button, then a hand-drawn crayon-style town on a curved world with a guide card; distinctive sketchbook look. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/yarn-planet-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/yarn-planet-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/yarn-planet-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/yarn-planet-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: Cute planet title with a Begin button, then a hand-drawn crayon-style town on a curved world with a guide card; distinctive sketchbook look. Rated from 5 screenshots.",
+      "found_via_network": "github",
+      "author": "makerjackie",
+      "author_source": "https://github.com/makerjackie",
+      "github_user": "makerjackie",
+      "github_url": "https://github.com/makerjackie/yarn-planet",
+      "github_stars": 15,
+      "source_url": "https://github.com/makerjackie/yarn-planet",
+      "likes_source_url": "https://github.com/makerjackie/yarn-planet",
+      "likes_source": "github",
+      "remote_likes": 15,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-20T05:58:18Z"
+    },
+    {
+      "id": "claude-of-legends",
+      "title": "Claude of Legends",
+      "description": "Mini 5v5 MOBA in the browser with no account needed: one deterministic TypeScript sim, an authoritative server, and every bot behind a trainable policy contract.",
+      "play_url": "https://claudeoflegends.com/",
+      "found_via": "GitHub search (Claude game repos)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "category": "moba",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/claude-of-legends-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/claude-of-legends-1.jpg",
+          "source": "headless-browser",
+          "score": 6.5,
+          "notes": "multi-frame: Champion select grid with portraits, then a 3D arena lane with a champion, ability bar and minimap plus a stone plaza; solid MOBA presentation. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/claude-of-legends-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/claude-of-legends-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/claude-of-legends-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/claude-of-legends-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Champion select grid with portraits, then a 3D arena lane with a champion, ability bar and minimap plus a stone plaza; solid MOBA presentation. Rated from 5 screenshots.",
+      "found_via_network": "github",
+      "author": "killian01",
+      "author_source": "https://github.com/killian01",
+      "github_user": "killian01",
+      "github_url": "https://github.com/killian01/claude-of-legends",
+      "github_stars": 4,
+      "source_url": "https://github.com/killian01/claude-of-legends",
+      "likes_source_url": "https://github.com/killian01/claude-of-legends",
+      "likes_source": "github",
+      "remote_likes": 4,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-08-26T08:17:50Z"
+    },
+    {
+      "id": "librehold",
+      "title": "LibreHold",
+      "description": "Free, open-source browser strategy game: grow a settlement from a hut to a castle, raise an army, raid and conquer. No sign-up needed.",
+      "play_url": "https://librehold.org/",
+      "found_via": "GitHub search (browser strategy game repos)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/librehold-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/librehold-1.jpg",
+          "source": "headless-browser",
+          "score": 5,
+          "notes": "multi-frame: Parchment landing page with a village thumbnail, then the in-game village view with building panels and a first-steps dialog; old-school browser-strategy UI. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/librehold-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/librehold-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/librehold-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Parchment landing page with a village thumbnail, then the in-game village view with building panels and a first-steps dialog; old-school browser-strategy UI. Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "librehold-game",
+      "author_source": "https://github.com/librehold-game",
+      "github_user": "librehold-game",
+      "github_url": "https://github.com/librehold-game/librehold",
+      "github_stars": 11,
+      "source_url": "https://github.com/librehold-game/librehold",
+      "likes_source_url": "https://github.com/librehold-game/librehold",
+      "likes_source": "github",
+      "remote_likes": 11,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-28T19:09:31Z"
+    },
+    {
+      "id": "neon-arena",
+      "title": "Neon Arena",
+      "description": "3D arena shooter in the browser with neon robots, AI bots and online matches for up to 8 players; free with no install (Spanish UI).",
+      "play_url": "https://byjuanga.github.io/Neon-arena/",
+      "found_via": "GitHub search (browser game repos)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "shooter",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "multiplayer"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/neon-arena-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/neon-arena-1.jpg",
+          "source": "headless-browser",
+          "score": 4.5,
+          "notes": "multi-frame: Neon NEON ARENA title with colour picks, name field, bot and online buttons and a controls panel; only the menu was captured. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/neon-arena-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/neon-arena-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/neon-arena-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "multi-frame: Neon NEON ARENA title with colour picks, name field, bot and online buttons and a controls panel; only the menu was captured. Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "Byjuanga",
+      "author_source": "https://github.com/Byjuanga",
+      "github_user": "Byjuanga",
+      "github_url": "https://github.com/Byjuanga/Neon-arena",
+      "github_stars": 4,
+      "source_url": "https://github.com/Byjuanga/Neon-arena",
+      "likes_source_url": "https://github.com/Byjuanga/Neon-arena",
+      "likes_source": "github",
+      "remote_likes": 4,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T09:37:37Z"
+    },
+    {
+      "id": "d2mobile",
+      "title": "D2 Mobile",
+      "description": "Fan-made, non-commercial ARPG inspired by Diablo II for mobile and desktop browsers. It ships no game data: you import the files from your own Diablo II, locally in the browser.",
+      "play_url": "https://d2mobile.vercel.app/",
+      "found_via": "GitHub search (browser port repos)",
+      "made_with": "unknown",
+      "iframe": false,
+      "iframe_block_reason": "x-frame-options-deny",
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs the data files from your own Diablo II",
+      "category": "rpg",
+      "platforms": [
+        "mobile",
+        "desktop"
+      ],
+      "tags": [
+        "decomp",
+        "rom",
+        "requires_own_files"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/d2mobile-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/d2mobile-1.jpg",
+          "source": "headless-browser",
+          "score": 2.5,
+          "notes": "multi-frame: Only the dark import screen asking for your own Diablo II files (no game files on the box). Capped at 3 (needs your own game files). Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/d2mobile-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/d2mobile-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/d2mobile-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "multi-frame: Only the dark import screen asking for your own Diablo II files (no game files on the box). Capped at 3 (needs your own game files). Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "lucas-gp",
+      "author_source": "https://github.com/lucas-gp",
+      "github_user": "lucas-gp",
+      "github_url": "https://github.com/lucas-gp/d2mobile",
+      "github_stars": 5,
+      "source_url": "https://github.com/lucas-gp/d2mobile",
+      "likes_source_url": "https://github.com/lucas-gp/d2mobile",
+      "likes_source": "github",
+      "remote_likes": 5,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-28T08:24:41Z"
+    },
+    {
+      "id": "eaw-browser-edition",
+      "title": "Empire at War: Browser Edition",
+      "description": "Star Wars: Empire at War and Forces of Corruption in the browser on a new engine built for huge battles. Bring your own copy of the game; a Windows download is also offered.",
+      "play_url": "https://playeaw.com/",
+      "found_via": "GitHub search (browser port repos)",
+      "made_with": "unknown",
+      "iframe": true,
+      "requires_own_files": true,
+      "requires_own_files_note": "Needs the data from your own copy of Empire at War / Forces of Corruption",
+      "download_url": "https://playeaw.com/",
+      "download_platforms": [
+        "windows"
+      ],
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "decomp",
+        "rom",
+        "requires_own_files"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/eaw-browser-edition-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/eaw-browser-edition-1.jpg",
+          "source": "headless-browser",
+          "score": 2.5,
+          "notes": "multi-frame: Red-and-black Empire at War landing page with download and game-data steps for Forces of Corruption and Empire at War; no battle without your own files. Capped at 3 (needs your own game files). Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/eaw-browser-edition-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/eaw-browser-edition-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/eaw-browser-edition-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 2.5,
+      "screenshot_score_notes": "multi-frame: Red-and-black Empire at War landing page with download and game-data steps for Forces of Corruption and Empire at War; no battle without your own files. Capped at 3 (needs your own game files). Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "Glenn332",
+      "author_source": "https://github.com/Glenn332",
+      "github_user": "Glenn332",
+      "github_url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition",
+      "github_stars": 4,
+      "source_url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition",
+      "likes_source_url": "https://github.com/Glenn332/Empire-At-War-Browser-Edition",
+      "likes_source": "github",
+      "remote_likes": 4,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-29T16:22:38Z"
+    },
+    {
+      "id": "hacker-fables",
+      "title": "Hacker Fables",
+      "description": "A Vim roguelike in the browser: move and fight with Vim keys through an ASCII dungeon.",
+      "play_url": "https://sebastiancarlos.github.io/hacker-fables-game/",
+      "found_via": "GitHub search (browser game repos)",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "roguelike",
+      "platforms": [
+        "desktop"
+      ],
+      "checked_at": "2026-10-30",
+      "check_result": "working",
+      "screenshot_path": "screenshots/hacker-fables-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/hacker-fables-1.jpg",
+          "source": "headless-browser",
+          "score": 4.5,
+          "notes": "multi-frame: Red ASCII-art title with New game / High scores, then an ASCII dungeon room with the hacker, a status line and the Vim command log; faithful terminal look, very plain. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/hacker-fables-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/hacker-fables-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/hacker-fables-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 4.5,
+      "screenshot_score_notes": "multi-frame: Red ASCII-art title with New game / High scores, then an ASCII dungeon room with the hacker, a status line and the Vim command log; faithful terminal look, very plain. Rated from 4 screenshots.",
+      "found_via_network": "github",
+      "author": "sebastiancarlos",
+      "author_source": "https://github.com/sebastiancarlos",
+      "github_user": "sebastiancarlos",
+      "github_url": "https://github.com/sebastiancarlos/hacker-fables-game",
+      "github_stars": 5,
+      "source_url": "https://github.com/sebastiancarlos/hacker-fables-game",
+      "likes_source_url": "https://github.com/sebastiancarlos/hacker-fables-game",
+      "likes_source": "github",
+      "remote_likes": 5,
+      "comment_count": 0,
+      "comments": [],
+      "first_seen": "2026-10-30T09:00:00.000Z",
+      "last_seen": "2026-10-30T09:00:00.000Z",
+      "published_at": "2026-10-25T04:34:33Z"
     }
   ],
   "totals": {
-    "games": 722,
+    "games": 750,
     "by_made_with": {
-      "opus-5.5": 324,
+      "opus-5.5": 330,
       "astra": 71,
       "sonnet-5.5": 13,
       "uncertain": 6,
-      "unknown": 302,
+      "unknown": 324,
       "gemini-4-argon": 6
     }
   }
