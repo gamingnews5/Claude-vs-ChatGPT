@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:40:00.000Z",
+  "updated_at": "2026-11-01T05:55:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -377,7 +377,7 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "multi-frame: cute chunky 3D pressure-washer kid blasting dirt off lawns, driveways and a street, gnomes and leaf debris, clean HUD with score/combo; polished and readable. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-11-01T05:55:00.000Z",
       "made_with": "opus-5.5",
       "likes_source_url": "https://x.com/chongdashu/status/2102674509593796808",
       "remote_likes": 817,
@@ -544,7 +544,8 @@
         }
       ],
       "tags": [
-        "wavedash"
+        "wavedash",
+        "vibegamedev"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -5709,11 +5710,12 @@
       "published_at": "2026-09-29T15:52:49.000Z",
       "listed_at": "2026-09-30T01:56:38.000Z",
       "first_seen": "2026-09-30T01:56:38.000Z",
-      "last_seen": "2026-09-30T02:45:01.000Z",
+      "last_seen": "2026-11-01T05:55:00.000Z",
       "tags": [
         "mobile",
         "pc",
-        "sonnet-5.5"
+        "sonnet-5.5",
+        "vibegamedev"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working"
@@ -18200,7 +18202,7 @@
       "comment_count": 17,
       "x_handle": "chongdashu",
       "first_seen": "2026-10-12T02:00:00.000Z",
-      "last_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-11-01T05:55:00.000Z",
       "video_path": "videos/tidebreaker.mp4",
       "video_source": "x",
       "videos": [
@@ -25463,8 +25465,11 @@
         }
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
-      "last_seen": "2026-10-15T01:30:00.000Z",
-      "published_at": "2026-10-14T13:48:44.000Z"
+      "last_seen": "2026-11-01T05:55:00.000Z",
+      "published_at": "2026-10-14T13:48:44.000Z",
+      "tags": [
+        "vibegamedev"
+      ]
     },
     {
       "id": "paws-in-san-francisco",
@@ -62880,16 +62885,175 @@
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
       "published_at": "2026-10-29T23:44:42Z"
+    },
+    {
+      "id": "haiku-harbour",
+      "title": "Haiku Harbour",
+      "description": "Shared 2.5D seaside town you wander with real players among hundreds of NPCs, a multiplayer 'where's Wally' built by Claude Haiku 5.5.",
+      "play_url": "https://haiku-harbour.vercel.app/",
+      "page_url": "https://www.vibegamedev.com/",
+      "source_url": "https://x.com/chongdashu/status/2108195439606681975",
+      "found_via": "vibegamedev.com homepage showcase (creator @chongdashu)",
+      "found_via_network": "vibegamedev",
+      "made_with": "unknown",
+      "made_with_note": "Built with Claude Haiku 5.5 (stated on vibegamedev.com and the X post), not one of the tracked models.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "social",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 133,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/chongdashu/status/2108195439606681975",
+      "comment_count": 8,
+      "comments": [],
+      "author": "chongdashu",
+      "author_source": "https://x.com/chongdashu",
+      "x_handle": "chongdashu",
+      "first_seen": "2026-11-01T05:55:00.000Z",
+      "last_seen": "2026-11-01T05:55:00.000Z",
+      "video_path": "videos/haiku-harbour.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/haiku-harbour.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/haiku-harbour.jpg",
+      "screenshots": [
+        {
+          "path": "videos/haiku-harbour.jpg",
+          "score": 6,
+          "notes": "multi-frame: low-poly harbour plaza packed with hundreds of NPCs, market stalls and a wooden pier; charming crowd scale but simple flat-shaded look. Rated from 4 clip frames."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: low-poly harbour plaza packed with hundreds of NPCs, market stalls and a wooden pier; charming crowd scale but simple flat-shaded look. Rated from 4 clip frames.",
+      "checked_at": "2026-11-01",
+      "check_result": "working",
+      "tags": [
+        "vibegamedev",
+        "multiplayer"
+      ]
+    },
+    {
+      "id": "retro-del-sol",
+      "title": "Retro del Sol",
+      "description": "Cosy persistent online low-poly pixel-art island world: deliver parcels on a postal trike, sail boats and fly planes between islands with other players. Assets by Retro Diffusion 3D, animated in Blender. Works on mobile and desktop.",
+      "play_url": "https://retrodelsol.com/",
+      "page_url": "https://www.vibegamedev.com/",
+      "source_url": "https://x.com/chongdashu/status/2113090126406635638",
+      "found_via": "vibegamedev.com homepage showcase (creator @chongdashu)",
+      "found_via_network": "vibegamedev",
+      "made_with": "opus-5.5",
+      "made_with_note": "Stated: made with Claude Opus 5.5 and GPT 6 Astra (vibegamedev.com and X post).",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "adventure",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 62,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/chongdashu/status/2113090126406635638",
+      "comment_count": 6,
+      "comments": [],
+      "author": "chongdashu",
+      "author_source": "https://x.com/chongdashu",
+      "x_handle": "chongdashu",
+      "first_seen": "2026-11-01T05:55:00.000Z",
+      "last_seen": "2026-11-01T05:55:00.000Z",
+      "video_path": "videos/retro-del-sol.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/retro-del-sol.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/retro-del-sol.jpg",
+      "screenshots": [
+        {
+          "path": "videos/retro-del-sol.jpg",
+          "score": 8,
+          "notes": "multi-frame: bright voxel-pixel harbour town with turquoise water, a postal trike delivering crates, a rowing boat and a delivery timer HUD; polished cohesive art. Rated from 4 clip frames."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: bright voxel-pixel harbour town with turquoise water, a postal trike delivering crates, a rowing boat and a delivery timer HUD; polished cohesive art. Rated from 4 clip frames.",
+      "checked_at": "2026-11-01",
+      "check_result": "working",
+      "tags": [
+        "vibegamedev",
+        "multiplayer",
+        "astra"
+      ]
+    },
+    {
+      "id": "bramblekeep",
+      "title": "Bramblekeep",
+      "description": "Online co-op castle siege: pick a Knight, Spellcaster or Scout, break the gate with other players and take down the Bramble Boss together; persistent multiplayer with global chat.",
+      "play_url": "https://bramblekeep.vercel.app/",
+      "page_url": "https://www.vibegamedev.com/",
+      "source_url": "https://x.com/chongdashu/status/2115433972402724873",
+      "found_via": "vibegamedev.com homepage showcase (creator @chongdashu)",
+      "found_via_network": "vibegamedev",
+      "made_with": "unknown",
+      "made_with_note": "Built with GPT 6.1 Terra (stated on vibegamedev.com and X), not one of the tracked models.",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-self",
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 16,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/chongdashu/status/2115433972402724873",
+      "comment_count": 4,
+      "comments": [],
+      "author": "chongdashu",
+      "author_source": "https://x.com/chongdashu",
+      "x_handle": "chongdashu",
+      "first_seen": "2026-11-01T05:55:00.000Z",
+      "last_seen": "2026-11-01T05:55:00.000Z",
+      "video_path": "videos/bramblekeep.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/bramblekeep.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/bramblekeep.jpg",
+      "screenshots": [
+        {
+          "path": "videos/bramblekeep.jpg",
+          "score": 7,
+          "notes": "multi-frame: stylised 3D castle siege with a party of knights and mages, 'The gate is down!' banner and a giant tree boss in the courtyard; clear multiplayer HUD and chat. Rated from 4 clip frames."
+        }
+      ],
+      "screenshot_score": 7,
+      "screenshot_score_notes": "multi-frame: stylised 3D castle siege with a party of knights and mages, 'The gate is down!' banner and a giant tree boss in the courtyard; clear multiplayer HUD and chat. Rated from 4 clip frames.",
+      "checked_at": "2026-11-01",
+      "check_result": "working",
+      "tags": [
+        "vibegamedev",
+        "multiplayer"
+      ]
     }
   ],
   "totals": {
-    "games": 797,
+    "games": 800,
     "by_made_with": {
-      "opus-5.5": 333,
+      "opus-5.5": 334,
       "astra": 71,
       "sonnet-5.5": 13,
       "uncertain": 7,
-      "unknown": 367,
+      "unknown": 369,
       "gemini-4-argon": 6
     }
   }
