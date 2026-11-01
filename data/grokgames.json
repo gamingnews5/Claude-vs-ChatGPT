@@ -4496,7 +4496,9 @@
         "soonlab"
       ],
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "wrapper_only",
+      "play_url_note": "SoonLab wrapper page: banners, then Play Now starts the game",
+      "check_note": "Igor marked broken; loads only inside soonlab page with promo popups"
     },
     {
       "id": "sf-founder-mode",
@@ -5768,7 +5770,10 @@
       "likes_checked": "2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "needs_isolation": true,
+      "play_url_note": "Open in Chrome; crashes in the in-app browser",
+      "check_note": "loads in headless desktop, mobile and Android WebView UA (48 MB assets, rotate prompt on phones); no crash reproduced headless; Igor report 2026-10-31"
     },
     {
       "id": "turbo-kart-gp",
@@ -9420,10 +9425,11 @@
           "notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered. | report: Igor marked broken; page loads to LOG IN / PLAY NOW, account needed to play (2026-11-01)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "needs_login",
+      "requires_login": true
     },
     {
       "id": "myth-fallen-levels",
@@ -18354,6 +18360,11 @@
           "url": "https://x.com/tmdschool/status/2109544403153080644",
           "created_at": "2026-10-12T07:19:13Z"
         }
+      ],
+      "checked_at": "2026-11-01",
+      "check_result": "working",
+      "tags": [
+        "vibegamedev"
       ]
     },
     {
@@ -46825,8 +46836,8 @@
           "notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a low-poly coupe chased by rivals along a coastal road at dusk, neon city straights, palm-lined cliffs and glowing speed trails. Strong warm palette and clear racing action; simple geometry."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a low-poly coupe chased by rivals along a coastal road at dusk, neon city straights, palm-lined cliffs and glowing speed trails. Strong warm palette and clear racing action; simple geometry.",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: rated from 5 frames of the creator's Sandscape preview video: a low-poly coupe chased by rivals along a coastal road at dusk, neon city straights, palm-lined cliffs and glowing speed trails. Strong warm palette and clear racing action; simple geometry. | report: on phones the portrait canvas is narrow (312x675), text and track look small (2026-11-01)",
       "comments": [
         {
           "author": "Therealroombalover9652",
@@ -46858,7 +46869,8 @@
       ],
       "page_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "play_url_note": "Best in landscape or on desktop; small in portrait on phones"
     },
     {
       "id": "extinction-window",
@@ -62172,7 +62184,7 @@
       "title": "Emberwick",
       "description": "Top-down (angled) fantasy RPG built by Simon Willison in regular Claude chat with no code review: walk a hilly village with companions, enter buildings whose walls turn transparent, explore basements, a tunnel network and a mountain cave with a sleeping troll. A full story with a magic system and twists takes about 15 minutes; it even has an experimental level editor.",
       "play_url": "https://simonw.github.io/emberwick/v11/emberwick.html",
-      "made_with": "uncertain",
+      "made_with": "unknown",
       "made_with_note": "Built in the Claude chat app; the post credits Claude Opus 5.5 for the four games overall but does not name the model for this chat.",
       "engine": "three.js",
       "iframe": true,
@@ -62460,7 +62472,7 @@
       "title": "Tree Appreciator",
       "description": "Relaxing, mobile-friendly spot-the-difference game: two algorithmically generated 3D trees appear side by side and you appreciate (find) the differences between them, collecting finished trees in a herbarium. One-shot by Simon Willison from a single prompt in the Claude chat app.",
       "play_url": "https://tools.simonwillison.net/tree-appreciator",
-      "made_with": "uncertain",
+      "made_with": "unknown",
       "made_with_note": "One prompt in the Claude chat app; the post credits Claude Opus 5.5 for the four games overall but does not name the model for this chat.",
       "engine": "three.js",
       "iframe": true,
@@ -62876,8 +62888,8 @@
       "opus-5.5": 333,
       "astra": 71,
       "sonnet-5.5": 13,
-      "uncertain": 9,
-      "unknown": 365,
+      "uncertain": 7,
+      "unknown": 367,
       "gemini-4-argon": 6
     }
   }
