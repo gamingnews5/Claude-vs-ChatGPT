@@ -13401,7 +13401,9 @@
       "tags": [
         "ryft"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "needs_isolation": true,
+      "play_url_note": "Open in Chrome; crashes in the in-app browser"
     },
     {
       "id": "stardust-isles",
