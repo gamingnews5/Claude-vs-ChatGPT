@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T03:00:00.000Z",
+  "updated_at": "2026-11-03",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -11,8 +11,8 @@
       "found_via": "AI IDE List case study and creator README; also MagicCreator demos",
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/01-pelican-bike.jpg",
-      "screenshot_score": 6.0,
-      "screenshot_score_notes": "multi-frame: phone capture of a pelican riding along a seaside boardwalk; the camera hugs the rider, heavy sun glare washes out the scene and touch buttons cover much of the view, with little happening beyond riding. The old 8.8 came from one cinematic still (lowered at Igor's request, 2026-10-28).",
+      "screenshot_score": 4.8,
+      "screenshot_score_notes": "admin: Igor set 4.8 on 2026-11-02; multi-frame: phone capture of a pelican riding along a seaside boardwalk; the camera hugs the rider, heavy sun glare washes out the scene and touch buttons cover much of the view, with little happening beyond riding. The old 8.8 came from one cinematic still (lowered at Igor's request, 2026-10-28).",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -29,7 +29,15 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "timeout"
+      "check_result": "timeout",
+      "notes": "admin: Igor set 4.8 on 2026-11-02",
+      "tags": [
+        "mobile",
+        "pc",
+        "opus-5.5",
+        "chinese",
+        "demo"
+      ]
     },
     {
       "id": "transport-ship",
@@ -70,7 +78,7 @@
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/03-qq-speed.jpg",
       "screenshot_score": 6.3,
-      "screenshot_score_notes": "Colorful track scenery, several cars, the start gate, minimap, rankings, and racing HUD make the game easy to understand in one frame. (admin: Igor set 6.3 on 2026-10-30; bot score was 8.4)",
+      "screenshot_score_notes": "admin: Igor set 6.3 on 2026-10-30. Colorful track scenery, several cars, the start gate, minimap, rankings, and racing HUD make the game easy to understand in one frame. (admin: Igor set 6.3 on 2026-10-30; bot score was 8.4)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -607,7 +615,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/16-tidal-orbit.jpg",
       "screenshot_score": 6.4,
-      "screenshot_score_notes": "Readable third-person bike-on-water-path still with golden rings, floating islands, moon, and soft sunset lighting; immediately communicates the drift/collect fantasy. (admin: Igor set 6.4 on 2026-10-30; bot score was 8.8)",
+      "screenshot_score_notes": "admin: Igor set 6.4 on 2026-10-30. Readable third-person bike-on-water-path still with golden rings, floating islands, moon, and soft sunset lighting; immediately communicates the drift/collect fantasy. (admin: Igor set 6.4 on 2026-10-30; bot score was 8.8)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -957,7 +965,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/28-clunk.jpg",
       "screenshot_score": 5,
-      "screenshot_score_notes": "Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture. (admin: Igor set 5 on 2026-10-29; bot score was 8.6)",
+      "screenshot_score_notes": "admin: Igor set 5 on 2026-10-29. Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture. (admin: Igor set 5 on 2026-10-29; bot score was 8.6)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1024,7 +1032,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/32-flip-clash.jpg",
       "screenshot_score": 5.2,
-      "screenshot_score_notes": "Crisp isometric board over a glowing dusk city with readable units, selection rings, and T6 markers; excellent depth and polish. (admin: Igor set 5.2 on 2026-10-30; bot score was 9)",
+      "screenshot_score_notes": "admin: Igor set 5.2 on 2026-10-30. Crisp isometric board over a glowing dusk city with readable units, selection rings, and T6 markers; excellent depth and polish. (admin: Igor set 5.2 on 2026-10-30; bot score was 9)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1210,7 +1218,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/40-towline.jpg",
       "screenshot_score": 7.2,
-      "screenshot_score_notes": "Vibrant chase composition clearly shows hoverboard towing, yellow truck, coins, and Mediterranean town polish. (admin: Igor set 7.2 on 2026-10-30; bot score was 8.9)",
+      "screenshot_score_notes": "admin: Igor set 7.2 on 2026-10-30. Vibrant chase composition clearly shows hoverboard towing, yellow truck, coins, and Mediterranean town polish. (admin: Igor set 7.2 on 2026-10-30; bot score was 8.9)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1352,7 +1360,7 @@
       "found_via_network": "web",
       "screenshot_path": "screenshots/43-sangoku.jpg",
       "screenshot_score": 5.8,
-      "screenshot_score_notes": "Premium navy landing with ornate rabbit-general card art, vertical title typography, and clear battlefield CTA. (admin: Igor set 5.8 on 2026-10-30; bot score was 8.8)",
+      "screenshot_score_notes": "admin: Igor set 5.8 on 2026-10-30. Premium navy landing with ornate rabbit-general card art, vertical title typography, and clear battlefield CTA. (admin: Igor set 5.8 on 2026-10-30; bot score was 8.8)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1363,7 +1371,7 @@
       "page_url": "https://sangoku.tokyoaivisuals.club/",
       "iframe": true,
       "iframe_block_reason": null,
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "check_result": "working"
     },
     {
@@ -1436,7 +1444,7 @@
         "mobile",
         "touch"
       ],
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-03",
       "check_result": "working"
     },
     {
@@ -1641,7 +1649,7 @@
       "found_via_network": "catalog",
       "screenshot_path": "screenshots/60-cozy-cove.jpg",
       "screenshot_score": 6.2,
-      "screenshot_score_notes": "Warm pixel-art village still with dialogue, HUD, and beach — composition clearly shows a playable cozy RPG scene. (admin: Igor set 6.2 on 2026-10-30; bot score was 9)",
+      "screenshot_score_notes": "admin: Igor set 6.2 on 2026-10-30. Warm pixel-art village still with dialogue, HUD, and beach — composition clearly shows a playable cozy RPG scene. (admin: Igor set 6.2 on 2026-10-30; bot score was 9)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
@@ -1671,7 +1679,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/62-spawn-legends.jpg",
       "screenshot_score": 7.6,
-      "screenshot_score_notes": "Sharp mid-match three-lane board with hand, energy, and location text — shows the card battler UI clearly. (admin: Igor set 7.6 on 2026-10-30; bot score was 9)",
+      "screenshot_score_notes": "admin: Igor set 7.6 on 2026-10-30. Sharp mid-match three-lane board with hand, energy, and location text — shows the card battler UI clearly. (admin: Igor set 7.6 on 2026-10-30; bot score was 9)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -1947,7 +1955,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/76-volley-rally.jpg",
       "screenshot_score": 9,
-      "screenshot_score_notes": "In-game 2v2 beach match with crowd, scoreboard HOME/AWAY, player names, and control legend — solid readable sports still from creator footage. (admin: Igor set 9 on 2026-10-30; bot score was 8.5)",
+      "screenshot_score_notes": "admin: Igor set 9 on 2026-10-30. In-game 2v2 beach match with crowd, scoreboard HOME/AWAY, player names, and control legend — solid readable sports still from creator footage. (admin: Igor set 9 on 2026-10-30; bot score was 8.5)",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -2419,7 +2427,7 @@
       "engine": "Three.js",
       "screenshot_path": "screenshots/95-chill-race.jpg",
       "screenshot_score": 5.9,
-      "screenshot_score_notes": "Cockpit POV over a tropical sunset coast with coins/boxes and clear Start Race CTA — very strong vibe still. (admin: Igor set 5.9 on 2026-10-30; bot score was 8.9)",
+      "screenshot_score_notes": "admin: Igor set 5.9 on 2026-10-30. Cockpit POV over a tropical sunset coast with coins/boxes and clear Start Race CTA — very strong vibe still. (admin: Igor set 5.9 on 2026-10-30; bot score was 8.9)",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "video_path": "videos/chill-race.mp4",
@@ -2451,8 +2459,9 @@
         "mobile",
         "astra"
       ],
-      "checked_at": "2026-11-02",
-      "check_result": "working"
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "play_url_note": "Low FPS reported on some devices"
     },
     {
       "id": "gogh-strike",
@@ -3374,7 +3383,7 @@
       "found_via_network": "x",
       "screenshot_path": "screenshots/151-the-kite.jpg",
       "screenshot_score": 7.1,
-      "screenshot_score_notes": "Golden-hour rooftop with kite on a glowing string, city haze and clean Begin CTA; strong mood though UI chrome from the artifact host is visible. (admin: Igor set 7.1 on 2026-10-30; bot score was 8.8)",
+      "screenshot_score_notes": "admin: Igor set 7.1 on 2026-10-30. Golden-hour rooftop with kite on a glowing string, city haze and clean Begin CTA; strong mood though UI chrome from the artifact host is visible. (admin: Igor set 7.1 on 2026-10-30; bot score was 8.8)",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -3978,8 +3987,8 @@
       "found_via": "onehack catalog (Karts.com Opus 5.5)",
       "found_via_network": "web",
       "screenshot_path": "screenshots/167-karts-world-tour.jpg",
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster.",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "admin: Igor set 8.4 on 2026-11-02; multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster.",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
@@ -4154,12 +4163,13 @@
         {
           "path": "videos/karts-world-tour.jpg",
           "score": 6,
-          "notes": "multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster."
+          "notes": "admin: Igor set 8.4 on 2026-11-02; multi-frame: 3D kart race: GO! countdown, then karts on a red-white kerbed track past a city skyline and green hills with position, minimap and speed HUD; decent but simple textures. Rated from 5 frames across the creator clip plus poster."
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "notes": "admin: Igor set 8.4 on 2026-11-02"
     },
     {
       "id": "degen-u",
@@ -4496,8 +4506,8 @@
       "tags": [
         "soonlab"
       ],
-      "checked_at": "2026-11-02",
-      "check_result": "working",
+      "checked_at": "2026-11-03",
+      "check_result": "wrapper_only",
       "play_url_note": "SoonLab wrapper page: banners, then Play Now starts the game",
       "check_note": "Igor marked broken; loads only inside soonlab page with promo popups"
     },
@@ -5304,7 +5314,7 @@
       "found_via_network": "reddit",
       "screenshot_path": "screenshots/214-bioneural.jpg",
       "screenshot_score": 9.2,
-      "screenshot_score_notes": "Clean voxel-city FPS action with double-kill callout, pulse rifle, and readable HUD; night lighting is clear. (admin: Igor set 9.2 on 2026-10-29; bot score was 8.2)",
+      "screenshot_score_notes": "admin: Igor set 9.2 on 2026-10-29. Clean voxel-city FPS action with double-kill callout, pulse rifle, and readable HUD; night lighting is clear. (admin: Igor set 9.2 on 2026-10-29; bot score was 8.2)",
       "video_path": "videos/bioneural.mp4",
       "videos": [
         {
@@ -5354,7 +5364,7 @@
       "found_via_network": "reddit",
       "screenshot_path": "screenshots/215-chonk-bear-brawl.jpg",
       "screenshot_score": 4,
-      "screenshot_score_notes": "Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau. (admin: Igor set 4 on 2026-10-29; bot score was 8.6)",
+      "screenshot_score_notes": "admin: Igor set 4 on 2026-10-29. Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau. (admin: Igor set 4 on 2026-10-29; bot score was 8.6)",
       "video_path": "videos/chonk-bear-brawl-30s.mp4",
       "videos": [
         {
@@ -5771,7 +5781,7 @@
       "comment_count": 0,
       "likes_checked": "2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "check_result": "working",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
@@ -6011,12 +6021,12 @@
       "likes_source": "reddit",
       "screenshot_path": "screenshots/240-roomwave.jpg",
       "screenshot_score": 4,
-      "screenshot_score_notes": "Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA. (admin: Igor set 4 on 2026-10-29; bot score was 8.7)",
+      "screenshot_score_notes": "admin: Igor set 4 on 2026-10-29. Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA. (admin: Igor set 4 on 2026-10-29; bot score was 8.7)",
       "screenshots": [
         {
           "path": "screenshots/240-roomwave.jpg",
-          "score": 8.7,
-          "notes": "Trailer/promo frame karaoke June LIVE"
+          "score": 4,
+          "notes": "admin: Igor set 4 on 2026-10-29. Trailer/promo frame karaoke June LIVE"
         },
         {
           "path": "screenshots/240b-roomwave-chrome.jpg",
@@ -6317,12 +6327,12 @@
       "source_url": "https://x.com/Ryancampbell/status/2105160746363662816",
       "screenshot_path": "screenshots/251-span-nine.jpg",
       "screenshot_score": 7,
-      "screenshot_score_notes": "Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom. (admin: Igor set 7 on 2026-10-29; bot score was 8.9)",
+      "screenshot_score_notes": "admin: Igor set 7 on 2026-10-29. Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom. (admin: Igor set 7 on 2026-10-29; bot score was 8.9)",
       "screenshots": [
         {
           "path": "screenshots/251-span-nine.jpg",
-          "score": 8.9,
-          "notes": "Hero wide race still"
+          "score": 7,
+          "notes": "admin: Igor set 7 on 2026-10-29. Hero wide race still"
         },
         {
           "path": "screenshots/251b-span-nine-vid.jpg",
@@ -9469,8 +9479,8 @@
       ],
       "screenshot_score": 4.0,
       "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered. | report: Igor marked broken; page loads to LOG IN / PLAY NOW, account needed to play (2026-11-01)",
-      "checked_at": "2026-11-02",
-      "check_result": "working",
+      "checked_at": "2026-11-03",
+      "check_result": "needs_login",
       "requires_login": true
     },
     {
@@ -9753,7 +9763,9 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Lush toy-like island village with a market stall, path and a cute companion sells the cozy vibe, but a facecam overlay and subtitles cover part of the frame.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "concrete-jungle",
@@ -9794,7 +9806,9 @@
       ],
       "screenshot_score": 6.5,
       "screenshot_score_notes": "multi-frame: decent third-person voxel/3D NYC streets and park with rat/squirrel, plus newspaper UI; gameplay frames are dim and simple, trailer cards dominate.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "plumki",
@@ -9834,7 +9848,9 @@
       "screenshot_score": 8,
       "screenshot_score_notes": "Detailed isometric voxel stadium with a huge crowd, pitch and versus scoreboard looks great, though the players themselves are small.",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "doughty",
@@ -9875,7 +9891,9 @@
       "screenshot_score": 5,
       "screenshot_score_notes": "Low-poly spiked behemoth on a pale hill with health bars reads as a monster hunt, but flat untextured terrain makes it look like a prototype.",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "last-call",
@@ -9925,7 +9943,9 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "tinker-tailor-soldier-sensor",
@@ -9970,7 +9990,9 @@
       "screenshot_score_notes": "multi-frame: Pixel-art title over a castle at night, then a red-blue-yellow target wheel with a riddle prompt and answer list on a dark purple page; clear but simple. Rated from 4 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "still-here",
@@ -10010,7 +10032,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Lamp-lit wood-panelled hallway with dark doorways is properly eerie and clean, but there is no HUD or sign of interaction.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "ocarina-hero",
@@ -10050,7 +10074,9 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Polished Zelda-style logo and mode menu over a misty Lost Woods scene look great, but no note highway or gameplay is shown.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "fogbound-trail",
@@ -10093,7 +10119,9 @@
       "screenshot_score_notes": "Moody fog-drenched forest path is atmospheric, but the letterboxed frame is murky and low-contrast with nothing to interact with.",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "creo-mars-signal",
@@ -10135,7 +10163,9 @@
       "screenshot_score_notes": "Clean LEVEL UP card choice with clear icons over a top-down base shows the survivor-like loop, though the cards hide the arena.",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "seedhouse",
@@ -10175,7 +10205,9 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunbeams through greenhouse windows lighting giant dandelion heads make a striking, unsettling still; no HUD so the stealth play is implied.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "city-2026",
@@ -10365,7 +10397,9 @@
           "source": "reddit"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "emberfall-lumina",
@@ -10549,7 +10583,9 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://lumina-static-584822.gitlab.io/"
+      "page_url": "https://lumina-static-584822.gitlab.io/",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "ue5-souls-webgpu",
@@ -10588,7 +10624,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Moody gothic cathedral courtyard with wet cobblestones and health/stamina bars looks like a Souls game, but the frame is very dark and the knight is off-screen.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "aestra-the-last-wish",
@@ -10778,7 +10816,9 @@
         "tesana"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://tesana.com/game/aestra-the-last-wish"
+      "page_url": "https://tesana.com/game/aestra-the-last-wish",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "patsy",
@@ -12936,11 +12976,11 @@
         {
           "path": "videos/gigacity.jpg",
           "score": 6.9,
-          "notes": "Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable. (admin: Igor set 6.9 on 2026-10-30; bot score was 9)"
+          "notes": "admin: Igor set 6.9 on 2026-10-30. Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable. (admin: Igor set 6.9 on 2026-10-30; bot score was 9)"
         }
       ],
       "screenshot_score": 6.9,
-      "screenshot_score_notes": "Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable. (admin: Igor set 6.9 on 2026-10-30; bot score was 9)",
+      "screenshot_score_notes": "admin: Igor set 6.9 on 2026-10-30. Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable. (admin: Igor set 6.9 on 2026-10-30; bot score was 9)",
       "video_note": "trimmed to 30s (2026-10-26)",
       "tags": [
         "pc",
@@ -13403,7 +13443,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "needs_isolation": true,
-      "play_url_note": "Open in Chrome; crashes in the in-app browser"
+      "play_url_note": "Open in Chrome; crashes in the in-app browser",
+      "checked_at": "2026-11-03",
+      "check_result": "working"
     },
     {
       "id": "stardust-isles",
@@ -14087,11 +14129,11 @@
         {
           "path": "videos/voxel-rush-frontline.jpg",
           "score": 8.9,
-          "notes": "Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)"
+          "notes": "admin: Igor set 8.9 on 2026-11-01. Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)"
         }
       ],
       "screenshot_score": 8.9,
-      "screenshot_score_notes": "Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)",
+      "screenshot_score_notes": "admin: Igor set 8.9 on 2026-11-01. Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)",
       "video_note": "trimmed to 30s (2026-10-26)"
     },
     {
@@ -25720,11 +25762,11 @@
         {
           "path": "videos/slipface.jpg",
           "score": 9.1,
-          "notes": "Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. (admin: Igor set 9.1 on 2026-10-31; bot score was 8)"
+          "notes": "admin: Igor set 9.1 on 2026-10-31. Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. (admin: Igor set 9.1 on 2026-10-31; bot score was 8)"
         }
       ],
       "screenshot_score": 9.1,
-      "screenshot_score_notes": "Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. (admin: Igor set 9.1 on 2026-10-31; bot score was 8)",
+      "screenshot_score_notes": "admin: Igor set 9.1 on 2026-10-31. Sunlit desert dunes with deforming sand tracks, palms, dust and readable race callouts; strong lighting and atmosphere. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. (admin: Igor set 9.1 on 2026-10-31; bot score was 8)",
       "found_via_network": "reddit",
       "author": "Slipfacegame",
       "author_source": "https://www.reddit.com/user/Slipfacegame/",
@@ -30021,11 +30063,11 @@
         {
           "path": "videos/dead-hertz.jpg",
           "score": 7,
-          "notes": "Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+          "notes": "admin: Igor set 9.6 on 2026-11-02; Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 9.6,
+      "screenshot_score_notes": "admin: Igor set 9.6 on 2026-11-02; Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
       "found_via_network": "reddit",
       "author": "Aggravating_Fun_3912",
       "author_source": "https://www.reddit.com/user/Aggravating_Fun_3912/",
@@ -30178,7 +30220,8 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
-      "published_at": "2026-10-16T13:36:34Z"
+      "published_at": "2026-10-16T13:36:34Z",
+      "notes": "admin: Igor set 9.6 on 2026-11-02"
     },
     {
       "id": "handvoll",
@@ -49520,12 +49563,12 @@
       "screenshots": [
         {
           "path": "videos/catcopter.jpg",
-          "score": 6,
-          "notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster."
+          "score": 7.4,
+          "notes": "admin: Igor set 7.4 on 2026-11-02. multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 9.1,
-      "screenshot_score_notes": "multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.1 on 2026-10-29; bot score was 6)",
+      "screenshot_score": 7.4,
+      "screenshot_score_notes": "admin: Igor set 7.4 on 2026-11-02. multi-frame: Bright low-poly islands over blue sea with a rainbow trail, a flying orange cat and pterodactyls; cheerful colours, short 10s clip. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.1 on 2026-10-29; bot score was 6)",
       "found_via_network": "reddit",
       "author": "pawel-dot-io",
       "author_source": "https://www.reddit.com/user/pawel-dot-io/",
@@ -49613,7 +49656,8 @@
         "mobile",
         "pc",
         "opus-5.5"
-      ]
+      ],
+      "notes": "admin: Igor set 7.4 on 2026-11-02"
     },
     {
       "id": "pokemon-arena-pikachu",
@@ -52186,11 +52230,11 @@
         {
           "path": "videos/gully-cricket.jpg",
           "score": 6.5,
-          "notes": "multi-frame: Third-person Indian street lane with pastel houses, power lines and a batter facing the bowler, plus a hazy alley end; authentic setting, simple models. Rated from 5 frames sampled across the gameplay clip plus the poster."
+          "notes": "admin: Igor set 7.7 on 2026-11-02; multi-frame: Third-person Indian street lane with pastel houses, power lines and a batter facing the bowler, plus a hazy alley end; authentic setting, simple models. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 6.5,
-      "screenshot_score_notes": "multi-frame: Third-person Indian street lane with pastel houses, power lines and a batter facing the bowler, plus a hazy alley end; authentic setting, simple models. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "screenshot_score": 7.7,
+      "screenshot_score_notes": "admin: Igor set 7.7 on 2026-11-02; multi-frame: Third-person Indian street lane with pastel houses, power lines and a batter facing the bowler, plus a hazy alley end; authentic setting, simple models. Rated from 5 frames sampled across the gameplay clip plus the poster.",
       "found_via_network": "x",
       "x_handle": "yogeshsingla481",
       "author": "yogeshsingla481",
@@ -52219,7 +52263,8 @@
       ],
       "first_seen": "2026-10-28T09:00:00.000Z",
       "last_seen": "2026-10-28T09:00:00.000Z",
-      "published_at": "2026-10-26T05:04:29.000Z"
+      "published_at": "2026-10-26T05:04:29.000Z",
+      "notes": "admin: Igor set 7.7 on 2026-11-02"
     },
     {
       "id": "redshift-survivor-into-the-red",
@@ -52408,12 +52453,12 @@
       "screenshots": [
         {
           "path": "videos/1-in-8-billion.jpg",
-          "score": 6,
-          "notes": "multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster."
+          "score": 1,
+          "notes": "admin: Igor set 1 on 2026-10-30. multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
       "screenshot_score": 1,
-      "screenshot_score_notes": "multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 1 on 2026-10-28; bot score was 6)",
+      "screenshot_score_notes": "admin: Igor set 1 on 2026-10-30. multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 1 on 2026-10-28; bot score was 6)",
       "found_via_network": "x",
       "x_handle": "prodsystems_",
       "author": "prodsystems_",
@@ -52432,7 +52477,7 @@
       "tags": [
         "pc"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-03",
       "check_result": "working"
     },
     {
@@ -59855,12 +59900,12 @@
         {
           "path": "videos/rekker-du-ferga.jpg",
           "score": 8.2,
-          "notes": "multi-frame: Green low-poly truck on winding coastal roads with a countdown timer, a sheep-loaded bed, landmark quiz cards and the ferry gate; colourful, characterful and readable. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.4 on 2026-10-31; bot score was 7.5) (admin: Igor set 8.2 on 2026-11-01; bot score was 9.4)"
+          "notes": "admin: Igor set 8.2 on 2026-11-01. multi-frame: Green low-poly truck on winding coastal roads with a countdown timer, a sheep-loaded bed, landmark quiz cards and the ferry gate; colourful, characterful and readable. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.4 on 2026-10-31; bot score was 7.5) (admin: Igor set 8.2 on 2026-11-01; bot score was 9.4)"
         }
       ],
       "video_source_url": "https://v.redd.it/io540nawpoyh1",
       "screenshot_score": 8.2,
-      "screenshot_score_notes": "multi-frame: Green low-poly truck on winding coastal roads with a countdown timer, a sheep-loaded bed, landmark quiz cards and the ferry gate; colourful, characterful and readable. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.4 on 2026-10-31; bot score was 7.5) (admin: Igor set 8.2 on 2026-11-01; bot score was 9.4)",
+      "screenshot_score_notes": "admin: Igor set 8.2 on 2026-11-01. multi-frame: Green low-poly truck on winding coastal roads with a countdown timer, a sheep-loaded bed, landmark quiz cards and the ferry gate; colourful, characterful and readable. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 9.4 on 2026-10-31; bot score was 7.5) (admin: Igor set 8.2 on 2026-11-01; bot score was 9.4)",
       "found_via_network": "reddit",
       "author": "No_Economist_820",
       "author_source": "https://www.reddit.com/user/No_Economist_820/",
@@ -63965,7 +64010,8 @@
       ],
       "tags": [
         "idle",
-        "crafting"
+        "crafting",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -63974,12 +64020,24 @@
         {
           "path": "screenshots/loomfall-1.jpg",
           "source": "headless-browser",
-          "score": 4.5,
-          "notes": "multi-frame: Dark purple LOOMFALL panel full of small stat and crafting text boxes; readable but tiny UI with no visible action. Rated from 1 screenshots."
+          "score": 6.0,
+          "notes": "multi-frame: Path of Defiance hero select (Mage/Warrior/Ranger/Necromancer/Cleric) with orange pixel UI; menu-heavy but readable. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/loomfall-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/loomfall-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/loomfall-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: Dark purple LOOMFALL panel full of small stat and crafting text boxes; readable but tiny UI with no visible action. Rated from 1 screenshots.",
+      "screenshot_score": 6.0,
+      "screenshot_score_notes": "multi-frame: Path of Defiance hero select (Mage/Warrior/Ranger/Necromancer/Cleric) with orange pixel UI; menu-heavy but readable. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "PulIthEld",
       "author_source": "https://www.reddit.com/user/PulIthEld/",
@@ -64578,7 +64636,8 @@
       ],
       "tags": [
         "space",
-        "science"
+        "science",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -64587,12 +64646,24 @@
         {
           "path": "screenshots/lightyears-home-1.jpg",
           "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Dark-blue \"Lightyears Home\" start page with mission buttons; clean, start screen only. Rated from 1 screenshots."
+          "score": 6.0,
+          "notes": "multi-frame: Lightyears Home prologue menu with Level 1 unlocked and starfield backdrop; space navigation premise. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/lightyears-home-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/lightyears-home-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/lightyears-home-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Dark-blue \"Lightyears Home\" start page with mission buttons; clean, start screen only. Rated from 1 screenshots.",
+      "screenshot_score": 6.0,
+      "screenshot_score_notes": "multi-frame: Lightyears Home prologue menu with Level 1 unlocked and starfield backdrop; space navigation premise. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "Flimsy_Pumpkin6873",
       "author_source": "https://www.reddit.com/user/Flimsy_Pumpkin6873/",
@@ -65076,7 +65147,8 @@
         "mobile"
       ],
       "tags": [
-        "dice"
+        "dice",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65085,12 +65157,24 @@
         {
           "path": "screenshots/dicestacker-1.jpg",
           "source": "headless-browser",
-          "score": 4.5,
-          "notes": "multi-frame: Beige board with a score of 0, a dice-drag tutorial card and Start Game button; tidy, minimal. Rated from 1 screenshots."
+          "score": 5.5,
+          "notes": "multi-frame: dice-matching start modal over a 4x4 grid; minimal puzzle UI. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/dicestacker-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/dicestacker-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/dicestacker-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: Beige board with a score of 0, a dice-drag tutorial card and Start Game button; tidy, minimal. Rated from 1 screenshots.",
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: dice-matching start modal over a 4x4 grid; minimal puzzle UI. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "FunnyUndead",
       "author_source": "https://www.reddit.com/user/FunnyUndead/",
@@ -65235,7 +65319,8 @@
       ],
       "tags": [
         "nation-builder",
-        "politics"
+        "politics",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65244,12 +65329,24 @@
         {
           "path": "screenshots/the-social-contract-1.jpg",
           "source": "headless-browser",
-          "score": 4.5,
-          "notes": "multi-frame: Dark-teal \"HOW ARE YOU PLAYING?\" chooser with Phone or Tablet / Computer cards; never got past device choice. Rated from 1 screenshots."
+          "score": 5.5,
+          "notes": "multi-frame: device picker (Phone/Tablet vs Computer recommended) on navy/gold Social Contract title screen; menu only. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/the-social-contract-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/the-social-contract-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/the-social-contract-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: Dark-teal \"HOW ARE YOU PLAYING?\" chooser with Phone or Tablet / Computer cards; never got past device choice. Rated from 1 screenshots.",
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: device picker (Phone/Tablet vs Computer recommended) on navy/gold Social Contract title screen; menu only. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "SocialContractGuy",
       "author_source": "https://www.reddit.com/user/SocialContractGuy/",
@@ -65350,7 +65447,8 @@
       ],
       "tags": [
         "cards",
-        "timed"
+        "timed",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65359,12 +65457,24 @@
         {
           "path": "screenshots/cardinal-1.jpg",
           "source": "headless-browser",
-          "score": 4.5,
-          "notes": "multi-frame: Cream \"Cardinal\" rules card on a navy page with a Start button; neat, start screen only. Rated from 1 screenshots."
+          "score": 6.5,
+          "notes": "multi-frame: Make-30 card math with illustrated diamond cards and +−×÷ operators on a dark navy board; clean puzzle. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/cardinal-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/cardinal-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/cardinal-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 4.5,
-      "screenshot_score_notes": "multi-frame: Cream \"Cardinal\" rules card on a navy page with a Start button; neat, start screen only. Rated from 1 screenshots.",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: Make-30 card math with illustrated diamond cards and +−×÷ operators on a dark navy board; clean puzzle. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "modern_tragedy69",
       "author_source": "https://www.reddit.com/user/modern_tragedy69/",
@@ -65394,7 +65504,8 @@
       ],
       "tags": [
         "daily",
-        "animals"
+        "animals",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65403,12 +65514,24 @@
         {
           "path": "screenshots/matchgame-1.jpg",
           "source": "headless-browser",
-          "score": 4,
-          "notes": "multi-frame: Plain white page with blue Play Daily Quiz buttons; very basic. Rated from 1 screenshots."
+          "score": 5.5,
+          "notes": "multi-frame: daily match cards (Airplane/Helicopter/etc.) with Tap to choose UI; thin but playable. Rated from 4 screenshots."
+        },
+        {
+          "path": "screenshots/matchgame-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/matchgame-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/matchgame-4.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 4,
-      "screenshot_score_notes": "multi-frame: Plain white page with blue Play Daily Quiz buttons; very basic. Rated from 1 screenshots.",
+      "screenshot_score": 5.5,
+      "screenshot_score_notes": "multi-frame: daily match cards (Airplane/Helicopter/etc.) with Tap to choose UI; thin but playable. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "jferas",
       "author_source": "https://www.reddit.com/user/jferas/",
@@ -66286,16 +66409,268 @@
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
       "published_at": "2026-10-31T17:18:46Z"
+    },
+    {
+      "id": "battlefield-1942-web",
+      "title": "Battlefield 1942 (browser)",
+      "description": "Unofficial non-commercial WebAssembly port of the free 2002 Battlefield 1942 demo: real BF1942 in the browser with bots, no download. DirectX 8 reimplemented on WebGL 2 by pieter.com / @levelsio.",
+      "play_url": "https://bf1942.pieter.com/",
+      "found_via": "X bookmark @levelsio \"I decompiled probably my favorite game ever: Battlefield 1942\"",
+      "made_with": "unknown",
+      "iframe": true,
+      "category": "fps",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "decomp",
+        "multiplayer",
+        "preservation",
+        "webassembly"
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "video_path": "videos/battlefield-1942-web.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/battlefield-1942-web.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/battlefield-1942-web.jpg",
+      "screenshots": [
+        {
+          "path": "videos/battlefield-1942-web.jpg",
+          "score": 6.5,
+          "notes": "multi-frame: BF1942 landing page with PLAY button and WebAssembly/WebGL 2 notes; clip is mostly the launch portal rather than in-match combat. Rated from 5 frames + poster."
+        }
+      ],
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: BF1942 landing page with PLAY button and WebAssembly/WebGL 2 notes; clip is mostly the launch portal rather than in-match combat. Rated from 5 frames + poster.",
+      "video_source_url": "https://x.com/levelsio/status/2117374984192512391",
+      "found_via_network": "x",
+      "x_handle": "levelsio",
+      "author": "levelsio",
+      "author_source": "https://x.com/levelsio",
+      "source_url": "https://x.com/levelsio/status/2117374984192512391",
+      "likes_source_url": "https://x.com/levelsio/status/2117374984192512391",
+      "likes_source": "x",
+      "remote_likes": 791,
+      "comment_count": null,
+      "added_at": "2026-11-03"
+    },
+    {
+      "id": "alura-quest",
+      "title": "Alura Quest",
+      "description": "Top-down Zelda-like adventure: explore an overworld of dungeons and caves, and learn magic by copying shapes hidden in the world into an Inscribe grid. Free browser demo on itch.",
+      "play_url": "https://danyl4o.itch.io/alura-quest",
+      "embed_url": "https://html-classic.itch.zone/html/20245021/index.html",
+      "page_url": "https://danyl4o.itch.io/alura-quest",
+      "found_via": "r/playmygame Alura Quest Zelda-like (u/danyl42, 217 upvotes)",
+      "made_with": "unknown",
+      "iframe": false,
+      "category": "adventure",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio",
+        "zelda-like",
+        "demo",
+        "pixel"
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "video_path": "videos/alura-quest.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/alura-quest.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/alura-quest.jpg",
+      "screenshots": [
+        {
+          "path": "videos/alura-quest.jpg",
+          "score": 7.0,
+          "notes": "multi-frame: CRT-style Inventory Inscribe grid for copying world shapes into magic scrolls, plus overworld exploration beats; clever spell-learning hook. Rated from 5 frames + poster."
+        }
+      ],
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "multi-frame: CRT-style Inventory Inscribe grid for copying world shapes into magic scrolls, plus overworld exploration beats; clever spell-learning hook. Rated from 5 frames + poster.",
+      "found_via_network": "reddit",
+      "author": "danyl42",
+      "author_source": "https://www.reddit.com/user/danyl42/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1xlpz1y/alura_quest_a_zeldalike_where_you_learn_magic_by/",
+      "likes_source_url": "https://www.reddit.com/r/playmygame/comments/1xlpz1y/alura_quest_a_zeldalike_where_you_learn_magic_by/",
+      "likes_source": "reddit",
+      "remote_likes": 217,
+      "comment_count": 29,
+      "added_at": "2026-11-03"
+    },
+    {
+      "id": "what-a-show",
+      "title": "What a show",
+      "description": "Idle clicker where you run a TV station broadcasting a war: grow viewers and hype while bodycam-style combat feeds play out on air. Free browser game on itch.",
+      "play_url": "https://borowiec.itch.io/what-a-show",
+      "embed_url": "https://html-classic.itch.zone/html/20101958/index.html",
+      "page_url": "https://borowiec.itch.io/what-a-show",
+      "found_via": "r/playmygame idle TV station war broadcast (u/futomaki_b, 114 upvotes)",
+      "made_with": "unknown",
+      "iframe": false,
+      "category": "idle",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "itchio",
+        "idle",
+        "management"
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "video_path": "videos/what-a-show.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/what-a-show.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/what-a-show.jpg",
+      "screenshots": [
+        {
+          "path": "videos/what-a-show.jpg",
+          "score": 7.0,
+          "notes": "multi-frame: bodycam-style war broadcast with viewer/hype counters, archer nocking shots toward a castle, and station management vibe; quirky idle premise. Rated from 5 frames + poster."
+        }
+      ],
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "multi-frame: bodycam-style war broadcast with viewer/hype counters, archer nocking shots toward a castle, and station management vibe; quirky idle premise. Rated from 5 frames + poster.",
+      "found_via_network": "reddit",
+      "author": "futomaki_b",
+      "author_source": "https://www.reddit.com/user/futomaki_b/",
+      "source_url": "https://www.reddit.com/r/playmygame/comments/1xhin2o/an_idle_clicker_where_you_run_a_tv_station/",
+      "likes_source_url": "https://www.reddit.com/r/playmygame/comments/1xhin2o/an_idle_clicker_where_you_run_a_tv_station/",
+      "likes_source": "reddit",
+      "remote_likes": 114,
+      "comment_count": 30,
+      "added_at": "2026-11-03"
+    },
+    {
+      "id": "neighborhood-hoops",
+      "title": "Neighborhood Hoops",
+      "description": "Isometric rooftop basketball: hold Space to charge and release to shoot, swap courts from dusk rooftop to first snow. Built by @vladsazonau with Opus 5.5.",
+      "play_url": "https://vladsez.github.io/iso-hoops/",
+      "github_url": "https://github.com/VladSez/iso-hoops",
+      "found_via": "X @vladsazonau Neighborhood Hoops isometric basketball",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "sports",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "basketball",
+        "isometric",
+        "opus-5.5"
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "video_path": "videos/neighborhood-hoops.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/neighborhood-hoops.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/neighborhood-hoops.jpg",
+      "screenshots": [
+        {
+          "path": "videos/neighborhood-hoops.jpg",
+          "score": 7.5,
+          "notes": "multi-frame: clean isometric rooftop court with water tower, aiming arc, made/shots HUD and court picker; polished simple sports loop. Rated from 5 frames + poster."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: clean isometric rooftop court with water tower, aiming arc, made/shots HUD and court picker; polished simple sports loop. Rated from 5 frames + poster.",
+      "video_source_url": "https://x.com/vladsazonau/status/2117275408450130093",
+      "found_via_network": "x",
+      "x_handle": "vladsazonau",
+      "author": "vladsazonau",
+      "author_source": "https://x.com/vladsazonau",
+      "source_url": "https://x.com/vladsazonau/status/2117275408450130093",
+      "likes_source_url": "https://x.com/vladsazonau/status/2117275408450130093",
+      "likes_source": "x",
+      "remote_likes": 6,
+      "comment_count": null,
+      "added_at": "2026-11-03"
+    },
+    {
+      "id": "steel-strike",
+      "title": "Steel Strike",
+      "description": "Realistic specialized tank combat on remix.gg: command armored classes like Longbow Sniper in free battles with minimap, fire controls and bot opponents. Built with Opus 5.5.",
+      "play_url": "https://remix.gg/g/steel-strike",
+      "play_url_note": "Hosted on remix.gg wrapper; no separate direct game URL found quickly.",
+      "found_via": "X @smooky_QTC Steel Strike tank combat",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "tags": [
+        "tanks",
+        "multiplayer",
+        "opus-5.5",
+        "remix"
+      ],
+      "checked_at": "2026-11-03",
+      "check_result": "working",
+      "video_path": "videos/steel-strike.mp4",
+      "video_source": "x",
+      "videos": [
+        {
+          "path": "videos/steel-strike.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/steel-strike.jpg",
+      "screenshots": [
+        {
+          "path": "videos/steel-strike.jpg",
+          "score": 7.0,
+          "notes": "multi-frame: desert town tank battle as Longbow Sniper with minimap, FIRE button, kill feed and team score; solid low-poly combat feel. Rated from 5 frames + poster."
+        }
+      ],
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "multi-frame: desert town tank battle as Longbow Sniper with minimap, FIRE button, kill feed and team score; solid low-poly combat feel. Rated from 5 frames + poster.",
+      "video_source_url": "https://x.com/smooky_QTC/status/2117142752378945715",
+      "found_via_network": "x",
+      "x_handle": "smooky_QTC",
+      "author": "smooky_QTC",
+      "author_source": "https://x.com/smooky_QTC",
+      "source_url": "https://x.com/smooky_QTC/status/2117142752378945715",
+      "likes_source_url": "https://x.com/smooky_QTC/status/2117142752378945715",
+      "likes_source": "x",
+      "remote_likes": 4,
+      "comment_count": null,
+      "added_at": "2026-11-03"
     }
   ],
   "totals": {
-    "games": 837,
+    "games": 842,
     "by_made_with": {
-      "opus-5.5": 336,
+      "opus-5.5": 338,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
-      "unknown": 404,
+      "unknown": 407,
       "gemini-4-argon": 6
     }
   }
