@@ -33,8 +33,6 @@
       "notes": "admin: Igor set 4.8 on 2026-11-02",
       "tags": [
         "mobile",
-        "pc",
-        "opus-5.5",
         "chinese",
         "demo"
       ]
@@ -98,7 +96,6 @@
       "check_result": "working",
       "tags": [
         "mobile",
-        "opus-5.5",
         "chinese"
       ]
     },
@@ -953,7 +950,6 @@
       "check_result": "working",
       "tags": [
         "mobile",
-        "opus-5.5",
         "claude-artifact"
       ]
     },
@@ -1069,7 +1065,6 @@
       "check_result": "working",
       "tags": [
         "mobile",
-        "opus-5.5",
         "gyro"
       ]
     },
@@ -1539,7 +1534,6 @@
       "check_result": "working",
       "tags": [
         "mobile",
-        "opus-5.5",
         "demo"
       ]
     },
@@ -1661,7 +1655,6 @@
       "likes_source": "x",
       "tags": [
         "mobile",
-        "opus-5.5",
         "tesana"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
@@ -1692,7 +1685,6 @@
       "likes_source": "x",
       "tags": [
         "mobile",
-        "opus-5.5",
         "spawn"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
@@ -1971,8 +1963,7 @@
       "comment_count": 0,
       "likes_checked": "2026-10-12",
       "tags": [
-        "mobile",
-        "opus-5.5"
+        "mobile"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -1997,7 +1988,6 @@
       "likes_source": "x",
       "tags": [
         "mobile",
-        "opus-5.5",
         "bitmagic"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
@@ -2460,8 +2450,7 @@
       "remote_likes": 6799,
       "likes_source": "x",
       "tags": [
-        "mobile",
-        "astra"
+        "mobile"
       ],
       "checked_at": "2026-11-03",
       "check_result": "working",
@@ -5505,9 +5494,7 @@
       "last_seen": "2026-09-30T05:50:00.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "tags": [
-        "mobile",
-        "pc",
-        "opus-5.5"
+        "mobile"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working"
@@ -5733,8 +5720,6 @@
       "last_seen": "2026-11-01T05:55:00.000Z",
       "tags": [
         "mobile",
-        "pc",
-        "sonnet-5.5",
         "vibegamedev"
       ],
       "checked_at": "2026-11-01",
@@ -13002,8 +12987,6 @@
       "screenshot_score_notes": "admin: Igor set 6.9 on 2026-10-30. Red flyer racing a rainy dusk canyon of thousands of lit towers with live tower/car/room stats; spectacular and readable. (admin: Igor set 6.9 on 2026-10-30; bot score was 9)",
       "video_note": "trimmed to 30s (2026-10-26)",
       "tags": [
-        "pc",
-        "opus-5.5",
         "demo"
       ]
     },
@@ -49735,9 +49718,7 @@
       "last_seen": "2026-10-27T09:00:00.000Z",
       "published_at": "2026-10-26T19:35:57Z",
       "tags": [
-        "mobile",
-        "pc",
-        "opus-5.5"
+        "mobile"
       ],
       "notes": "admin: Igor set 7.4 on 2026-11-02"
     },
@@ -52556,9 +52537,7 @@
       "last_seen": "2026-10-28T09:00:00.000Z",
       "published_at": "2026-10-26T23:17:52.000Z",
       "author_note": "Poster @prodsystems_ shared it; the creator is described only as a solo developer in Korea.",
-      "tags": [
-        "pc"
-      ],
+      "tags": [],
       "checked_at": "2026-11-03",
       "check_result": "working"
     },
@@ -54324,7 +54303,6 @@
       ],
       "tags": [
         "mobile",
-        "pc",
         "godot",
         "itchio"
       ],
@@ -54676,7 +54654,6 @@
       "iframe": true,
       "tags": [
         "mobile",
-        "pc",
         "itchio"
       ],
       "category": "simulation",
