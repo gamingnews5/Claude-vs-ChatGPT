@@ -665,13 +665,14 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "Replit",
+      "engine": "Other",
       "video_path": "videos/containment.mp4",
       "video_source": "feed-local",
       "remote_likes": 8,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "Replit"
     },
     {
       "id": "transformer",
@@ -730,7 +731,7 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "made_with": "opus-5.5",
-      "engine": "GameFoundry",
+      "engine": "Other",
       "video_path": "videos/ozomatli.mp4",
       "video_source": "feed-local",
       "remote_likes": 5,
@@ -739,7 +740,8 @@
         "gamefoundry"
       ],
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "GameFoundry"
     },
     {
       "id": "opus-55-nba-2k",
@@ -1683,7 +1685,7 @@
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-29",
       "made_with": "opus-5.5",
-      "engine": "Spawn",
+      "engine": "Other",
       "video_path": "videos/spawn-legends-30s.mp4",
       "video_source": "awesome-local",
       "remote_likes": 53,
@@ -1695,7 +1697,8 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "Spawn"
     },
     {
       "id": "puzzle-bracket",
@@ -2399,7 +2402,7 @@
       "found_via": "X post from @mindblown_ai",
       "found_via_network": "x",
       "made_with": "astra",
-      "engine": "mindblown.ai",
+      "engine": "Other",
       "screenshot_path": "screenshots/93-golden-hour-gp.jpg",
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunny track with cars and HUD are clear; cookie banner and platform chrome slightly clutter the still.",
@@ -2413,7 +2416,8 @@
       "iframe_block_reason": "csp-frame-ancestors",
       "page_url": "https://golden-hour-gp.mindblown.ai",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "mindblown.ai"
     },
     {
       "id": "chill-race",
@@ -3564,7 +3568,7 @@
       ],
       "remote_likes": 289,
       "likes_source": "github",
-      "engine": "mindblown.ai",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors",
       "screenshots": [
@@ -3600,7 +3604,8 @@
       ],
       "page_url": "https://stadium-elite.mindblown.ai/",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "mindblown.ai"
     },
     {
       "id": "no-moat",
@@ -4846,7 +4851,7 @@
       "found_via": "X bookmark @friuns2 → @mindblown_ai Astra NFS browser racer",
       "found_via_network": "x",
       "made_with": "astra",
-      "engine": "mindblown.ai",
+      "engine": "Other",
       "category": "racing",
       "platforms": [
         "desktop",
@@ -4867,7 +4872,8 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://apex-coast-run.mindblown.ai/",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "mindblown.ai"
     },
     {
       "id": "savannah-hunt",
@@ -4927,7 +4933,10 @@
       "screenshot_path": "videos/eight-fronts-30s.jpg",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "2-player"
+      ]
     },
     {
       "id": "super-smash-royale",
@@ -5285,7 +5294,7 @@
         }
       ],
       "made_with": "astra",
-      "engine": "mindblown.ai",
+      "engine": "Other",
       "category": "fps",
       "platforms": [
         "desktop"
@@ -5302,7 +5311,8 @@
       "iframe_block_reason": "csp-frame-ancestors-mindblown-only",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "mindblown.ai"
     },
     {
       "id": "bioneural",
@@ -6592,7 +6602,8 @@
       "iframe_block_reason": "wasm-sharedarraybuffer-needs-cross-origin-isolated (halo.js postMessage SharedArrayBuffer fails without COI; iframe cannot be crossOriginIsolated)",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "2-player"
       ],
       "author_source": "https://x.com/mitchellhynes/status/2104969744721883474",
       "comment_count": 342,
@@ -6776,7 +6787,7 @@
       "found_via": "X post by @GameFoundryNet",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "engine": "GameFoundry",
+      "engine": "Other",
       "category": "racing",
       "platforms": [
         "desktop"
@@ -6793,7 +6804,8 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "GameFoundry"
     },
     {
       "id": "halo-ce-phone",
@@ -7091,7 +7103,10 @@
         }
       ],
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "2-player"
+      ]
     },
     {
       "id": "kals-valley",
@@ -7991,7 +8006,7 @@
       "found_via": "Reddit r/aigamedev Rope Ninja trailer by u/MightyBig-Dev; Opus 5.5 Claude Code",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "engine": "PixiJS",
+      "engine": "Canvas/2D",
       "remote_likes": 6,
       "likes_source": "reddit",
       "first_seen": "2026-10-03T01:40:00.000Z",
@@ -8009,7 +8024,8 @@
       "screenshot_score_notes": "Bold graffiti title treatment has style, but the ninja is a speck and the overlay hides most of the rope-racing action.",
       "screenshot_path": "videos/rope-ninja.jpg",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "PixiJS"
     },
     {
       "id": "kaveth",
@@ -11232,7 +11248,7 @@
       "found_via": "X @majidmanzarpour Opus 5.5 ENDGAME on Spawn (play link in reply)",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "engine": "Spawn",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
       "category": "horror",
@@ -11264,7 +11280,8 @@
       "tags": [
         "spawn"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Spawn"
     },
     {
       "id": "state-property",
@@ -12246,7 +12263,7 @@
       "found_via": "X @DevinSoto Opus 5.5 3D snake game on Spawn",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "engine": "Spawn",
+      "engine": "Other",
       "made_with_note": "Tweet credits Opus 5.5 (trailer and game, built on Spawn).",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
@@ -12304,7 +12321,8 @@
       ],
       "tags": [
         "spawn"
-      ]
+      ],
+      "engine_detail": "Spawn"
     },
     {
       "id": "starship-hearth",
@@ -12688,7 +12706,7 @@
       "found_via": "X @TAbrodi bookmark: vibecoded Counter-Strike remake on Spawn (play link in reply)",
       "found_via_network": "x",
       "made_with": "unknown",
-      "engine": "Spawn",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
       "category": "shooter",
@@ -12719,7 +12737,8 @@
       "screenshot_score_notes": "First-person AK firing down a sandy Dust 2 lane past a white van with full CS-style HUD; instantly recognisable and crisp.",
       "tags": [
         "spawn"
-      ]
+      ],
+      "engine_detail": "Spawn"
     },
     {
       "id": "endless-drive",
@@ -13407,7 +13426,7 @@
       "found_via": "r/aigamedev Street Fighter 2 but it's AI CEOs (made with Opus 5.5)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "engine": "Ryft",
+      "engine": "Other",
       "iframe": true,
       "iframe_block_reason": null,
       "category": "fighting",
@@ -13445,7 +13464,8 @@
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "Ryft"
     },
     {
       "id": "stardust-isles",
@@ -13882,7 +13902,7 @@
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
       "made_with_note": "Opus 5.5 vehicles/physics; Astra 6 for visuals.",
-      "engine": "Sandscape",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors",
       "category": "racing",
@@ -13917,7 +13937,8 @@
         "sandscape"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://sandscape.app/play?g=3UpDloEh&game_source=direct_or_unknown&play=1"
+      "page_url": "https://sandscape.app/play?g=3UpDloEh&game_source=direct_or_unknown&play=1",
+      "engine_detail": "Sandscape"
     },
     {
       "id": "blood-slayers",
@@ -13928,7 +13949,7 @@
       "found_via": "r/aigamedev Opus 5.5 Blood Slayers (Rust/Bevy wasm)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "engine": "Bevy",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-sameorigin+coep-require-corp",
       "category": "action",
@@ -13966,7 +13987,8 @@
         "screenshots"
       ],
       "checked_at": "2026-10-30",
-      "check_result": "wrapper_only"
+      "check_result": "wrapper_only",
+      "engine_detail": "Bevy"
     },
     {
       "id": "new-rad-city",
@@ -14198,8 +14220,7 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "iframe": false,
       "iframe_block_reason": "corp-same-origin",
@@ -15772,7 +15793,7 @@
       "found_via": "r/aigamedev Opus 5.5 pixel-art MMO RPG (u/Pointline)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "engine": "React",
+      "engine": "Canvas/2D",
       "iframe": true,
       "category": "mmo",
       "platforms": [
@@ -15840,7 +15861,8 @@
           "created_at": "2026-10-11T20:59:27Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "React"
     },
     {
       "id": "kosighost",
@@ -16066,7 +16088,7 @@
       "found_via": "X bookmark @friuns2 → @guidorosso Rive City",
       "found_via_network": "x",
       "made_with": "unknown",
-      "engine": "Rive",
+      "engine": "Canvas/2D",
       "iframe": false,
       "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none+coep-require-corp",
       "category": "sandbox",
@@ -16240,7 +16262,8 @@
           "created_at": "2026-10-12T05:20:55Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Rive"
     },
     {
       "id": "vibesail",
@@ -17137,8 +17160,7 @@
       "found_via_network": "github",
       "made_with": "unknown",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "iframe": false,
       "iframe_block_reason": "xfo-sameorigin+csp-frame-ancestors-self",
@@ -17548,8 +17570,8 @@
       "made_with": "unknown",
       "tags": [
         "gameer",
-        "Mystery",
-        "Thriller"
+        "mystery",
+        "thriller"
       ],
       "platforms": [
         "desktop",
@@ -18009,7 +18031,7 @@
       "found_via": "r/aigamedev \"PSX souls-like with Opus\" (u/wormsparty5; OP confirms Opus-5.5 in comments)",
       "found_via_network": "reddit",
       "made_with": "opus-5.5",
-      "engine": "Bevy",
+      "engine": "Other",
       "iframe": true,
       "category": "action",
       "platforms": [
@@ -18072,7 +18094,8 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1x36opj/psx_soulslike_with_opus/pf8ak1m/",
           "created_at": "2026-10-11T12:27:31Z"
         }
-      ]
+      ],
+      "engine_detail": "Bevy"
     },
     {
       "id": "grayfall",
@@ -19078,7 +19101,7 @@
       "found_via": "X bookmark @friuns2 → @threejs repost (128 likes) of @buzzybats Opus 5.5 clip",
       "found_via_network": "x",
       "made_with": "opus-5.5",
-      "engine": "Genex",
+      "engine": "Other",
       "iframe": true,
       "iframe_block_reason": null,
       "category": "racing",
@@ -19146,7 +19169,8 @@
         "genex"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://genex.games/midnight-apex"
+      "page_url": "https://genex.games/midnight-apex",
+      "engine_detail": "Genex"
     },
     {
       "id": "slap-summit",
@@ -20421,7 +20445,10 @@
           "created_at": "2026-10-11T17:51:48Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "tags": [
+        "2-player"
+      ]
     },
     {
       "id": "agira",
@@ -21067,7 +21094,8 @@
       "made_with": "opus-5.5",
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "2-player"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -21645,7 +21673,7 @@
       "found_via": "r/ClaudeGameDev \"Neon Kabuki\" (u/Cr3L4real)",
       "found_via_network": "reddit",
       "made_with": "unknown",
-      "engine": "PixiJS",
+      "engine": "Canvas/2D",
       "iframe": true,
       "category": "action",
       "platforms": [
@@ -21790,7 +21818,8 @@
           "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x4huy1/im_a_40yearold_machinist_and_dad_building_my/ph5ets6/",
           "created_at": "2026-10-16T17:37:17Z"
         }
-      ]
+      ],
+      "engine_detail": "PixiJS"
     },
     {
       "id": "claude-dreaming",
@@ -22138,6 +22167,9 @@
           "url": "https://www.reddit.com/r/ClaudeGameDev/comments/1x2krp2/monolith_an_enginebuilding_computer_game_made/pf59beq/",
           "created_at": "2026-10-10T23:51:27Z"
         }
+      ],
+      "tags": [
+        "2-player"
       ]
     },
     {
@@ -24046,7 +24078,7 @@
       "found_via": "r/aigamedev teleoperator v2 (u/marina_sd20)",
       "made_with": "unknown",
       "made_with_note": "Mindblown AI agent; model version not named",
-      "engine": "mindblown.ai",
+      "engine": "Other",
       "iframe": false,
       "category": "racing",
       "platforms": [
@@ -24204,7 +24236,8 @@
       "iframe_block_reason": "csp-frame-ancestors",
       "likes_checked": "2026-10-15",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://teleoperator.mindblown.ai/"
+      "page_url": "https://teleoperator.mindblown.ai/",
+      "engine_detail": "mindblown.ai"
     },
     {
       "id": "call-of-roque",
@@ -25021,7 +25054,7 @@
       "found_via": "r/TopologyAI GTA VI PS1 one-shot",
       "found_via_network": "reddit",
       "made_with": "astra",
-      "engine": "Origo Zero",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "category": "driving",
@@ -25139,7 +25172,8 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "Origo Zero"
     },
     {
       "id": "surge-superhero",
@@ -27317,7 +27351,7 @@
       "play_url": "https://scacelith.com/",
       "found_via": "r/aigamedev Scacelith chess simulator (u/darkcenobyte_1)",
       "made_with": "opus-5.5",
-      "engine": "OpenGL",
+      "engine": "Other",
       "github_user": "DarkCenobyte",
       "browser_playable": false,
       "download_url": "https://github.com/DarkCenobyte/scacelith-chess/releases",
@@ -27461,7 +27495,8 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T07:30:50Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "OpenGL"
     },
     {
       "id": "neta-s",
@@ -28186,7 +28221,7 @@
       "play_url": "https://github.com/snufflyyy/trials-hd-recompiled",
       "found_via": "r/TrialsGames Trials HD Recompiled (u/snufflyyy)",
       "made_with": "opus-5.5",
-      "engine": "ReXGlue SDK",
+      "engine": "Other",
       "github_user": "snufflyyy",
       "tags": [
         "decomp",
@@ -28287,7 +28322,8 @@
       "published_at": "2026-10-15T01:55:55Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "ReXGlue SDK"
     },
     {
       "id": "jgr-portable-psp",
@@ -28894,7 +28930,7 @@
       "play_url": "https://zevio.sh/showcase/Q_QLB9nparCM/site/",
       "found_via": "X @zeviodotsh Gemini 4 Argon Subway Surfers-style game",
       "made_with": "gemini-4-argon",
-      "engine": "Zevio",
+      "engine": "Other",
       "iframe": true,
       "category": "arcade",
       "platforms": [
@@ -28934,7 +28970,8 @@
         "zevio"
       ],
       "page_url": "https://zevio.sh/showcase/Q_QLB9nparCM",
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "engine_detail": "Zevio"
     },
     {
       "id": "bolt-pit",
@@ -29256,7 +29293,7 @@
       "play_url": "https://www.spawn.co/@izkimar/league-of-spawn/play",
       "found_via": "r/aigamedev 3rd-person action MOBA built in Spawn (u/Izkimar)",
       "made_with": "opus-5.5",
-      "engine": "Spawn",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-self+coep-require-corp (SharedArrayBuffer)",
       "category": "action",
@@ -29381,7 +29418,8 @@
       "tags": [
         "spawn"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Spawn"
     },
     {
       "id": "cruising-bones",
@@ -30456,7 +30494,7 @@
       "play_url": "https://pixkrieg.com/",
       "found_via": "r/ClaudeAI multiplayer extraction RTS (u/idlerunner00)",
       "made_with": "opus-5.5",
-      "engine": "wgpu",
+      "engine": "WebGPU",
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "category": "strategy",
@@ -30585,7 +30623,8 @@
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
       "published_at": "2026-10-16T15:38:02Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "wgpu"
     },
     {
       "id": "speedorama",
@@ -30728,7 +30767,7 @@
       "play_url": "https://bxfoundry.com/violentcheckersnes/",
       "found_via": "X @benjedwards Opus 5.5 NES port of Violent Checkers",
       "made_with": "opus-5.5",
-      "engine": "NES",
+      "engine": "Other",
       "iframe": true,
       "category": "board",
       "platforms": [
@@ -30822,9 +30861,11 @@
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T14:27:24.000Z",
       "tags": [
-        "rec"
+        "rec",
+        "2-player"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "NES"
     },
     {
       "id": "hoverslam",
@@ -31540,7 +31581,10 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T09:38:58Z"
+      "published_at": "2026-10-17T09:38:58Z",
+      "tags": [
+        "2-player"
+      ]
     },
     {
       "id": "frontline-zero",
@@ -31549,7 +31593,7 @@
       "play_url": "https://www.frontlinezero.com/",
       "found_via": "r/ClaudeAI first game, browser multiplayer RTS (u/Savings-Theme4022)",
       "made_with": "opus-5.5",
-      "engine": "webrts",
+      "engine": "Other",
       "iframe": true,
       "category": "strategy",
       "platforms": [
@@ -31698,7 +31742,8 @@
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
       "published_at": "2026-10-17T02:19:59Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "webrts"
     },
     {
       "id": "simtower-browser-port",
@@ -32279,7 +32324,7 @@
       "play_url": "https://autobattle.txcb.io/",
       "found_via": "r/ClaudeAI auto-battler demade to N64 and GBA (u/Phototo)",
       "made_with": "unknown",
-      "engine": "Bevy",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none+coep-require-corp",
       "category": "strategy",
@@ -32379,7 +32424,8 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T12:07:04Z"
+      "published_at": "2026-10-17T12:07:04Z",
+      "engine_detail": "Bevy"
     },
     {
       "id": "crimson-steel",
@@ -32388,7 +32434,7 @@
       "play_url": "https://www.astrocade.com/games/crimson-steel/01M51EV7SNN24PQWNDE2CSFMVX",
       "found_via": "r/ClaudeGameDev Opus 5.5 fighter on Astrocade (u/Effective-Whereas827)",
       "made_with": "opus-5.5",
-      "engine": "Astrocade",
+      "engine": "Other",
       "iframe": true,
       "category": "fighting",
       "platforms": [
@@ -32442,7 +32488,8 @@
       "published_at": "2026-10-17T13:50:11Z",
       "tags": [
         "astrocade"
-      ]
+      ],
+      "engine_detail": "Astrocade"
     },
     {
       "id": "blueprint-job",
@@ -33255,7 +33302,7 @@
       "play_url": "https://remix.gg/g/last-run",
       "found_via": "X @ombrageplays Remix.gg co-op game jam entry",
       "made_with": "unknown",
-      "engine": "Remix",
+      "engine": "Other",
       "iframe": true,
       "category": "survival",
       "platforms": [
@@ -33414,7 +33461,8 @@
       "published_at": "2026-10-17T13:52:16.000Z",
       "tags": [
         "remix"
-      ]
+      ],
+      "engine_detail": "Remix"
     },
     {
       "id": "exit-interview",
@@ -34639,7 +34687,7 @@
       "play_url": "https://github.com/ColCarlo/ReTzar",
       "found_via": "r/ClaudeAI Tzar RTS rebuilt from disassembly with Claude Code (u/ColCarlo99)",
       "made_with": "opus-5.5",
-      "engine": "Bevy",
+      "engine": "Other",
       "tags": [
         "decomp",
         "rom"
@@ -34819,7 +34867,8 @@
       ],
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-18T12:06:21Z"
+      "published_at": "2026-10-18T12:06:21Z",
+      "engine_detail": "Bevy"
     },
     {
       "id": "windowsmash",
@@ -36052,7 +36101,7 @@
       "found_via": "PortedGames (portedgames.com/pokesurvivor) -> X @JPTER78 official trailer",
       "found_via_network": "x",
       "made_with": "unknown",
-      "engine": "Canvas 2D",
+      "engine": "Canvas/2D",
       "tags": [
         "fan-game"
       ],
@@ -36240,7 +36289,8 @@
       "first_seen": "2026-10-19T16:00:00.000Z",
       "last_seen": "2026-10-19T16:00:00.000Z",
       "published_at": "2026-10-10T09:18:26.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Canvas 2D"
     },
     {
       "id": "virtual-on-web",
@@ -36332,7 +36382,7 @@
       "found_via": "r/decomps Unbanished post by u/EternalDisciple (tanepiper)",
       "found_via_network": "reddit",
       "made_with": "uncertain",
-      "engine": "Rust/wgpu",
+      "engine": "WebGPU",
       "tags": [
         "decomp",
         "rom",
@@ -36378,7 +36428,8 @@
       "published_at": "2026-10-19T12:58:18Z",
       "first_seen": "2026-10-19T16:40:00.000Z",
       "last_seen": "2026-10-19T16:40:00.000Z",
-      "likes_checked": "2026-10-19"
+      "likes_checked": "2026-10-19",
+      "engine_detail": "Rust/wgpu"
     },
     {
       "id": "booym",
@@ -38150,7 +38201,7 @@
       "play_url": "https://ask.jig.com/j/mVwDz2UfKSat",
       "found_via": "X @numaausaumon Opus 5.5 + Jig playable Game Boy",
       "made_with": "opus-5.5",
-      "engine": "Jig",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-sameorigin",
       "category": "puzzle",
@@ -38317,7 +38368,8 @@
       "tags": [
         "jig"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Jig"
     },
     {
       "id": "pplx-2049-san-francisco",
@@ -38326,7 +38378,7 @@
       "play_url": "https://2049.pplx.app/",
       "found_via": "X @AravSrinivas Perplexity Computer Roadster free-roam (from @friuns2 bookmarks)",
       "made_with": "unknown",
-      "engine": "Perplexity Computer",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-deny+csp-frame-ancestors-none",
       "category": "driving",
@@ -38497,7 +38549,8 @@
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
       "published_at": "2026-10-18T16:01:22.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Perplexity Computer"
     },
     {
       "id": "pvz2-gardendless",
@@ -38514,7 +38567,7 @@
       "found_via": "FMHY (PortsDR) -> GitHub Gzh0821/pvzge_web (site repo Gzh0821/pvzg_site); requested by Decomp Games",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Cocos Creator",
+      "engine": "Other",
       "tags": [
         "decomp",
         "rec"
@@ -38553,7 +38606,8 @@
       "published_at": "2024-07-05T14:36:24Z",
       "first_seen": "2026-10-20T04:10:00.000Z",
       "last_seen": "2026-10-20T04:10:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Cocos Creator"
     },
     {
       "id": "nfsu2-web",
@@ -38562,7 +38616,7 @@
       "play_url": "https://nfsu2.xyz/",
       "found_via": "r/NFSU2 NFSU2 recomp ported to the browser (u/lantaarnappel); also listed in Decomp Games catalog (aigamedevs/awesome-decomp-games c81a84c, entry need-for-speed-underground-2-underground-2-revived)",
       "made_with": "unknown",
-      "engine": "WebAssembly",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -38744,7 +38798,8 @@
       "first_seen": "2026-10-21T02:30:00.000Z",
       "last_seen": "2026-10-21T14:12:56.000Z",
       "published_at": "2026-10-19T13:48:21Z",
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 15.95 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.88x (was 1x), output 22.8 unique fps at 30 fps, 52.1 s, no audio. Earlier: Re-recorded 2026-10-21 with a WebGPU-enabled headless browser: the game now starts and plays its intro cinematics; the previous clip only showed the start page. trimmed to 30s (2026-10-26)"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 15.95 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.88x (was 1x), output 22.8 unique fps at 30 fps, 52.1 s, no audio. Earlier: Re-recorded 2026-10-21 with a WebGPU-enabled headless browser: the game now starts and plays its intro cinematics; the previous clip only showed the start page. trimmed to 30s (2026-10-26)",
+      "engine_detail": "WebAssembly"
     },
     {
       "id": "thoosie",
@@ -39207,7 +39262,7 @@
       "play_url": "https://furyremastered.com/",
       "found_via": "r/decomps Rust/WebAssembly rebuild of ATV Offroad Fury 2 (u/nrgapple, also r/AtvOffroadFury)",
       "made_with": "unknown",
-      "engine": "Rust/WebAssembly",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp"
       ],
@@ -39340,7 +39395,8 @@
       "published_at": "2026-10-20T18:36:47Z",
       "screenshot_score": 6,
       "screenshot_score_notes": "Vertical promo clip of ATV riders on dirt tracks, jumps and online freeride with bold text overlays; decent but narrow frame. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Rust/WebAssembly"
     },
     {
       "id": "nappy",
@@ -40695,7 +40751,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry the-operative-no-one-lives-forever-playnolf-com; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "LithTech (WebAssembly/WebGL)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40730,7 +40786,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.36 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 8.93x (was 1x), output 23.5 unique fps at 30 fps, 22.7 s, no audio.",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "LithTech (WebAssembly/WebGL)"
     },
     {
       "id": "tf2-web",
@@ -40741,7 +40798,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry team-fortress-2-web-build; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Source (WebAssembly/WebGL)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40774,7 +40831,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 3.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 9.49x (was 1x), output 25.5 unique fps at 30 fps, 10.5 s, no audio.",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "Source (WebAssembly/WebGL)"
     },
     {
       "id": "portal-web",
@@ -40790,7 +40848,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry weliveinhell-source-engine; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Source (Emscripten/WebGL)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40829,7 +40887,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 4.59 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.53x (was 1x), output 23.4 unique fps at 30 fps, 27.1 s, no audio.",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "Source (Emscripten/WebGL)"
     },
     {
       "id": "tekken-dr-recomp",
@@ -40842,7 +40901,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry tekken-5-dark-resurrection-tkdr-recomp; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PSP static recompilation (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40876,7 +40935,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "PSP static recompilation (WebAssembly)"
     },
     {
       "id": "super-monkey-ball-online",
@@ -40891,7 +40951,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry camthesaxman-smb-decomp; listed via samidy, unbaked)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "SMB1 decompilation (WebAssembly/WebGL)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40929,7 +40989,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.65 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.18x (was 1x), output 21.7 unique fps at 30 fps, 9.1 s, no audio.",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "SMB1 decompilation (WebAssembly/WebGL)"
     },
     {
       "id": "openjkdf2",
@@ -40945,7 +41006,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry shinyquagsire23-openjkdf2; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "OpenJKDF2 (Emscripten/WebGL)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -40984,7 +41045,8 @@
       "first_seen": "2026-10-21T13:56:29.000Z",
       "last_seen": "2026-10-21T13:56:29.000Z",
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 9.44 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 3.18x (was 1x), output 20.3 unique fps at 30 fps, 19.5 s, no audio.",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "OpenJKDF2 (Emscripten/WebGL)"
     },
     {
       "id": "dbz-bt3-online",
@@ -41000,7 +41062,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry stufno102-tenkaichi3decomp; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -41039,7 +41101,8 @@
       "published_at": "2026-10-12T04:17:42Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "goldenweb64",
@@ -41053,7 +41116,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry goldeneye-007-goldenweb64; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Raylib (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom"
@@ -41088,7 +41151,8 @@
       "video_note": "Creator's own MGB64 gameplay video (Runway, v0.1; linked from the akratch/mgb64 README), recorded from the native build the web port is compiled from. trimmed to 30s (2026-10-26)",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "Raylib (WebAssembly)"
     },
     {
       "id": "smash-fun",
@@ -41102,7 +41166,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry super-smash-bros-smash-fun; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "OpenSmash (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom"
@@ -41138,7 +41202,8 @@
       "video_note": "Creator's own smash.fun video (linked from the turtlesoupy/opensmash README). trimmed to 30s (2026-10-26)",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "OpenSmash (WebAssembly)"
     },
     {
       "id": "dusklight-web",
@@ -41154,7 +41219,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry twilitrealm-dusklight; listed via awesome-game-remakes, portsdr, quiver, recomp.fyi, unbaked)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Dusklight / Aurora (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom"
@@ -41195,7 +41260,8 @@
       "published_at": "2025-11-30T01:27:51Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "Dusklight / Aurora (WebGPU)"
     },
     {
       "id": "ctr-high-octane",
@@ -41211,7 +41277,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry rinnegatamante-crash-team-racing-high-octane; listed via portsdr, recomp.fyi, samidy, unbaked)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "CTR decompilation (Emscripten)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom"
@@ -41251,7 +41317,8 @@
       "published_at": "2026-06-21T18:19:46Z",
       "first_seen": "2026-10-21T14:09:27.000Z",
       "last_seen": "2026-10-21T14:09:27.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "CTR decompilation (Emscripten)"
     },
     {
       "id": "opensro",
@@ -41264,7 +41331,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry opensro-dev-opensro; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "WebGPU client + Go server",
+      "engine": "WebGPU",
       "tags": [
         "decomp"
       ],
@@ -41305,7 +41372,8 @@
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
       "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
-      "page_url": "https://opensro.online/"
+      "page_url": "https://opensro.online/",
+      "engine_detail": "WebGPU client + Go server"
     },
     {
       "id": "celeste-wasm",
@@ -41320,7 +41388,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry mercuryworkshop-celeste-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": ".NET 9 WebAssembly (FNA)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom",
@@ -41368,7 +41436,8 @@
       "published_at": "2024-05-18T00:02:10Z",
       "first_seen": "2026-10-21T14:11:30.000Z",
       "last_seen": "2026-10-21T14:11:30.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": ".NET 9 WebAssembly (FNA)"
     },
     {
       "id": "terraria-wasm",
@@ -41383,7 +41452,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry mercuryworkshop-terraria-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": ".NET WebAssembly (FNA)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom",
@@ -41418,7 +41487,8 @@
       "last_seen": "2026-10-21T14:11:30.000Z",
       "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": ".NET WebAssembly (FNA)"
     },
     {
       "id": "gt2-web",
@@ -41434,7 +41504,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry dubrovskiy-yevhen-stakelogic-gt-2-pc; listed via unbaked)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Native C++ port (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom",
@@ -41476,7 +41546,8 @@
       "last_seen": "2026-10-21T14:11:30.000Z",
       "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "Native C++ port (WebAssembly)"
     },
     {
       "id": "vcmi-homm3",
@@ -41492,7 +41563,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry caiiiycuk-vcmi-wasm; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "VCMI (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rom",
@@ -41536,7 +41607,8 @@
       "last_seen": "2026-10-21T14:11:30.000Z",
       "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "engine_detail": "VCMI (WebAssembly)"
     },
     {
       "id": "fifa-street-2-online",
@@ -41550,7 +41622,7 @@
       "found_via": "Decomp Games catalog (aigamedevs/awesome-decomp-games data/games.json @ c81a84c, entry fifa-street-2-fifa-street-2-online; listed via Carter54git/Ultimate-Catalog-Of-Web-Game-Ports)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -41584,7 +41656,8 @@
       "video_note": "Self-recorded on a GPU-less headless browser where the port ran at about 1-2 fps: the EA Sports BIG logo (2x) and the game's intro FMV (3x) sped up, then the real-speed title screen. Real output of the port, but no match footage. trimmed to 30s (2026-10-26)",
       "first_seen": "2026-10-21T14:20:19.000Z",
       "last_seen": "2026-10-21T14:20:19.000Z",
-      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "battle-drones",
@@ -43194,7 +43267,7 @@
       "play_url": "https://majonesmax.github.io/haunted-house-remastered-web/",
       "found_via": "r/vibecoding Atari Haunted House turned into a spec, a remaster, an NES and an SNES game with Claude Opus 5.5 (u/Muted_Lab_8453; video https://youtu.be/VENjmHKR9GY)",
       "made_with": "opus-5.5",
-      "engine": "Pyodide",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp"
       ],
@@ -43268,7 +43341,8 @@
       ],
       "first_seen": "2026-10-22T07:00:00.000Z",
       "last_seen": "2026-10-22T07:00:00.000Z",
-      "published_at": "2026-10-21T13:24:06Z"
+      "published_at": "2026-10-21T13:24:06Z",
+      "engine_detail": "Pyodide"
     },
     {
       "id": "just-one-more",
@@ -44463,7 +44537,7 @@
       "play_url": "https://genex.games/morrowind-start-scene",
       "found_via": "X @genex_games \"the starting zone of Morrowind, vibecoded completely from scratch\" with Genex + Unreal + Opus 5.5",
       "made_with": "opus-5.5",
-      "engine": "Unreal Engine",
+      "engine": "Unreal",
       "tags": [
         "genex"
       ],
@@ -44632,7 +44706,8 @@
       "first_seen": "2026-10-24T07:00:00.000Z",
       "last_seen": "2026-10-24T07:00:00.000Z",
       "published_at": "2026-10-23T19:31:50.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "engine_detail": "Unreal Engine"
     },
     {
       "id": "toot-together",
@@ -44713,7 +44788,7 @@
       "play_url": "https://jptgraczykowski.github.io/stygian-j-ball/",
       "found_via": "X @visualitypl Stygian J-Ball, built in Rust with Claude Code (dev @jptgracz)",
       "made_with": "unknown",
-      "engine": "macroquad",
+      "engine": "Emscripten/WASM",
       "tags": [
         "rec"
       ],
@@ -44763,7 +44838,8 @@
       ],
       "first_seen": "2026-10-24T07:00:00.000Z",
       "last_seen": "2026-10-24T07:00:00.000Z",
-      "published_at": "2026-10-23T08:45:42.000Z"
+      "published_at": "2026-10-23T08:45:42.000Z",
+      "engine_detail": "macroquad"
     },
     {
       "id": "plain-sight",
@@ -44772,7 +44848,7 @@
       "play_url": "https://plainsight.esperi.de/",
       "found_via": "r/pcmasterrace \"Plain Sight's servers died in 2012, I brought it back in the browser\" (u/vicesig; also r/ClaudeGameDev 1xdn0gk)",
       "made_with": "unknown",
-      "engine": "FNA",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
         "rec"
@@ -44855,7 +44931,8 @@
       ],
       "first_seen": "2026-10-24T07:00:00.000Z",
       "last_seen": "2026-10-24T07:00:00.000Z",
-      "published_at": "2026-10-23T19:13:23Z"
+      "published_at": "2026-10-23T19:13:23Z",
+      "engine_detail": "FNA"
     },
     {
       "id": "gang-wizard",
@@ -45829,7 +45906,7 @@
       "play_url": "https://naville.chitisma.it/",
       "found_via": "r/ClaudeGameDev \"Naville: a co-op card game against pixelated kids, built with Claude Code over 4 months\" (u/Consistent_Onion_964)",
       "made_with": "unknown",
-      "engine": "Flutter",
+      "engine": "Other",
       "tags": [
         "screenshots"
       ],
@@ -45873,7 +45950,8 @@
       "comments": [],
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
-      "published_at": "2026-10-24T16:14:58Z"
+      "published_at": "2026-10-24T16:14:58Z",
+      "engine_detail": "Flutter"
     },
     {
       "id": "viper-11",
@@ -46339,10 +46417,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry cyberpunk-2077; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "REDengine 4 (native WebGPU build)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "rpg",
       "platforms": [
@@ -46381,7 +46458,8 @@
       "published_at": "2026-10-22T22:00:05Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
       "last_seen": "2026-10-25T10:14:58.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "REDengine 4 (native WebGPU build)"
     },
     {
       "id": "tekken-5",
@@ -46395,10 +46473,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry tekken-5; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "fighting",
       "platforms": [
@@ -46442,7 +46519,8 @@
       "published_at": "2026-10-22T22:09:41Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
       "last_seen": "2026-10-25T10:14:58.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "formula-one-06",
@@ -46456,10 +46534,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry formula-one-06; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "racing",
       "platforms": [
@@ -46503,7 +46580,8 @@
       "published_at": "2026-10-22T22:09:41Z",
       "first_seen": "2026-10-25T10:14:58.000Z",
       "last_seen": "2026-10-25T10:14:58.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "nba-2k12",
@@ -46517,10 +46595,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry nba-2k12; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "sports",
       "platforms": [
@@ -46564,7 +46641,8 @@
       "published_at": "2026-10-24T12:54:55Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "ssx-3",
@@ -46578,10 +46656,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry ssx-3; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "sports",
       "platforms": [
@@ -46625,7 +46702,8 @@
       "published_at": "2026-10-23T15:10:45Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "wwe-smackdown-vs-raw",
@@ -46639,10 +46717,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry wwe-smackdown-vs-raw; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "PS2 Web Recomp (WebGPU)",
+      "engine": "Emscripten/WASM",
       "tags": [
-        "decomp",
-        "recompiledgames"
+        "decomp"
       ],
       "category": "fighting",
       "platforms": [
@@ -46686,7 +46763,8 @@
       "published_at": "2026-10-23T21:34:27Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "PS2 Web Recomp (WebGPU)"
     },
     {
       "id": "need-for-speed-most-wanted",
@@ -46697,10 +46775,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry need-for-speed-most-wanted; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "unknown",
+      "engine": null,
       "tags": [
         "decomp",
-        "recompiledgames",
         "screenshots"
       ],
       "category": "racing",
@@ -46748,7 +46825,8 @@
       "screenshot_score_notes": "Rated from 5 real in-port screenshots posted in the site's own update notes (nfsmwonline.com/nfs-update/notes): free-roam driving through Rockport with the bounty HUD, a cockpit-view race, an online race being spectated, the Koenigsegg CCX in the car lot and the BMW M3 GTR in the customise menu. Sharp and recognisable; no video and the game sits behind an account wall, so kept low.",
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "unknown"
     },
     {
       "id": "terraria",
@@ -46768,10 +46846,9 @@
       "found_via": "Decomp Games catalog (gamingnews5/awesome-decomp-games data/games.json @ 624a8a1, entry terraria; listed via recompiledgames.com)",
       "found_via_network": "github",
       "made_with": "unknown",
-      "engine": "Terraria.exe on a custom WebAssembly host (game Worker + OPFS)",
+      "engine": "Emscripten/WASM",
       "tags": [
         "decomp",
-        "recompiledgames",
         "rec"
       ],
       "category": "sandbox",
@@ -46809,7 +46886,8 @@
       "published_at": "2026-10-23T03:56:51Z",
       "first_seen": "2026-10-25T10:15:31.000Z",
       "last_seen": "2026-10-25T10:15:31.000Z",
-      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games"
+      "catalog_source_url": "https://github.com/gamingnews5/awesome-decomp-games",
+      "engine_detail": "Terraria.exe on a custom WebAssembly host (game Worker + OPFS)"
     },
     {
       "id": "le-royaume-des-pepins",
@@ -46824,7 +46902,7 @@
       "found_via_network": "sandscape",
       "made_with": "unknown",
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
-      "engine": "Sandscape",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors",
       "category": "action",
@@ -46882,7 +46960,8 @@
         "sandscape"
       ],
       "avatar_path": "/avatars/ElBernito.jpg",
-      "page_url": "https://sandscape.app/play?g=pDdi6wlB&game_source=direct_or_unknown&play=1"
+      "page_url": "https://sandscape.app/play?g=pDdi6wlB&game_source=direct_or_unknown&play=1",
+      "engine_detail": "Sandscape"
     },
     {
       "id": "overtake",
@@ -46897,7 +46976,7 @@
       "found_via_network": "sandscape",
       "made_with": "unknown",
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
-      "engine": "Sandscape",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors",
       "category": "racing",
@@ -46964,7 +47043,8 @@
       "page_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "play_url_note": "Best in landscape or on desktop; small in portrait on phones"
+      "play_url_note": "Best in landscape or on desktop; small in portrait on phones",
+      "engine_detail": "Sandscape"
     },
     {
       "id": "extinction-window",
@@ -46979,7 +47059,7 @@
       "found_via_network": "sandscape",
       "made_with": "unknown",
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
-      "engine": "Sandscape",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "category": "strategy",
@@ -47036,7 +47116,8 @@
       "tags": [
         "sandscape"
       ],
-      "avatar_path": "/avatars/sebnado.jpg"
+      "avatar_path": "/avatars/sebnado.jpg",
+      "engine_detail": "Sandscape"
     },
     {
       "id": "pyro-fart",
@@ -47051,7 +47132,7 @@
       "found_via_network": "sandscape",
       "made_with": "unknown",
       "made_with_note": "Built with Sandscape's AI game creator; the underlying model is not stated.",
-      "engine": "Sandscape",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "xfo-deny",
       "category": "action",
@@ -47100,7 +47181,8 @@
       "last_seen": "2026-10-25T13:56:00.000Z",
       "tags": [
         "sandscape"
-      ]
+      ],
+      "engine_detail": "Sandscape"
     },
     {
       "id": "badaboom-taxi",
@@ -52488,7 +52570,7 @@
       "found_via": "r/threejs \"I built a 4-player split-screen survival game in three.js, playable in the browser\" (u/WardensOfTheWildDev)",
       "made_with": "unknown",
       "made_with_note": "Post says Claude Code was the builder; no model named.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-none",
       "category": "survival",
@@ -52496,7 +52578,8 @@
         "desktop"
       ],
       "tags": [
-        "multiplayer"
+        "multiplayer",
+        "2-player"
       ],
       "video_path": "videos/wardens-of-the-wild.mp4",
       "video_source": "reddit",
@@ -52668,7 +52751,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T12:42:24Z"
+      "published_at": "2026-10-28T12:42:24Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "zeno-ai-strikers",
@@ -53003,7 +53087,7 @@
       "play_url": "https://ewaldhorn.github.io/wartech/",
       "found_via": "r/IndieDev \"Building a free browser-based RTS in Java. Yes. Sorry about that.\" (u/According-Ad-7069)",
       "made_with": "unknown",
-      "engine": "Java (TeaVM)",
+      "engine": "Emscripten/WASM",
       "github_user": "ewaldhorn",
       "github_url": "https://github.com/ewaldhorn/wartech",
       "github_stars": 7,
@@ -53116,7 +53200,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T06:43:57Z"
+      "published_at": "2026-10-28T06:43:57Z",
+      "engine_detail": "Java (TeaVM)"
     },
     {
       "id": "captain-tsubasa-ii-port",
@@ -53238,7 +53323,7 @@
       "play_url": "https://redcatworld.com/",
       "found_via": "r/Davilex Dutch post \"Redcat Spookkasteel Multiplayer!\" (u/dropsaus)",
       "made_with": "unknown",
-      "engine": "C++ / WebAssembly (WebGPU)",
+      "engine": "Emscripten/WASM",
       "iframe": true,
       "category": "adventure",
       "platforms": [
@@ -53362,7 +53447,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T13:17:27Z"
+      "published_at": "2026-10-28T13:17:27Z",
+      "engine_detail": "C++ / WebAssembly (WebGPU)"
     },
     {
       "id": "amsterdoom",
@@ -54366,7 +54452,7 @@
       "found_via": "r/aigamedev \"Created Pixel Eleven Game\" (u/komorra)",
       "made_with": "opus-5.5",
       "made_with_note": "OP: \"Only Opus 5.5 with high reasoning\".",
-      "engine": "MonoGame",
+      "engine": "Other",
       "iframe": false,
       "iframe_block_reason": "native-download",
       "browser_playable": false,
@@ -54433,7 +54519,8 @@
       ],
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T15:45:19Z"
+      "published_at": "2026-10-28T15:45:19Z",
+      "engine_detail": "MonoGame"
     },
     {
       "id": "peak-demand",
@@ -55908,7 +55995,8 @@
       "github_stars": 3,
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "2-player"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -56008,7 +56096,8 @@
       "github_stars": 406,
       "tags": [
         "decomp",
-        "rom"
+        "rom",
+        "2-player"
       ],
       "iframe": false,
       "iframe_block_reason": "native-download",
@@ -56509,7 +56598,7 @@
       "found_via": "r/ClaudeAI \"We used Claude to get a full PS2 emulator running in a browser tab: TabStationToo\" (u/yousriii)",
       "made_with": "opus-5.5",
       "made_with_note": "Post says most of the code was written with Opus 5.5.",
-      "engine": "PCSX2 (WebAssembly)",
+      "engine": "Emscripten/WASM",
       "github_url": "https://github.com/TabStationToo/TabStationToo",
       "github_stars": 40,
       "iframe": true,
@@ -56697,7 +56786,8 @@
       ],
       "first_seen": "2026-10-30T09:00:00.000Z",
       "last_seen": "2026-10-30T09:00:00.000Z",
-      "published_at": "2026-10-29T10:52:51Z"
+      "published_at": "2026-10-29T10:52:51Z",
+      "engine_detail": "PCSX2 (WebAssembly)"
     },
     {
       "id": "waiting-room",
@@ -56715,7 +56805,7 @@
       "found_via": "r/aigamedev \"I just released my first game made entirely with Claude Code\" (u/Bill_Buffet)",
       "made_with": "unknown",
       "made_with_note": "Post says Claude Code made everything; no model named.",
-      "engine": "custom (Metal / Vulkan)",
+      "engine": "Other",
       "category": "horror",
       "platforms": [
         "desktop"
@@ -56862,7 +56952,8 @@
       ],
       "first_seen": "2026-10-30T09:00:00.000Z",
       "last_seen": "2026-10-30T09:00:00.000Z",
-      "published_at": "2026-10-29T14:30:11Z"
+      "published_at": "2026-10-29T14:30:11Z",
+      "engine_detail": "custom (Metal / Vulkan)"
     },
     {
       "id": "battle-for-halloween",
@@ -56872,7 +56963,7 @@
       "found_via": "r/aigamedev \"I'm building a Total War-style Halloween RTS in the browser with Claude Opus\" (u/Medium_Aspect_8784)",
       "made_with": "opus-5.5",
       "made_with_note": "Post says Claude Opus without a version; an Opus-era (October 2026) game, so filed as opus-5.5.",
-      "engine": "Blazor WebAssembly",
+      "engine": "Emscripten/WASM",
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
       "category": "strategy",
@@ -56911,7 +57002,8 @@
       "comments": [],
       "first_seen": "2026-10-30T09:00:00.000Z",
       "last_seen": "2026-10-30T09:00:00.000Z",
-      "published_at": "2026-10-29T12:10:25Z"
+      "published_at": "2026-10-29T12:10:25Z",
+      "engine_detail": "Blazor WebAssembly"
     },
     {
       "id": "proxy-republic",
@@ -57800,7 +57892,7 @@
       "found_via": "r/incremental_games \"The Idle Countdown - Update\" (u/GoldenLogGames)",
       "made_with": "unknown",
       "made_with_note": "Post says no AI was used.",
-      "engine": "GameMaker",
+      "engine": "Other",
       "category": "incremental",
       "platforms": [
         "desktop"
@@ -57894,7 +57986,8 @@
       ],
       "first_seen": "2026-10-30T09:00:00.000Z",
       "last_seen": "2026-10-30T09:00:00.000Z",
-      "published_at": "2026-10-29T02:00:52Z"
+      "published_at": "2026-10-29T02:00:52Z",
+      "engine_detail": "GameMaker"
     },
     {
       "id": "autogenesis",
@@ -58807,7 +58900,7 @@
       "found_via": "r/vibecoding \"I made a small horror game in 52 hours. All 150 3D models cost about $27 in Tripo credits.\" (u/Bonelessgummybear)",
       "made_with": "unknown",
       "made_with_note": "Post credits Claude for code and Tripo AI for every 3D model; no model version named.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "horror",
       "platforms": [
@@ -58990,7 +59083,8 @@
       ],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-30T14:39:46Z"
+      "published_at": "2026-10-30T14:39:46Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "powder-kings",
@@ -59159,7 +59253,7 @@
       "found_via": "r/aigamedev \"Been weekending this FPS engine for a while. Inspired by and can run various maps from millenium era games.\" (u/ztifff)",
       "made_with": "unknown",
       "made_with_note": "Post says \"various agents\"; no model named.",
-      "engine": "React Three Fiber (WebGPU)",
+      "engine": "Three.js",
       "iframe": true,
       "category": "shooter",
       "platforms": [
@@ -59231,7 +59325,8 @@
       ],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-30T22:02:40Z"
+      "published_at": "2026-10-30T22:02:40Z",
+      "engine_detail": "React Three Fiber (WebGPU)"
     },
     {
       "id": "crackcity",
@@ -59817,7 +59912,7 @@
         "mobile"
       ],
       "tags": [
-        "card-battler"
+        "cards"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
@@ -59875,7 +59970,7 @@
       "found_via": "r/threejs \"Funny car game with a quirky personality and exploding sheep\" (u/No_Economist_820)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "racing",
       "platforms": [
@@ -59925,7 +60020,8 @@
       ],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-30T22:58:59Z"
+      "published_at": "2026-10-30T22:58:59Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "tiny-village",
@@ -59935,7 +60031,7 @@
       "found_via": "r/threejs \"I made a tiny 3D village that grows as people move in\" (u/LordofCookies)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "social",
       "platforms": [
@@ -60022,7 +60118,8 @@
       ],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-29T14:19:21Z"
+      "published_at": "2026-10-29T14:19:21Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "wordtex",
@@ -60042,8 +60139,7 @@
       ],
       "tags": [
         "itchio",
-        "godot",
-        "roguelike"
+        "roguelite"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
@@ -60127,7 +60223,7 @@
       "tags": [
         "itchio",
         "co-op",
-        "unity"
+        "2-player"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
@@ -60252,7 +60348,7 @@
       "found_via": "r/IndieGaming \"I just dropped a massive demo update for StickerScout, my quiet wildlife photography game!\" (u/StickerScoutGame)",
       "made_with": "unknown",
       "made_with_note": "Solo dev, hand-drawn art; no AI model mentioned.",
-      "engine": "JavaScript",
+      "engine": "Canvas/2D",
       "category": "casual",
       "platforms": [
         "desktop"
@@ -60294,7 +60390,8 @@
       "comments": [],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-30T15:38:06Z"
+      "published_at": "2026-10-30T15:38:06Z",
+      "engine_detail": "JavaScript"
     },
     {
       "id": "causos-da-mata",
@@ -60311,7 +60408,7 @@
         "mobile"
       ],
       "tags": [
-        "incremental",
+        "idle",
         "brazilian"
       ],
       "checked_at": "2026-10-31",
@@ -60395,7 +60492,7 @@
       ],
       "tags": [
         "wavedash",
-        "highscore"
+        "leaderboard"
       ],
       "checked_at": "2026-10-31",
       "check_result": "wrapper_only",
@@ -60542,7 +60639,7 @@
       "found_via": "x @hasibdreamer35 \"3 HOURS TO BUILD A PLAYABLE 3D GAME WITH THREE.JS AND CLAUDE OPUS 5.5\"",
       "made_with": "opus-5.5",
       "made_with_note": "Post says built with Three.js and Claude Opus 5.5.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "github_url": "https://github.com/mdhasibul35/skyshard",
       "github_stars": 0,
       "iframe": true,
@@ -60587,7 +60684,8 @@
       "comments": [],
       "first_seen": "2026-10-31T01:52:17.000Z",
       "last_seen": "2026-10-31T01:52:17.000Z",
-      "published_at": "2026-10-30T09:27:00.000Z"
+      "published_at": "2026-10-30T09:27:00.000Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "pondo-slice",
@@ -60790,7 +60888,7 @@
       "found_via": "r/webdev \"What changed in my endless Three.js driving game after two weeks?\" (u/zaxwebs)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "Svelte + three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "driving",
       "platforms": [
@@ -60898,7 +60996,8 @@
       ],
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
-      "published_at": "2026-10-31T08:01:40Z"
+      "published_at": "2026-10-31T08:01:40Z",
+      "engine_detail": "Svelte + three.js"
     },
     {
       "id": "mr-bones-wild-ride",
@@ -61005,7 +61104,7 @@
       ],
       "tags": [
         "golf",
-        "deckbuilder"
+        "cards"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working",
@@ -61348,7 +61447,7 @@
       "found_via": "r/threejs \"Solar Odyssey: a Three.js / R3F space game where you can now land on 27 worlds, with a real 9,096-star sky\" (u/Loud-Current1641)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "React Three Fiber",
+      "engine": "Three.js",
       "iframe": true,
       "category": "space",
       "platforms": [
@@ -61406,7 +61505,8 @@
       ],
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
-      "published_at": "2026-10-31T14:27:57Z"
+      "published_at": "2026-10-31T14:27:57Z",
+      "engine_detail": "React Three Fiber"
     },
     {
       "id": "haunt-tryrift",
@@ -61724,7 +61824,7 @@
       "found_via": "r/threejs \"Made a little kawaii pumpkin dress-up toy for my coworkers\" (u/Far_Beginning_1856)",
       "made_with": "unknown",
       "made_with_note": "Post says built pairing with Claude; no model version named.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "casual",
       "platforms": [
@@ -61767,7 +61867,8 @@
       "comments": [],
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
-      "published_at": "2026-10-31T19:00:33Z"
+      "published_at": "2026-10-31T19:00:33Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "haunted-dollhouse",
@@ -61777,7 +61878,7 @@
       "found_via": "r/threejs \"made a halloween dollhouse game in three.js, with lighting baked in blender\" (u/DevPras)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "React Three Fiber",
+      "engine": "Three.js",
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
       "category": "casual",
@@ -61828,7 +61929,8 @@
       ],
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
-      "published_at": "2026-10-31T09:04:15Z"
+      "published_at": "2026-10-31T09:04:15Z",
+      "engine_detail": "React Three Fiber"
     },
     {
       "id": "wayward-prism",
@@ -62282,7 +62384,7 @@
       "play_url": "https://simonw.github.io/emberwick/v11/emberwick.html",
       "made_with": "unknown",
       "made_with_note": "Built in the Claude chat app; the post credits Claude Opus 5.5 for the four games overall but does not name the model for this chat.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "rpg",
       "platforms": [
@@ -62417,7 +62519,8 @@
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
       "published_at": "2026-10-28T14:03:31Z",
-      "found_via": "Simon Willison, \"The October inflection point for vibe game development\" (simonwillison.net 2026-10-28; HN 50273753, u/simonw)"
+      "found_via": "Simon Willison, \"The October inflection point for vibe game development\" (simonwillison.net 2026-10-28; HN 50273753, u/simonw)",
+      "engine_detail": "three.js"
     },
     {
       "id": "pumpkin-farmer",
@@ -62570,7 +62673,7 @@
       "play_url": "https://tools.simonwillison.net/tree-appreciator",
       "made_with": "unknown",
       "made_with_note": "One prompt in the Claude chat app; the post credits Claude Opus 5.5 for the four games overall but does not name the model for this chat.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "puzzle",
       "platforms": [
@@ -62707,7 +62810,8 @@
       "first_seen": "2026-11-01T02:40:00.000Z",
       "last_seen": "2026-11-01T02:40:00.000Z",
       "published_at": "2026-10-28T14:03:31Z",
-      "found_via": "Simon Willison, \"The October inflection point for vibe game development\" (simonwillison.net 2026-10-28; HN 50273753, u/simonw)"
+      "found_via": "Simon Willison, \"The October inflection point for vibe game development\" (simonwillison.net 2026-10-28; HN 50273753, u/simonw)",
+      "engine_detail": "three.js"
     },
     {
       "id": "lantern-hollow",
@@ -62933,8 +63037,7 @@
       ],
       "tags": [
         "rom",
-        "decomp",
-        "wasm"
+        "decomp"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working",
@@ -63080,8 +63183,7 @@
       "check_result": "working",
       "tags": [
         "vibegamedev",
-        "multiplayer",
-        "astra"
+        "multiplayer"
       ]
     },
     {
@@ -63145,7 +63247,7 @@
       "found_via": "r/IndieDev \"I spent two-years making a DOS game, so I could play it on my P166 MMX\" (u/VirtualHat)",
       "made_with": "unknown",
       "made_with_note": "Post says the last few months of fit-and-finish were \"Claude-assisted\"; no model named.",
-      "engine": "custom DOS engine (Pascal/MMX asm)",
+      "engine": "Other",
       "iframe": true,
       "category": "racing",
       "platforms": [
@@ -63325,7 +63427,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T11:33:34Z"
+      "published_at": "2026-11-01T11:33:34Z",
+      "engine_detail": "custom DOS engine (Pascal/MMX asm)"
     },
     {
       "id": "the-ink-tower",
@@ -63506,7 +63609,7 @@
       "found_via": "r/aigamedev \"Been working on my cozy cyberpunk city builder for the last three months\" (u/senpai_go_away)",
       "made_with": "opus-5.5",
       "made_with_note": "Creator in the comments: \"nothing fancy at all, just claude with opus 5.5. Assets were created with claude too.\"",
-      "engine": "three.js",
+      "engine": "Three.js",
       "category": "city-builder",
       "platforms": [
         "desktop"
@@ -63689,7 +63792,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T15:22:10Z"
+      "published_at": "2026-11-01T15:22:10Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "rogue-janitor",
@@ -64001,7 +64105,7 @@
       "found_via": "r/aigamedev \"In 2016 I quit my job to make an idle RPG and spent 3 years on it. Yesterday claude remade it entirely from scratch\" (u/PulIthEld)",
       "made_with": "unknown",
       "made_with_note": "Post credits Claude; no model named.",
-      "engine": "Guts Engine",
+      "engine": "Other",
       "iframe": true,
       "category": "idle-rpg",
       "platforms": [
@@ -64190,7 +64294,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T18:08:07Z"
+      "published_at": "2026-11-01T18:08:07Z",
+      "engine_detail": "Guts Engine"
     },
     {
       "id": "todroth",
@@ -64372,7 +64477,7 @@
       ],
       "tags": [
         "itchio",
-        "clicker",
+        "idle",
         "rpg"
       ],
       "checked_at": "2026-11-02",
@@ -64906,7 +65011,7 @@
       "found_via": "r/threejs \"SOCOM 2 Browser Port Playtest - Three.js/WebGPU Port (bring your own ISO)\" (u/ProjectUnzipped)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "three.js (WebGPU)",
+      "engine": "Three.js",
       "iframe": false,
       "iframe_block_reason": "x-frame-options-sameorigin",
       "requires_own_files": true,
@@ -64916,7 +65021,7 @@
       ],
       "tags": [
         "rom",
-        "port",
+        "decomp",
         "multiplayer"
       ],
       "checked_at": "2026-11-02",
@@ -64947,7 +65052,8 @@
       "comments": [],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-02T00:12:42Z"
+      "published_at": "2026-11-02T00:12:42Z",
+      "engine_detail": "three.js (WebGPU)"
     },
     {
       "id": "conquercourse",
@@ -64957,7 +65063,7 @@
       "found_via": "r/threejs \"ConquerCourse-Free Browser Game where physics meets education\" (u/datahan)",
       "made_with": "unknown",
       "made_with_note": "Post: \"I used Claude Code to write most of the code\"; no model named.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "physics",
       "platforms": [
@@ -65007,7 +65113,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T18:06:02Z"
+      "published_at": "2026-11-01T18:06:02Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "dailysalami",
@@ -65017,7 +65124,7 @@
       "found_via": "r/threejs \"My girlfriend made a daily puzzle in three.js where you guess a 3D object from its cross-sections\" (u/beigaleh)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors",
       "category": "puzzle",
@@ -65082,7 +65189,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T09:19:27Z"
+      "published_at": "2026-11-01T09:19:27Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "gravimax",
@@ -65798,7 +65906,7 @@
       ],
       "tags": [
         "itchio",
-        "incremental",
+        "idle",
         "game-jam"
       ],
       "checked_at": "2026-11-02",
@@ -65887,7 +65995,7 @@
       "found_via": "X @SamGCoder \"anime MMO-style RPG with Three.js and Astra Ultra-Fast\"",
       "made_with": "astra",
       "made_with_note": "Post: built \"with Three.js and Astra Ultra-Fast\".",
-      "engine": "three.js",
+      "engine": "Three.js",
       "iframe": true,
       "category": "rpg",
       "platforms": [
@@ -65932,7 +66040,8 @@
       "comments": [],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T13:13:17.000Z"
+      "published_at": "2026-11-01T13:13:17.000Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "epoch-dash",
@@ -66000,7 +66109,7 @@
       "found_via": "X @umairzia700 Slapjam entry \"Ransom Express\" (Claude Code + Three.js)",
       "made_with": "unknown",
       "made_with_note": "Post credits Claude Code; no model named.",
-      "engine": "three.js",
+      "engine": "Three.js",
       "category": "action",
       "platforms": [
         "desktop"
@@ -66044,7 +66153,8 @@
       "comments": [],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T01:48:10.000Z"
+      "published_at": "2026-11-01T01:48:10.000Z",
+      "engine_detail": "three.js"
     },
     {
       "id": "mythos-ancient-wars",
@@ -66424,9 +66534,7 @@
       ],
       "tags": [
         "decomp",
-        "multiplayer",
-        "preservation",
-        "webassembly"
+        "multiplayer"
       ],
       "checked_at": "2026-11-03",
       "check_result": "working",
@@ -66575,8 +66683,7 @@
       ],
       "tags": [
         "basketball",
-        "isometric",
-        "opus-5.5"
+        "isometric"
       ],
       "checked_at": "2026-11-03",
       "check_result": "working",
@@ -66627,7 +66734,6 @@
       "tags": [
         "tanks",
         "multiplayer",
-        "opus-5.5",
         "remix"
       ],
       "checked_at": "2026-11-03",
