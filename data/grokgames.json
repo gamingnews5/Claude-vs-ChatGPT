@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03",
+  "updated_at": "2026-11-04T08:49:28+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -64,7 +64,10 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "qq-speed-3d-racing",
@@ -125,7 +128,10 @@
       "likes_check": "no original post found 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "timeout"
+      "check_result": "timeout",
+      "tags": [
+        "platformer"
+      ]
     },
     {
       "id": "spider-man-miles-morales",
@@ -224,7 +230,10 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "inkbound",
@@ -271,7 +280,8 @@
       ],
       "tags": [
         "screenshots",
-        "itchio"
+        "itchio",
+        "retro"
       ],
       "page_url": "https://agentgames.itch.io/inkbound",
       "iframe": true,
@@ -320,7 +330,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "cozy"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -365,7 +376,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "racing"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -575,7 +587,10 @@
       "likes_source": "x",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "silt-signal",
@@ -597,7 +612,9 @@
       "remote_likes": 105,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "rpg",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -669,7 +686,10 @@
       "likes_source": "x",
       "checked_at": "2026-10-30",
       "check_result": "working",
-      "engine_detail": "Replit"
+      "engine_detail": "Replit",
+      "tags": [
+        "horror"
+      ]
     },
     {
       "id": "transformer",
@@ -691,7 +711,10 @@
       "remote_likes": 13,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting"
+      ]
     },
     {
       "id": "spartan-unbound",
@@ -734,7 +757,8 @@
       "remote_likes": 5,
       "likes_source": "x",
       "tags": [
-        "gamefoundry"
+        "gamefoundry",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working",
@@ -919,7 +943,8 @@
         }
       ],
       "tags": [
-        "genex"
+        "genex",
+        "sports"
       ],
       "page_url": "https://genex.games/opus-2k",
       "iframe": true,
@@ -962,7 +987,7 @@
       "found_via": "X post by @clunk_games (hours-old) with playable clunk.games link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/28-clunk.jpg",
-      "screenshot_score": 5,
+      "screenshot_score": 5.0,
       "screenshot_score_notes": "admin: Igor set 5 on 2026-10-29. Clean promo still clearly shows Clunk Tower stacking and Puzzle board with cute faced blocks; strong brand polish though not a live HUD capture. (admin: Igor set 5 on 2026-10-29; bot score was 8.6)",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
@@ -1015,7 +1040,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "sandbox",
+        "retro"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1182,7 +1209,10 @@
       "remote_likes": 11,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "retro"
+      ]
     },
     {
       "id": "dukes-lawn",
@@ -1203,7 +1233,11 @@
       "remote_likes": 3963,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "multiplayer"
+      ]
     },
     {
       "id": "towline",
@@ -1368,7 +1402,7 @@
       "page_url": "https://sangoku.tokyoaivisuals.club/",
       "iframe": true,
       "iframe_block_reason": null,
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -1441,7 +1475,7 @@
         "mobile",
         "touch"
       ],
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -1949,7 +1983,7 @@
       "found_via": "X search 2026-09-28; creator post with play link",
       "found_via_network": "x",
       "screenshot_path": "screenshots/76-volley-rally.jpg",
-      "screenshot_score": 9,
+      "screenshot_score": 9.0,
       "screenshot_score_notes": "admin: Igor set 9 on 2026-10-30. In-game 2v2 beach match with crowd, scoreboard HOME/AWAY, player names, and control legend — solid readable sports still from creator footage. (admin: Igor set 9 on 2026-10-30; bot score was 8.5)",
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
@@ -2452,7 +2486,7 @@
       "tags": [
         "mobile"
       ],
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "play_url_note": "Low FPS reported on some devices"
     },
@@ -2628,7 +2662,7 @@
       "video_source": "feed-local",
       "remote_likes": 230,
       "likes_source": "x",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -4500,7 +4534,7 @@
       "tags": [
         "soonlab"
       ],
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "wrapper_only",
       "play_url_note": "SoonLab wrapper page: banners, then Play Now starts the game",
       "check_note": "Igor marked broken; loads only inside soonlab page with promo popups"
@@ -5362,7 +5396,7 @@
       "found_via": "reddit / r/aigamedev",
       "found_via_network": "reddit",
       "screenshot_path": "screenshots/215-chonk-bear-brawl.jpg",
-      "screenshot_score": 4,
+      "screenshot_score": 4.0,
       "screenshot_score_notes": "admin: Igor set 4 on 2026-10-29. Bright meadow brawler still with SMACK impact, full combat HUD, and mobile controls — very readable action tableau. (admin: Igor set 4 on 2026-10-29; bot score was 8.6)",
       "video_path": "videos/chonk-bear-brawl-30s.mp4",
       "videos": [
@@ -5719,8 +5753,7 @@
       "first_seen": "2026-09-30T01:56:38.000Z",
       "last_seen": "2026-11-01T05:55:00.000Z",
       "tags": [
-        "mobile",
-        "vibegamedev"
+        "mobile"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working"
@@ -5776,7 +5809,7 @@
       "comment_count": 0,
       "likes_checked": "2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
@@ -6015,7 +6048,7 @@
       "remote_likes": 2,
       "likes_source": "reddit",
       "screenshot_path": "screenshots/240-roomwave.jpg",
-      "screenshot_score": 4,
+      "screenshot_score": 4.0,
       "screenshot_score_notes": "admin: Igor set 4 on 2026-10-29. Polished anime karaoke still with clear Roomwave LIVE UI, cozy room set dressing, and Join In CTA. (admin: Igor set 4 on 2026-10-29; bot score was 8.7)",
       "screenshots": [
         {
@@ -6321,7 +6354,7 @@
       "play_url": "https://homie.rocks/span-nine/",
       "source_url": "https://x.com/Ryancampbell/status/2105160746363662816",
       "screenshot_path": "screenshots/251-span-nine.jpg",
-      "screenshot_score": 7,
+      "screenshot_score": 7.0,
       "screenshot_score_notes": "admin: Igor set 7 on 2026-10-29. Cinematic neon mag-strip race: wedge craft through glowing hexagonal gates with cyan track bloom. (admin: Igor set 7 on 2026-10-29; bot score was 8.9)",
       "screenshots": [
         {
@@ -9480,7 +9513,7 @@
       ],
       "screenshot_score": 4.0,
       "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered. | report: Igor marked broken; page loads to LOG IN / PLAY NOW, account needed to play (2026-11-01)",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "needs_login",
       "requires_login": true
     },
@@ -10870,7 +10903,9 @@
       "screenshot_score_notes": "multi-frame: Noir detective board game: dark city grid board with crates and tiles, case-file side panel with a detective portrait, objectives (get the dead drop / make it a setup), traps and heat counters and Place traps / Undo / Clear buttons; readable but static turn-based board. Rated from 5 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "toms-tiny-armies",
@@ -10914,7 +10949,9 @@
         "itchio"
       ],
       "page_url": "https://ifr13nd.itch.io/toms-tiny-armies",
-      "embed_url": "https://html-classic.itch.zone/html/19572679/index.html?v=1791175887"
+      "embed_url": "https://html-classic.itch.zone/html/19572679/index.html?v=1791175887",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "selk",
@@ -10960,7 +10997,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://vb2020.itch.io/selk",
-      "embed_url": "https://html-classic.itch.zone/html/19913084/index.html?v=1792538737"
+      "embed_url": "https://html-classic.itch.zone/html/19913084/index.html?v=1792538737",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "rise-and-raid",
@@ -11022,7 +11061,9 @@
       ],
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-04",
+      "check_result": "broken"
     },
     {
       "id": "bay-ride",
@@ -11061,7 +11102,9 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Painterly sunset over a calm sea with a little boat leaving a wake is gorgeous; there is no HUD, so the play is implied.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "ski-jumping-io",
@@ -11100,7 +11143,9 @@
         }
       ],
       "screenshot_score": 7,
-      "screenshot_score_notes": "Snowy inrun with a Swiss flag, pine forest and speed/wind HUD clearly shows a jump about to launch; the jumper is tiny."
+      "screenshot_score_notes": "Snowy inrun with a Swiss flag, pine forest and speed/wind HUD clearly shows a jump about to launch; the jumper is tiny.",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "merge-conflict",
@@ -11139,7 +11184,9 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Clawd's orange block faces the blue Codex mascot in a moody neon arena with polished lighting, but there is no HUD in this frame.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "mission-shadow",
@@ -11179,7 +11226,9 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Snowy night compound with a hooded player, a minimap and a 'Strike from the shadows' caption sets the stealth mood; the trailer text covers the lower frame.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "heatsink",
@@ -11222,7 +11271,9 @@
       "x_handle": "aniketjart",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "endgame-spawn",
@@ -11266,7 +11317,9 @@
         "spawn"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "engine_detail": "Spawn"
+      "engine_detail": "Spawn",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "state-property",
@@ -11345,7 +11398,9 @@
       ],
       "likes_source_url": "https://x.com/noclipepe/status/2110875453992972731",
       "x_handle": "noclipepe",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2079860441333846016/fEbqKdNE_normal.jpg"
+      "avatar_url": "https://pbs.twimg.com/profile_images/2079860441333846016/fEbqKdNE_normal.jpg",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "bonvo-freeride",
@@ -11384,7 +11439,9 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunlit snowy mountain run with a snowboarder carving down a groomed piste and a resort minimap; scenic and clear.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "stickfrag",
@@ -11568,7 +11625,9 @@
           "url": "https://www.reddit.com/r/playmygame/comments/1wy7z0c/i_made_a_free_stickman_fps_that_runs_in_a_browser/pec0kmw/",
           "created_at": "2026-10-07T00:28:27Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "moonbear",
@@ -11607,7 +11666,9 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Sunlit sea dotted with rock stacks, a blue fighter banking past enemy jets and a wingman radio box with shield/boost HUD; looks like a real Star Fox level.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "perlune",
@@ -11647,7 +11708,9 @@
       ],
       "screenshot_score": 8,
       "screenshot_score_notes": "Glossy pearl planet with a chrome droplet, iridescent bubbles and neon contour lines; gorgeous and unusual, though the action is hard to read.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-04",
+      "check_result": "working"
     },
     {
       "id": "pavement-pursuit",
@@ -13446,7 +13509,7 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "engine_detail": "Ryft"
     },
@@ -18457,7 +18520,7 @@
           "created_at": "2026-10-12T07:19:13Z"
         }
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "tags": [
         "vibegamedev"
@@ -22303,7 +22366,7 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -24806,7 +24869,7 @@
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -28304,7 +28367,7 @@
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T01:55:55Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "engine_detail": "ReXGlue SDK"
     },
@@ -30242,7 +30305,10 @@
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T13:36:34Z",
-      "notes": "admin: Igor set 9.6 on 2026-11-02"
+      "notes": "admin: Igor set 9.6 on 2026-11-02",
+      "checked_at": "2026-11-04",
+      "check_result": "working",
+      "play_url_note": "Controls complaints reported; game loads in browser"
     },
     {
       "id": "handvoll",
@@ -35880,7 +35946,7 @@
       "last_seen": "2026-10-19T01:30:00.000Z",
       "published_at": "2026-10-17T02:03:27.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -47024,7 +47090,7 @@
         "sandscape"
       ],
       "page_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "play_url_note": "Best in landscape or on desktop; small in portrait on phones",
       "engine_detail": "Sandscape"
@@ -52520,7 +52586,7 @@
           "notes": "admin: Igor set 1 on 2026-10-30. multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 1,
+      "screenshot_score": 1.0,
       "screenshot_score_notes": "admin: Igor set 1 on 2026-10-30. multi-frame: Dark text cards (\"I was born in Chennai, India\", \"Welder. Primary school only\", \"Hospital bill: $1,083\") with paper-form inserts and tiny pixel scenes; stark and readable, mostly text. Rated from 5 frames sampled across the gameplay clip plus the poster. (admin: Igor set 1 on 2026-10-28; bot score was 6)",
       "found_via_network": "x",
       "x_handle": "prodsystems_",
@@ -52538,7 +52604,7 @@
       "published_at": "2026-10-26T23:17:52.000Z",
       "author_note": "Poster @prodsystems_ shared it; the creator is described only as a solo developer in Korea.",
       "tags": [],
-      "checked_at": "2026-11-03",
+      "checked_at": "2026-11-04",
       "check_result": "working"
     },
     {
@@ -57088,11 +57154,12 @@
         "mobile"
       ],
       "tags": [
-        "multiplayer"
+        "multiplayer",
+        "screenshots"
       ],
-      "checked_at": "2026-10-30",
-      "check_result": "working",
-      "check_note": "Loads on desktop and mobile; in the GPU-less checker it shows a \"graphics are turned off\" WebGL notice, so no screenshots were taken.",
+      "checked_at": "2026-11-04",
+      "check_result": "broken",
+      "check_note": "headless: graphics acceleration / WebGL refused; site shows fix dialog",
       "found_via_network": "reddit",
       "author": "vidiclol",
       "author_source": "https://www.reddit.com/user/vidiclol/",
@@ -57133,7 +57200,22 @@
       ],
       "first_seen": "2026-10-30T09:00:00.000Z",
       "last_seen": "2026-10-30T09:00:00.000Z",
-      "published_at": "2026-10-29T06:49:02Z"
+      "published_at": "2026-10-29T06:49:02Z",
+      "screenshots": [
+        {
+          "path": "screenshots/towers-of-aurum-1.jpg",
+          "source": "headless",
+          "score": 3.5
+        },
+        {
+          "path": "screenshots/towers-of-aurum-2.jpg",
+          "source": "headless",
+          "score": 3.5
+        }
+      ],
+      "screenshot_path": "screenshots/towers-of-aurum-1.jpg",
+      "screenshot_score": 3.5,
+      "screenshot_score_notes": "screenshots: headless Chrome WebGL/graphics-acceleration error page only (no in-game frames); marketing copy visible around the fix dialog. Score reflects missing gameplay frames."
     },
     {
       "id": "tramlijn-2",
@@ -59889,21 +59971,21 @@
         "mobile"
       ],
       "tags": [
-        "cards"
+        "cards",
+        "screenshots"
       ],
-      "checked_at": "2026-10-31",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "screenshot_path": "screenshots/fawe-arena-1.jpg",
       "screenshots": [
         {
           "path": "screenshots/fawe-arena-1.jpg",
-          "source": "headless-browser",
-          "score": 3,
-          "notes": "multi-frame: Only the glowing FAWE logo on black; the headless browser never got past the loading screen, so no gameplay was seen. Rated from 1 screenshots."
+          "source": "headless",
+          "score": 3.2
         }
       ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "multi-frame: Only the glowing FAWE logo on black; the headless browser never got past the loading screen, so no gameplay was seen. Rated from 1 screenshots.",
+      "screenshot_score": 3.2,
+      "screenshot_score_notes": "screenshots: single stylized FAWE logo title card on black; no gameplay frames captured (identical repeats).",
       "found_via_network": "reddit",
       "author": "cnaize42",
       "author_source": "https://www.reddit.com/user/cnaize42/",
@@ -63233,25 +63315,41 @@
       "tags": [
         "retro",
         "dos",
-        "voxel"
+        "voxel",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/airtime-1.jpg",
+      "screenshot_path": "screenshots/airtime-b1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/airtime-1.jpg",
-          "source": "headless-browser",
-          "score": 6.5,
-          "notes": "multi-frame: DOS boot text, then an isometric voxel race track with a checkered flag, cars on the grid and a SINGLE PLAYER / OPTIONS / EXTRAS menu; authentic 90s look, menus only in capture. Rated from 2 screenshots."
+          "path": "screenshots/airtime-b1.jpg",
+          "source": "headless",
+          "score": 6.5
         },
         {
-          "path": "screenshots/airtime-2.jpg",
-          "source": "headless-browser"
+          "path": "screenshots/airtime-b2.jpg",
+          "source": "headless",
+          "score": 6.5
+        },
+        {
+          "path": "screenshots/airtime-b3.jpg",
+          "source": "headless",
+          "score": 6.5
+        },
+        {
+          "path": "screenshots/airtime-b4.jpg",
+          "source": "headless",
+          "score": 6.5
+        },
+        {
+          "path": "screenshots/airtime-b5.jpg",
+          "source": "headless",
+          "score": 6.5
         }
       ],
       "screenshot_score": 6.5,
-      "screenshot_score_notes": "multi-frame: DOS boot text, then an isometric voxel race track with a checkered flag, cars on the grid and a SINGLE PLAYER / OPTIONS / EXTRAS menu; authentic 90s look, menus only in capture. Rated from 2 screenshots.",
+      "screenshot_score_notes": "multi-frame: isometric pixel dirt-track race with four cars under AIRTIME menu overlay on NINETYSIX; readable retro racing loop, alpha chrome around edges.",
       "found_via_network": "reddit",
       "author": "VirtualHat",
       "author_source": "https://www.reddit.com/user/VirtualHat/",
@@ -63888,25 +63986,41 @@
       "tags": [
         "itchio",
         "cat",
-        "2d"
+        "2d",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/project-cat-1.jpg",
+      "screenshot_path": "screenshots/project-cat-b1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/project-cat-1.jpg",
-          "source": "headless-browser",
-          "score": 5.5,
-          "notes": "multi-frame: Pink \"PROJECT CAT\" title with a cute cat mascot, then a leafy forest platform level with control hints; clean and simple. Rated from 2 screenshots."
+          "path": "screenshots/project-cat-b1.jpg",
+          "source": "headless",
+          "score": 7.2
         },
         {
-          "path": "screenshots/project-cat-2.jpg",
-          "source": "headless-browser"
+          "path": "screenshots/project-cat-b2.jpg",
+          "source": "headless",
+          "score": 7.2
+        },
+        {
+          "path": "screenshots/project-cat-b3.jpg",
+          "source": "headless",
+          "score": 7.2
+        },
+        {
+          "path": "screenshots/project-cat-b4.jpg",
+          "source": "headless",
+          "score": 7.2
+        },
+        {
+          "path": "screenshots/project-cat-b5.jpg",
+          "source": "headless",
+          "score": 7.2
         }
       ],
-      "screenshot_score": 5.5,
-      "screenshot_score_notes": "multi-frame: Pink \"PROJECT CAT\" title with a cute cat mascot, then a leafy forest platform level with control hints; clean and simple. Rated from 2 screenshots.",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "multi-frame: pastel side-view cat platformer with soft hills, mushrooms, spike pit and move/jump tutorial HUD; clean readable vibecoded platforming.",
       "found_via_network": "reddit",
       "author": "BatuhanBaybas",
       "author_source": "https://www.reddit.com/user/BatuhanBaybas/",
@@ -64003,21 +64117,36 @@
       "tags": [
         "itchio",
         "idle",
-        "text"
+        "text",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "screenshot_path": "screenshots/unnamed-fantasy-waiting-game-1.jpg",
       "screenshots": [
         {
           "path": "screenshots/unnamed-fantasy-waiting-game-1.jpg",
-          "source": "headless-browser",
-          "score": 3.5,
-          "notes": "multi-frame: Gray panels reading \"There is nothing here.\" with a Menu box and a lone wait button; intentionally bare start, little to see. Rated from 1 screenshots."
+          "source": "headless",
+          "score": 4.0
+        },
+        {
+          "path": "screenshots/unnamed-fantasy-waiting-game-2.jpg",
+          "source": "headless",
+          "score": 4.0
+        },
+        {
+          "path": "screenshots/unnamed-fantasy-waiting-game-3.jpg",
+          "source": "headless",
+          "score": 4.0
+        },
+        {
+          "path": "screenshots/unnamed-fantasy-waiting-game-4.jpg",
+          "source": "headless",
+          "score": 4.0
         }
       ],
-      "screenshot_score": 3.5,
-      "screenshot_score_notes": "multi-frame: Gray panels reading \"There is nothing here.\" with a Menu box and a lone wait button; intentionally bare start, little to see. Rated from 1 screenshots.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "screenshots: Galaxy/itch wrapper with mostly blank gray canvas and a Wait button; thumbnail of text UI. Thin idle/waiting loop; little visual game content in capture.",
       "found_via_network": "reddit",
       "author": "dk1a1",
       "author_source": "https://www.reddit.com/user/dk1a1/",
@@ -64612,21 +64741,31 @@
       ],
       "tags": [
         "itchio",
-        "demo"
+        "demo",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "screenshot_path": "screenshots/found-by-dusk-1.jpg",
       "screenshots": [
         {
           "path": "screenshots/found-by-dusk-1.jpg",
-          "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Primal Warlord splash, then a \"FOUND BY DUSK\" menu over a stormy coast at sunset (New Game / Settings / Credits); menu only. Rated from 1 screenshots."
+          "source": "headless",
+          "score": 3.8
+        },
+        {
+          "path": "screenshots/found-by-dusk-2.jpg",
+          "source": "headless",
+          "score": 3.8
+        },
+        {
+          "path": "screenshots/found-by-dusk-3.jpg",
+          "source": "headless",
+          "score": 3.8
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Primal Warlord splash, then a \"FOUND BY DUSK\" menu over a stormy coast at sunset (New Game / Settings / Credits); menu only. Rated from 1 screenshots.",
+      "screenshot_score": 3.8,
+      "screenshot_score_notes": "screenshots: itch page / controls-credits text rather than in-game pixel combat; demo Unity title. Capture did not reach gameplay canvas.",
       "found_via_network": "reddit",
       "author": "Critical-Truth-3404",
       "author_source": "https://www.reddit.com/user/Critical-Truth-3404/",
@@ -64811,12 +64950,28 @@
       ],
       "tags": [
         "daily",
-        "geography"
+        "geography",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/nationguessr-1.jpg",
+      "screenshot_path": "screenshots/nationguessr-b1.jpg",
       "screenshots": [
+        {
+          "path": "screenshots/nationguessr-b1.jpg",
+          "source": "headless",
+          "score": 5.5
+        },
+        {
+          "path": "screenshots/nationguessr-b2.jpg",
+          "source": "headless",
+          "score": 5.5
+        },
+        {
+          "path": "screenshots/nationguessr-b3.jpg",
+          "source": "headless",
+          "score": 5.5
+        },
         {
           "path": "screenshots/nationguessr-1.jpg",
           "source": "headless-browser",
@@ -64829,7 +64984,7 @@
         }
       ],
       "screenshot_score": 5.5,
-      "screenshot_score_notes": "multi-frame: Lake and pine-forest photo with a guess box on an olive page; simple and pleasant. Rated from 2 screenshots.",
+      "screenshot_score_notes": "multi-frame: geo-guess photo landscapes (mountain scrub under snowy peaks) in a bordered viewer; little UI beyond the photo puzzle.",
       "found_via_network": "reddit",
       "author": "Additional-Shake-259",
       "author_source": "https://www.reddit.com/user/Additional-Shake-259/",
@@ -65188,21 +65343,31 @@
       ],
       "tags": [
         "itchio",
-        "gravity"
+        "gravity",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
       "screenshot_path": "screenshots/gravimax-1.jpg",
       "screenshots": [
         {
           "path": "screenshots/gravimax-1.jpg",
-          "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Purple \"GRAVIMAX\" menu with a smiling blue cube and PLAY TUTORIAL button; bright mobile-game UI, menu only. Rated from 1 screenshots."
+          "source": "headless",
+          "score": 4.2
+        },
+        {
+          "path": "screenshots/gravimax-2.jpg",
+          "source": "headless",
+          "score": 4.2
+        },
+        {
+          "path": "screenshots/gravimax-3.jpg",
+          "source": "headless",
+          "score": 4.2
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Purple \"GRAVIMAX\" menu with a smiling blue cube and PLAY TUTORIAL button; bright mobile-game UI, menu only. Rated from 1 screenshots.",
+      "screenshot_score": 4.2,
+      "screenshot_score_notes": "screenshots: itch store copy and cube mascots; HOW TO PLAY text, not live gravity-flip runs. Capture stayed on page chrome.",
       "found_via_network": "reddit",
       "author": "Fireche",
       "author_source": "https://www.reddit.com/user/Fireche/",
@@ -65296,25 +65461,41 @@
       ],
       "tags": [
         "chess",
-        "cards"
+        "cards",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/herochess-1.jpg",
+      "screenshot_path": "screenshots/herochess-b1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/herochess-1.jpg",
-          "source": "headless-browser",
-          "score": 5.5,
-          "notes": "multi-frame: Wooden chess board beside illustrated spell cards and a \"Chess, dealt differently\" rules panel; handsome, text heavy. Rated from 2 screenshots."
+          "path": "screenshots/herochess-b1.jpg",
+          "source": "headless",
+          "score": 7.5
         },
         {
-          "path": "screenshots/herochess-2.jpg",
-          "source": "headless-browser"
+          "path": "screenshots/herochess-b2.jpg",
+          "source": "headless",
+          "score": 7.5
+        },
+        {
+          "path": "screenshots/herochess-b3.jpg",
+          "source": "headless",
+          "score": 7.5
+        },
+        {
+          "path": "screenshots/herochess-b4.jpg",
+          "source": "headless",
+          "score": 7.5
+        },
+        {
+          "path": "screenshots/herochess-b5.jpg",
+          "source": "headless",
+          "score": 7.5
         }
       ],
-      "screenshot_score": 5.5,
-      "screenshot_score_notes": "multi-frame: Wooden chess board beside illustrated spell cards and a \"Chess, dealt differently\" rules panel; handsome, text heavy. Rated from 2 screenshots.",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: 3D chessboard plus Arcana spell-card draft (Diagonal Rift / Winter Seal) against Automaton CPU; polished hybrid chess+cards UI.",
       "found_via_network": "reddit",
       "author": "4nf",
       "author_source": "https://www.reddit.com/user/4nf/",
@@ -65655,25 +65836,41 @@
       ],
       "tags": [
         "skat",
-        "multiplayer"
+        "multiplayer",
+        "screenshots"
       ],
-      "checked_at": "2026-11-02",
+      "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/grand-skat-1.jpg",
+      "screenshot_path": "screenshots/grand-skat-b1.jpg",
       "screenshots": [
         {
-          "path": "screenshots/grand-skat-1.jpg",
-          "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Candle-lit tavern \"GRAND SKAT\" menu with play-vs-bots and online options; classy, menu only. Rated from 2 screenshots."
+          "path": "screenshots/grand-skat-b1.jpg",
+          "source": "headless",
+          "score": 6.8
         },
         {
-          "path": "screenshots/grand-skat-2.jpg",
-          "source": "headless-browser"
+          "path": "screenshots/grand-skat-b2.jpg",
+          "source": "headless",
+          "score": 6.8
+        },
+        {
+          "path": "screenshots/grand-skat-b3.jpg",
+          "source": "headless",
+          "score": 6.8
+        },
+        {
+          "path": "screenshots/grand-skat-b4.jpg",
+          "source": "headless",
+          "score": 6.8
+        },
+        {
+          "path": "screenshots/grand-skat-b5.jpg",
+          "source": "headless",
+          "score": 6.8
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Candle-lit tavern \"GRAND SKAT\" menu with play-vs-bots and online options; classy, menu only. Rated from 2 screenshots.",
+      "screenshot_score": 6.8,
+      "screenshot_score_notes": "multi-frame: three-player Skat table with German-suited cards, bidding buttons and Silesian UI; clear card-game readability.",
       "found_via_network": "reddit",
       "author": "RobSwierk",
       "author_source": "https://www.reddit.com/user/RobSwierk/",
@@ -66092,6 +66289,7 @@
         "desktop"
       ],
       "tags": [
+        "mobile",
         "itchio",
         "game-jam",
         "train"
@@ -66531,8 +66729,8 @@
           "notes": "multi-frame: BF1942 landing page with PLAY button and WebAssembly/WebGL 2 notes; clip is mostly the launch portal rather than in-match combat. Rated from 5 frames + poster."
         }
       ],
-      "screenshot_score": 6.5,
-      "screenshot_score_notes": "multi-frame: BF1942 landing page with PLAY button and WebAssembly/WebGL 2 notes; clip is mostly the launch portal rather than in-match combat. Rated from 5 frames + poster.",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "admin: Igor set 8.5 on 2026-11-04; multi-frame: BF1942 landing page with PLAY button and WebAssembly/WebGL 2 notes; clip is mostly the launch portal rather than in-match combat. Rated from 5 frames + poster.",
       "video_source_url": "https://x.com/levelsio/status/2117374984192512391",
       "found_via_network": "x",
       "x_handle": "levelsio",
@@ -66543,7 +66741,8 @@
       "likes_source": "x",
       "remote_likes": 791,
       "comment_count": null,
-      "added_at": "2026-11-03"
+      "added_at": "2026-11-03",
+      "screenshot_score_note": "admin: Igor set 8.5 on 2026-11-04"
     },
     {
       "id": "alura-quest",
@@ -66744,17 +66943,120 @@
       "remote_likes": 4,
       "comment_count": null,
       "added_at": "2026-11-03"
+    },
+    {
+      "id": "skywake",
+      "title": "SKYWAKE",
+      "description": "Flying adventure across Dawn Reef: greet Tallwalkers and sing trapped mantas free. Act I of a skyward quest. WASD/arrows to fly, Shift boost, J/click to sing, K shield, Q/E roll; touch on phones.",
+      "play_url": "https://app.usecrayon.ai/play/992c2130-43da-416b-a577-aed9514d3057",
+      "source_url": "https://x.com/aniketjart/status/2117508141076378029",
+      "found_via": "X @aniketjart Gemini hackathon refresh + @usecrayon Crayon showcase",
+      "found_via_network": "x",
+      "made_with": "gemini-4-argon",
+      "made_with_note": "Creator: built with Gemini 4 Argon for a hackathon; refreshed with Opus 5.5 + Crayon. Crayon showcase also labels Gemini 4 Argon.",
+      "made_with_source": "https://x.com/aniketjart/status/2117508141076378029",
+      "engine": "Crayon",
+      "engine_detail": "Crayon Pro + Three.js (Gemini 4 Argon / Opus 5.5)",
+      "author": "aniketjart",
+      "x_handle": "aniketjart",
+      "avatar_path": "avatars/aniketjart.jpg",
+      "likes_source_url": "https://x.com/aniketjart/status/2117508141076378029",
+      "remote_likes": 158,
+      "likes_source": "x",
+      "comment_count": 17,
+      "likes_checked": "2026-11-04",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "crayon",
+        "adventure",
+        "mobile"
+      ],
+      "video_path": "videos/skywake.mp4",
+      "video_poster": "videos/skywake.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/aniketjart/status/2117508141076378029",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117507366573031424/vid/avc1/1030x720/v0D9TGQYAb8VJa9d.mp4",
+      "videos": [
+        {
+          "path": "videos/skywake.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X clip trimmed 41s->30s H.264 720p CRF28 +faststart; poster at t=8s",
+      "screenshot_score": 7.4,
+      "screenshot_score_notes": "multi-frame: third-person kite flight over Dawn Reef at golden hour, singing free trapped mantas, ocean islands and soft cel-shaded sky; readable loop, Crayon polish without deep combat. Rated from creator clip frames.",
+      "checked_at": "2026-11-04",
+      "check_result": "working",
+      "added_at": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
+    {
+      "id": "glass-break",
+      "title": "Glass Break",
+      "description": "First-person glass-bottle shooting at golden hour. Slow-mo shatter; every sound is synthesized in code (no audio files). Built with Claude Opus 5.5.",
+      "play_url": "https://starknightt.github.io/glass-break/",
+      "page_url": "https://github.com/StarKnightt/glass-break",
+      "source_url": "https://x.com/prasenx/status/2116914502390480919",
+      "found_via": "X @prasenx Opus 5.5 glass-break showcase",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "made_with_source": "https://x.com/prasenx/status/2116914502390480919",
+      "engine": "Three.js",
+      "author": "prasenx",
+      "x_handle": "prasenx",
+      "avatar_path": "avatars/prasenx.jpg",
+      "github_url": "https://github.com/StarKnightt/glass-break",
+      "github_user": "StarKnightt",
+      "github_stars": 6,
+      "likes_source_url": "https://x.com/prasenx/status/2116914502390480919",
+      "remote_likes": 448,
+      "likes_source": "x",
+      "comment_count": 47,
+      "likes_checked": "2026-11-04",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "shooter"
+      ],
+      "video_path": "videos/glass-break.mp4",
+      "video_poster": "videos/glass-break.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/prasenx/status/2116914502390480919",
+      "original_video_url": "https://video.twimg.com/amplify_video/2116913538212192256/vid/avc1/1280x720/CQw2LD_BncmCQe16.mp4",
+      "videos": [
+        {
+          "path": "videos/glass-break.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X clip 27s H.264 720p CRF28 +faststart; poster at t=5s",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "multi-frame: first-person golden-hour bottle range, slow-mo shatter and muzzle flash, procedural audio callout; simple loop but satisfying break feel. Rated from creator clip frames.",
+      "checked_at": "2026-11-04",
+      "check_result": "working",
+      "added_at": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     }
   ],
   "totals": {
-    "games": 842,
+    "games": 844,
     "by_made_with": {
-      "opus-5.5": 338,
+      "opus-5.5": 339,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
       "unknown": 407,
-      "gemini-4-argon": 6
+      "gemini-4-argon": 7
     }
   }
 }
