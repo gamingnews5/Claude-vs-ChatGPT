@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-11-04T08:49:28+07:00",
+  "updated_at": "2026-11-05",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
+    {
+      "id": "sumiro",
+      "title": "Sumiro",
+      "description": "Ink-wash mountain 3D puzzle-platformer: explore painted peaks, solve parkour puzzles, and fight as the levels grow. Built in 24 hours with Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js by @xikhar.",
+      "play_url": "https://xikhar.github.io/sumiro/",
+      "source_url": "https://x.com/xikhar/status/2117776295534997818",
+      "found_via": "X @xikhar 24h Opus 5.5 ink-wash game Sumiro",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "engine_detail": "Three.js + Blender + Tripo (Opus 5.5)",
+      "author": "xikhar",
+      "x_handle": "xikhar",
+      "likes_source_url": "https://x.com/xikhar/status/2117776295534997818",
+      "remote_likes": 7750,
+      "likes_source": "x",
+      "comment_count": 476,
+      "likes_checked": "2026-11-05",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "puzzle",
+        "adventure",
+        "platformer"
+      ],
+      "video_path": "videos/sumiro.mp4",
+      "video_poster": "videos/sumiro.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/xikhar/status/2117776295534997818",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117773784031932416/vid/avc1/1280x720/7QVraJPjyuEc6-OP.mp4",
+      "videos": [
+        {
+          "path": "videos/sumiro.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X clip trimmed 97s->30s from t=5s H.264 720p CRF28 +faststart; poster at t=12s",
+      "screenshot_path": "videos/sumiro.jpg",
+      "screenshot_score": 8.1,
+      "screenshot_score_notes": "multi-frame: ink-wash mountains, cloth-physics hero parkour across painted cliffs, puzzle rooms with soft brush textures; distinctive look and readable loop. Rated from creator clip frames.",
+      "checked_at": "2026-11-05",
+      "check_result": "working",
+      "added_at": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
+    {
+      "id": "harbourline",
+      "title": "HarbourLine",
+      "description": "Cozy free harbor/port-building sim: start with one crane and a fishing wharf and grow into an automated megaport. Roads, cranes, customs, rail, and dock labour. Built with Claude Code / Opus 5.5 by @BenjaminDEKR.",
+      "play_url": "https://simharbor.net/",
+      "source_url": "https://x.com/BenjaminDEKR/status/2117042700872802448",
+      "found_via": "X @BenjaminDEKR HarbourLine Opus 5.5 port sim",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": null,
+      "author": "BenjaminDEKR",
+      "x_handle": "BenjaminDEKR",
+      "likes_source_url": "https://x.com/BenjaminDEKR/status/2117042700872802448",
+      "remote_likes": 112,
+      "likes_source": "x",
+      "comment_count": 38,
+      "likes_checked": "2026-11-05",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "simulation",
+        "cozy"
+      ],
+      "video_path": "videos/harbourline.mp4",
+      "video_poster": "videos/harbourline.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/BenjaminDEKR/status/2117042700872802448",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117041929737093120/vid/avc1/1280x720/8Q8QnhL1HNk2cks8.mp4",
+      "videos": [
+        {
+          "path": "videos/harbourline.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer 30s H.264 720p CRF28 +faststart; poster at t=8s",
+      "screenshot_path": "videos/harbourline.jpg",
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "multi-frame: top-down port with cranes, ships, truck traffic and night lighting as the harbor grows; clear cozy-sim loop. Rated from creator trailer frames.",
+      "checked_at": "2026-11-05",
+      "check_result": "working",
+      "added_at": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
     {
       "id": "pelican-bicycle-adventure",
       "title": "Pelican Bicycle Adventure",
@@ -1376,7 +1472,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "shooter"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1402,7 +1499,7 @@
       "page_url": "https://sangoku.tokyoaivisuals.club/",
       "iframe": true,
       "iframe_block_reason": null,
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -1475,8 +1572,11 @@
         "mobile",
         "touch"
       ],
-      "checked_at": "2026-11-04",
-      "check_result": "working"
+      "checked_at": "2026-11-05",
+      "check_result": "working",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "fang-the-fox",
@@ -1517,7 +1617,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1564,7 +1665,7 @@
       "video_source": "feed-local",
       "remote_likes": 3,
       "likes_source": "x",
-      "checked_at": "2026-10-30",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "tags": [
         "mobile",
@@ -1667,7 +1768,11 @@
       "likes_source": "x",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sandbox",
+        "adventure"
+      ]
     },
     {
       "id": "cozy-cove",
@@ -1765,7 +1870,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "puzzle"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1789,7 +1895,10 @@
       "remote_likes": 1790,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "demo"
+      ]
     },
     {
       "id": "hyperbrick",
@@ -2208,7 +2317,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "racing"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2253,7 +2363,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "cozy"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2340,7 +2451,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "shooter"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2391,7 +2503,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "fighting"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2441,7 +2554,10 @@
       "page_url": "https://golden-hour-gp.mindblown.ai",
       "checked_at": "2026-10-31",
       "check_result": "working",
-      "engine_detail": "mindblown.ai"
+      "engine_detail": "mindblown.ai",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "chill-race",
@@ -2486,7 +2602,7 @@
       "tags": [
         "mobile"
       ],
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "play_url_note": "Low FPS reported on some devices"
     },
@@ -2510,7 +2626,11 @@
       "remote_likes": 13,
       "likes_source": "x",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "fighting"
+      ]
     },
     {
       "id": "orbital-garden",
@@ -2552,7 +2672,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "sandbox"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2597,7 +2718,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "idle"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2641,7 +2763,10 @@
         }
       ],
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy"
+      ]
     },
     {
       "id": "noclipped",
@@ -2662,7 +2787,7 @@
       "video_source": "feed-local",
       "remote_likes": 230,
       "likes_source": "x",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -4534,7 +4659,7 @@
       "tags": [
         "soonlab"
       ],
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "wrapper_only",
       "play_url_note": "SoonLab wrapper page: banners, then Play Now starts the game",
       "check_note": "Igor marked broken; loads only inside soonlab page with promo popups"
@@ -5809,7 +5934,7 @@
       "comment_count": 0,
       "likes_checked": "2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
@@ -9513,7 +9638,7 @@
       ],
       "screenshot_score": 4.0,
       "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered. | report: Igor marked broken; page loads to LOG IN / PLAY NOW, account needed to play (2026-11-01)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "needs_login",
       "requires_login": true
     },
@@ -11901,7 +12026,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://vibecodedgames.itch.io/pavement",
-      "embed_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591"
+      "embed_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "minnows-den",
@@ -11945,7 +12072,9 @@
         "itchio"
       ],
       "page_url": "https://agentbutterbear.itch.io/minnows-den",
-      "needs_isolation": true
+      "needs_isolation": true,
+      "checked_at": "2026-11-05",
+      "check_result": "timeout"
     },
     {
       "id": "shapeleon",
@@ -11985,7 +12114,9 @@
         }
       ],
       "screenshot_score": 6,
-      "screenshot_score_notes": "Bright pastel sky with cute blob and cube characters and a 'Become what you catch' banner; cheerful and clear, light on level detail."
+      "screenshot_score_notes": "Bright pastel sky with cute blob and cube characters and a 'Become what you catch' banner; cheerful and clear, light on level detail.",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "saucerjam",
@@ -12033,7 +12164,9 @@
         "itchio"
       ],
       "page_url": "https://menezmethod.itch.io/saucerjam",
-      "embed_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002"
+      "embed_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002",
+      "checked_at": "2026-11-05",
+      "check_result": "timeout"
     },
     {
       "id": "splat-spree",
@@ -12073,7 +12206,9 @@
       ],
       "screenshot_score": 5,
       "screenshot_score_notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat.",
-      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12"
+      "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "turfwar-taipei",
@@ -12112,7 +12247,9 @@
       ],
       "screenshot_score": 5,
       "screenshot_score_notes": "Trailer frame of a soldier climbing the side of Taipei 101 with a 'No ropes. Just a rifle.' caption; dramatic but dark and blurry.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "titan-royale",
@@ -12158,7 +12295,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://aruvez.itch.io/titan-royale",
-      "embed_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481"
+      "embed_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "cardboard-conquest",
@@ -12205,7 +12344,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://thepaulbooth.itch.io/cardboard-conquest",
-      "needs_isolation": true
+      "needs_isolation": true,
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "ripple-pool",
@@ -12245,7 +12386,9 @@
       ],
       "screenshot_score": 5,
       "screenshot_score_notes": "Dark promo frame of a phone showing a ring of colored orbs next to 'Take the calm with you.'; sleek but more ad than gameplay.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "tweet-obby",
@@ -12300,7 +12443,9 @@
       "screenshot_score_notes": "screenshots: rated from 5 screenshots - Roblox-style obby: blocky avatar on floating grey platforms with blue/yellow gates and green pads over clouds; clean but bare primitives.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "neon-snake-spawn",
@@ -12370,7 +12515,9 @@
       "tags": [
         "spawn"
       ],
-      "engine_detail": "Spawn"
+      "engine_detail": "Spawn",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "starship-hearth",
@@ -12411,7 +12558,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Hearthstone-like board with hero portraits, minions and a hand of cards inside a purple phone frame; recognisable, but small and framed.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "bug-pig-pogo",
@@ -12451,7 +12600,9 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Vertical neon synthwave screen with a pink pig on a pogo spring and a TAP TO POGO prompt; cute and clear but narrow."
+      "screenshot_score_notes": "Vertical neon synthwave screen with a pink pig on a pogo spring and a TAP TO POGO prompt; cute and clear but narrow.",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "tweety-flap",
@@ -12506,7 +12657,9 @@
       "screenshot_score_notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-05",
+      "check_result": "broken"
     },
     {
       "id": "sky-reach",
@@ -12694,7 +12847,9 @@
         "tesana"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://tesana.com/game/sky-reach"
+      "page_url": "https://tesana.com/game/sky-reach",
+      "checked_at": "2026-11-05",
+      "check_result": "working"
     },
     {
       "id": "skyforge",
@@ -13509,7 +13664,7 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "engine_detail": "Ryft"
     },
@@ -18520,7 +18675,7 @@
           "created_at": "2026-10-12T07:19:13Z"
         }
       ],
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "tags": [
         "vibegamedev"
@@ -22366,7 +22521,7 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -24869,7 +25024,7 @@
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -28367,7 +28522,7 @@
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T01:55:55Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "engine_detail": "ReXGlue SDK"
     },
@@ -30150,8 +30305,8 @@
           "notes": "admin: Igor set 9.6 on 2026-11-02; Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
       ],
-      "screenshot_score": 9.6,
-      "screenshot_score_notes": "admin: Igor set 9.6 on 2026-11-02; Dark bunkers, a glowing generator machine and snowy exteriors with first-person guns and round counter; atmospheric. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 8.3,
+      "screenshot_score_notes": "admin: Igor set 8.3 on 2026-11-04",
       "found_via_network": "reddit",
       "author": "Aggravating_Fun_3912",
       "author_source": "https://www.reddit.com/user/Aggravating_Fun_3912/",
@@ -30305,8 +30460,8 @@
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-17T01:30:00.000Z",
       "published_at": "2026-10-16T13:36:34Z",
-      "notes": "admin: Igor set 9.6 on 2026-11-02",
-      "checked_at": "2026-11-04",
+      "notes": "admin: Igor set 8.3 on 2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "play_url_note": "Controls complaints reported; game loads in browser"
     },
@@ -35946,7 +36101,7 @@
       "last_seen": "2026-10-19T01:30:00.000Z",
       "published_at": "2026-10-17T02:03:27.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -47090,7 +47245,7 @@
         "sandscape"
       ],
       "page_url": "https://sandscape.app/play?g=bUGWGMNl&game_source=direct_or_unknown&play=1",
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working",
       "play_url_note": "Best in landscape or on desktop; small in portrait on phones",
       "engine_detail": "Sandscape"
@@ -52604,7 +52759,7 @@
       "published_at": "2026-10-26T23:17:52.000Z",
       "author_note": "Poster @prodsystems_ shared it; the creator is described only as a solo developer in Korea.",
       "tags": [],
-      "checked_at": "2026-11-04",
+      "checked_at": "2026-11-05",
       "check_result": "working"
     },
     {
@@ -59161,29 +59316,38 @@
       ],
       "tags": [
         "daily",
-        "leaderboard"
+        "leaderboard",
+        "screenshots"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
-      "screenshot_path": "screenshots/powder-kings-1.jpg",
+      "screenshot_path": "screenshots/powder-kings-0.jpg",
       "screenshots": [
         {
+          "path": "screenshots/powder-kings-0.jpg",
+          "source": "headless",
+          "score": 6.0,
+          "notes": "multi-frame: snowy Powder Kings start/leaderboard then pink-suited rider on the slope with gates; clean readable start loop. Rated from 5 headless screenshots 2026-11-05 backlog."
+        },
+        {
           "path": "screenshots/powder-kings-1.jpg",
-          "source": "headless-browser",
-          "score": 6,
-          "notes": "multi-frame: Bright snowy course behind a Welcome to Powder Kings panel with the Kings of Today leaderboard, then the pink-suited rider dropping onto the slope with gates ahead; clean and readable, headless capture stayed mostly on the start screen. Rated from 3 screenshots."
+          "source": "headless"
         },
         {
           "path": "screenshots/powder-kings-2.jpg",
-          "source": "headless-browser"
+          "source": "headless"
         },
         {
           "path": "screenshots/powder-kings-3.jpg",
-          "source": "headless-browser"
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/powder-kings-4.jpg",
+          "source": "headless"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Bright snowy course behind a Welcome to Powder Kings panel with the Kings of Today leaderboard, then the pink-suited rider dropping onto the slope with gates ahead; clean and readable, headless capture stayed mostly on the start screen. Rated from 3 screenshots.",
+      "screenshot_score": 6.0,
+      "screenshot_score_notes": "multi-frame: snowy Powder Kings start/leaderboard then pink-suited rider on the slope with gates; clean readable start loop. Rated from 5 headless screenshots 2026-11-05 backlog.",
       "found_via_network": "reddit",
       "author": "turnerskizzle",
       "author_source": "https://www.reddit.com/user/turnerskizzle/",
@@ -59592,29 +59756,38 @@
       ],
       "tags": [
         "multiplayer",
-        "italian"
+        "italian",
+        "screenshots"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
-      "screenshot_path": "screenshots/italian-brawls-1.jpg",
+      "screenshot_path": "screenshots/italian-brawls-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/italian-brawls-1.jpg",
-          "source": "headless-browser",
+          "path": "screenshots/italian-brawls-0.jpg",
+          "source": "headless",
           "score": 5.5,
-          "notes": "multi-frame: Cartoon key art with PRESS ANY KEY, then the Pick Your Fight menu (VS CPU, online) over the brawling caricatures; lively art, no fight captured. Rated from 3 screenshots."
+          "notes": "multi-frame: cartoon Italian brawler key art PRESS ANY KEY into Pick Your Fight menu; lively caricatures, fight not captured. Rated from 5 headless screenshots 2026-11-05 backlog."
+        },
+        {
+          "path": "screenshots/italian-brawls-1.jpg",
+          "source": "headless"
         },
         {
           "path": "screenshots/italian-brawls-2.jpg",
-          "source": "headless-browser"
+          "source": "headless"
         },
         {
           "path": "screenshots/italian-brawls-3.jpg",
-          "source": "headless-browser"
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/italian-brawls-4.jpg",
+          "source": "headless"
         }
       ],
       "screenshot_score": 5.5,
-      "screenshot_score_notes": "multi-frame: Cartoon key art with PRESS ANY KEY, then the Pick Your Fight menu (VS CPU, online) over the brawling caricatures; lively art, no fight captured. Rated from 3 screenshots.",
+      "screenshot_score_notes": "multi-frame: cartoon Italian brawler key art PRESS ANY KEY into Pick Your Fight menu; lively caricatures, fight not captured. Rated from 5 headless screenshots 2026-11-05 backlog.",
       "found_via_network": "reddit",
       "author": "FraffoD",
       "author_source": "https://www.reddit.com/user/FraffoD/",
@@ -59909,25 +60082,38 @@
       ],
       "tags": [
         "multiplayer",
-        "space"
+        "space",
+        "screenshots"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
-      "screenshot_path": "screenshots/selene-1.jpg",
+      "screenshot_path": "screenshots/selene-0.jpg",
       "screenshots": [
         {
+          "path": "screenshots/selene-0.jpg",
+          "source": "headless",
+          "score": 5.0,
+          "notes": "multi-frame: greyscale lunar landing \"A world beneath your boots\"; elegant title art but gameplay not reached (frames nearly identical). Rated from 5 headless screenshots 2026-11-05 backlog."
+        },
+        {
           "path": "screenshots/selene-1.jpg",
-          "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Greyscale lunar landscape behind an \"A world beneath your boots\" landing with Step onto the Moon; elegant, but only the landing was captured. Rated from 2 screenshots."
+          "source": "headless"
         },
         {
           "path": "screenshots/selene-2.jpg",
-          "source": "headless-browser"
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/selene-3.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/selene-4.jpg",
+          "source": "headless"
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Greyscale lunar landscape behind an \"A world beneath your boots\" landing with Step onto the Moon; elegant, but only the landing was captured. Rated from 2 screenshots.",
+      "screenshot_score": 5.0,
+      "screenshot_score_notes": "multi-frame: greyscale lunar landing \"A world beneath your boots\"; elegant title art but gameplay not reached (frames nearly identical). Rated from 5 headless screenshots 2026-11-05 backlog.",
       "found_via_network": "reddit",
       "author": "Minute-Side-4300",
       "author_source": "https://www.reddit.com/user/Minute-Side-4300/",
@@ -59976,16 +60162,33 @@
       ],
       "checked_at": "2026-11-04",
       "check_result": "working",
-      "screenshot_path": "screenshots/fawe-arena-1.jpg",
+      "screenshot_path": "screenshots/fawe-arena-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/fawe-arena-1.jpg",
+          "path": "screenshots/fawe-arena-0.jpg",
           "source": "headless",
-          "score": 3.2
+          "score": 3.5,
+          "notes": "multi-frame: FAWE Arena card UI; mostly static/menu capture so limited score. Rated from 5 headless screenshots 2026-11-05 backlog."
+        },
+        {
+          "path": "screenshots/fawe-arena-1.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/fawe-arena-2.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/fawe-arena-3.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/fawe-arena-4.jpg",
+          "source": "headless"
         }
       ],
-      "screenshot_score": 3.2,
-      "screenshot_score_notes": "screenshots: single stylized FAWE logo title card on black; no gameplay frames captured (identical repeats).",
+      "screenshot_score": 3.5,
+      "screenshot_score_notes": "multi-frame: FAWE Arena card UI; mostly static/menu capture so limited score. Rated from 5 headless screenshots 2026-11-05 backlog.",
       "found_via_network": "reddit",
       "author": "cnaize42",
       "author_source": "https://www.reddit.com/user/cnaize42/",
@@ -62186,25 +62389,38 @@
       ],
       "tags": [
         "multiplayer",
-        "hockey"
+        "hockey",
+        "screenshots"
       ],
       "checked_at": "2026-11-01",
       "check_result": "working",
-      "screenshot_path": "screenshots/puckit-1.jpg",
+      "screenshot_path": "screenshots/puckit-0.jpg",
       "screenshots": [
         {
+          "path": "screenshots/puckit-0.jpg",
+          "source": "headless",
+          "score": 6.0,
+          "notes": "multi-frame: pixel-art Puckit hub with live 3v3 rink preview and Ranked/Pickup cards; match itself hung headless so mostly hub. Rated from 5 headless screenshots 2026-11-05 backlog."
+        },
+        {
           "path": "screenshots/puckit-1.jpg",
-          "source": "headless-browser",
-          "score": 6,
-          "notes": "multi-frame: Pixel-art hub with a live 3v3 rink preview, PLAY NOW panel and Ranked/Pickup/Private/Franchise cards; lively, but headless screenshots hung once a match started, so only the hub was captured. Rated from 2 screenshots."
+          "source": "headless"
         },
         {
           "path": "screenshots/puckit-2.jpg",
-          "source": "headless-browser"
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/puckit-3.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/puckit-4.jpg",
+          "source": "headless"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Pixel-art hub with a live 3v3 rink preview, PLAY NOW panel and Ranked/Pickup/Private/Franchise cards; lively, but headless screenshots hung once a match started, so only the hub was captured. Rated from 2 screenshots.",
+      "screenshot_score": 6.0,
+      "screenshot_score_notes": "multi-frame: pixel-art Puckit hub with live 3v3 rink preview and Ranked/Pickup cards; match itself hung headless so mostly hub. Rated from 5 headless screenshots 2026-11-05 backlog.",
       "found_via_network": "reddit",
       "author": "Leafsin7even",
       "author_source": "https://www.reddit.com/user/Leafsin7even/",
@@ -67049,9 +67265,9 @@
     }
   ],
   "totals": {
-    "games": 844,
+    "games": 846,
     "by_made_with": {
-      "opus-5.5": 339,
+      "opus-5.5": 341,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
