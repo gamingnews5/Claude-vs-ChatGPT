@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05",
+  "updated_at": "2026-11-06T02:15:00.000Z",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -735,7 +735,8 @@
       "remote_likes": 9,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "racing"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -831,7 +832,10 @@
       "remote_likes": 14,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "needs_login"
+      "check_result": "needs_login",
+      "tags": [
+        "demo"
+      ]
     },
     {
       "id": "ozomatli",
@@ -1093,7 +1097,10 @@
       "remote_likes": 3,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "puzzle"
+      ]
     },
     {
       "id": "discodino-lost-worlds",
@@ -1398,7 +1405,10 @@
         }
       ],
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "fierro",
@@ -1500,7 +1510,10 @@
       "iframe": true,
       "iframe_block_reason": null,
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "cards"
+      ]
     },
     {
       "id": "sukhna-lake",
@@ -1644,7 +1657,10 @@
       "likes_source": "x",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "demo"
+      ]
     },
     {
       "id": "jiggle-buddies",
@@ -1692,7 +1708,8 @@
       "remote_likes": 11,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "shooter"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1717,7 +1734,8 @@
       "remote_likes": 33,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "racing"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1742,7 +1760,8 @@
       "remote_likes": 183,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "racing"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -2579,7 +2598,10 @@
       "remote_likes": 4,
       "likes_source": "x",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "paperroute",
@@ -2788,7 +2810,10 @@
       "remote_likes": 230,
       "likes_source": "x",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "horror"
+      ]
     },
     {
       "id": "sprout-quest",
@@ -2832,7 +2857,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "rpg",
+        "fighting"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2989,7 +3016,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "racing"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3040,7 +3068,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "racing"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3178,7 +3207,10 @@
       "iframe": true,
       "iframe_block_reason": null,
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "retro"
+      ]
     },
     {
       "id": "derelict",
@@ -9038,49 +9070,6 @@
       "check_result": "working"
     },
     {
-      "id": "lion-city-life",
-      "title": "Lion City Life",
-      "description": "Story game about a grandson, Ah Ma's chicken rice recipe, and Singapore — free in the browser. Made with Claude Opus 5.5 (RahulBhola5516).",
-      "play_url": "https://lioncitylife.vercel.app/",
-      "source_url": "https://x.com/RahulBhola5516/status/2106470475811762630",
-      "found_via": "X @RahulBhola5516 Opus 5.5 Lion City Life",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "engine": "Three.js",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "story",
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "remote_likes": 4,
-      "likes_source": "x",
-      "first_seen": "2026-10-04T01:42:38.000Z",
-      "last_seen": "2026-10-04T01:42:38.000Z",
-      "video_path": "videos/lion-city-life-v2-30s.mp4",
-      "video_source": "scan-intake",
-      "videos": [
-        {
-          "path": "videos/lion-city-life-v2-30s.mp4",
-          "source": "scan-intake"
-        }
-      ],
-      "screenshot_path": "videos/lion-city-life-v2-30s.jpg",
-      "screenshots": [
-        {
-          "path": "videos/lion-city-life-v2.jpg",
-          "score": 5.7,
-          "notes": "The stored poster is a pure black frame; a later clip still shows a simple blocky traveler in an arrivals hall, readable but flat, blown out, and letterboxed."
-        }
-      ],
-      "screenshot_score": 5.7,
-      "screenshot_score_notes": "The stored poster is a pure black frame; a later clip still shows a simple blocky traveler in an arrivals hall, readable but flat, blown out, and letterboxed.",
-      "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-02",
-      "check_result": "broken"
-    },
-    {
       "id": "snowboard-supreme",
       "title": "Snowboard Supreme",
       "description": "Browser snowboarding game with procedural generation and volumetric lighting upgraded by Claude Opus 5.5 (kidkenney).",
@@ -11127,70 +11116,6 @@
       "check_result": "working"
     },
     {
-      "id": "rise-and-raid",
-      "title": "Rise & Raid",
-      "description": "Kingdom strategy game: build your village, raise an army and raid enemies; web test playable as guest ahead of a Google Play release. Built with Claude Opus 5.5 (efeislekel / Anemon Creative).",
-      "play_url": "https://riseandraid.anemoncreative.com/",
-      "source_url": "https://x.com/efeislekel/status/2107531682475565085",
-      "found_via": "X @efeislekel Opus 5.5 Rise & Raid web test",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "strategy",
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "remote_likes": 3,
-      "likes_source": "x",
-      "first_seen": "2026-10-07T01:58:22.000Z",
-      "last_seen": "2026-10-08T02:30:00.000Z",
-      "screenshot_path": "screenshots/298-rise-and-raid.jpg",
-      "screenshots": [
-        {
-          "path": "screenshots/298-rise-and-raid.jpg",
-          "score": 5,
-          "notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots."
-        },
-        {
-          "path": "screenshots/rise-and-raid-1.jpg",
-          "source": "headless-browser"
-        },
-        {
-          "path": "screenshots/rise-and-raid-2.jpg",
-          "source": "headless-browser"
-        },
-        {
-          "path": "screenshots/rise-and-raid-3.jpg",
-          "source": "headless-browser"
-        },
-        {
-          "path": "screenshots/rise-and-raid-4.jpg",
-          "source": "headless-browser"
-        }
-      ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots.",
-      "likes_source_url": "https://x.com/i/status/2107531682475565085",
-      "comment_count": 1,
-      "likes_checked": "2026-10-12",
-      "comments": [
-        {
-          "author": "GamePixDev",
-          "text": "@efeislekel If this is just a test, we're thrilled for the real kingdom-building and raiding thing!! 🏹 Any chance you'd want to put it on @GamePix? No rush, the details are here: https://t.co/AZWDYkqHdR",
-          "likes": 0,
-          "url": "https://x.com/GamePixDev/status/2107764483942916115",
-          "created_at": "2026-10-07T09:26:27Z"
-        }
-      ],
-      "tags": [
-        "screenshots"
-      ],
-      "checked_at": "2026-11-04",
-      "check_result": "broken"
-    },
-    {
       "id": "bay-ride",
       "title": "Bay Ride",
       "description": "Painted-seaside boat ride: glide across a calm bay at sunset. Claude Opus 5.5 took 90,000 screenshots of its own game over two days and kept fixing what looked wrong (prasenx).",
@@ -12073,8 +11998,8 @@
       ],
       "page_url": "https://agentbutterbear.itch.io/minnows-den",
       "needs_isolation": true,
-      "checked_at": "2026-11-05",
-      "check_result": "timeout"
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "shapeleon",
@@ -12165,8 +12090,8 @@
       ],
       "page_url": "https://menezmethod.itch.io/saucerjam",
       "embed_url": "https://html-classic.itch.zone/html/19626878/index.html?v=1791419002",
-      "checked_at": "2026-11-05",
-      "check_result": "timeout"
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "splat-spree",
@@ -12605,63 +12530,6 @@
       "check_result": "working"
     },
     {
-      "id": "tweety-flap",
-      "title": "Tweety Flap",
-      "description": "Multiplayer Flappy Bird remix you can play in an X post: pick a bird and your handle and flap through pipes with others. OpenAI's Dots agents running Anthropic's Opus 5.5 built it in 30 minutes (me_barnyx).",
-      "play_url": "https://tweety-flap-production.up.railway.app/",
-      "source_url": "https://x.com/me_barnyx/status/2107880770006057242",
-      "found_via": "X @me_barnyx Opus 5.5 Tweety Flap",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "iframe": true,
-      "iframe_block_reason": null,
-      "category": "arcade",
-      "platforms": [
-        "desktop",
-        "mobile"
-      ],
-      "remote_likes": 46,
-      "likes_source": "x",
-      "first_seen": "2026-10-08T02:30:00.000Z",
-      "last_seen": "2026-10-08T02:30:00.000Z",
-      "screenshot_path": "screenshots/tweety-flap-1.jpg",
-      "screenshots": [
-        {
-          "path": "screenshots/tweety-flap-1.jpg",
-          "source": "headless",
-          "score": 3,
-          "notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic."
-        },
-        {
-          "path": "screenshots/tweety-flap-2.jpg",
-          "source": "headless",
-          "score": 3
-        },
-        {
-          "path": "screenshots/tweety-flap-3.jpg",
-          "source": "headless",
-          "score": 3
-        },
-        {
-          "path": "screenshots/tweety-flap-4.jpg",
-          "source": "headless",
-          "score": 3
-        },
-        {
-          "path": "screenshots/tweety-flap-5.jpg",
-          "source": "headless",
-          "score": 3
-        }
-      ],
-      "screenshot_score": 3,
-      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic.",
-      "tags": [
-        "screenshots"
-      ],
-      "checked_at": "2026-11-05",
-      "check_result": "broken"
-    },
-    {
       "id": "sky-reach",
       "title": "Sky Reach",
       "description": "No Man's Sky style browser space game: fly a battered starship over planets, moons and a Ringworld, chase beacons for warp cores, fight sandworms and walkers on the ground and join space battles with 1000-player multiplayer. Built with Opus 5.5 and three.js on Tesana (Rubzem).",
@@ -12898,7 +12766,9 @@
         "playtest",
         "screenshots"
       ],
-      "page_url": "https://www.playtest.win/games/skyforge"
+      "page_url": "https://www.playtest.win/games/skyforge",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "dust-2-dm-spawn",
@@ -12941,7 +12811,9 @@
       "tags": [
         "spawn"
       ],
-      "engine_detail": "Spawn"
+      "engine_detail": "Spawn",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "endless-drive",
@@ -12981,7 +12853,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Black-and-white view through a car windshield into falling snow and pines with a dreamcatcher hanging; atmospheric but grainy.",
-      "comment_count": 5
+      "comment_count": 5,
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "flap-nyc",
@@ -13040,7 +12914,9 @@
           "url": "https://x.com/GamePixDev/status/2108476930450477503",
           "created_at": "2026-10-09T08:37:28Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "clawd-rpg",
@@ -13080,7 +12956,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Trailer frame of a 3D action scene with Clawd; readable action, a bit dark.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "pixshard",
@@ -13121,7 +12999,9 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "Isometric pixel night meadow with Ranger Jansen fighting elite slimes and a full RPG HUD; busy but vivid.",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://pixshard.com/"
+      "page_url": "https://pixshard.com/",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "pokeup",
@@ -13164,7 +13044,9 @@
       "screenshot_score_notes": "Vertical climb teaser with Pokémon silhouettes; energetic but small and mobile-framed.",
       "likes_source_url": "https://x.com/i/status/2108309121661366390",
       "comment_count": 0,
-      "likes_checked": "2026-10-12"
+      "likes_checked": "2026-10-12",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "gigacity",
@@ -13206,7 +13088,9 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "tags": [
         "demo"
-      ]
+      ],
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "doorstep",
@@ -13247,7 +13131,9 @@
       ],
       "screenshot_score": 5,
       "screenshot_score_notes": "Postcode tower-defence trailer frame; readable concept, average polish.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "git-city-towns",
@@ -13285,7 +13171,9 @@
         }
       ],
       "screenshot_score": 5,
-      "screenshot_score_notes": "Town-builder trailer frame; clear but not flashy."
+      "screenshot_score_notes": "Town-builder trailer frame; clear but not flashy.",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "lanterns-of-aldermere",
@@ -13427,7 +13315,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
-      "embed_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927"
+      "embed_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927",
+      "checked_at": "2026-11-06",
+      "check_result": "broken"
     },
     {
       "id": "grand-total-anarchy",
@@ -13467,7 +13357,9 @@
       ],
       "screenshot_score": 7,
       "screenshot_score_notes": "Bright low-poly Palm Bay beach city with palm boardwalk and toy cars; clear open-world showcase.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "kingbots",
@@ -13517,7 +13409,9 @@
       "screenshot_score_notes": "multi-frame: A pink mech robot standing in a dark, grassy night field under a spotlight with a Deploy button; moody but sparse. Rated from 5 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-06",
+      "check_result": "timeout"
     },
     {
       "id": "deadlight",
@@ -13569,7 +13463,9 @@
         "imaginestudio",
         "screenshots"
       ],
-      "page_url": "https://imaginestudio.fun/play?game=deadlight"
+      "page_url": "https://imaginestudio.fun/play?game=deadlight",
+      "checked_at": "2026-11-06",
+      "check_result": "working"
     },
     {
       "id": "last-lantern",
@@ -13616,7 +13512,9 @@
       "tags": [
         "screenshots"
       ],
-      "page_url": "https://newkrok.com/gamer-zone/last-lantern"
+      "page_url": "https://newkrok.com/gamer-zone/last-lantern",
+      "checked_at": "2026-11-06",
+      "check_result": "broken"
     },
     {
       "id": "ai-death-battle-2",
@@ -60675,13 +60573,17 @@
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
-      "screenshot_path": "screenshots/causos-da-mata-1.jpg",
+      "screenshot_path": "screenshots/causos-da-mata-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/causos-da-mata-1.jpg",
+          "path": "screenshots/causos-da-mata-0.jpg",
           "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Pixel riverbank campfire scene with the creature list (Saci and locked ??? slots) and a lore panel; tidy idle-game UI, little motion. Rated from 3 screenshots."
+          "score": 6.6,
+          "notes": "multi-frame: Brazilian idle/forest framing from backlog shots."
+        },
+        {
+          "path": "screenshots/causos-da-mata-1.jpg",
+          "source": "headless-browser"
         },
         {
           "path": "screenshots/causos-da-mata-2.jpg",
@@ -60692,8 +60594,8 @@
           "source": "headless-browser"
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Pixel riverbank campfire scene with the creature list (Saci and locked ??? slots) and a lore panel; tidy idle-game UI, little motion. Rated from 3 screenshots.",
+      "screenshot_score": 6.6,
+      "screenshot_score_notes": "multi-frame: Brazilian idle/forest framing from backlog shots. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "jp-amis",
       "author_source": "https://www.reddit.com/user/jp-amis/",
@@ -65485,13 +65387,17 @@
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "screenshot_path": "screenshots/dailysalami-1.jpg",
+      "screenshot_path": "screenshots/dailysalami-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/dailysalami-1.jpg",
+          "path": "screenshots/dailysalami-0.jpg",
           "source": "headless-browser",
-          "score": 6,
-          "notes": "multi-frame: White \"Daily Salami\" page showing objects (pawn, cup, spinning top) sliced by a plane next to their cross-section, then a dark 3D view; clever and clear. Rated from 3 screenshots."
+          "score": 6.3,
+          "notes": "multi-frame: daily salami puzzle UI frames from backlog shots."
+        },
+        {
+          "path": "screenshots/dailysalami-1.jpg",
+          "source": "headless-browser"
         },
         {
           "path": "screenshots/dailysalami-2.jpg",
@@ -65502,8 +65408,8 @@
           "source": "headless-browser"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: White \"Daily Salami\" page showing objects (pawn, cup, spinning top) sliced by a plane next to their cross-section, then a dark 3D view; clever and clear. Rated from 3 screenshots.",
+      "screenshot_score": 6.3,
+      "screenshot_score_notes": "multi-frame: daily salami puzzle UI frames from backlog shots. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "beigaleh",
       "author_source": "https://www.reddit.com/user/beigaleh/",
@@ -66180,21 +66086,29 @@
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "screenshot_path": "screenshots/splitle-1.jpg",
+      "screenshot_path": "screenshots/splitle-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/splitle-1.jpg",
+          "path": "screenshots/splitle-0.jpg",
           "source": "headless-browser",
-          "score": 5,
-          "notes": "multi-frame: Map of Sweden with a split prompt, then a \"How to play\" card; clean, simple. Rated from 2 screenshots."
+          "score": 6.2,
+          "notes": "multi-frame: split-puzzle UI and board frames from backlog shots."
+        },
+        {
+          "path": "screenshots/splitle-1.jpg",
+          "source": "headless-browser"
         },
         {
           "path": "screenshots/splitle-2.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/splitle-3.jpg",
+          "source": "headless-browser"
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "multi-frame: Map of Sweden with a split prompt, then a \"How to play\" card; clean, simple. Rated from 2 screenshots.",
+      "screenshot_score": 6.2,
+      "screenshot_score_notes": "multi-frame: split-puzzle UI and board frames from backlog shots. Rated from 4 screenshots.",
       "found_via_network": "reddit",
       "author": "Alive_Shock_2343",
       "author_source": "https://www.reddit.com/user/Alive_Shock_2343/",
@@ -66454,13 +66368,17 @@
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "screenshot_path": "screenshots/epoch-dash-1.jpg",
+      "screenshot_path": "screenshots/epoch-dash-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/epoch-dash-1.jpg",
+          "path": "screenshots/epoch-dash-0.jpg",
           "source": "headless-browser",
-          "score": 5.5,
-          "notes": "multi-frame: Purple \"THENA\" character card, a big \"GO\" countdown and a runner dodging orbs between glowing pillars with a 0:30 timer; fun spooky look. Rated from 3 screenshots."
+          "score": 6.5,
+          "notes": "multi-frame: endless runner start/play frames from backlog shots."
+        },
+        {
+          "path": "screenshots/epoch-dash-1.jpg",
+          "source": "headless-browser"
         },
         {
           "path": "screenshots/epoch-dash-2.jpg",
@@ -66471,8 +66389,8 @@
           "source": "headless-browser"
         }
       ],
-      "screenshot_score": 5.5,
-      "screenshot_score_notes": "multi-frame: Purple \"THENA\" character card, a big \"GO\" countdown and a runner dodging orbs between glowing pillars with a 0:30 timer; fun spooky look. Rated from 3 screenshots.",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: endless runner start/play frames from backlog shots. Rated from 4 screenshots.",
       "found_via_network": "x",
       "x_handle": "namesjude",
       "author": "namesjude",
@@ -66812,13 +66730,17 @@
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "screenshot_path": "screenshots/pewpewpew-1.jpg",
+      "screenshot_path": "screenshots/pewpewpew-0.jpg",
       "screenshots": [
         {
-          "path": "screenshots/pewpewpew-1.jpg",
+          "path": "screenshots/pewpewpew-0.jpg",
           "source": "headless-browser",
-          "score": 6,
-          "notes": "multi-frame: Dark starfield with glowing ships, a live leaderboard and a Free For All scoreboard; busy real multiplayer. Rated from 3 screenshots."
+          "score": 6.7,
+          "notes": "multi-frame: asteroids-style multiplayer arena frames from backlog shots."
+        },
+        {
+          "path": "screenshots/pewpewpew-1.jpg",
+          "source": "headless-browser"
         },
         {
           "path": "screenshots/pewpewpew-2.jpg",
@@ -66829,8 +66751,8 @@
           "source": "headless-browser"
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "multi-frame: Dark starfield with glowing ships, a live leaderboard and a Free For All scoreboard; busy real multiplayer. Rated from 3 screenshots.",
+      "screenshot_score": 6.7,
+      "screenshot_score_notes": "multi-frame: asteroids-style multiplayer arena frames from backlog shots. Rated from 4 screenshots.",
       "found_via_network": "hackernews",
       "author": "Benjaminsen",
       "author_source": "https://news.ycombinator.com/user?id=Benjaminsen",
@@ -67262,6 +67184,146 @@
       "added_at": "2026-11-04",
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04"
+    },
+    {
+      "id": "airsup-fulfilment-center",
+      "title": "Airsup Fulfilment Center",
+      "description": "Live warehouse sim with 22 aisles: click any order picker and follow it up to the top beam. Every rack, trailer and robot is a free NVIDIA SimReady model. Built with Claude Opus 5.5 on Airsup by @konstantinsaifo.",
+      "play_url": "https://www.airsup.ai/lab/fulfilment-center",
+      "source_url": "https://x.com/konstantinsaifo/status/2117886718062027230",
+      "found_via": "X @konstantinsaifo Opus 5.5 Airsup fulfilment center",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "author": "konstantinsaifo",
+      "x_handle": "konstantinsaifo",
+      "likes_source_url": "https://x.com/konstantinsaifo/status/2117886718062027230",
+      "remote_likes": 280,
+      "likes_source": "x",
+      "comment_count": 13,
+      "likes_checked": "2026-11-06",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "simulation",
+        "strategy"
+      ],
+      "video_path": "videos/airsup-fulfilment-center.mp4",
+      "video_poster": "videos/airsup-fulfilment-center.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/konstantinsaifo/status/2117886718062027230",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117886301047341056/vid/avc1/1280x720/bFhQmEykFEaibfnq.mp4",
+      "videos": [
+        {
+          "path": "videos/airsup-fulfilment-center.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer ~28s H.264 720p CRF28 +faststart; poster at t=8s",
+      "screenshot_path": "videos/airsup-fulfilment-center.jpg",
+      "screenshot_score": 7.4,
+      "screenshot_score_notes": "multi-frame: isometric warehouse with order pickers climbing aisles and NVIDIA SimReady racks; clear sim loop. Rated from creator trailer frames.",
+      "checked_at": "2026-11-06",
+      "check_result": "working",
+      "added_at": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "id": "airsup-paint-shop",
+      "title": "Airsup Car Paint Shop",
+      "description": "Live car paint-shop sim: click any body and follow it from the e-coat dip to the light tunnel. NVIDIA SimReady (CC BY 4.0) models throughout. Built with Claude Opus 5.5 on Airsup by @konstantinsaifo.",
+      "play_url": "https://www.airsup.ai/lab/paint-shop",
+      "source_url": "https://x.com/konstantinsaifo/status/2117985884821970953",
+      "found_via": "X @konstantinsaifo Opus 5.5 Airsup paint shop",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "author": "konstantinsaifo",
+      "x_handle": "konstantinsaifo",
+      "likes_source_url": "https://x.com/konstantinsaifo/status/2117985884821970953",
+      "remote_likes": 94,
+      "likes_source": "x",
+      "comment_count": 7,
+      "likes_checked": "2026-11-06",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "simulation"
+      ],
+      "video_path": "videos/airsup-paint-shop.mp4",
+      "video_poster": "videos/airsup-paint-shop.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/konstantinsaifo/status/2117985884821970953",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117985571947610112/vid/avc1/1280x720/yfMTLVYqK6vWNidB.mp4",
+      "videos": [
+        {
+          "path": "videos/airsup-paint-shop.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer ~28s H.264 720p CRF28 +faststart; poster at t=8s",
+      "screenshot_path": "videos/airsup-paint-shop.jpg",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "multi-frame: paint-shop line with e-coat dip and light tunnel; clear factory-sim framing. Rated from creator trailer frames.",
+      "checked_at": "2026-11-06",
+      "check_result": "working",
+      "added_at": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
+    },
+    {
+      "id": "airsup-car-plant",
+      "title": "Airsup Car Plant",
+      "description": "Live car plant you can play like a strategy game: push the line speed past what the marriage can take, watch cars pile up, then buy a second robot set and chase the bottleneck. Free NVIDIA SimReady models. Built with Claude Opus 5.5 on Airsup by @konstantinsaifo.",
+      "play_url": "https://www.airsup.ai/lab/car-plant",
+      "source_url": "https://x.com/konstantinsaifo/status/2118454837935313228",
+      "found_via": "X @konstantinsaifo Opus 5.5 Airsup car plant",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "author": "konstantinsaifo",
+      "x_handle": "konstantinsaifo",
+      "likes_source_url": "https://x.com/konstantinsaifo/status/2118454837935313228",
+      "remote_likes": 32,
+      "likes_source": "x",
+      "comment_count": 3,
+      "likes_checked": "2026-11-06",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "simulation",
+        "strategy"
+      ],
+      "video_path": "videos/airsup-car-plant.mp4",
+      "video_poster": "videos/airsup-car-plant.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/konstantinsaifo/status/2118454837935313228",
+      "original_video_url": "https://video.twimg.com/amplify_video/2118453230925475840/vid/avc1/1280x720/XWDVXRj3JZ08aCnC.mp4",
+      "videos": [
+        {
+          "path": "videos/airsup-car-plant.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer 30s H.264 720p CRF28 +faststart; poster at t=8s",
+      "screenshot_path": "videos/airsup-car-plant.jpg",
+      "screenshot_score": 7.3,
+      "screenshot_score_notes": "multi-frame: assembly line with robots and bottleneck gameplay; clear strategy-sim loop. Rated from creator trailer frames.",
+      "checked_at": "2026-11-06",
+      "check_result": "working",
+      "added_at": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06"
     }
   ],
   "totals": {
@@ -67274,5 +67336,177 @@
       "unknown": 407,
       "gemini-4-argon": 7
     }
-  }
+  },
+  "removed": [
+    {
+      "id": "tweety-flap",
+      "title": "Tweety Flap",
+      "description": "Multiplayer Flappy Bird remix you can play in an X post: pick a bird and your handle and flap through pipes with others. OpenAI's Dots agents running Anthropic's Opus 5.5 built it in 30 minutes (me_barnyx).",
+      "play_url": "https://tweety-flap-production.up.railway.app/",
+      "source_url": "https://x.com/me_barnyx/status/2107880770006057242",
+      "found_via": "X @me_barnyx Opus 5.5 Tweety Flap",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "arcade",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 46,
+      "likes_source": "x",
+      "first_seen": "2026-10-08T02:30:00.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/tweety-flap-1.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/tweety-flap-1.jpg",
+          "source": "headless",
+          "score": 3,
+          "notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic."
+        },
+        {
+          "path": "screenshots/tweety-flap-2.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-3.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-4.jpg",
+          "source": "headless",
+          "score": 3
+        },
+        {
+          "path": "screenshots/tweety-flap-5.jpg",
+          "source": "headless",
+          "score": 3
+        }
+      ],
+      "screenshot_score": 3,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Flappy Bird clone: small bird between green pipes over a cartoon sky and bushes, score counter; faithful but generic.",
+      "tags": [
+        "screenshots"
+      ],
+      "checked_at": "2026-11-06",
+      "check_result": "broken",
+      "removed_at": "2026-11-06",
+      "removal_reason": "2 strikes broken, no mirror"
+    },
+    {
+      "id": "lion-city-life",
+      "title": "Lion City Life",
+      "description": "Story game about a grandson, Ah Ma's chicken rice recipe, and Singapore — free in the browser. Made with Claude Opus 5.5 (RahulBhola5516).",
+      "play_url": "https://lioncitylife.vercel.app/",
+      "source_url": "https://x.com/RahulBhola5516/status/2106470475811762630",
+      "found_via": "X @RahulBhola5516 Opus 5.5 Lion City Life",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "story",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 4,
+      "likes_source": "x",
+      "first_seen": "2026-10-04T01:42:38.000Z",
+      "last_seen": "2026-10-04T01:42:38.000Z",
+      "video_path": "videos/lion-city-life-v2-30s.mp4",
+      "video_source": "scan-intake",
+      "videos": [
+        {
+          "path": "videos/lion-city-life-v2-30s.mp4",
+          "source": "scan-intake"
+        }
+      ],
+      "screenshot_path": "videos/lion-city-life-v2-30s.jpg",
+      "screenshots": [
+        {
+          "path": "videos/lion-city-life-v2.jpg",
+          "score": 5.7,
+          "notes": "The stored poster is a pure black frame; a later clip still shows a simple blocky traveler in an arrivals hall, readable but flat, blown out, and letterboxed."
+        }
+      ],
+      "screenshot_score": 5.7,
+      "screenshot_score_notes": "The stored poster is a pure black frame; a later clip still shows a simple blocky traveler in an arrivals hall, readable but flat, blown out, and letterboxed.",
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-06",
+      "check_result": "broken",
+      "removed_at": "2026-11-06",
+      "removal_reason": "2 strikes broken, no mirror"
+    },
+    {
+      "id": "rise-and-raid",
+      "title": "Rise & Raid",
+      "description": "Kingdom strategy game: build your village, raise an army and raid enemies; web test playable as guest ahead of a Google Play release. Built with Claude Opus 5.5 (efeislekel / Anemon Creative).",
+      "play_url": "https://riseandraid.anemoncreative.com/",
+      "source_url": "https://x.com/efeislekel/status/2107531682475565085",
+      "found_via": "X @efeislekel Opus 5.5 Rise & Raid web test",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "iframe": true,
+      "iframe_block_reason": null,
+      "category": "strategy",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "remote_likes": 3,
+      "likes_source": "x",
+      "first_seen": "2026-10-07T01:58:22.000Z",
+      "last_seen": "2026-10-08T02:30:00.000Z",
+      "screenshot_path": "screenshots/298-rise-and-raid.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/298-rise-and-raid.jpg",
+          "score": 5,
+          "notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots."
+        },
+        {
+          "path": "screenshots/rise-and-raid-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rise-and-raid-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "multi-frame: Painted Rise & Raid title art over a fantasy valley, then the \"Found your village\" setup panel with banner and colour pickers over a green map; nice art, only setup screens captured. Rated from 5 screenshots.",
+      "likes_source_url": "https://x.com/i/status/2107531682475565085",
+      "comment_count": 1,
+      "likes_checked": "2026-10-12",
+      "comments": [
+        {
+          "author": "GamePixDev",
+          "text": "@efeislekel If this is just a test, we're thrilled for the real kingdom-building and raiding thing!! 🏹 Any chance you'd want to put it on @GamePix? No rush, the details are here: https://t.co/AZWDYkqHdR",
+          "likes": 0,
+          "url": "https://x.com/GamePixDev/status/2107764483942916115",
+          "created_at": "2026-10-07T09:26:27Z"
+        }
+      ],
+      "tags": [
+        "screenshots"
+      ],
+      "checked_at": "2026-11-06",
+      "check_result": "broken",
+      "removed_at": "2026-11-06",
+      "removal_reason": "2 strikes broken, no mirror"
+    }
+  ]
 }
