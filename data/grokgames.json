@@ -1,7 +1,154 @@
 {
-  "updated_at": "2026-11-06T02:15:00.000Z",
+  "updated_at": "2026-11-07T00:00:00+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
+    {
+      "id": "millipool",
+      "title": "Millipool",
+      "description": "Two millipedes made of billiard balls crawl a pool table — shatter them with the cue and pocket every ball. Featured by @threejs.",
+      "play_url": "https://millipool.metalturtle.net/",
+      "source_url": "https://x.com/threejs/status/2117789966294254065",
+      "found_via": "X @threejs feature Millipool by @metalturtle297",
+      "found_via_network": "x-threejs",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "author": "metalturtle297",
+      "x_handle": "metalturtle297",
+      "likes_source_url": "https://x.com/threejs/status/2117789966294254065",
+      "remote_likes": 177,
+      "likes_source": "x",
+      "comment_count": 13,
+      "likes_checked": "2026-11-07",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "threejs",
+        "sports",
+        "puzzle"
+      ],
+      "video_path": "videos/millipool.mp4",
+      "video_poster": "videos/millipool.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/metalturtle297/status/2117697361199948034",
+      "videos": [
+        {
+          "path": "videos/millipool.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer ~24s H.264 720p CRF28 +faststart; poster at t=3s",
+      "screenshot_path": "videos/millipool.jpg",
+      "screenshot_score": 7.3,
+      "screenshot_score_notes": "trailer frames: billiard-ball millipedes on a pool table; clear physics puzzle loop. Rated from creator trailer.",
+      "checked_at": "2026-11-07",
+      "check_result": "working",
+      "added_at": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
+    },
+    {
+      "id": "particle-fighter",
+      "title": "Particle Fighter",
+      "description": "Arcade fighter of two 60k-GPU-particle bodies, 100% code (three.js + WebGPU, no assets). Featured by @threejs.",
+      "play_url": "https://particlefighter.andrewblumson.com/",
+      "source_url": "https://x.com/threejs/status/2117967389354864891",
+      "found_via": "X @threejs feature Particle Fighter by @Andrew_Blumson",
+      "found_via_network": "x-threejs",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "engine_detail": "three.js + WebGPU / TSL, compute particles",
+      "author": "Andrew Blumson",
+      "x_handle": "Andrew_Blumson",
+      "likes_source_url": "https://x.com/threejs/status/2117967389354864891",
+      "remote_likes": 206,
+      "likes_source": "x",
+      "comment_count": 4,
+      "likes_checked": "2026-11-07",
+      "platforms": [
+        "desktop"
+      ],
+      "browser_playable": true,
+      "iframe": false,
+      "tags": [
+        "threejs",
+        "fighting"
+      ],
+      "video_path": "videos/particle-fighter.mp4",
+      "video_poster": "videos/particle-fighter.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/Andrew_Blumson/status/2117952726680142018",
+      "original_video_url": "https://video.twimg.com/amplify_video/2117948620808892416/vid/avc1/1138x720/PUZ5slz5vg2NeuNr.mp4",
+      "videos": [
+        {
+          "path": "videos/particle-fighter.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer ~30s H.264 720p CRF28 +faststart; poster at t=3s",
+      "screenshot_path": "videos/particle-fighter.jpg",
+      "screenshot_score": 7.6,
+      "screenshot_score_notes": "trailer frames: two pigment-named particle fighters with clear arcade combat; strong WebGPU look. Rated from creator trailer.",
+      "checked_at": "2026-11-07",
+      "check_result": "working",
+      "added_at": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
+    },
+    {
+      "id": "undead-unemployed",
+      "title": "Undead & Unemployed",
+      "description": "Open-world zombie comedy in a trailer park: run schemes, run over zombies, keep the park alive. Browser HTML5 on itch. Featured by @threejs.",
+      "play_url": "https://hxtnv.itch.io/undead-unemployed",
+      "embed_url": "https://html-classic.itch.zone/html/20300787/index.html?v=1793884214",
+      "page_url": "https://hxtnv.itch.io/undead-unemployed",
+      "source_url": "https://x.com/threejs/status/2118564871373758549",
+      "found_via": "X @threejs feature Undead & Unemployed by @hxtnv44",
+      "found_via_network": "x-threejs",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "author": "hxtnv",
+      "x_handle": "hxtnv44",
+      "likes_source_url": "https://x.com/threejs/status/2118564871373758549",
+      "remote_likes": 74,
+      "likes_source": "x",
+      "comment_count": 5,
+      "likes_checked": "2026-11-07",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "itchio",
+        "shooter",
+        "adventure"
+      ],
+      "video_path": "videos/undead-unemployed.mp4",
+      "video_poster": "videos/undead-unemployed.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/hxtnv44/status/2118297369888592314",
+      "original_video_url": "https://video.twimg.com/amplify_video/2118295665230901248/vid/avc1/960x720/XceT7RAhnYEHw1af.mp4",
+      "videos": [
+        {
+          "path": "videos/undead-unemployed.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X trailer ~30s H.264 720p CRF28 +faststart; poster at t=3s",
+      "screenshot_path": "videos/undead-unemployed.jpg",
+      "screenshot_score": 7.2,
+      "screenshot_score_notes": "trailer frames: golf-cart trailer-park zombie comedy with bat combat; clear open-world loop. Rated from creator trailer.",
+      "checked_at": "2026-11-07",
+      "check_result": "working",
+      "added_at": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-07"
+    },
     {
       "id": "sumiro",
       "title": "Sumiro",
@@ -283,7 +430,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure",
+        "decomp"
       ],
       "page_url": "https://huggingface.co/spaces/Reubencf/spiderman-miles-morales",
       "iframe": true,
@@ -760,7 +909,11 @@
       "remote_likes": 36,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure",
+        "cozy"
+      ]
     },
     {
       "id": "containment",
@@ -1170,7 +1323,10 @@
       "remote_likes": 5,
       "likes_source": "x",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports"
+      ]
     },
     {
       "id": "river-rush",
@@ -1243,7 +1399,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "rpg",
+        "demo"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1288,7 +1446,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "cozy",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1556,7 +1716,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "simulation"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1959,7 +2120,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "puzzle"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -2004,7 +2166,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "puzzle",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -2050,7 +2214,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -2097,7 +2262,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "puzzle"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -2196,7 +2362,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2246,7 +2413,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2291,7 +2459,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "horror"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2429,7 +2598,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "platformer"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -2547,7 +2717,10 @@
       "remote_likes": 5,
       "likes_source": "x",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "golden-hour-gp",
@@ -13316,8 +13489,8 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://rivetmothgames.itch.io/lanterns-of-aldermere",
       "embed_url": "https://html-classic.itch.zone/html/19656398-2154119/index.html?v=1792339927",
-      "checked_at": "2026-11-06",
-      "check_result": "broken"
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "grand-total-anarchy",
@@ -13410,8 +13583,8 @@
       "tags": [
         "screenshots"
       ],
-      "checked_at": "2026-11-06",
-      "check_result": "timeout"
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "deadlight",
@@ -13513,8 +13686,8 @@
         "screenshots"
       ],
       "page_url": "https://newkrok.com/gamer-zone/last-lantern",
-      "checked_at": "2026-11-06",
-      "check_result": "broken"
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "ai-death-battle-2",
@@ -13604,7 +13777,9 @@
       ],
       "screenshot_score": 6,
       "screenshot_score_notes": "Over-the-shoulder view of a chunky voxel hero meeting a granny islander by a windmill with a quest dialog; cute and clear, toy-like.",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "aeloria",
@@ -13789,7 +13964,9 @@
           "url": "https://x.com/0xRhinoX/status/2109018899492512179",
           "created_at": "2026-10-10T20:31:03Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "unburied",
@@ -13836,7 +14013,9 @@
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "monster-defense",
@@ -13938,7 +14117,9 @@
           "created_at": "2026-09-29T14:28:04Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "roadster-flying-car",
@@ -13989,7 +14170,9 @@
           "url": "https://x.com/WENERC20/status/2109081302754537800",
           "created_at": "2026-10-11T00:39:02Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "rally-road-rash",
@@ -14037,7 +14220,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://sandscape.app/play?g=3UpDloEh&game_source=direct_or_unknown&play=1",
-      "engine_detail": "Sandscape"
+      "engine_detail": "Sandscape",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "blood-slayers",
@@ -14129,7 +14314,9 @@
       "screenshot_score_notes": "First-person pistol view down a neon-pink street under a 'WELCOME TO THE NEON' gate with a minimap; stylish and clear.",
       "comment_count": 57,
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://newrad.city/"
+      "page_url": "https://newrad.city/",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "tailgrab",
@@ -14170,7 +14357,9 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "Cartoon skater mid-air above a wooden halfpipe with trick meter, combo string and leaderboard plus a '6 GAME MODES' badge; bright and readable.",
       "comment_count": 5,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "bmx-mountain",
@@ -14214,7 +14403,9 @@
       "tags": [
         "wavedash"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "voxel-rush-frontline",
@@ -14255,7 +14446,9 @@
       ],
       "screenshot_score": 8.9,
       "screenshot_score_notes": "admin: Igor set 8.9 on 2026-11-01. Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "timeout"
     },
     {
       "id": "quake-iii-arena",
@@ -14307,7 +14500,9 @@
       "likes_source": "github",
       "github_url": "https://github.com/lklacar/q3js",
       "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "call-of-duty-black-ops-zombies",
@@ -14378,7 +14573,9 @@
       ],
       "play_url_note": "Moved 2026-10-25: the old vel.gg/bo1z link now returns HTTP 451; the current link https://vel.gg/bsz comes from MisaDev4's post (2026-10-18, 13 likes) announcing Counter-Strike guns and multiplayer for the browser port, and is listed in gamingnews5/awesome-decomp-games @ 624a8a1 (entry bo1-zombies).",
       "play_url_source": "https://x.com/MisaDev4/status/2111656592014037126",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "call-of-duty-modern-warfare-2",
@@ -14424,7 +14621,9 @@
       ],
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "command-conquer-generals-zero-hour",
@@ -14477,7 +14676,9 @@
       ],
       "requires_own_files": true,
       "requires_own_files_note": "Load your game files: pick your Generals/Zero Hour data folder",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "command-conquer-red-alert-2",
@@ -14527,7 +14728,9 @@
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "page_url": "https://chronodivide.com/"
+      "page_url": "https://chronodivide.com/",
+      "checked_at": "2026-11-07",
+      "check_result": "working"
     },
     {
       "id": "counter-strike-1-6",
@@ -17700,7 +17903,9 @@
           "poster": "videos/gameer-museum-heist.jpg",
           "source": "gameer-preview"
         }
-      ]
+      ],
+      "checked_at": "2026-11-07",
+      "check_result": "needs_login"
     },
     {
       "id": "gameer-qlskwgb5vmbs8c3czlwb",
@@ -67327,13 +67532,13 @@
     }
   ],
   "totals": {
-    "games": 846,
-    "by_made_with": {
+    "count": 849,
+    "made_with": {
+      "unknown": 410,
       "opus-5.5": 341,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
-      "unknown": 407,
       "gemini-4-argon": 7
     }
   },
