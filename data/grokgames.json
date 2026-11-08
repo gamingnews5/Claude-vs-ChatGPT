@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:00:00+07:00",
+  "updated_at": "2026-11-08T00:00:00+07:00",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -807,7 +807,8 @@
       ],
       "tags": [
         "wavedash",
-        "vibegamedev"
+        "vibegamedev",
+        "simulation"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1522,7 +1523,8 @@
       "remote_likes": 25,
       "likes_source": "x",
       "tags": [
-        "crayon"
+        "crayon",
+        "racing"
       ],
       "checked_at": "2026-10-30",
       "check_result": "working"
@@ -1746,7 +1748,7 @@
         "mobile",
         "touch"
       ],
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-08",
       "check_result": "working",
       "tags": [
         "sandbox"
@@ -3083,7 +3085,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "shooter"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3136,7 +3139,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "sports"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3425,7 +3429,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "adventure"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3471,7 +3476,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "racing",
+        "simulation"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3517,7 +3524,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "sports"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3559,7 +3567,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "sports",
+        "strategy"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3584,7 +3594,10 @@
       "remote_likes": 3,
       "likes_source": "x",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "splashline",
@@ -3607,7 +3620,10 @@
       "likes_source": "x",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "pixel-poker",
@@ -3661,7 +3677,9 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "cards",
+        "multiplayer"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -3701,7 +3719,10 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation"
+      ]
     },
     {
       "id": "soccar",
@@ -3728,7 +3749,10 @@
       "likes_source": "x",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports"
+      ]
     },
     {
       "id": "the-kite",
@@ -3754,7 +3778,10 @@
       "remote_likes": 6,
       "likes_source": "x",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "sandline",
@@ -3801,7 +3828,8 @@
         }
       ],
       "tags": [
-        "screenshots"
+        "screenshots",
+        "shooter"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working"
@@ -13583,7 +13611,7 @@
       "tags": [
         "screenshots"
       ],
-      "checked_at": "2026-11-07",
+      "checked_at": "2026-11-08",
       "check_result": "working"
     },
     {
@@ -14447,8 +14475,8 @@
       "screenshot_score": 8.9,
       "screenshot_score_notes": "admin: Igor set 8.9 on 2026-11-01. Blocky first-person rifle view over a voxel fortress with team HUD, minimap and hotbar; busy but clearly a voxel shooter. (admin: Igor set 8.9 on 2026-11-01; bot score was 7)",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-07",
-      "check_result": "timeout"
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "quake-iii-arena",
@@ -16164,7 +16192,9 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "engine_detail": "React"
+      "engine_detail": "React",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "kosighost",
@@ -16245,7 +16275,9 @@
       "screenshot_score_notes": "multi-frame: Minimal pixel night runner: small ghost hopping past gravestones and coins on a dark purple field, plus intro card and Run over screen; clear but sparse. Rated from 5 screenshots.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "pet-kart-racing",
@@ -16298,7 +16330,9 @@
           "created_at": "2026-10-12T19:57:22Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "drawdown",
@@ -16379,7 +16413,9 @@
         "screenshots"
       ],
       "page_url": "https://drawdown-game.vercel.app/",
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "rive-city",
@@ -16565,7 +16601,9 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "engine_detail": "Rive"
+      "engine_detail": "Rive",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "vibesail",
@@ -16748,7 +16786,9 @@
           "url": "https://x.com/peskybogle/status/2109036560662573549",
           "created_at": "2026-10-10T21:41:14Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "vector-anti-gravity-racing",
@@ -16935,7 +16975,9 @@
       "tags": [
         "wavedash"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "crash-bash-online",
@@ -17859,7 +17901,9 @@
           "created_at": "2026-10-10T19:00:51Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "gameer-museum-heist",
@@ -17948,7 +17992,9 @@
           "poster": "videos/gameer-qlskwgb5vmbs8c3czlwb.jpg",
           "source": "gameer-preview"
         }
-      ]
+      ],
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "gameer-aq7g7fz7rgndebxallme",
@@ -17991,7 +18037,9 @@
           "poster": "videos/gameer-aq7g7fz7rgndebxallme.jpg",
           "source": "gameer-preview"
         }
-      ]
+      ],
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "underbloom",
@@ -18182,7 +18230,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://motawe3.itch.io/underbloom",
-      "embed_url": "https://html-classic.itch.zone/html/19655383-2099036/index.html?v=1791631625"
+      "embed_url": "https://html-classic.itch.zone/html/19655383-2099036/index.html?v=1791631625",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "worldseed",
@@ -18324,7 +18374,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://generic-king.itch.io/worldseed",
-      "embed_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962"
+      "embed_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "psx-souls",
@@ -18399,7 +18451,9 @@
           "created_at": "2026-10-11T12:27:31Z"
         }
       ],
-      "engine_detail": "Bevy"
+      "engine_detail": "Bevy",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "grayfall",
@@ -18593,7 +18647,9 @@
       "tags": [
         "itchio"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "tidebreaker",
@@ -18966,7 +19022,9 @@
           "created_at": "2026-10-12T15:05:03Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "frontier-habitat",
@@ -26180,7 +26238,9 @@
       ],
       "first_seen": "2026-10-15T01:30:00.000Z",
       "last_seen": "2026-10-15T01:30:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-08",
+      "check_result": "working"
     },
     {
       "id": "velscour",
@@ -50898,6 +50958,14 @@
         {
           "path": "screenshots/cock-call-of-chicken-killing-3.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/cock-call-of-chicken-killing-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/cock-call-of-chicken-killing-5.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 5.5,
@@ -66704,6 +66772,14 @@
         {
           "path": "screenshots/mythos-ancient-wars-3.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mythos-ancient-wars-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/mythos-ancient-wars-5.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 5.5,
@@ -66756,6 +66832,14 @@
         },
         {
           "path": "screenshots/jointter-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/jointter-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/jointter-5.jpg",
           "source": "headless-browser"
         }
       ],
@@ -67005,6 +67089,14 @@
         },
         {
           "path": "screenshots/chinese-characters-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/chinese-characters-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/chinese-characters-5.jpg",
           "source": "headless-browser"
         }
       ],
@@ -67529,13 +67621,62 @@
       "added_at": "2026-11-06",
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-06"
+    },
+    {
+      "id": "magic-gathering-gb",
+      "title": "Magic: The Gathering GB",
+      "description": "Fan-made Game Boy-style Magic: The Gathering adventure in the spirit of Pokémon Trading Card Game: early-era rules, ~158 classic cards, boosters to crack, and club duels. Creator says it was made with Opus 5.5.",
+      "play_url": "https://kylebrussell.github.io/magic-gathering-gb/",
+      "source_url": "https://x.com/kylebrussell/status/2118874479862419640",
+      "found_via": "X search Opus 5.5 game post by @kylebrussell",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Canvas/2D",
+      "author": "kylebrussell",
+      "x_handle": "kylebrussell",
+      "likes_source_url": "https://x.com/kylebrussell/status/2118874479862419640",
+      "remote_likes": 97,
+      "likes_source": "x",
+      "comment_count": 8,
+      "likes_checked": "2026-11-08",
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "browser_playable": true,
+      "iframe": true,
+      "tags": [
+        "cards",
+        "rpg",
+        "retro",
+        "mobile"
+      ],
+      "video_path": "videos/magic-gathering-gb.mp4",
+      "video_poster": "videos/magic-gathering-gb.jpg",
+      "video_source": "x",
+      "video_source_url": "https://x.com/kylebrussell/status/2118874479862419640",
+      "videos": [
+        {
+          "path": "videos/magic-gathering-gb.mp4",
+          "source": "x"
+        }
+      ],
+      "video_note": "found X clip cut to 30s H.264 720p CRF28 +faststart; poster at t=5s",
+      "screenshot_path": "videos/magic-gathering-gb.jpg",
+      "screenshot_score": 7.4,
+      "screenshot_score_notes": "clip frames: 160x144 Game Boy-style title, duel intro and card battle text box; charming, real card-duel loop, simple visuals by design. Rated from creator clip.",
+      "checked_at": "2026-11-08",
+      "check_result": "working",
+      "added_at": "2026-11-08",
+      "first_seen": "2026-11-08",
+      "last_seen": "2026-11-08"
     }
   ],
   "totals": {
-    "count": 849,
+    "count": 850,
     "made_with": {
       "unknown": 410,
-      "opus-5.5": 341,
+      "opus-5.5": 342,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
