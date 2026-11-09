@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:00:00+07:00",
+  "updated_at": "2026-11-09",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -25,6 +25,7 @@
       "browser_playable": true,
       "iframe": false,
       "tags": [
+        "mobile",
         "threejs",
         "sports",
         "puzzle"
@@ -41,8 +42,8 @@
       ],
       "video_note": "found X trailer ~24s H.264 720p CRF28 +faststart; poster at t=3s",
       "screenshot_path": "videos/millipool.jpg",
-      "screenshot_score": 7.3,
-      "screenshot_score_notes": "trailer frames: billiard-ball millipedes on a pool table; clear physics puzzle loop. Rated from creator trailer.",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "trailer frames: billiard-ball millipedes on a pool table; clear physics puzzle loop. Rated from creator trailer. admin: Igor set 8.4 on 2026-11-08",
       "checked_at": "2026-11-07",
       "check_result": "working",
       "added_at": "2026-11-07",
@@ -14807,7 +14808,9 @@
       "author_source": "https://csjs.live",
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "counter-strike-source-bunnyhop-bunnyhop-lol",
@@ -14859,7 +14862,9 @@
       "likes_checked": "2026-10-14",
       "author": "8tp",
       "author_source": "https://github.com/8tp/bunnyhop-client",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "crash-team-racing-turbocharged",
@@ -14968,7 +14973,9 @@
         }
       ],
       "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "doom-multiplayer-silent-space-marine",
@@ -15019,7 +15026,9 @@
         }
       ],
       "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "golden-sun-recompilation",
@@ -15179,7 +15188,9 @@
         }
       ],
       "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "half-life-and-counter-strike-1-6-webxash",
@@ -15229,7 +15240,9 @@
         }
       ],
       "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "halo-combat-evolved-mobile-hcemobile",
@@ -15339,7 +15352,9 @@
       ],
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "pro-evolution-soccer-6",
@@ -15387,7 +15402,9 @@
       ],
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "quake-ii",
@@ -15439,7 +15456,9 @@
       "likes_source": "x",
       "comment_count": 16,
       "likes_checked": "2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "quake-iii-arena-q3-pieter-com",
@@ -15491,7 +15510,9 @@
       "likes_source": "x",
       "comment_count": 16,
       "likes_checked": "2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "quakeworld",
@@ -15543,7 +15564,9 @@
       "likes_source": "x",
       "comment_count": 16,
       "likes_checked": "2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "ratchet-clank-pc-port",
@@ -15653,7 +15676,9 @@
       "likes_source": "x",
       "comment_count": 16,
       "likes_checked": "2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "skate-3",
@@ -16010,7 +16035,9 @@
           "created_at": "2026-10-09T00:28:35Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "broken"
     },
     {
       "id": "the-simpsons-hit-run",
@@ -16061,7 +16088,9 @@
       ],
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "urban-terror-listed-as-unreal-tournament",
@@ -16112,7 +16141,9 @@
       "comment_count": 16,
       "x_handle": "levelsio",
       "likes_checked": "2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-09",
+      "check_result": "working"
     },
     {
       "id": "aetherfall",
@@ -67670,12 +67701,100 @@
       "added_at": "2026-11-08",
       "first_seen": "2026-11-08",
       "last_seen": "2026-11-08"
+    },
+    {
+      "found_via_network": "x",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "threejs",
+        "adventure"
+      ],
+      "checked_at": "2026-11-09",
+      "check_result": "working",
+      "added_at": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "likes_source": "x",
+      "likes_checked": "2026-11-09",
+      "made_with": "unknown",
+      "iframe": false,
+      "id": "coo-covert-ornithological-operations",
+      "title": "COO: Covert Ornithological Operations",
+      "description": "Pigeon adventure over downtown Toronto, featured by @threejs.",
+      "play_url": "https://coo.mx",
+      "source_url": "https://x.com/threejs/status/2119574245244350542",
+      "found_via": "@threejs post (x.com/yegor video)",
+      "author": "yegor",
+      "x_handle": "yegor",
+      "remote_likes": 78,
+      "comment_count": 4,
+      "likes_source_url": "https://x.com/threejs/status/2119574245244350542",
+      "engine": "Three.js",
+      "play_url_note": "Loader screen (132 files, 54MB) only seen in headless within ~15s; no gameplay frames captured, no media/score yet."
+    },
+    {
+      "found_via_network": "x",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "threejs",
+        "racing",
+        "leaderboard",
+        "screenshots"
+      ],
+      "checked_at": "2026-11-09",
+      "check_result": "working",
+      "added_at": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "likes_source": "x",
+      "likes_checked": "2026-11-09",
+      "made_with": "unknown",
+      "iframe": false,
+      "id": "formulazero",
+      "title": "FormulaZero",
+      "description": "Race a hybrid-era race car in your browser: real physics, energy strategy, global time-trial leaderboard. Free, no download.",
+      "play_url": "https://playformula0.com/",
+      "source_url": "https://x.com/threejs/status/2119550567362211913",
+      "found_via": "@threejs post (x.com/builtbydimi video)",
+      "author": "builtbydimi",
+      "x_handle": "builtbydimi",
+      "remote_likes": 41,
+      "comment_count": 5,
+      "likes_source_url": "https://x.com/threejs/status/2119550567362211913",
+      "engine": "Three.js",
+      "screenshots": [
+        {
+          "path": "screenshots/formulazero-1.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/formulazero-2.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/formulazero-3.jpg",
+          "source": "headless"
+        },
+        {
+          "path": "screenshots/formulazero-4.jpg",
+          "source": "headless"
+        }
+      ],
+      "screenshot_path": "screenshots/formulazero-1.jpg",
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "multi-frame: real 3D hybrid race car with track, HUD, minimap and leaderboard; headless software GL ran ~37fps with a slow-GPU warning modal."
     }
   ],
   "totals": {
-    "count": 850,
+    "count": 852,
     "made_with": {
-      "unknown": 410,
+      "unknown": 412,
       "opus-5.5": 342,
       "astra": 72,
       "sonnet-5.5": 12,
