@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -1226,8 +1226,8 @@
       "video_source": "feed-local",
       "remote_likes": 187,
       "likes_source": "x",
-      "checked_at": "2026-10-30",
-      "check_result": "working",
+      "checked_at": "2026-11-11",
+      "check_result": "wrapper_only",
       "tags": [
         "mobile",
         "claude-artifact"
@@ -4690,7 +4690,10 @@
       "video_path": "videos/qualy-quest-30s.mp4",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-10-31",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "mobile"
+      ]
     },
     {
       "id": "way-of-the-samurai",
@@ -4719,7 +4722,10 @@
       "video_path": "videos/way-of-the-samurai-30s.mp4",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting"
+      ]
     },
     {
       "id": "neon-siege",
@@ -4966,7 +4972,10 @@
       "video_source": "https://x.com/micmakarov/status/2104639496478482527",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation"
+      ]
     },
     {
       "id": "pokemon-battleline",
@@ -4998,7 +5007,12 @@
       "video_source": "https://x.com/MQuy90/status/2104910127237398789",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "rpg",
+        "co-op"
+      ]
     },
     {
       "id": "talk-me-into-it",
@@ -5085,7 +5099,10 @@
       "video_path": "videos/theatre-nge.mp4",
       "video_source": "https://x.com/LuisBizarro/status/2104780688113455342",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation"
+      ]
     },
     {
       "id": "genex-skate",
@@ -5146,7 +5163,10 @@
       "screenshot_score_notes": "A dense cockpit HUD and mountain road read instantly as a sim racer, but heavy sun glare washes out the track ahead.",
       "screenshot_path": "videos/speedracer-horizon.jpg",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "mine-minecraft-opus",
@@ -5173,7 +5193,10 @@
       "screenshot_score_notes": "Voxel plains, sheep, and a hotbar make the sandbox obvious, with a mouse cursor and slightly soft light reducing polish.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sandbox"
+      ]
     },
     {
       "id": "summer-cycle",
@@ -5204,7 +5227,10 @@
       "screenshot_score_notes": "A third-person bicycle, rice fields, and sunset grade communicate the ride immediately with strong color and composition.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "cozy"
+      ]
     },
     {
       "id": "regolith-moon-rover",
@@ -5234,7 +5260,10 @@
       "screenshot_score_notes": "The rover, crater, and instrument panels read as a lunar sim at a glance, even though the HUD is busy and the terrain is low-contrast.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "operation-safe-return",
@@ -5261,7 +5290,10 @@
       "screenshot_path": "videos/operation-safe-return-30s.jpg",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "apex-coast-run",
@@ -5294,7 +5326,11 @@
       "page_url": "https://apex-coast-run.mindblown.ai/",
       "checked_at": "2026-11-01",
       "check_result": "working",
-      "engine_detail": "mindblown.ai"
+      "engine_detail": "mindblown.ai",
+      "tags": [
+        "racing",
+        "mobile"
+      ]
     },
     {
       "id": "savannah-hunt",
@@ -5324,7 +5360,10 @@
       "screenshot_score_notes": "Hunter, river, herd, and mountains form a strong title composition that shows the hunt setting with convincing light and scale.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "eight-fronts",
@@ -5385,7 +5424,11 @@
       "screenshot_score_notes": "The catalog character-select still shows a full roster and Bowser preview clearly; the video poster is only a dark loading screen, and promo watermarks clutter the UI.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting",
+        "multiplayer"
+      ]
     },
     {
       "id": "destroy-any-website",
@@ -5448,7 +5491,11 @@
       "screenshot_score_notes": "A stickman firing across a Wikipedia page shows the gag, but the frame is mostly a web article with a tiny, messy sprite.",
       "screenshot_path": "videos/destroy-any-website.jpg",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "multiplayer",
+        "sandbox"
+      ]
     },
     {
       "id": "hearthlight",
@@ -5515,7 +5562,12 @@
       "screenshot_path": "videos/hearthlight-30s.jpg",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "cozy",
+        "adventure",
+        "co-op"
+      ]
     },
     {
       "id": "antkeeper",
@@ -12192,7 +12244,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://vibecodedgames.itch.io/pavement",
-      "embed_url": "https://html-classic.itch.zone/html/19147675-2204236/index.html?v=1792876591",
+      "embed_url": "https://html-classic.itch.zone/html/19147675-2343669/index.html?v=1794263031",
       "checked_at": "2026-11-05",
       "check_result": "working"
     },
@@ -12461,7 +12513,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://aruvez.itch.io/titan-royale",
-      "embed_url": "https://html-classic.itch.zone/html/19800557-2140526/index.html?v=1792183481",
+      "embed_url": "https://html-classic.itch.zone/html/19800557-2293196/index.html?v=1793790998",
       "checked_at": "2026-11-05",
       "check_result": "working"
     },
@@ -12610,7 +12662,7 @@
       "tags": [
         "screenshots"
       ],
-      "checked_at": "2026-11-05",
+      "checked_at": "2026-11-11",
       "check_result": "working"
     },
     {
@@ -17197,81 +17249,6 @@
       "check_result": "working"
     },
     {
-      "id": "fortnite-og-fortniteog-lol",
-      "title": "Fortnite OG (fortniteog.lol)",
-      "description": "Fortnite OG (fortniteog.lol) playable in the browser (PC fan port/remake).",
-      "play_url": "https://fortniteog.lol/",
-      "source_url": "https://x.com/omonkeyzz/status/2108486163497402475",
-      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
-      "found_via_network": "github",
-      "made_with": "unknown",
-      "tags": [
-        "decomp"
-      ],
-      "iframe": true,
-      "iframe_block_reason": null,
-      "platforms": [
-        "desktop"
-      ],
-      "first_seen": "2026-10-11T03:30:00.000Z",
-      "last_seen": "2026-10-11T03:30:00.000Z",
-      "screenshot_path": "videos/fortnite-og-fortniteog-lol-v2-30s.jpg",
-      "screenshots": [
-        {
-          "path": "videos/fortnite-og-fortniteog-lol-v2.jpg",
-          "score": 4,
-          "notes": "Poster frame from original-game gameplay clip."
-        },
-        {
-          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-fortnite-og-fortniteog-lol.jpg",
-          "score": 5,
-          "notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay."
-        }
-      ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay.",
-      "x_handle": "omonkeyzz",
-      "author_source": "https://x.com/omonkeyzz/status/2108486163497402475",
-      "remote_likes": 264,
-      "likes_source": "x",
-      "comment_count": 13,
-      "comments": [
-        {
-          "author": "Kanvinc",
-          "text": "holy what a grinder. this project is moving so fast",
-          "likes": 6,
-          "url": "https://x.com/Kanvinc/status/2108486638640701946",
-          "created_at": "2026-10-09T09:16:03Z"
-        },
-        {
-          "author": "VICEXGTA",
-          "text": "Online?",
-          "likes": 5,
-          "url": "https://x.com/VICEXGTA/status/2108486604499083707",
-          "created_at": "2026-10-09T09:15:54Z"
-        },
-        {
-          "author": "Drragon_Boy",
-          "text": "Looking good 🔥🔥🚀",
-          "likes": 3,
-          "url": "https://x.com/Drragon_Boy/status/2108486620433490378",
-          "created_at": "2026-10-09T09:15:58Z"
-        }
-      ],
-      "video_path": "videos/fortnite-og-fortniteog-lol-v2-30s.mp4",
-      "video_source": "youtube",
-      "videos": [
-        {
-          "path": "videos/fortnite-og-fortniteog-lol-v2-30s.mp4",
-          "source": "youtube"
-        }
-      ],
-      "requires_own_files": false,
-      "video_note": "trimmed to 30s (2026-10-26)",
-      "check_result": "broken",
-      "checked_at": "2026-11-10"
-    },
-    {
       "id": "grand-theft-auto-iii",
       "title": "Grand Theft Auto III",
       "description": "Grand Theft Auto III playable in the browser (PC fan port/remake).",
@@ -17699,7 +17676,9 @@
       ],
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "timeout"
     },
     {
       "id": "super-mario-zombies",
@@ -17893,7 +17872,9 @@
           "created_at": "2026-10-09T03:12:50Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "wrapper_only"
     },
     {
       "id": "taipei-rush",
@@ -18474,7 +18455,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://generic-king.itch.io/worldseed",
-      "embed_url": "https://html-classic.itch.zone/html/20007817/index.html?v=1792878962",
+      "embed_url": "https://html-classic.itch.zone/html/20308610/index.html?v=1793910424",
       "checked_at": "2026-11-08",
       "check_result": "working"
     },
@@ -19183,7 +19164,9 @@
       "screenshot_score_notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI.",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "broken"
     },
     {
       "id": "san-theft-auto",
@@ -19368,7 +19351,9 @@
           "created_at": "2026-10-10T20:00:24Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "aimflare",
@@ -19552,7 +19537,9 @@
           "url": "https://x.com/babybunnie1630/status/2109066041905365194",
           "created_at": "2026-10-10T23:38:23Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "midnight-apex",
@@ -19632,7 +19619,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://genex.games/midnight-apex",
-      "engine_detail": "Genex"
+      "engine_detail": "Genex",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "slap-summit",
@@ -19697,7 +19686,9 @@
           "created_at": "2026-10-11T18:49:22Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "voxemon",
@@ -19762,7 +19753,9 @@
           "url": "https://x.com/AlexSaliDev/status/2109162576286261385",
           "created_at": "2026-10-11T06:01:59Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "sonic-cd-little-planet",
@@ -20443,7 +20436,9 @@
           "created_at": "2026-10-12T20:05:23Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "bagman",
@@ -20494,7 +20489,9 @@
           "url": "https://x.com/tamamogram/status/2109818339619160307",
           "created_at": "2026-10-13T01:27:45Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "junkyard-king-arena",
@@ -20604,7 +20601,9 @@
           "created_at": "2026-10-12T21:00:48Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "brickbrag",
@@ -20720,7 +20719,9 @@
           "url": "https://x.com/ConnorEllison/status/2109767165394276779",
           "created_at": "2026-10-12T22:04:24Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "wrapper_only"
     },
     {
       "id": "operation-elsewhere",
@@ -20910,7 +20911,9 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "tags": [
         "2-player"
-      ]
+      ],
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "agira",
@@ -21543,7 +21546,9 @@
           "created_at": "2026-10-10T22:37:27Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "virtua-fighter-2-recomp",
@@ -21825,7 +21830,9 @@
           "created_at": "2026-10-09T14:42:31Z"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     },
     {
       "id": "wildhearth",
@@ -25693,7 +25700,8 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://luka0611.itch.io/surgesuperhero",
-      "embed_url": "https://html-classic.itch.zone/html/19880132/index.html?v=1792430855"
+      "embed_url": "",
+      "play_url_note": "itch embed 404 on 2026-11-11 and no web player found on the itch page; play_url kept (candidate for removal if still no web build)"
     },
     {
       "id": "webgl-mahjong",
@@ -26856,7 +26864,7 @@
         "itchio"
       ],
       "page_url": "https://roninteon.itch.io/rivas-city",
-      "embed_url": "https://html-classic.itch.zone/html/20041439/Project/index.html?v=1792982358"
+      "embed_url": "https://html-classic.itch.zone/html/20318209/index.html?v=1793951197"
     },
     {
       "id": "cyport",
@@ -30149,7 +30157,7 @@
       ],
       "video_note": "fps fix 2026-10-21: headless recording measured ~7.3 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 17.7s, no audio",
       "page_url": "https://befuddlebug.itch.io/impossible-journey-machine",
-      "embed_url": "https://html-classic.itch.zone/html/19976161/index.html?v=1792776220"
+      "embed_url": "https://html-classic.itch.zone/html/20244396/index.html?v=1793665915"
     },
     {
       "id": "blood-and-sand",
@@ -30825,7 +30833,7 @@
         "itchio"
       ],
       "page_url": "https://capitanuncino.itch.io/handvoll",
-      "embed_url": "https://html-classic.itch.zone/html/20096057/index.html?v=1793178784"
+      "embed_url": "https://html-classic.itch.zone/html/20414000/index.html?v=1794306536"
     },
     {
       "id": "hexshroom",
@@ -33625,7 +33633,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://mdawg74.itch.io/unit-112",
-      "embed_url": "https://html-classic.itch.zone/html/19865415-2166154/index.html?v=1792461646"
+      "embed_url": "https://html-classic.itch.zone/html/20167029-2294412/index.html?v=1793768523"
     },
     {
       "id": "roadster-c-ramp",
@@ -34430,7 +34438,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://xiphasoftworks.itch.io/demo-disc-survivors",
-      "embed_url": "https://html-classic.itch.zone/html/19861935/index.html?v=1792364928"
+      "embed_url": "https://html-classic.itch.zone/html/20175672/index.html?v=1793447160"
     },
     {
       "id": "land-of-ascii",
@@ -40900,7 +40908,7 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://changhyup.itch.io/words-at-war",
-      "embed_url": "https://html-classic.itch.zone/html/19984417/index.html?v=1792800438"
+      "embed_url": "https://html-classic.itch.zone/html/20180907/index.html?v=1793460761"
     },
     {
       "id": "zygote-vs-shitcoins",
@@ -41016,7 +41024,7 @@
       ],
       "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.07 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 5.77x (was 2.52x), output 20.6 unique fps at 30 fps, 6.6 s, no audio. Clip is under 8 s because the whole usable recording (38.2 s of raw) only holds 232 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~11.9 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 2.52x (target 30fps, capped at 4x) to 16.7s, no audio",
       "page_url": "https://c0gn8.itch.io/unrest-alpha",
-      "embed_url": "https://html-classic.itch.zone/html/20026554/index.html?v=1792943727"
+      "embed_url": "https://html-classic.itch.zone/html/20148452/index.html?v=1793358494"
     },
     {
       "id": "jev-cards",
@@ -43464,7 +43472,8 @@
       "published_at": "2026-10-21T21:30:50Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://mobicat.itch.io/pumpkin-patch-smash",
-      "embed_url": "https://html-classic.itch.zone/html/20081635-2232292/index.html?v=1793171212"
+      "embed_url": "",
+      "play_url_note": "itch embed 404 on 2026-11-11 and no web player found on the itch page; play_url kept (candidate for removal if still no web build)"
     },
     {
       "id": "spellblunder",
@@ -43983,7 +43992,7 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T19:27:55Z",
       "page_url": "https://redrakam.itch.io/wake-word-almost-home",
-      "embed_url": "https://html-classic.itch.zone/html/19927915/index.html?v=1792596799"
+      "embed_url": "https://html-classic.itch.zone/html/20237418/index.html?v=1793645511"
     },
     {
       "id": "pyrenees-chess",
@@ -44034,7 +44043,7 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-21T04:55:28Z",
       "page_url": "https://mdawg74.itch.io/pyrenees-chess",
-      "embed_url": "https://html-classic.itch.zone/html/19918728-2196455/index.html?v=1792788284"
+      "embed_url": "https://html-classic.itch.zone/html/19918728-2257505/index.html?v=1793412478"
     },
     {
       "id": "gridline",
@@ -46182,7 +46191,7 @@
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T14:26:30Z",
       "page_url": "https://loomfieldlabs.itch.io/age-of-iteration",
-      "embed_url": "https://html-classic.itch.zone/html/19972609/index.html?v=1792765056"
+      "embed_url": "https://html-classic.itch.zone/html/20374480/index.html?v=1794159583"
     },
     {
       "id": "pastel-drive",
@@ -46274,7 +46283,7 @@
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T17:41:10Z",
       "page_url": "https://muliache.itch.io/pastel-drive",
-      "embed_url": "https://html-classic.itch.zone/html/19999079/index.html?v=1792856212"
+      "embed_url": "https://html-classic.itch.zone/html/20380249-2334850/index.html?v=1794173338"
     },
     {
       "id": "22champs",
@@ -51691,7 +51700,7 @@
       "last_seen": "2026-10-28T09:00:00.000Z",
       "published_at": "2026-10-26T17:26:54Z",
       "page_url": "https://tamla2.itch.io/super-league",
-      "embed_url": "https://html-classic.itch.zone/html/20053936/index.html?v=1793033355"
+      "embed_url": "https://html-classic.itch.zone/html/20147513/index.html?v=1793352607"
     },
     {
       "id": "stock-car-club",
@@ -55198,7 +55207,7 @@
       "first_seen": "2026-10-29T09:00:00.000Z",
       "last_seen": "2026-10-29T09:00:00.000Z",
       "published_at": "2026-10-28T23:40:40Z",
-      "embed_url": "https://html-classic.itch.zone/html/20088226/index.html?v=1793149218"
+      "embed_url": "https://html-classic.itch.zone/html/20406546/index.html?v=1794270090"
     },
     {
       "id": "dear-fridge",
@@ -57746,7 +57755,7 @@
       "play_url": "https://defacci.itch.io/of-tales-and-deeds",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20133895/index.html?v=1793302125",
+      "embed_url": "https://html-classic.itch.zone/html/20385140/index.html?v=1794187944",
       "download_url": "https://defacci.itch.io/of-tales-and-deeds",
       "download_platforms": [
         "windows"
@@ -58235,7 +58244,7 @@
       "play_url": "https://conatu.itch.io/paperbloom",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20092190/index.html?v=1793162110",
+      "embed_url": "https://html-classic.itch.zone/html/20293171/index.html?v=1793848824",
       "found_via": "r/WebGames \"Paperbloom - a cozy merge puzzle where paper plants grow into a cherry tree\" (u/psychosis1987)",
       "made_with": "unknown",
       "category": "puzzle",
@@ -60181,7 +60190,8 @@
       ],
       "tags": [
         "game-jam",
-        "nimblefox"
+        "nimblefox",
+        "screenshots"
       ],
       "checked_at": "2026-10-31",
       "check_result": "working",
@@ -60199,6 +60209,10 @@
         },
         {
           "path": "screenshots/nimblefox-torch-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nimblefox-torch-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -60246,7 +60260,7 @@
       "play_url": "https://wonstudio.itch.io/poppin-mad",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20140752/index.html?v=1793323662",
+      "embed_url": "https://html-classic.itch.zone/html/20267696/index.html?v=1793751371",
       "found_via": "r/WebGames \"Poppin' MAD: Pop giant soap bubbles that stretch, wobble and burst like real ones (free, desktop browser)\" (u/ErickWickings)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
@@ -60877,7 +60891,7 @@
       "play_url": "https://littlefoxlittleowl.itch.io/stickerscout",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20157071/index.html?v=1793381451",
+      "embed_url": "https://html-classic.itch.zone/html/20413507/index.html?v=1794301307",
       "found_via": "r/IndieGaming \"I just dropped a massive demo update for StickerScout, my quiet wildlife photography game!\" (u/StickerScoutGame)",
       "made_with": "unknown",
       "made_with_note": "Solo dev, hand-drawn art; no AI model mentioned.",
@@ -62476,7 +62490,7 @@
       "play_url": "https://tomgsx1.itch.io/the-wayward-prism",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20145198/index.html?v=1793343825",
+      "embed_url": "https://html-classic.itch.zone/html/20195085/index.html?v=1793502487",
       "found_via": "r/aigamedev \"The Wayward Prism - free vibe coded 3d jrpg (heavily influenced by suikoden/star ocean)\" (u/Odd_Cauliflower6672)",
       "made_with": "opus-5.5",
       "made_with_note": "Post: \"Mostly handled by claude code w/opus 5.5\".",
@@ -64003,7 +64017,7 @@
       "play_url": "https://nathannhu.itch.io/the-ink-tower",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20120508/index.html?v=1793551621",
+      "embed_url": "https://html-classic.itch.zone/html/20285704/index.html?v=1793998260",
       "found_via": "r/godot \"How I made my boss turn into silk and tie his ghosts together in Godot 4\" (u/StillEnvironmental64)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
@@ -64033,6 +64047,10 @@
         },
         {
           "path": "screenshots/the-ink-tower-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/the-ink-tower-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -64171,7 +64189,7 @@
       "play_url": "https://jannstudios.itch.io/neon-terrarium",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20172091/index.html?v=1793434448",
+      "embed_url": "https://html-classic.itch.zone/html/20393002/index.html?v=1794222344",
       "found_via": "r/aigamedev \"Been working on my cozy cyberpunk city builder for the last three months\" (u/senpai_go_away)",
       "made_with": "opus-5.5",
       "made_with_note": "Creator in the comments: \"nothing fancy at all, just claude with opus 5.5. Assets were created with claude too.\"",
@@ -64368,7 +64386,7 @@
       "play_url": "https://aikoncwd.itch.io/rogue-janitor",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20216117/index.html?v=1793570303",
+      "embed_url": "https://html-classic.itch.zone/html/20323955/index.html?v=1793976537",
       "found_via": "r/roguelikes \"I expanded Rogue Janitor, a little roguelike where you clean up after the hero\" (u/aikoncwd)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
@@ -64397,6 +64415,10 @@
         },
         {
           "path": "screenshots/rogue-janitor-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/rogue-janitor-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -64596,7 +64618,7 @@
       "play_url": "https://dk1a.itch.io/unnamed-fantasy-waiting-game",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20196467/index.html?v=1793508629",
+      "embed_url": "https://html-classic.itch.zone/html/20333384/index.html?v=1794008142",
       "found_via": "r/incremental_games \"Unnamed Fantasy Waiting Game - semi-active game inspired by Terraformental\" (u/dk1a1)",
       "made_with": "unknown",
       "made_with_note": "Post says AI wrote some code; no model named.",
@@ -65118,7 +65140,7 @@
       "play_url": "https://godfrigames.itch.io/sanctuary",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20204840/index.html?v=1793541481",
+      "embed_url": "",
       "found_via": "r/aigamedev \"How's my game look and feel? I'm using AI in my art and sfx pipeline\" (u/OddnoddSoftworks)",
       "made_with": "unknown",
       "made_with_note": "No AI model mentioned in the post.",
@@ -65213,7 +65235,8 @@
       ],
       "first_seen": "2026-11-02T03:00:00.000Z",
       "last_seen": "2026-11-02T03:00:00.000Z",
-      "published_at": "2026-11-01T16:15:02Z"
+      "published_at": "2026-11-01T16:15:02Z",
+      "play_url_note": "itch embed 404 on 2026-11-11 and no web player found on the itch page; play_url kept (candidate for removal if still no web build)"
     },
     {
       "id": "found-by-dusk",
@@ -65222,7 +65245,7 @@
       "play_url": "https://warlordvii.itch.io/found-by-dusk",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20219728/index.html?v=1793581221",
+      "embed_url": "https://html-classic.itch.zone/html/20369055/index.html?v=1794143171",
       "found_via": "r/aigamedev \"Someone actually played the demo of my game that I released yesterday and completed it!\" (u/Critical-Truth-3404)",
       "made_with": "unknown",
       "made_with_note": "Posted to r/aigamedev; no AI model named.",
@@ -66517,7 +66540,7 @@
       "play_url": "https://nfgsup.itch.io/meatgrinder",
       "iframe": false,
       "iframe_block_reason": "csp-frame-ancestors-itch",
-      "embed_url": "https://html-classic.itch.zone/html/20210197/index.html?v=1793555706",
+      "embed_url": "https://html-classic.itch.zone/html/20240745-2321567/index.html?v=1794053244",
       "found_via": "r/IndieGaming \"MEATGRINDER -- My first EVER game i actually published\" (u/Supergame245_)",
       "made_with": "unknown",
       "made_with_note": "Post says AI helped with some code; no model named.",
@@ -67284,7 +67307,7 @@
       "title": "Alura Quest",
       "description": "Top-down Zelda-like adventure: explore an overworld of dungeons and caves, and learn magic by copying shapes hidden in the world into an Inscribe grid. Free browser demo on itch.",
       "play_url": "https://danyl4o.itch.io/alura-quest",
-      "embed_url": "https://html-classic.itch.zone/html/20245021/index.html",
+      "embed_url": "https://html-classic.itch.zone/html/20417095/index.html?v=1794317017",
       "page_url": "https://danyl4o.itch.io/alura-quest",
       "found_via": "r/playmygame Alura Quest Zelda-like (u/danyl42, 217 upvotes)",
       "made_with": "unknown",
@@ -67803,7 +67826,28 @@
       "comment_count": 4,
       "likes_source_url": "https://x.com/threejs/status/2119574245244350542",
       "engine": "Three.js",
-      "play_url_note": "Loader screen (132 files, 54MB) only seen in headless within ~15s; no gameplay frames captured, no media/score yet."
+      "play_url_note": "Loader screen (132 files, 54MB) only seen in headless within ~15s; no gameplay frames captured, no media/score yet.",
+      "screenshots": [
+        {
+          "path": "screenshots/coo-covert-ornithological-operations-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/coo-covert-ornithological-operations-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/coo-covert-ornithological-operations-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/coo-covert-ornithological-operations-4.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "multi-frame: only the stylised Toronto loading screen (pigeon, CN Tower, rowhouses, progress panel) captured in headless; charming poster-style art but no gameplay frames; rated provisionally.",
+      "screenshot_path": "screenshots/coo-covert-ornithological-operations-1.jpg"
     },
     {
       "found_via_network": "x",
@@ -67859,13 +67903,95 @@
       "screenshot_path": "screenshots/formulazero-1.jpg",
       "screenshot_score": 7.0,
       "screenshot_score_notes": "multi-frame: real 3D hybrid race car with track, HUD, minimap and leaderboard; headless software GL ran ~37fps with a slow-GPU warning modal."
+    },
+    {
+      "id": "dimension9",
+      "title": "Dimension 9",
+      "description": "Infinite, self-evolving Backrooms you explore in the browser: Opus 5.5 follows a haunting directive to drive a sentient AI that keeps generating new rooms, characters and entities. Multiplayer with proximity chat.",
+      "play_url": "https://dimension9.space",
+      "source_url": "https://x.com/apekshik/status/2118847014071120179",
+      "found_via": "@threejs post (x.com/apekshik video)",
+      "found_via_network": "x",
+      "author": "apek",
+      "x_handle": "apekshik",
+      "author_source": "https://x.com/apekshik/status/2118847014071120179",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "iframe": false,
+      "tags": [
+        "threejs",
+        "horror",
+        "multiplayer"
+      ],
+      "remote_likes": 3692,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/apekshik/status/2118847014071120179",
+      "likes_checked": "2026-11-11",
+      "comment_count": 122,
+      "video_path": "videos/dimension9.mp4",
+      "screenshot_path": "videos/dimension9.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @apekshik post (trimmed to 30s)",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: creator clip shows surreal backrooms spaces (hanging plush figures, giant astronaut, yellow walls); strong atmosphere and an infinite AI-driven premise, polish uneven; headless load is heavy.",
+      "play_url_note": "Heavy WebGL; headless load hung the page (HTTP 200).",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "added_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "check_result": "timeout"
+    },
+    {
+      "id": "what-the-water-keeps",
+      "title": "What the water keeps",
+      "description": "A slow boat ride by lantern light: steer a small boat along a wide, quiet waterway through eight dreamlike realms, or let the current carry you. Made with Claude Fable 5.2 (demo playable in the browser).",
+      "play_url": "https://what-the-water-keeps.vercel.app/",
+      "source_url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "found_via": "@threejs post (x.com/kevin_t_ngo video)",
+      "found_via_network": "x",
+      "author": "Kevin Ngo",
+      "x_handle": "kevin_t_ngo",
+      "author_source": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "adventure",
+        "cozy"
+      ],
+      "remote_likes": 4050,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/kevin_t_ngo/status/2119868968307695818",
+      "likes_checked": "2026-11-11",
+      "comment_count": 161,
+      "video_path": "videos/what-the-water-keeps.mp4",
+      "screenshot_path": "videos/what-the-water-keeps.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @kevin_t_ngo post (trimmed to 30s)",
+      "screenshot_score": 7.8,
+      "screenshot_score_notes": "multi-frame: creator clip shows a lantern-lit boat gliding past golden-hour pier posts and hanging linen with swallows; lovely painterly atmosphere, calm exploration with little gameplay.",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "added_at": "2026-11-11",
+      "checked_at": "2026-11-11",
+      "check_result": "working"
     }
   ],
   "totals": {
-    "count": 852,
+    "count": 853,
     "made_with": {
       "unknown": 412,
-      "opus-5.5": 342,
+      "opus-5.5": 343,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
@@ -68042,6 +68168,60 @@
       "check_result": "broken",
       "removed_at": "2026-11-06",
       "removal_reason": "2 strikes broken, no mirror"
+    },
+    {
+      "id": "fortnite-og-fortniteog-lol",
+      "title": "Fortnite OG (fortniteog.lol)",
+      "description": "Fortnite OG (fortniteog.lol) playable in the browser (PC fan port/remake).",
+      "play_url": "https://fortniteog.lol/",
+      "source_url": "https://x.com/omonkeyzz/status/2108486163497402475",
+      "found_via": "SubmitGame/awesome-decomp-games (Play in your browser)",
+      "found_via_network": "github",
+      "made_with": "unknown",
+      "tags": [
+        "decomp"
+      ],
+      "iframe": true,
+      "iframe_block_reason": null,
+      "platforms": [
+        "desktop"
+      ],
+      "first_seen": "2026-10-11T03:30:00.000Z",
+      "last_seen": "2026-10-11T03:30:00.000Z",
+      "screenshot_path": "videos/fortnite-og-fortniteog-lol-v2-30s.jpg",
+      "screenshots": [
+        {
+          "path": "videos/fortnite-og-fortniteog-lol-v2.jpg",
+          "score": 4,
+          "notes": "Poster frame from original-game gameplay clip."
+        },
+        {
+          "path": "https://raw.githubusercontent.com/SubmitGame/awesome-decomp-games/main/screenshots/browser-fortnite-og-fortniteog-lol.jpg",
+          "score": 5,
+          "notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay."
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "Fan key art with \"OG Battle Royale\" logo; polished but not gameplay.",
+      "x_handle": "omonkeyzz",
+      "author_source": "https://x.com/omonkeyzz/status/2108486163497402475",
+      "remote_likes": 264,
+      "likes_source": "x",
+      "comment_count": 13,
+      "video_path": "videos/fortnite-og-fortniteog-lol-v2-30s.mp4",
+      "video_source": "youtube",
+      "videos": [
+        {
+          "path": "videos/fortnite-og-fortniteog-lol-v2-30s.mp4",
+          "source": "youtube"
+        }
+      ],
+      "requires_own_files": false,
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "check_result": "broken",
+      "checked_at": "2026-11-11",
+      "removed_at": "2026-11-11",
+      "removal_reason": "2 strikes: 402 Deployment Paused (2026-11-10, 2026-11-11), no mirror"
     }
   ]
 }
