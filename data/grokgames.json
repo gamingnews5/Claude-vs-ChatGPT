@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -5615,7 +5615,11 @@
       ],
       "check_note": "2026-11-01: old URL without trailing slash redirected to an HTTP 500; the trailing-slash URL loads (200).",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "simulation"
+      ]
     },
     {
       "id": "comfy-crawler",
@@ -5643,7 +5647,11 @@
       "screenshot_path": "videos/comfy-crawler-30s.jpg",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg",
+        "roguelite"
+      ]
     },
     {
       "id": "neon-asteroids",
@@ -5672,7 +5680,11 @@
       "screenshot_path": "videos/neon-asteroids.jpg",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "multiplayer",
+        "retro"
+      ]
     },
     {
       "id": "dropdead-plinko",
@@ -5785,7 +5797,11 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
       "check_result": "working",
-      "engine_detail": "mindblown.ai"
+      "engine_detail": "mindblown.ai",
+      "tags": [
+        "shooter",
+        "retro"
+      ]
     },
     {
       "id": "bioneural",
@@ -5921,7 +5937,10 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "requires_login": true,
       "checked_at": "2026-11-01",
-      "check_result": "needs_login"
+      "check_result": "needs_login",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "boring-forest",
@@ -6085,7 +6104,10 @@
       "last_seen": "2026-09-30T02:45:01.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "fogline",
@@ -6138,7 +6160,11 @@
       "last_seen": "2026-09-30T01:17:33.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "horror"
+      ]
     },
     {
       "id": "first-person-bouncer",
@@ -6263,7 +6289,11 @@
       "check_result": "working",
       "needs_isolation": true,
       "play_url_note": "Open in Chrome; crashes in the in-app browser",
-      "check_note": "loads in headless desktop, mobile and Android WebView UA (48 MB assets, rotate prompt on phones); no crash reproduced headless; Igor report 2026-10-31"
+      "check_note": "loads in headless desktop, mobile and Android WebView UA (48 MB assets, rotate prompt on phones); no crash reproduced headless; Igor report 2026-10-31",
+      "tags": [
+        "roguelite",
+        "shooter"
+      ]
     },
     {
       "id": "turbo-kart-gp",
@@ -6335,7 +6365,10 @@
       "last_seen": "2026-09-30T04:45:00.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "overrun-dockyard-nine",
@@ -6426,7 +6459,11 @@
       "last_seen": "2026-09-30T02:45:01.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "puzzle",
+        "cozy"
+      ]
     },
     {
       "id": "panic-at-the-disco",
@@ -6567,7 +6604,10 @@
       "last_seen": "2026-09-30T05:50:00.000Z",
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "checked_at": "2026-10-30",
-      "check_result": "broken"
+      "check_result": "broken",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "monochrome-circuit-sonnet",
@@ -6604,7 +6644,10 @@
       "last_seen": "2026-09-30T05:50:00.000Z",
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "checked_at": "2026-10-30",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "monochrome-circuit-astra",
@@ -6641,7 +6684,10 @@
       "last_seen": "2026-09-30T05:50:00.000Z",
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "checked_at": "2026-10-30",
-      "check_result": "broken"
+      "check_result": "broken",
+      "tags": [
+        "racing"
+      ]
     },
     {
       "id": "squish-club",
@@ -6685,7 +6731,11 @@
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T03:48:00.000Z",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sandbox",
+        "cozy"
+      ]
     },
     {
       "id": "bird-siege",
@@ -7320,7 +7370,11 @@
       "iframe_block_reason": "csp-frame-ancestors-none (halo-ce.devcaden.workers.dev and alt nothalo.lol both set CSP frame-ancestors 'none')",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "mobile"
+      ]
     },
     {
       "id": "outpace",
@@ -20962,7 +21016,9 @@
         "android"
       ],
       "comments": [],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "wrapper_only"
     },
     {
       "id": "god-of-war-3-pc",
@@ -23674,7 +23730,9 @@
       "last_seen": "2026-10-17T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "chess-heroes",
@@ -25400,7 +25458,9 @@
           "source": "reddit"
         }
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "broken"
     },
     {
       "id": "ffta-recomp",
@@ -26061,7 +26121,9 @@
       "published_at": "2026-10-14T13:48:44.000Z",
       "tags": [
         "vibegamedev"
-      ]
+      ],
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "paws-in-san-francisco",
@@ -28533,7 +28595,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T04:40:21Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "down-under-again",
@@ -29160,7 +29224,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-21: headless recording measured ~7.2 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 19.0s, no audio"
+      "video_note": "fps fix 2026-10-21: headless recording measured ~7.2 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 19.0s, no audio",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "robotaxi-veridia",
@@ -30459,7 +30525,9 @@
         "rec",
         "playgama"
       ],
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 17.19 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.74x (was 1x), output 22.3 unique fps at 30 fps, 32.0 s, no audio. trimmed to 30s (2026-10-26)"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 17.19 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 1.74x (was 1x), output 22.3 unique fps at 30 fps, 32.0 s, no audio. trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "peekle",
@@ -32716,7 +32784,9 @@
       ],
       "first_seen": "2026-10-18T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T00:29:15Z"
+      "published_at": "2026-10-17T00:29:15Z",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "bubenjump",
@@ -34372,7 +34442,9 @@
       ],
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
-      "published_at": "2026-10-18T16:03:00Z"
+      "published_at": "2026-10-18T16:03:00Z",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "demo-disc-survivors",
@@ -37766,7 +37838,9 @@
       "first_seen": "2026-10-20T01:30:00.000Z",
       "last_seen": "2026-10-20T01:30:00.000Z",
       "published_at": "2026-10-19T10:24:11Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "broken"
     },
     {
       "id": "flying-car-simulator",
@@ -39652,7 +39726,9 @@
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-20T19:42:40Z",
       "screenshot_score": 7,
-      "screenshot_score_notes": "WWI biplane over patchwork farmland and puffy clouds with a compact HUD and dogfight smoke trails; clear and pleasant. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+      "screenshot_score_notes": "WWI biplane over patchwork farmland and puffy clouds with a compact HUD and dogfight smoke trails; clear and pleasant. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "apokelypse-now",
@@ -39728,7 +39804,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "fury-remastered",
@@ -41949,6 +42027,10 @@
           "source": "repo",
           "score": 2,
           "notes": "screenshots: rated from 1 real screenshot (Mercury Workshop's terraria-works.png from the celeste-wasm repo) - Terraria running in the browser port in a dark underground cave with torches, a small player and the inventory hotbar. Real but very dark and small; capped because you need your own game files."
+        },
+        {
+          "path": "screenshots/terraria-wasm-2.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 2,
@@ -42007,6 +42089,10 @@
         },
         {
           "path": "screenshots/gt2-web-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/gt2-web-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -46133,7 +46219,9 @@
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-24T23:30:48Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "age-of-iteration",
@@ -46329,7 +46417,9 @@
       "comments": [],
       "first_seen": "2026-10-25T07:00:00.000Z",
       "last_seen": "2026-10-25T07:00:00.000Z",
-      "published_at": "2026-10-24T01:38:47Z"
+      "published_at": "2026-10-24T01:38:47Z",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "voxel-empires",
@@ -50095,7 +50185,9 @@
       "last_seen": "2026-10-27T09:00:00.000Z",
       "published_at": "2026-10-26T13:14:41Z",
       "page_url": "https://project-apache.com/",
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     },
     {
       "id": "catcopter",
@@ -53043,198 +53135,6 @@
       "check_result": "working"
     },
     {
-      "id": "wardens-of-the-wild",
-      "title": "Wardens of the Wild",
-      "description": "Couch co-op survival game in three.js for 1-4 players in split screen (or online in the same world): a kinder Valheim built by a hobbyist dad with his daughters, with base building, hero creation and the graphics level dropping automatically on slow machines. Free ~45 MB browser demo. Built with Claude Code, ComfyUI for reference art and Blender.",
-      "play_url": "https://wardensofthewild.se/play/",
-      "found_via": "r/threejs \"I built a 4-player split-screen survival game in three.js, playable in the browser\" (u/WardensOfTheWildDev)",
-      "made_with": "unknown",
-      "made_with_note": "Post says Claude Code was the builder; no model named.",
-      "engine": "Three.js",
-      "iframe": false,
-      "iframe_block_reason": "csp-frame-ancestors-none",
-      "category": "survival",
-      "platforms": [
-        "desktop"
-      ],
-      "tags": [
-        "multiplayer",
-        "2-player"
-      ],
-      "video_path": "videos/wardens-of-the-wild.mp4",
-      "video_source": "reddit",
-      "videos": [
-        {
-          "path": "videos/wardens-of-the-wild.mp4",
-          "source": "reddit"
-        }
-      ],
-      "screenshot_path": "videos/wardens-of-the-wild.jpg",
-      "screenshots": [
-        {
-          "path": "videos/wardens-of-the-wild.jpg",
-          "score": 7.5,
-          "notes": "multi-frame: Trailer cards (\"Or the whole family\", \"One screen\", \"Create your hero\", \"Build a home together\") over a lush low-poly forest, a hero creator and a palisade camp; warm, polished presentation. Rated from 5 frames sampled across the gameplay clip plus the poster."
-        }
-      ],
-      "screenshot_score": 7.5,
-      "screenshot_score_notes": "multi-frame: Trailer cards (\"Or the whole family\", \"One screen\", \"Create your hero\", \"Build a home together\") over a lush low-poly forest, a hero creator and a palisade camp; warm, polished presentation. Rated from 5 frames sampled across the gameplay clip plus the poster.",
-      "found_via_network": "reddit",
-      "author": "WardensOfTheWildDev",
-      "author_source": "https://www.reddit.com/user/WardensOfTheWildDev/",
-      "source_url": "https://www.reddit.com/r/threejs/comments/1xhn0do/",
-      "likes_source_url": "https://www.reddit.com/r/threejs/comments/1xhn0do/",
-      "likes_source": "reddit",
-      "remote_likes": 39,
-      "comment_count": 42,
-      "comments": [
-        {
-          "author": "TempleDank",
-          "text": "the claude prompt: clone valheim make no mistakes",
-          "likes": 6,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs7g6sc0gyo/",
-          "created_at": "2026-10-28T13:34:51Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Oh, mistakes were made, I promise you that..",
-          "likes": 8,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs7jggbbmjl/",
-          "created_at": "2026-10-28T13:36:53Z"
-        },
-        {
-          "author": "TempleDank",
-          "text": "hahaha yes\n\n",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsazep449no/",
-          "created_at": "2026-10-28T14:54:05Z"
-        },
-        {
-          "author": "Responsible-Ebb1722",
-          "text": "Thanks going to definitely try this out with a few friends ill let you know what we think. But this has tons of potential hopefully something ill sink into this winter",
-          "likes": 5,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs60399dgis/",
-          "created_at": "2026-10-28T13:02:25Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Thanks! That's very kind of you.. The online-demo doesn't allow for online multiplayer (only local) I'm afraid.. But I hope to get the game released as soon as possible.. There's a waitinglist on the homepage, feel free to sign up..",
-          "likes": 3,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs6662w5hwl/",
-          "created_at": "2026-10-28T13:06:12Z"
-        },
-        {
-          "author": "Yablan",
-          "text": "Looks awesome.. curious, the 3d assets and models and animations,  how did you make them? Using asset packs or AI tools? ",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs6sjtg1x42/",
-          "created_at": "2026-10-28T13:20:08Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Thanks! Most of the models are made with image to 3d workflows in comfyui (Trellis2).. My 3060 has been working nonestop for weeks hehe.. Most of the animations are taken from Mixamo.. Had to ask claude code to brute force some of them (via MCP-Blender) into what we needed so it's far from perfect.. Did you test the demo ?",
-          "likes": 0,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs71oidava9/",
-          "created_at": "2026-10-28T13:25:49Z"
-        },
-        {
-          "author": "TheTrueMule",
-          "text": "Crazy what you can do with a 3060 ! I'll definitely try it with mine",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs7unynl336/",
-          "created_at": "2026-10-28T13:43:52Z"
-        },
-        {
-          "author": "playcronous",
-          "text": "This is very cool, nice unique take!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs72rn8a679/",
-          "created_at": "2026-10-28T13:26:30Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Thanks, that's very kind of you to say... Did you try the demo? I'm so curious what people think of it.. My daughters are biased in there judgement I think..",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs7754hkwdh/",
-          "created_at": "2026-10-28T13:29:13Z"
-        },
-        {
-          "author": "DmtGrm",
-          "text": "i9K/rtx3080 - several FPS at its best on just over 4k screen\n\n  \nI",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs942am6s4l/",
-          "created_at": "2026-10-28T14:12:09Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Smooth experience? One player only or did you try with more inputs ?",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rs9n0nhe2n9/",
-          "created_at": "2026-10-28T14:23:57Z"
-        },
-        {
-          "author": "EconomySerious",
-          "text": "no vertical scroll bar for menues, this is literally not for pc",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsa1gy500yp/",
-          "created_at": "2026-10-28T14:32:57Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Good point.. menues are navigated with awsd.. That's a really good point, thank you I'll fix that. The game was built with controllers in mind since that's what's my kids use..",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsb30g9hluo/",
-          "created_at": "2026-10-28T14:56:20Z"
-        },
-        {
-          "author": "OutlandishnessHot915",
-          "text": "Wow looks amazing   \nI will definitely try it !",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsvgi9cjbol/",
-          "created_at": "2026-10-28T22:33:08Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Thanks! That means a lot!",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rswjsueynl1/",
-          "created_at": "2026-10-28T22:57:37Z"
-        },
-        {
-          "author": "Critical_Hunter_6924",
-          "text": "Split screen sucks tbh",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsb3luznqp1/",
-          "created_at": "2026-10-28T14:56:42Z"
-        },
-        {
-          "author": "WardensOfTheWildDev",
-          "text": "Split-screen in general or in this game ?",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsb6mbkoush/",
-          "created_at": "2026-10-28T14:58:35Z"
-        },
-        {
-          "author": "UndeniablyRuthless",
-          "text": "I appreciate the split screen, fuck what they say",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsd9vcp3nc3/",
-          "created_at": "2026-10-28T15:45:26Z"
-        },
-        {
-          "author": "Critical_Hunter_6924",
-          "text": "Both ofcourse, split screen is just a game design skill issue. ",
-          "likes": 0,
-          "url": "https://www.reddit.com/r/threejs/comments/1xhn0do/i_built_a_4player_splitscreen_survival_game_in/19rsc9divz9i9/",
-          "created_at": "2026-10-28T15:22:43Z"
-        }
-      ],
-      "first_seen": "2026-10-29T09:00:00.000Z",
-      "last_seen": "2026-10-29T09:00:00.000Z",
-      "published_at": "2026-10-28T12:42:24Z",
-      "engine_detail": "three.js"
-    },
-    {
       "id": "zeno-ai-strikers",
       "title": "Zeno AI Strikers",
       "description": "Fast-paced arcade soccer in the browser with physics-heavy ball play: free, no sign-up, keyboard or wired Xbox/PS controller. Made by a surgeon as a hobby, with Claude Code writing all the code (mostly Opus models) in a play-and-fix loop.",
@@ -53962,6 +53862,10 @@
         },
         {
           "path": "screenshots/amsterdoom-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/amsterdoom-3.jpg",
           "source": "headless-browser"
         }
       ],
@@ -54823,8 +54727,8 @@
           "notes": "multi-frame: Glider racing through pink and purple block tunnels, past golden rings with combo and score counters; vivid and music-reactive. Rated from 5 frames sampled across the gameplay clip plus the poster."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "multi-frame: Glider racing through pink and purple block tunnels, past golden rings with combo and score counters; vivid and music-reactive. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "screenshot_score": 8.4,
+      "screenshot_score_notes": "admin: Igor set 8.4 on 2026-11-11",
       "found_via_network": "reddit",
       "author": "Roger-Rabbit-007",
       "author_source": "https://www.reddit.com/user/Roger-Rabbit-007/",
@@ -57646,6 +57550,10 @@
           "path": "screenshots/towers-of-aurum-2.jpg",
           "source": "headless",
           "score": 3.5
+        },
+        {
+          "path": "screenshots/towers-of-aurum-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_path": "screenshots/towers-of-aurum-1.jpg",
@@ -67985,13 +67893,134 @@
       "added_at": "2026-11-11",
       "checked_at": "2026-11-11",
       "check_result": "working"
+    },
+    {
+      "id": "lanternfall",
+      "title": "Lanternfall",
+      "description": "Dark, lantern-lit tactical RPG skirmish from a Claude Fable 5.2 one-shot: command a four-hero party (Warden, Reaver, Fletcher, Lamplighter) across Low Moor stages with speed controls, tonics and detailed enemy-death effects.",
+      "play_url": "https://loktar00.github.io/lanternfall/",
+      "source_url": "https://x.com/loktar00/status/2120192761542615271",
+      "found_via": "@threejs post (x.com/loktar00 video)",
+      "found_via_network": "x",
+      "author": "Loktar",
+      "x_handle": "loktar00",
+      "author_source": "https://x.com/loktar00/status/2120192761542615271",
+      "made_with": "unknown",
+      "engine": "Other",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "rpg",
+        "strategy"
+      ],
+      "remote_likes": 1365,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/loktar00/status/2120192761542615271",
+      "likes_checked": "2026-11-12",
+      "comment_count": 114,
+      "video_path": "videos/lanternfall.mp4",
+      "screenshot_path": "videos/lanternfall.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @loktar00 post (trimmed to 30s)",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: creator clip shows a moody blue/amber night map with a four-hero party fighting at a lantern, HUD with party cards, speed buttons and stage pips; real combat, strong atmosphere and effects.",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "added_at": "2026-11-12",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
+    },
+    {
+      "id": "rage-garage",
+      "title": "Rage Garage",
+      "description": "One supercar, five ways to wreck it: dent it with a bat, shatter it, or cut it in half with a laser. Fully procedural (no downloaded assets) WebGPU/TSL destruction sandbox made with Opus 5.5; sound on.",
+      "play_url": "https://rage-garage.vercel.app/",
+      "source_url": "https://x.com/AndreiProvkin/status/2119093318046908436",
+      "found_via": "@threejs post (x.com/AndreiProvkin video)",
+      "found_via_network": "x",
+      "author": "Andrei Provkin",
+      "x_handle": "AndreiProvkin",
+      "author_source": "https://x.com/AndreiProvkin/status/2119093318046908436",
+      "made_with": "opus-5.5",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "sandbox",
+        "simulation"
+      ],
+      "remote_likes": 5,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/AndreiProvkin/status/2119093318046908436",
+      "likes_checked": "2026-11-12",
+      "comment_count": 1,
+      "video_path": "videos/rage-garage.mp4",
+      "screenshot_path": "videos/rage-garage.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @AndreiProvkin post (trimmed to 30s)",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: creator clip shows a first-person garage with a green supercar being sliced by a heavy laser with sparks and smoke, weapon wheel (bat, milkshake, parking sign, meat mallet, laser); satisfying destruction but a single-loop sandbox.",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "added_at": "2026-11-12",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
+    },
+    {
+      "id": "paris-freestyle",
+      "title": "Paris Freestyle",
+      "description": "Juggle a football in rhythm through stylised Paris streets: a brush-stroke-shader three.js animation toy by @mxvdl made with Claude Fable 5.2 (best with sound).",
+      "play_url": "https://parisfreestyle.netlify.app/",
+      "source_url": "https://x.com/mxvdl/status/2120505286603505858",
+      "found_via": "@threejs post (x.com/mxvdl video)",
+      "found_via_network": "x",
+      "author": "Max Vedel",
+      "x_handle": "mxvdl",
+      "author_source": "https://x.com/mxvdl/status/2120505286603505858",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop",
+        "mobile"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "sports",
+        "cozy"
+      ],
+      "remote_likes": 44,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/mxvdl/status/2120505286603505858",
+      "likes_checked": "2026-11-12",
+      "comment_count": 10,
+      "video_path": "videos/paris-freestyle.mp4",
+      "screenshot_path": "videos/paris-freestyle.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @mxvdl post (trimmed to 30s)",
+      "screenshot_score": 6.5,
+      "screenshot_score_notes": "multi-frame: creator clip shows a painterly brush-stroke footballer juggling a ball on a flat grey ground with halftone shadow; charming art style, little game depth.",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "added_at": "2026-11-12",
+      "checked_at": "2026-11-12",
+      "check_result": "working"
     }
   ],
   "totals": {
-    "count": 853,
+    "count": 855,
     "made_with": {
-      "unknown": 412,
-      "opus-5.5": 343,
+      "unknown": 413,
+      "opus-5.5": 344,
       "astra": 72,
       "sonnet-5.5": 12,
       "uncertain": 7,
@@ -68222,6 +68251,60 @@
       "checked_at": "2026-11-11",
       "removed_at": "2026-11-11",
       "removal_reason": "2 strikes: 402 Deployment Paused (2026-11-10, 2026-11-11), no mirror"
+    },
+    {
+      "id": "wardens-of-the-wild",
+      "title": "Wardens of the Wild",
+      "description": "Couch co-op survival game in three.js for 1-4 players in split screen (or online in the same world): a kinder Valheim built by a hobbyist dad with his daughters, with base building, hero creation and the graphics level dropping automatically on slow machines. Free ~45 MB browser demo. Built with Claude Code, ComfyUI for reference art and Blender.",
+      "play_url": "https://wardensofthewild.se/play/",
+      "found_via": "r/threejs \"I built a 4-player split-screen survival game in three.js, playable in the browser\" (u/WardensOfTheWildDev)",
+      "made_with": "unknown",
+      "made_with_note": "Post says Claude Code was the builder; no model named.",
+      "engine": "Three.js",
+      "iframe": false,
+      "iframe_block_reason": "csp-frame-ancestors-none",
+      "category": "survival",
+      "platforms": [
+        "desktop"
+      ],
+      "tags": [
+        "multiplayer",
+        "2-player"
+      ],
+      "video_path": "videos/wardens-of-the-wild.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/wardens-of-the-wild.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/wardens-of-the-wild.jpg",
+      "screenshots": [
+        {
+          "path": "videos/wardens-of-the-wild.jpg",
+          "score": 7.5,
+          "notes": "multi-frame: Trailer cards (\"Or the whole family\", \"One screen\", \"Create your hero\", \"Build a home together\") over a lush low-poly forest, a hero creator and a palisade camp; warm, polished presentation. Rated from 5 frames sampled across the gameplay clip plus the poster."
+        }
+      ],
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: Trailer cards (\"Or the whole family\", \"One screen\", \"Create your hero\", \"Build a home together\") over a lush low-poly forest, a hero creator and a palisade camp; warm, polished presentation. Rated from 5 frames sampled across the gameplay clip plus the poster.",
+      "found_via_network": "reddit",
+      "author": "WardensOfTheWildDev",
+      "author_source": "https://www.reddit.com/user/WardensOfTheWildDev/",
+      "source_url": "https://www.reddit.com/r/threejs/comments/1xhn0do/",
+      "likes_source_url": "https://www.reddit.com/r/threejs/comments/1xhn0do/",
+      "likes_source": "reddit",
+      "remote_likes": 39,
+      "comment_count": 42,
+      "first_seen": "2026-10-29T09:00:00.000Z",
+      "last_seen": "2026-10-29T09:00:00.000Z",
+      "published_at": "2026-10-28T12:42:24Z",
+      "engine_detail": "three.js",
+      "checked_at": "2026-11-12",
+      "check_result": "broken",
+      "removed_at": "2026-11-12",
+      "removal_reason": "Hard gone: HTTP 410 \"This project has been removed\" on play_url and root (2026-11-12); non-admin report confirmed by own check, no mirror"
     }
   ]
 }
