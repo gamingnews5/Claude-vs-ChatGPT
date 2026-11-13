@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-13",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -5851,7 +5851,11 @@
         }
       ],
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "multiplayer"
+      ]
     },
     {
       "id": "chonk-bear-brawl",
@@ -5888,7 +5892,11 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting",
+        "adventure"
+      ]
     },
     {
       "id": "sadak",
@@ -6562,7 +6570,11 @@
       "last_seen": "2026-09-30T07:51:31.000Z",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "multiplayer"
+      ]
     },
     {
       "id": "monochrome-circuit-opus",
@@ -6643,8 +6655,8 @@
       "first_seen": "2026-09-30T03:48:00.000Z",
       "last_seen": "2026-09-30T05:50:00.000Z",
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
-      "checked_at": "2026-10-30",
-      "check_result": "working",
+      "checked_at": "2026-11-13",
+      "check_result": "broken",
       "tags": [
         "racing"
       ]
@@ -6895,7 +6907,11 @@
       "first_seen": "2026-09-30T05:50:00.000Z",
       "last_seen": "2026-10-04T01:42:38.000Z",
       "checked_at": "2026-11-01",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing",
+        "multiplayer"
+      ]
     },
     {
       "id": "breakwater",
@@ -7705,7 +7721,11 @@
         }
       ],
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure",
+        "cozy"
+      ]
     },
     {
       "id": "kowloon-underground",
@@ -7746,7 +7766,11 @@
       ],
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "demo"
+      ]
     },
     {
       "id": "canyon-overdrive",
@@ -7788,7 +7812,10 @@
         }
       ],
       "checked_at": "2026-11-10",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "baa-sheep-opus",
@@ -7884,7 +7911,10 @@
         }
       ],
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "demo"
+      ]
     },
     {
       "id": "rex-chase",
@@ -7925,7 +7955,11 @@
         }
       ],
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "platformer",
+        "adventure"
+      ]
     },
     {
       "id": "cubedrpg",
@@ -8127,7 +8161,11 @@
         }
       ],
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure",
+        "cozy"
+      ]
     },
     {
       "id": "kage-no-michi",
@@ -8171,7 +8209,11 @@
       "likes_check": "unreachable (post deleted/unavailable) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting",
+        "adventure"
+      ]
     },
     {
       "id": "relight-lantern-expanse",
@@ -8215,7 +8257,10 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "colony-exodus",
@@ -8260,7 +8305,12 @@
       ],
       "page_url": "https://colonyexodus.com/",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg",
+        "idle",
+        "mmo"
+      ]
     },
     {
       "id": "vybenomad",
@@ -8308,7 +8358,11 @@
       "published_at": "2026-10-21T11:19:59Z",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "cozy"
+      ]
     },
     {
       "id": "hollowlight",
@@ -8352,7 +8406,11 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "roguelite"
+      ]
     },
     {
       "id": "blank-the-spire",
@@ -17731,7 +17789,7 @@
       "requires_own_files": false,
       "likes_check": "no original post found 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-11",
+      "checked_at": "2026-11-13",
       "check_result": "timeout"
     },
     {
@@ -19160,67 +19218,6 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-08",
       "check_result": "working"
-    },
-    {
-      "id": "frontier-habitat",
-      "title": "Frontier Habitat",
-      "description": "Planetbase-style colony management game on a dusty orange world: build linked domes, power, food and research, manage colonists and vehicles. Vibe coded over four weekends with Claude Opus 5.5; Godot 4.4 web build, open source (PaulJBarby).",
-      "play_url": "https://paulbarby.github.io/frontier-habitat/",
-      "source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
-      "found_via": "X @PaulJBarby Opus 5.5 colony sim (reply to @MatthewBerman)",
-      "found_via_network": "x",
-      "made_with": "opus-5.5",
-      "engine": "Godot",
-      "iframe": true,
-      "category": "strategy",
-      "platforms": [
-        "desktop"
-      ],
-      "remote_likes": 11,
-      "likes_source": "x",
-      "likes_source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
-      "comment_count": 0,
-      "x_handle": "PaulJBarby",
-      "github_user": "paulbarby",
-      "github_url": "https://github.com/paulbarby/frontier-habitat",
-      "first_seen": "2026-10-12T02:00:00.000Z",
-      "last_seen": "2026-10-12T02:00:00.000Z",
-      "screenshot_path": "screenshots/396-frontier-habitat.jpg",
-      "screenshots": [
-        {
-          "path": "screenshots/396-frontier-habitat.jpg",
-          "source": "existing",
-          "score": 5,
-          "notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI."
-        },
-        {
-          "path": "screenshots/frontier-habitat-1.jpg",
-          "source": "github-readme",
-          "score": 5
-        },
-        {
-          "path": "screenshots/frontier-habitat-2.jpg",
-          "source": "github-readme",
-          "score": 5
-        },
-        {
-          "path": "screenshots/frontier-habitat-3.jpg",
-          "source": "github-readme",
-          "score": 5
-        },
-        {
-          "path": "screenshots/frontier-habitat-4.jpg",
-          "source": "headless",
-          "score": 5
-        }
-      ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI.",
-      "tags": [
-        "screenshots"
-      ],
-      "checked_at": "2026-11-11",
-      "check_result": "broken"
     },
     {
       "id": "san-theft-auto",
@@ -22187,7 +22184,9 @@
           "url": "https://www.reddit.com/r/aigamedev/comments/1x3pvxa/i_created_a_super_chill_browser_fishing_game_with/pfdpyec/",
           "created_at": "2026-10-12T03:50:30Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "neon-kabuki",
@@ -22344,7 +22343,9 @@
           "created_at": "2026-10-16T17:37:17Z"
         }
       ],
-      "engine_detail": "PixiJS"
+      "engine_detail": "PixiJS",
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "claude-dreaming",
@@ -22418,7 +22419,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://rusty-production.itch.io/claude-dreaming",
-      "needs_isolation": true
+      "needs_isolation": true,
+      "checked_at": "2026-11-13",
+      "check_result": "wrapper_only"
     },
     {
       "id": "graveyard",
@@ -22472,7 +22475,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://tcpoole.com/graveyard/",
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "rps-roguelite",
@@ -22530,7 +22535,9 @@
         "itchio"
       ],
       "page_url": "https://kremer-git.itch.io/rock-paper-scissors-roguelite",
-      "embed_url": "https://html-classic.itch.zone/html/19626595/index.html?v=1791417666"
+      "embed_url": "https://html-classic.itch.zone/html/19626595/index.html?v=1791417666",
+      "checked_at": "2026-11-13",
+      "check_result": "needs_login"
     },
     {
       "id": "zugstrecke",
@@ -22574,7 +22581,9 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Silver train curving out of a tunnel through green hills with rocks, captioned 'Through the hills'; calm, tidy diorama look.",
       "comments": [],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "the-heist",
@@ -22695,7 +22704,9 @@
       ],
       "tags": [
         "2-player"
-      ]
+      ],
+      "checked_at": "2026-11-13",
+      "check_result": "wrapper_only"
     },
     {
       "id": "rb2-android",
@@ -23109,7 +23120,9 @@
       "avatar_url": "https://pbs.twimg.com/profile_images/2081939362808520704/FwzCMH0g_normal.jpg",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "odyssey-voyage",
@@ -23181,7 +23194,9 @@
       "avatar_url": "https://pbs.twimg.com/profile_images/2108235361361317889/I6pvUHY7_normal.jpg",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     },
     {
       "id": "slimeworks",
@@ -23250,7 +23265,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-13",
+      "check_result": "needs_login"
     },
     {
       "id": "planetary-defender",
@@ -25459,8 +25476,8 @@
         }
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-12",
-      "check_result": "broken"
+      "checked_at": "2026-11-13",
+      "check_result": "wrapper_only"
     },
     {
       "id": "ffta-recomp",
@@ -37753,96 +37770,6 @@
       "video_note": "trimmed to 30s (2026-10-26)"
     },
     {
-      "id": "almagris",
-      "title": "Almagris",
-      "description": "Dark souls-lite in voxel pixel art running in the browser on the creator's own three.js engine. The first months were built with Claude and the last month with Astra and Opus 5.5 on the engine; the creator says AI did about 40% and they hand-tuned combat, bosses, levels and story.",
-      "play_url": "https://almagris.vercel.app/",
-      "found_via": "r/aigamedev voxel souls-lite on a custom three.js engine (u/Protocontext)",
-      "made_with": "astra",
-      "engine": "Three.js",
-      "iframe": true,
-      "category": "action",
-      "platforms": [
-        "desktop"
-      ],
-      "video_path": "videos/almagris-30s.mp4",
-      "video_source": "reddit",
-      "videos": [
-        {
-          "path": "videos/almagris-30s.mp4",
-          "source": "reddit"
-        }
-      ],
-      "screenshot_path": "videos/almagris-30s.jpg",
-      "screenshots": [
-        {
-          "path": "videos/almagris.jpg",
-          "score": 6,
-          "notes": "Dark voxel pixel-art dungeon from an isometric camera with torch lighting, a knight, enemies and a boss health bar; moody but very dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
-        }
-      ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Dark voxel pixel-art dungeon from an isometric camera with torch lighting, a knight, enemies and a boss health bar; moody but very dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
-      "found_via_network": "reddit",
-      "author": "Protocontext",
-      "author_source": "https://www.reddit.com/user/Protocontext/",
-      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/",
-      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/",
-      "likes_source": "reddit",
-      "remote_likes": 10,
-      "comment_count": 8,
-      "comments": [
-        {
-          "author": "pablixer",
-          "text": "Tiene muy buena pinta bro 💪",
-          "likes": 3,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phohop5/",
-          "created_at": "2026-10-19T12:07:00Z"
-        },
-        {
-          "author": "Protocontext",
-          "text": "Gracias hermano!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phohwac/",
-          "created_at": "2026-10-19T12:08:17Z"
-        },
-        {
-          "author": "Derian_2",
-          "text": "Wow! Looks cool",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/pho9r9j/",
-          "created_at": "2026-10-19T11:16:31Z"
-        },
-        {
-          "author": "Protocontext",
-          "text": "Thank you!",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phob7wi/",
-          "created_at": "2026-10-19T11:26:19Z"
-        },
-        {
-          "author": "Playful-Advisor-9559",
-          "text": "reminds me of minecraft dungeons did u make all the animations?",
-          "likes": 1,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phor4nh/",
-          "created_at": "2026-10-19T12:58:50Z"
-        },
-        {
-          "author": "Protocontext",
-          "text": "Yeah, I drew a bit of inspiration from Dungeons to make the game accessible less serious than a \"Souls\" game. I don’t know, I just feel like this particular angle hadn’t really been explored yet!\n\n  \nFor the animations, Opus created an animation system within the engine itself, which allows for testing thousands of different configurations and tweaking them by hand the \"foundation\" is built right inside the engine.",
-          "likes": 2,
-          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phosdo0/",
-          "created_at": "2026-10-19T13:05:18Z"
-        }
-      ],
-      "first_seen": "2026-10-20T01:30:00.000Z",
-      "last_seen": "2026-10-20T01:30:00.000Z",
-      "published_at": "2026-10-19T10:24:11Z",
-      "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-12",
-      "check_result": "broken"
-    },
-    {
       "id": "flying-car-simulator",
       "title": "Flying Car Simulator",
       "description": "Multiplayer meme game about flying cars, three.js client with a Rust server. Made with Codex (GPT-6 Astra ultra/max did most of the work) and Claude Code Opus 5.5 for graphics and model polish, over 215 prompts and about 1.1B input tokens. Also on itch.io.",
@@ -42154,6 +42081,14 @@
         },
         {
           "path": "screenshots/vcmi-homm3-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/vcmi-homm3-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/vcmi-homm3-5.jpg",
           "source": "headless-browser"
         }
       ],
@@ -65184,6 +65119,14 @@
           "path": "screenshots/found-by-dusk-3.jpg",
           "source": "headless",
           "score": 3.8
+        },
+        {
+          "path": "screenshots/found-by-dusk-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/found-by-dusk-5.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 3.8,
@@ -65227,7 +65170,8 @@
       ],
       "tags": [
         "itchio",
-        "hex"
+        "hex",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65245,6 +65189,14 @@
         },
         {
           "path": "screenshots/ashfall-valley-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/ashfall-valley-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/ashfall-valley-5.jpg",
           "source": "headless-browser"
         }
       ],
@@ -65576,7 +65528,8 @@
       "tags": [
         "rom",
         "decomp",
-        "multiplayer"
+        "multiplayer",
+        "screenshots"
       ],
       "checked_at": "2026-11-02",
       "check_result": "working",
@@ -65590,6 +65543,14 @@
         },
         {
           "path": "screenshots/socom-2-browser-port-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/socom-2-browser-port-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/socom-2-browser-port-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -65790,6 +65751,14 @@
           "path": "screenshots/gravimax-3.jpg",
           "source": "headless",
           "score": 4.2
+        },
+        {
+          "path": "screenshots/gravimax-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/gravimax-5.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 4.2,
@@ -68014,14 +67983,54 @@
       "added_at": "2026-11-12",
       "checked_at": "2026-11-12",
       "check_result": "working"
+    },
+    {
+      "id": "maad-maxxing",
+      "title": "MAAD MAXXING",
+      "description": "A buggy chase that plays like a movie trailer: you drive, the camera cuts. Insta-death reaction-and-memory runs, drawn live in the browser with no models or textures (WebGPU/Three.js, desktop only; built with Claude Fable 5.2).",
+      "play_url": "https://maad-maxxing.vercel.app/",
+      "source_url": "https://x.com/threejs/status/2121018449845744123",
+      "found_via": "@threejs post (x.com/Andrew_Blumson video)",
+      "found_via_network": "x",
+      "author": "Andrew Blumson",
+      "x_handle": "Andrew_Blumson",
+      "author_source": "https://x.com/Andrew_Blumson/status/2120952281130479734",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "racing",
+        "roguelite"
+      ],
+      "remote_likes": 37,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/threejs/status/2121018449845744123",
+      "likes_checked": "2026-11-13",
+      "comment_count": 1,
+      "video_path": "videos/maad-maxxing.mp4",
+      "screenshot_path": "videos/maad-maxxing.jpg",
+      "video_source": "found",
+      "video_note": "Creator video from @Andrew_Blumson post (trimmed to 30s)",
+      "screenshot_score": 7.5,
+      "screenshot_score_notes": "multi-frame: creator clip shows a stylised procedural buggy chase with constantly cutting cinematic cameras; distinctive concept and art, short insta-death stages.",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "added_at": "2026-11-13",
+      "checked_at": "2026-11-13",
+      "check_result": "working"
     }
   ],
   "totals": {
-    "count": 855,
+    "count": 854,
     "made_with": {
-      "unknown": 413,
-      "opus-5.5": 344,
-      "astra": 72,
+      "unknown": 414,
+      "opus-5.5": 343,
+      "astra": 71,
       "sonnet-5.5": 12,
       "uncertain": 7,
       "gemini-4-argon": 7
@@ -68305,6 +68314,161 @@
       "check_result": "broken",
       "removed_at": "2026-11-12",
       "removal_reason": "Hard gone: HTTP 410 \"This project has been removed\" on play_url and root (2026-11-12); non-admin report confirmed by own check, no mirror"
+    },
+    {
+      "id": "almagris",
+      "title": "Almagris",
+      "description": "Dark souls-lite in voxel pixel art running in the browser on the creator's own three.js engine. The first months were built with Claude and the last month with Astra and Opus 5.5 on the engine; the creator says AI did about 40% and they hand-tuned combat, bosses, levels and story.",
+      "play_url": "https://almagris.vercel.app/",
+      "found_via": "r/aigamedev voxel souls-lite on a custom three.js engine (u/Protocontext)",
+      "made_with": "astra",
+      "engine": "Three.js",
+      "iframe": true,
+      "category": "action",
+      "platforms": [
+        "desktop"
+      ],
+      "video_path": "videos/almagris-30s.mp4",
+      "video_source": "reddit",
+      "videos": [
+        {
+          "path": "videos/almagris-30s.mp4",
+          "source": "reddit"
+        }
+      ],
+      "screenshot_path": "videos/almagris-30s.jpg",
+      "screenshots": [
+        {
+          "path": "videos/almagris.jpg",
+          "score": 6,
+          "notes": "Dark voxel pixel-art dungeon from an isometric camera with torch lighting, a knight, enemies and a boss health bar; moody but very dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
+        }
+      ],
+      "screenshot_score": 6,
+      "screenshot_score_notes": "Dark voxel pixel-art dungeon from an isometric camera with torch lighting, a knight, enemies and a boss health bar; moody but very dark. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "found_via_network": "reddit",
+      "author": "Protocontext",
+      "author_source": "https://www.reddit.com/user/Protocontext/",
+      "source_url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/",
+      "likes_source_url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/",
+      "likes_source": "reddit",
+      "remote_likes": 10,
+      "comment_count": 8,
+      "comments": [
+        {
+          "author": "pablixer",
+          "text": "Tiene muy buena pinta bro 💪",
+          "likes": 3,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phohop5/",
+          "created_at": "2026-10-19T12:07:00Z"
+        },
+        {
+          "author": "Protocontext",
+          "text": "Gracias hermano!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phohwac/",
+          "created_at": "2026-10-19T12:08:17Z"
+        },
+        {
+          "author": "Derian_2",
+          "text": "Wow! Looks cool",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/pho9r9j/",
+          "created_at": "2026-10-19T11:16:31Z"
+        },
+        {
+          "author": "Protocontext",
+          "text": "Thank you!",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phob7wi/",
+          "created_at": "2026-10-19T11:26:19Z"
+        },
+        {
+          "author": "Playful-Advisor-9559",
+          "text": "reminds me of minecraft dungeons did u make all the animations?",
+          "likes": 1,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phor4nh/",
+          "created_at": "2026-10-19T12:58:50Z"
+        },
+        {
+          "author": "Protocontext",
+          "text": "Yeah, I drew a bit of inspiration from Dungeons to make the game accessible less serious than a \"Souls\" game. I don’t know, I just feel like this particular angle hadn’t really been explored yet!\n\n  \nFor the animations, Opus created an animation system within the engine itself, which allows for testing thousands of different configurations and tweaking them by hand the \"foundation\" is built right inside the engine.",
+          "likes": 2,
+          "url": "https://www.reddit.com/r/aigamedev/comments/1x9t6f1/almagris_un_soulslite_oscuro_en_voxel_pixelart/phosdo0/",
+          "created_at": "2026-10-19T13:05:18Z"
+        }
+      ],
+      "first_seen": "2026-10-20T01:30:00.000Z",
+      "last_seen": "2026-10-20T01:30:00.000Z",
+      "published_at": "2026-10-19T10:24:11Z",
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-13",
+      "check_result": "broken",
+      "removed_at": "2026-11-13",
+      "removal_reason": "Hard gone: https://almagris.vercel.app/ HTTP 404 on two consecutive checks (2026-11-12, 2026-11-13); no mirror"
+    },
+    {
+      "id": "frontier-habitat",
+      "title": "Frontier Habitat",
+      "description": "Planetbase-style colony management game on a dusty orange world: build linked domes, power, food and research, manage colonists and vehicles. Vibe coded over four weekends with Claude Opus 5.5; Godot 4.4 web build, open source (PaulJBarby).",
+      "play_url": "https://paulbarby.github.io/frontier-habitat/",
+      "source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
+      "found_via": "X @PaulJBarby Opus 5.5 colony sim (reply to @MatthewBerman)",
+      "found_via_network": "x",
+      "made_with": "opus-5.5",
+      "engine": "Godot",
+      "iframe": true,
+      "category": "strategy",
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 11,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/PaulJBarby/status/2109130115066331489",
+      "comment_count": 0,
+      "x_handle": "PaulJBarby",
+      "github_user": "paulbarby",
+      "github_url": "https://github.com/paulbarby/frontier-habitat",
+      "first_seen": "2026-10-12T02:00:00.000Z",
+      "last_seen": "2026-10-12T02:00:00.000Z",
+      "screenshot_path": "screenshots/396-frontier-habitat.jpg",
+      "screenshots": [
+        {
+          "path": "screenshots/396-frontier-habitat.jpg",
+          "source": "existing",
+          "score": 5,
+          "notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI."
+        },
+        {
+          "path": "screenshots/frontier-habitat-1.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-2.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-3.jpg",
+          "source": "github-readme",
+          "score": 5
+        },
+        {
+          "path": "screenshots/frontier-habitat-4.jpg",
+          "source": "headless",
+          "score": 5
+        }
+      ],
+      "screenshot_score": 5,
+      "screenshot_score_notes": "screenshots: rated from 5 screenshots - Mars colony builder: top-down base of domes and pipes on red terrain, title art, terrain/scene tiles, a dense build-menu panel and landing title; detailed but busy, small UI.",
+      "tags": [
+        "screenshots"
+      ],
+      "checked_at": "2026-11-13",
+      "check_result": "broken",
+      "removed_at": "2026-11-13",
+      "removal_reason": "Hard gone: paulbarby.github.io/frontier-habitat and the repo both 404 on two consecutive checks (2026-11-11, 2026-11-13); no mirror"
     }
   ]
 }
