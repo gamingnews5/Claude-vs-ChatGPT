@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -6466,7 +6466,7 @@
       "first_seen": "2026-09-30T02:45:01.000Z",
       "last_seen": "2026-09-30T02:45:01.000Z",
       "video_note": "trimmed to 30s (2026-10-26)",
-      "checked_at": "2026-11-01",
+      "checked_at": "2026-11-14",
       "check_result": "working",
       "tags": [
         "puzzle",
@@ -8453,7 +8453,11 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "roguelite"
+      ]
     },
     {
       "id": "flappy-claude",
@@ -8605,7 +8609,11 @@
       "screenshot_path": "videos/rope-ninja.jpg",
       "checked_at": "2026-11-02",
       "check_result": "working",
-      "engine_detail": "PixiJS"
+      "engine_detail": "PixiJS",
+      "tags": [
+        "platformer",
+        "racing"
+      ]
     },
     {
       "id": "kaveth",
@@ -8635,7 +8643,11 @@
       "screenshot_path": "videos/kaveth.jpg",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "multiplayer"
+      ]
     },
     {
       "id": "turbopaws",
@@ -8691,7 +8703,11 @@
       "comment_count": 4,
       "likes_checked": "2026-10-12",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing",
+        "multiplayer"
+      ]
     },
     {
       "id": "super-intelligence-bros",
@@ -8832,7 +8848,11 @@
       "screenshot_score_notes": "Rainy palms, ocean, hands, and survival HUD sell the island immediately, with slight glare and basic hand models.",
       "screenshot_path": "videos/velmora.jpg",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "survival",
+        "adventure"
+      ]
     },
     {
       "id": "deepcore",
@@ -9362,7 +9382,11 @@
       "screenshot_score_notes": "The framed creature grid and title card show the daily blobi collection clearly, though the portrait crop and overlay hide some cells.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "cozy"
+      ]
     },
     {
       "id": "empire-tycoon",
@@ -9515,7 +9539,10 @@
       "screenshot_score_notes": "A portrait slope, rider, and mobile HUD communicate snowboarding, but the rider is small and the bright snow is soft and washed out.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports"
+      ]
     },
     {
       "id": "doom-ai",
@@ -9612,7 +9639,11 @@
       "screenshot_score_notes": "multi-frame: vertical trailer: MANDRIS title card, then enemy/ability cards (Garmo, Jivadin, Norgron) over neon space combat and an explosion; flashy effects, little readable gameplay. Rated from 5 frames across the creator clip plus poster.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "multiplayer"
+      ]
     },
     {
       "id": "evergrow",
@@ -9818,7 +9849,10 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation"
+      ]
     },
     {
       "id": "snowline-rivals",
@@ -9860,7 +9894,11 @@
       "screenshot_score_notes": "A rider carving through snowy pines toward distant peaks reads instantly as a downhill racer, with legible timer and speed HUD; slight compression softness.",
       "made_with_note": "Creator says GPT-6 Astra built most of it; Opus 5.5 did final polish.",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "racing",
+        "sports"
+      ]
     },
     {
       "id": "willowmere",
@@ -9902,7 +9940,11 @@
       "screenshot_score_notes": "Vibrant pixel-art cove with the hero, beach and sparkling water shows the cozy look well, though a large floating tide-pool prop dominates the center.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure",
+        "cozy"
+      ]
     },
     {
       "id": "boat-pirate-roguelike",
@@ -9991,7 +10033,11 @@
       "screenshot_score_notes": "Clean arena board with labeled heroes, a VICTORY banner and item panels shows the auto-battler loop well; dense side UI crowds the edges.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-02",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy",
+        "multiplayer"
+      ]
     },
     {
       "id": "mu-veyra",
@@ -10034,7 +10080,11 @@
       "screenshot_score_notes": "Isometric snowy Devias scene with a winged hero, monsters and full hotbar is unmistakably MU Online, though textures are low-res and the HUD is cluttered. | report: Igor marked broken; page loads to LOG IN / PLAY NOW, account needed to play (2026-11-01)",
       "checked_at": "2026-11-05",
       "check_result": "needs_login",
-      "requires_login": true
+      "requires_login": true,
+      "tags": [
+        "mmo",
+        "rpg"
+      ]
     },
     {
       "id": "myth-fallen-levels",
@@ -10318,7 +10368,11 @@
       "screenshot_score_notes": "Lush toy-like island village with a market stall, path and a cute companion sells the cozy vibe, but a facecam overlay and subtitles cover part of the frame.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "cozy"
+      ]
     },
     {
       "id": "concrete-jungle",
@@ -10361,7 +10415,11 @@
       "screenshot_score_notes": "multi-frame: decent third-person voxel/3D NYC streets and park with rat/squirrel, plus newspaper UI; gameplay frames are dim and simple, trailer cards dominate.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "adventure"
+      ]
     },
     {
       "id": "plumki",
@@ -23310,8 +23368,8 @@
           "notes": "Rated from 5 frames across the clip plus poster: city skyline under alien attack with turret fire; readable arcade action, modest polish. Multi-frame rating."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: city skyline under alien attack with turret fire; readable arcade action, modest polish. Multi-frame rating.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "Rated from 5 frames across the clip plus poster: city skyline under alien attack with turret fire; readable arcade action, modest polish. Multi-frame rating. | login required (check 2026-11-14): score lowered 6 -> 4.0",
       "found_via_network": "x",
       "x_handle": "GameFoundryNet",
       "source_url": "https://x.com/GameFoundryNet/status/2110102301948146154",
@@ -23323,7 +23381,10 @@
       "tags": [
         "gamefoundry"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-14",
+      "check_result": "needs_login",
+      "requires_login": true
     },
     {
       "id": "cuddle-empires",
@@ -23367,7 +23428,9 @@
       "avatar_url": "https://pbs.twimg.com/profile_images/1154663438/myComic_normal.jpg",
       "first_seen": "2026-10-14T01:30:00.000Z",
       "last_seen": "2026-10-14T01:30:00.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "need4space",
@@ -23923,8 +23986,8 @@
           "notes": "Rated from 5 frames across the gameplay recording plus poster: chess board with power draft UI; solid web board game look. Multi-frame rating."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: chess board with power draft UI; solid web board game look. Multi-frame rating.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "Rated from 5 frames across the gameplay recording plus poster: chess board with power draft UI; solid web board game look. Multi-frame rating. | login required (check 2026-11-14): score lowered 6 -> 4.0",
       "found_via_network": "reddit",
       "author": "EggburtAlmighty",
       "author_source": "https://www.reddit.com/user/EggburtAlmighty/",
@@ -23935,7 +23998,10 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "needs_login",
+      "requires_login": true
     },
     {
       "id": "hearthworks",
@@ -24124,7 +24190,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 1.84 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 16.32x (was 7x), output 23.5 unique fps at 30 fps, 4.0 s, no audio. Clip is under 8 s because the whole usable recording (65.3 s of raw) only holds 120 unique frames. Earlier: fps fix 2026-10-22 (4x cap lifted for this game with Igor's OK): headless Playwright recording measured ~5.1-5.6 unique fps during play (mpdecimate on the raw webm) and the in-game run timer advanced ~8 s over ~55 s of recording (~0.15x speed); re-encoded from the raw webm sped up 7x (setpts, 30 fps output) from the menu through gameplay, 9.3 s, no audio. Previous 4x version still played at about half speed."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 1.84 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 16.32x (was 7x), output 23.5 unique fps at 30 fps, 4.0 s, no audio. Clip is under 8 s because the whole usable recording (65.3 s of raw) only holds 120 unique frames. Earlier: fps fix 2026-10-22 (4x cap lifted for this game with Igor's OK): headless Playwright recording measured ~5.1-5.6 unique fps during play (mpdecimate on the raw webm) and the in-game run timer advanced ~8 s over ~55 s of recording (~0.15x speed); re-encoded from the raw webm sped up 7x (setpts, 30 fps output) from the menu through gameplay, 9.3 s, no audio. Previous 4x version still played at about half speed.",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "penguinsmack",
@@ -24291,7 +24359,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "catan-friendos",
@@ -24348,7 +24418,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "counterstance",
@@ -24417,7 +24489,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "screenshots"
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "tank-vs-city",
@@ -24485,7 +24559,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 2.27 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 13.22x (was 4x), output 24.1 unique fps at 30 fps, 5.1 s, no audio. Clip is under 8 s because the whole usable recording (67 s of raw) only holds 152 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~6.8 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 16.7s, no audio"
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 2.27 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 13.22x (was 4x), output 24.1 unique fps at 30 fps, 5.1 s, no audio. Clip is under 8 s because the whole usable recording (67 s of raw) only holds 152 unique frames. Earlier: fps fix 2026-10-21: headless recording measured ~6.8 unique fps during motion (mpdecimate on raw Playwright webm); re-encoded sped up 4x (target 30fps, capped at 4x) to 16.7s, no audio",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "handoff-atc",
@@ -24545,7 +24621,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "wrapper_only"
     },
     {
       "id": "contour-guesser",
@@ -24612,7 +24690,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "teleoperator-v2",
@@ -24781,7 +24861,9 @@
       "likes_checked": "2026-10-15",
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://teleoperator.mindblown.ai/",
-      "engine_detail": "mindblown.ai"
+      "engine_detail": "mindblown.ai",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "call-of-roque",
@@ -24851,7 +24933,9 @@
       "last_seen": "2026-10-14T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "majora-mask-3d",
@@ -25859,7 +25943,9 @@
           "url": "https://x.com/vaibhavdotcv/status/2110213897701691805",
           "created_at": "2026-10-14T03:39:33Z"
         }
-      ]
+      ],
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "small-hours",
@@ -25902,7 +25988,9 @@
       "comments": [],
       "first_seen": "2026-10-15T01:30:00.000Z",
       "last_seen": "2026-10-15T01:30:00.000Z",
-      "published_at": "2026-10-14T19:03:46.000Z"
+      "published_at": "2026-10-14T19:03:46.000Z",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     },
     {
       "id": "uppercut-jim",
@@ -41958,6 +42046,10 @@
         {
           "path": "screenshots/terraria-wasm-2.jpg",
           "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/terraria-wasm-3.jpg",
+          "source": "headless-browser"
         }
       ],
       "screenshot_score": 2,
@@ -53801,6 +53893,10 @@
         },
         {
           "path": "screenshots/amsterdoom-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/amsterdoom-4.jpg",
           "source": "headless-browser"
         }
       ],
@@ -68023,12 +68119,71 @@
       "added_at": "2026-11-13",
       "checked_at": "2026-11-13",
       "check_result": "working"
+    },
+    {
+      "id": "nightclub-drift-speed",
+      "title": "NightClub: Drift & Speed",
+      "description": "Night drift racing in the browser: drift orange zones, fly through green ones across neon Tokyo, a Norwegian mountain pass under the aurora and the Adriatic coast. Garage, challenges and leaderboard.",
+      "play_url": "https://www.nightclub-driftspeed.xyz/",
+      "source_url": "https://x.com/threejs/status/2121274953974890836",
+      "found_via": "@threejs post (x.com/Story91_ video)",
+      "found_via_network": "x",
+      "author": "Story91_",
+      "x_handle": "Story91_",
+      "author_source": "https://x.com/Story91_/status/2121016763190059194",
+      "made_with": "unknown",
+      "engine": "Three.js",
+      "browser_playable": true,
+      "platforms": [
+        "desktop"
+      ],
+      "iframe": true,
+      "tags": [
+        "threejs",
+        "racing",
+        "screenshots"
+      ],
+      "remote_likes": 78,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/threejs/status/2121274953974890836",
+      "likes_checked": "2026-11-14",
+      "comment_count": 4,
+      "screenshots": [
+        {
+          "path": "screenshots/nightclub-drift-speed-1.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightclub-drift-speed-2.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightclub-drift-speed-3.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightclub-drift-speed-4.jpg",
+          "source": "headless-browser"
+        },
+        {
+          "path": "screenshots/nightclub-drift-speed-5.jpg",
+          "source": "headless-browser"
+        }
+      ],
+      "screenshot_path": "screenshots/nightclub-drift-speed-1.jpg",
+      "screenshot_score": 7.0,
+      "screenshot_score_notes": "multi-frame: polished neon menu and loading art; software-rendered headless run only reached loading, so score from the menu and creator description (3 maps, garage, leaderboard).",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "added_at": "2026-11-14",
+      "checked_at": "2026-11-14",
+      "check_result": "working"
     }
   ],
   "totals": {
-    "count": 854,
+    "count": 855,
     "made_with": {
-      "unknown": 414,
+      "unknown": 415,
       "opus-5.5": 343,
       "astra": 71,
       "sonnet-5.5": 12,
