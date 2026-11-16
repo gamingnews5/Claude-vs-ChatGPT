@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-16",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -10461,7 +10461,10 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports"
+      ]
     },
     {
       "id": "doughty",
@@ -10504,7 +10507,10 @@
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg"
+      ]
     },
     {
       "id": "last-call",
@@ -10645,7 +10651,10 @@
       "screenshot_score_notes": "Lamp-lit wood-panelled hallway with dark doorways is properly eerie and clean, but there is no HUD or sign of interaction.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "horror"
+      ]
     },
     {
       "id": "ocarina-hero",
@@ -10687,7 +10696,10 @@
       "screenshot_score_notes": "Polished Zelda-style logo and mode menu over a misty Lost Woods scene look great, but no note highway or gameplay is shown.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rhythm"
+      ]
     },
     {
       "id": "fogbound-trail",
@@ -10818,7 +10830,10 @@
       "screenshot_score_notes": "Sunbeams through greenhouse windows lighting giant dandelion heads make a striking, unsettling still; no HUD so the stealth play is implied.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "horror"
+      ]
     },
     {
       "id": "city-2026",
@@ -11010,7 +11025,11 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation",
+        "strategy"
+      ]
     },
     {
       "id": "emberfall-lumina",
@@ -11196,7 +11215,11 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://lumina-static-584822.gitlab.io/",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg",
+        "demo"
+      ]
     },
     {
       "id": "ue5-souls-webgpu",
@@ -11237,7 +11260,10 @@
       "screenshot_score_notes": "Moody gothic cathedral courtyard with wet cobblestones and health/stamina bars looks like a Souls game, but the frame is very dark and the knight is off-screen.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-03",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "demo"
+      ]
     },
     {
       "id": "aestra-the-last-wish",
@@ -11617,7 +11643,10 @@
       "screenshot_score_notes": "Painterly sunset over a calm sea with a little boat leaving a wake is gorgeous; there is no HUD, so the play is implied.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "cozy"
+      ]
     },
     {
       "id": "ski-jumping-io",
@@ -11658,7 +11687,11 @@
       "screenshot_score": 7,
       "screenshot_score_notes": "Snowy inrun with a Swiss flag, pine forest and speed/wind HUD clearly shows a jump about to launch; the jumper is tiny.",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports",
+        "multiplayer"
+      ]
     },
     {
       "id": "merge-conflict",
@@ -11699,7 +11732,10 @@
       "screenshot_score_notes": "Clawd's orange block faces the blue Codex mascot in a moody neon arena with polished lighting, but there is no HUD in this frame.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "fighting"
+      ]
     },
     {
       "id": "mission-shadow",
@@ -11741,7 +11777,10 @@
       "screenshot_score_notes": "Snowy night compound with a hooded player, a minimap and a 'Strike from the shadows' caption sets the stealth mood; the trailer text covers the lower frame.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "heatsink",
@@ -11913,7 +11952,10 @@
       "x_handle": "noclipepe",
       "avatar_url": "https://pbs.twimg.com/profile_images/2079860441333846016/fEbqKdNE_normal.jpg",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "simulation"
+      ]
     },
     {
       "id": "bonvo-freeride",
@@ -11954,7 +11996,11 @@
       "screenshot_score_notes": "Sunlit snowy mountain run with a snowboarder carving down a groomed piste and a resort minimap; scenic and clear.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports",
+        "simulation"
+      ]
     },
     {
       "id": "stickfrag",
@@ -12140,7 +12186,11 @@
         }
       ],
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "multiplayer"
+      ]
     },
     {
       "id": "moonbear",
@@ -25862,7 +25912,9 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://luka0611.itch.io/surgesuperhero",
       "embed_url": "",
-      "play_url_note": "itch embed 404 on 2026-11-11 and no web player found on the itch page; play_url kept (candidate for removal if still no web build)"
+      "play_url_note": "itch embed 404 on 2026-11-11 and no web player found on the itch page; play_url kept (candidate for removal if still no web build)",
+      "checked_at": "2026-11-16",
+      "check_result": "wrapper_only"
     },
     {
       "id": "webgl-mahjong",
@@ -26073,7 +26125,9 @@
       "published_at": "2026-10-14T17:53:55.000Z",
       "tags": [
         "sandbox"
-      ]
+      ],
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "backyard-rascals",
@@ -26280,7 +26334,9 @@
       "first_seen": "2026-10-15T01:30:00.000Z",
       "last_seen": "2026-10-15T01:30:00.000Z",
       "published_at": "2026-10-14T06:23:47.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-16",
+      "check_result": "wrapper_only"
     },
     {
       "id": "garage-to-grid",
@@ -26312,8 +26368,8 @@
           "notes": "Clean isometric low-poly street with a garage, cars on lifts and a growing workshop; cohesive colorful style. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Clean isometric low-poly street with a garage, cars on lifts and a growing workshop; cohesive colorful style. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "Clean isometric low-poly street with a garage, cars on lifts and a growing workshop; cohesive colorful style. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. | login required (check 2026-11-16): score lowered 7 -> 4.0",
       "found_via_network": "x",
       "x_handle": "usecrayon",
       "source_url": "https://x.com/usecrayon/status/2110419423811305610",
@@ -26350,7 +26406,10 @@
       "published_at": "2026-10-14T17:16:14.000Z",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-16",
+      "check_result": "needs_login",
+      "requires_login": true
     },
     {
       "id": "the-near-future",
@@ -26405,7 +26464,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-16",
+      "check_result": "broken"
     },
     {
       "id": "slipface",
@@ -26703,7 +26764,9 @@
       "tags": [
         "rec"
       ],
-      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.13x (was 1x), output 20.2 unique fps at 30 fps, 5.2 s, no audio. Clip is under 8 s because the whole usable recording (32 s of raw) only holds 197 unique frames."
+      "video_note": "fps fix 2026-10-23 (rule: sped-up clips must show >=20 real frames/s): raw headless recording measured 6.16 unique fps (default mpdecimate on the raw webm), re-encoded from the raw sped up 6.13x (was 1x), output 20.2 unique fps at 30 fps, 5.2 s, no audio. Clip is under 8 s because the whole usable recording (32 s of raw) only holds 197 unique frames.",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "toke",
@@ -26890,7 +26953,9 @@
       "last_seen": "2026-10-15T01:30:00.000Z",
       "tags": [
         "rec"
-      ]
+      ],
+      "checked_at": "2026-11-16",
+      "check_result": "wrapper_only"
     },
     {
       "id": "power-pile",
@@ -26961,7 +27026,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://tip390.itch.io/power-pile",
-      "embed_url": "https://html-classic.itch.zone/html/19932075/index.html?v=1792610164"
+      "embed_url": "https://html-classic.itch.zone/html/19932075/index.html?v=1792610164",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "rivas-city",
@@ -26992,8 +27059,8 @@
           "notes": "Sunset city skyline, rooftops and explosive street fights; busy but readable low-poly city. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Sunset city skyline, rooftops and explosive street fights; busy but readable low-poly city. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating.",
+      "screenshot_score": 4.0,
+      "screenshot_score_notes": "Sunset city skyline, rooftops and explosive street fights; busy but readable low-poly city. Rated from 5 frames sampled across the gameplay clip plus the poster. Multi-frame rating. | login required (check 2026-11-16): score lowered 6 -> 4.0",
       "found_via_network": "reddit",
       "author": "Roninteon",
       "author_source": "https://www.reddit.com/user/Roninteon/",
@@ -27031,7 +27098,10 @@
         "itchio"
       ],
       "page_url": "https://roninteon.itch.io/rivas-city",
-      "embed_url": "https://html-classic.itch.zone/html/20318209/index.html?v=1793951197"
+      "embed_url": "https://html-classic.itch.zone/html/20318209/index.html?v=1793951197",
+      "checked_at": "2026-11-16",
+      "check_result": "needs_login",
+      "requires_login": true
     },
     {
       "id": "cyport",
@@ -27603,7 +27673,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-13T14:01:11Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "slopocalypse",
@@ -27790,7 +27862,9 @@
       "last_seen": "2026-10-22T07:00:00.000Z",
       "published_at": "2026-10-15T19:52:59Z",
       "made_with_source": "https://www.reddit.com/r/TopologyAI/comments/1xbtgsy/",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "wake-word",
@@ -27981,7 +28055,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://redrakam.itch.io/wake-word",
-      "embed_url": "https://html-classic.itch.zone/html/19733450/index.html?v=1791885276"
+      "embed_url": "https://html-classic.itch.zone/html/19733450/index.html?v=1791885276",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "scacelith",
@@ -28214,7 +28290,9 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://neta.art/w/kingdomrushdev/neta-s-release/neta-s",
-      "iframe_block_reason": null
+      "iframe_block_reason": null,
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "blind-sector",
@@ -28458,7 +28536,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T23:23:52Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "wheelie-houseli",
@@ -28517,7 +28597,9 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-14T17:32:36Z"
+      "published_at": "2026-10-14T17:32:36Z",
+      "checked_at": "2026-11-16",
+      "check_result": "working"
     },
     {
       "id": "frogpop",
@@ -29773,8 +29855,8 @@
           "notes": "Lush tropical greenhouse and garden arenas with first-person rifles, muzzle flashes and a clean HUD; polished stylized look. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
       ],
-      "screenshot_score": 7,
-      "screenshot_score_notes": "Lush tropical greenhouse and garden arenas with first-person rifles, muzzle flashes and a clean HUD; polished stylized look. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 8.6,
+      "screenshot_score_notes": "Lush tropical greenhouse and garden arenas with first-person rifles, muzzle flashes and a clean HUD; polished stylized look. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating). | admin: Igor set 8.6 on 2026-11-15",
       "found_via_network": "reddit",
       "author": "Inevitable_Salad_128",
       "author_source": "https://www.reddit.com/user/Inevitable_Salad_128/",
@@ -34463,8 +34545,8 @@
           "notes": "Third-person robot shooter with rifles and HUD across a rooftop, an interior, snowy hills and a cooling-tower industrial map; decent but generic. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating)."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Third-person robot shooter with rifles and HUD across a rooftop, an interior, snowy hills and a cooling-tower industrial map; decent but generic. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 9.3,
+      "screenshot_score_notes": "Third-person robot shooter with rifles and HUD across a rooftop, an interior, snowy hills and a cooling-tower industrial map; decent but generic. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating). | admin: Igor set 9.3 on 2026-11-15",
       "found_via_network": "reddit",
       "author": "Virtual_Hair_1987",
       "author_source": "https://www.reddit.com/user/Virtual_Hair_1987/",
@@ -34548,8 +34630,12 @@
       "first_seen": "2026-10-19T01:30:00.000Z",
       "last_seen": "2026-10-19T01:30:00.000Z",
       "published_at": "2026-10-18T16:03:00Z",
-      "checked_at": "2026-11-12",
-      "check_result": "working"
+      "checked_at": "2026-11-16",
+      "check_result": "working",
+      "tags": [
+        "mobile",
+        "shooter"
+      ]
     },
     {
       "id": "demo-disc-survivors",
@@ -39961,8 +40047,8 @@
       "first_seen": "2026-10-21T02:30:00.000Z",
       "last_seen": "2026-10-21T02:30:00.000Z",
       "published_at": "2026-10-20T18:36:47Z",
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Vertical promo clip of ATV riders on dirt tracks, jumps and online freeride with bold text overlays; decent but narrow frame. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating).",
+      "screenshot_score": 7.3,
+      "screenshot_score_notes": "Vertical promo clip of ATV riders on dirt tracks, jumps and online freeride with bold text overlays; decent but narrow frame. Rated from 5 frames sampled across the gameplay clip plus the poster (multi-frame rating). | admin: Igor set 7.3 on 2026-11-14",
       "video_note": "trimmed to 30s (2026-10-26)",
       "engine_detail": "Rust/WebAssembly"
     },
