@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-17",
   "scoring_rubric": "screenshot_score 1-10: visual clarity, composition, how well the still shows the game, production polish. NOT gameplay quality.",
   "games": [
     {
@@ -11908,8 +11908,8 @@
           "notes": "Vertical phone capture of a white pickup on a grassy verge with a fishing rod and subtitles; framed in a purple phone border with a lot of empty space."
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Vertical phone capture of a white pickup on a grassy verge with a fishing rod and subtitles; framed in a purple phone border with a lot of empty space.",
+      "screenshot_score": 8,
+      "screenshot_score_notes": "Vertical phone capture of a white pickup on a grassy verge with a fishing rod and subtitles; framed in a purple phone border with a lot of empty space. | admin: Igor set 8 on 2026-11-16",
       "comment_count": 3,
       "comments": [
         {
@@ -12231,7 +12231,10 @@
       "screenshot_score_notes": "Sunlit sea dotted with rock stacks, a blue fighter banking past enemy jets and a wingman radio box with shield/boost HUD; looks like a real Star Fox level.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter"
+      ]
     },
     {
       "id": "perlune",
@@ -12273,7 +12276,11 @@
       "screenshot_score_notes": "Glossy pearl planet with a chrome droplet, iridescent bubbles and neon contour lines; gorgeous and unusual, though the action is hard to read.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-04",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "roguelite",
+        "shooter"
+      ]
     },
     {
       "id": "pavement-pursuit",
@@ -12554,7 +12561,10 @@
       "screenshot_score": 6,
       "screenshot_score_notes": "Bright pastel sky with cute blob and cube characters and a 'Become what you catch' banner; cheerful and clear, light on level detail.",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "platformer"
+      ]
     },
     {
       "id": "saucerjam",
@@ -12646,7 +12656,11 @@
       "screenshot_score_notes": "Top-down grey office floor with desks, tiny stick figures and a green paint splatter; readable but small and flat.",
       "likes_check": "unreachable (Reddit listing limit/rate limit) 2026-10-12",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "multiplayer"
+      ]
     },
     {
       "id": "turfwar-taipei",
@@ -12687,7 +12701,11 @@
       "screenshot_score_notes": "Trailer frame of a soldier climbing the side of Taipei 101 with a 'No ropes. Just a rifle.' caption; dramatic but dark and blurry.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "shooter",
+        "multiplayer"
+      ]
     },
     {
       "id": "titan-royale",
@@ -12826,7 +12844,11 @@
       "screenshot_score_notes": "Dark promo frame of a phone showing a ring of colored orbs next to 'Take the calm with you.'; sleek but more ad than gameplay.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "puzzle",
+        "cozy"
+      ]
     },
     {
       "id": "tweet-obby",
@@ -12998,7 +13020,10 @@
       "screenshot_score_notes": "Hearthstone-like board with hero portraits, minions and a hand of cards inside a purple phone frame; recognisable, but small and framed.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-05",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "cards"
+      ]
     },
     {
       "id": "bug-pig-pogo",
@@ -13471,7 +13496,10 @@
       "screenshot_score_notes": "Trailer frame of a 3D action scene with Clawd; readable action, a bit dark.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-06",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg"
+      ]
     },
     {
       "id": "pixshard",
@@ -13514,7 +13542,11 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://pixshard.com/",
       "checked_at": "2026-11-06",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg",
+        "multiplayer"
+      ]
     },
     {
       "id": "pokeup",
@@ -13559,7 +13591,11 @@
       "comment_count": 0,
       "likes_checked": "2026-10-12",
       "checked_at": "2026-11-06",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "platformer",
+        "multiplayer"
+      ]
     },
     {
       "id": "gigacity",
@@ -13646,7 +13682,10 @@
       "screenshot_score_notes": "Postcode tower-defence trailer frame; readable concept, average polish.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-06",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy"
+      ]
     },
     {
       "id": "git-city-towns",
@@ -14119,7 +14158,10 @@
       "screenshot_score_notes": "Over-the-shoulder view of a chunky voxel hero meeting a granny islander by a windmill with a quest dialog; cute and clear, toy-like.",
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-07",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "adventure"
+      ]
     },
     {
       "id": "aeloria",
@@ -14459,7 +14501,10 @@
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-07",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "strategy"
+      ]
     },
     {
       "id": "roadster-flying-car",
@@ -14552,8 +14597,8 @@
           "notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark.",
+      "screenshot_score": 8.5,
+      "screenshot_score_notes": "Moody amber-lit stage with a rider on a dirt bike under a big HORNET vehicle-select title; atmospheric but dark. | admin: Igor set 8.5 on 2026-11-16",
       "comment_count": 43,
       "tags": [
         "sandscape"
@@ -14656,7 +14701,10 @@
       "video_note": "trimmed to 30s (2026-10-26)",
       "page_url": "https://newrad.city/",
       "checked_at": "2026-11-07",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "rpg"
+      ]
     },
     {
       "id": "tailgrab",
@@ -14699,7 +14747,11 @@
       "comment_count": 5,
       "video_note": "trimmed to 30s (2026-10-26)",
       "checked_at": "2026-11-07",
-      "check_result": "working"
+      "check_result": "working",
+      "tags": [
+        "sports",
+        "multiplayer"
+      ]
     },
     {
       "id": "bmx-mountain",
@@ -20638,8 +20690,8 @@
           "notes": "Faithful blue Pac-Man maze with tech-CEO face ghosts and an Elon chomper, '1 MISTAKE = REKT' caption; clean, simple, portrait clip."
         }
       ],
-      "screenshot_score": 5,
-      "screenshot_score_notes": "Faithful blue Pac-Man maze with tech-CEO face ghosts and an Elon chomper, '1 MISTAKE = REKT' caption; clean, simple, portrait clip.",
+      "screenshot_score": 2.8,
+      "screenshot_score_notes": "Faithful blue Pac-Man maze with tech-CEO face ghosts and an Elon chomper, '1 MISTAKE = REKT' caption; clean, simple, portrait clip. | admin: Igor set 2.8 on 2026-11-16",
       "comments": [
         {
           "author": "tamamogram",
@@ -20693,8 +20745,8 @@
           "notes": "Portrait arena with a pink slash arc cutting through goblin enemies, combo HUD and touch controls under a 'SAVE YOUR RUN' banner; punchy neon look."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Portrait arena with a pink slash arc cutting through goblin enemies, combo HUD and touch controls under a 'SAVE YOUR RUN' banner; punchy neon look.",
+      "screenshot_score": 7,
+      "screenshot_score_notes": "Portrait arena with a pink slash arc cutting through goblin enemies, combo HUD and touch controls under a 'SAVE YOUR RUN' banner; punchy neon look. | admin: Igor set 7 on 2026-11-16",
       "comments": [
         {
           "author": "henrydaubrez",
@@ -20805,8 +20857,8 @@
           "notes": "Colourful LEGO-style town with a brick helicopter, minifig, road and buildings; bright and toy-like, a bit busy."
         }
       ],
-      "screenshot_score": 6,
-      "screenshot_score_notes": "Colourful LEGO-style town with a brick helicopter, minifig, road and buildings; bright and toy-like, a bit busy.",
+      "screenshot_score": 7.1,
+      "screenshot_score_notes": "Colourful LEGO-style town with a brick helicopter, minifig, road and buildings; bright and toy-like, a bit busy. | admin: Igor set 7.1 on 2026-11-16",
       "comments": [
         {
           "author": "nckdreams",
@@ -28657,7 +28709,9 @@
         "itchio"
       ],
       "page_url": "https://blion247.itch.io/frogpop-demo",
-      "embed_url": "https://html-classic.itch.zone/html/20056431/index.html?v=1793040194"
+      "embed_url": "https://html-classic.itch.zone/html/20056431/index.html?v=1793040194",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "the-flip-side",
@@ -28723,7 +28777,9 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-14T02:04:37Z"
+      "published_at": "2026-10-14T02:04:37Z",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "al-hara-tiles",
@@ -28837,7 +28893,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T14:03:50Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "curblo",
@@ -28888,7 +28946,9 @@
       ],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T19:35:44Z"
+      "published_at": "2026-10-15T19:35:44Z",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "edgy-fox",
@@ -28935,7 +28995,9 @@
       "published_at": "2026-10-15T13:02:12Z",
       "tags": [
         "playgama"
-      ]
+      ],
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "trials-hd-recompiled",
@@ -29456,7 +29518,9 @@
       "comments": [],
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
-      "published_at": "2026-10-15T14:45:06.000Z"
+      "published_at": "2026-10-15T14:45:06.000Z",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "updraft-pteranodon",
@@ -29500,7 +29564,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T14:37:37.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "hand-cricket",
@@ -29553,7 +29619,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T19:33:54.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "fleet-week-jets",
@@ -29601,7 +29669,9 @@
       "published_at": "2026-10-16T01:15:58.000Z",
       "tags": [
         "crayon"
-      ]
+      ],
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "kitty-hawks",
@@ -29646,7 +29716,9 @@
       "first_seen": "2026-10-16T01:30:00.000Z",
       "last_seen": "2026-10-16T01:30:00.000Z",
       "published_at": "2026-10-15T15:17:50.000Z",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "zevio-rush",
@@ -29696,7 +29768,9 @@
       ],
       "page_url": "https://zevio.sh/showcase/Q_QLB9nparCM",
       "iframe_block_reason": null,
-      "engine_detail": "Zevio"
+      "engine_detail": "Zevio",
+      "checked_at": "2026-11-17",
+      "check_result": "timeout"
     },
     {
       "id": "bolt-pit",
@@ -29822,7 +29896,9 @@
       "published_at": "2026-10-15T09:59:11.000Z",
       "tags": [
         "crazygames"
-      ]
+      ],
+      "checked_at": "2026-11-17",
+      "check_result": "broken"
     },
     {
       "id": "riposte",
@@ -30009,7 +30085,9 @@
       ],
       "first_seen": "2026-10-17T01:30:00.000Z",
       "last_seen": "2026-10-18T01:30:00.000Z",
-      "published_at": "2026-10-17T15:45:41Z"
+      "published_at": "2026-10-17T15:45:41Z",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "league-of-spawn",
@@ -30144,7 +30222,9 @@
         "spawn"
       ],
       "video_note": "trimmed to 30s (2026-10-26)",
-      "engine_detail": "Spawn"
+      "engine_detail": "Spawn",
+      "checked_at": "2026-11-17",
+      "check_result": "working"
     },
     {
       "id": "cruising-bones",
@@ -30330,7 +30410,9 @@
       "last_seen": "2026-10-25T07:00:00.000Z",
       "published_at": "2026-10-20T06:58:20Z",
       "engine": "Babylon.js",
-      "video_note": "trimmed to 30s (2026-10-26)"
+      "video_note": "trimmed to 30s (2026-10-26)",
+      "checked_at": "2026-11-17",
+      "check_result": "wrapper_only"
     },
     {
       "id": "impossible-journey-machine",
@@ -68264,12 +68346,63 @@
       "added_at": "2026-11-14",
       "checked_at": "2026-11-14",
       "check_result": "working"
+    },
+    {
+      "id": "rooftop-rally",
+      "title": "Rooftop Rally",
+      "description": "Pickleball match on a rooftop at sunset with a cheering crowd and live scoreboard. Built in Unreal Engine 5.9 with Claude Fable 5.2 (chongdashu), an Epic AI Megajam entry; free on Wavedash.",
+      "play_url": "https://wavedash.com/games/rooftop-rally",
+      "source_url": "https://x.com/chongdashu/status/2120154573356793883",
+      "found_via": "vibegamedev.com showcase (Rooftop Rally) + creator X post",
+      "found_via_network": "vibegamedev",
+      "made_with": "unknown",
+      "engine": "Unreal",
+      "engine_detail": "Unreal Engine 5.9 (Claude Fable 5.2 named, not an allowed made_with value)",
+      "iframe": false,
+      "platforms": [
+        "desktop"
+      ],
+      "remote_likes": 1093,
+      "likes_source": "x",
+      "likes_source_url": "https://x.com/chongdashu/status/2120154573356793883",
+      "comment_count": 80,
+      "x_handle": "chongdashu",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "added_at": "2026-11-17",
+      "checked_at": "2026-11-17",
+      "check_result": "working",
+      "video_path": "videos/rooftop-rally.mp4",
+      "video_source": "x",
+      "video_source_url": "https://x.com/chongdashu/status/2120154573356793883",
+      "video_poster": "videos/rooftop-rally.jpg",
+      "videos": [
+        {
+          "path": "videos/rooftop-rally.mp4",
+          "source": "x"
+        }
+      ],
+      "screenshot_path": "videos/rooftop-rally.jpg",
+      "screenshots": [
+        {
+          "path": "videos/rooftop-rally.jpg",
+          "score": 8,
+          "notes": "multi-frame: warm sunset rooftop pickleball court, chunky cartoon players, string lights, crowd and live scoreboard with Shift/Z/X control hints; polished lighting and readable gameplay. Rated from 5 frames across the creator clip."
+        }
+      ],
+      "screenshot_score": 8,
+      "screenshot_score_notes": "multi-frame: warm sunset rooftop pickleball court, chunky cartoon players, string lights, crowd and live scoreboard with Shift/Z/X control hints; polished lighting and readable gameplay. Rated from 5 frames across the creator clip.",
+      "tags": [
+        "wavedash",
+        "vibegamedev",
+        "sports"
+      ]
     }
   ],
   "totals": {
-    "count": 855,
+    "count": 856,
     "made_with": {
-      "unknown": 415,
+      "unknown": 416,
       "opus-5.5": 343,
       "astra": 71,
       "sonnet-5.5": 12,
